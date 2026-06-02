@@ -1,23 +1,22 @@
 {
-  "generatedAt": "2026-06-02T01:41:52.112Z",
+  "generatedAt": "2026-06-02T01:50:59.776Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
-    "documentCount": 5127,
-    "redactionSheetDocumentCount": 4878,
-    "directFolderScanCount": 249,
-    "foldersWithoutParsedRows": 249,
+    "documentCount": 5771,
+    "redactionSheetDocumentCount": 5531,
+    "directFolderScanCount": 240,
+    "foldersWithoutParsedRows": 240,
     "foldersStillUnrepresented": 0
   },
   "directScanCategoryCounts": {
     "magazine-issue": 65,
-    "speech-material": 57,
-    "telephone-log": 37,
-    "letter-packet": 51,
-    "memorandum-packet": 13,
+    "speech-material": 58,
+    "telephone-log": 35,
+    "letter-packet": 50,
+    "memorandum-packet": 10,
     "direct-scan": 7,
-    "event-packet": 14,
-    "report-packet": 1,
+    "event-packet": 11,
     "press-article": 4
   },
   "auditNote": "Direct folder scans keep source material visible when no numbered withdrawal/redaction-sheet rows were parsed. They should be itemized page by page before treating this as exhaustive document-by-document coverage.",
@@ -829,6 +828,19 @@
       "needsItemization": true
     },
     {
+      "date": "1992-03-20",
+      "title": "Speech Material: Friday, March 20, 1992 [3]",
+      "naId": "470417658",
+      "folderId": "90663-003",
+      "containerId": "90663",
+      "category": "speech-material",
+      "type": "Speech Material",
+      "catalogUrl": "https://catalog.archives.gov/id/470417658",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90663-003.pdf",
+      "excerpt": "FROM THE WHITE HOUSE WASHINGTON, D.C. Mr. Ward L. Quaal President The Ward L. Quaal Company Suite 3140 401 North Michigan Avenue Chicago, Illinois 60611 THE PRESIDENT 3-20-92 REST Dear Word, The Trib endorsement was timely and positive. May thanks for zending that copy and for that me good letter. sincer, Go Tel CC: (in & out) Rose Zamaria (1 copy) The Ward L. Quaal Company 401 North Michigan Avenue Suite 3140 Chicago, Illinois 60611 Desh Ward L. Quaal",
+      "needsItemization": true
+    },
+    {
       "date": "1992-03-23",
       "title": "Magazine Issue: Magazines, March 23, 1992",
       "naId": "470417664",
@@ -904,19 +916,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417679",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90666-003.pdf",
       "excerpt": "THE WHITE HOUSE WASHINGTON 02 APR I P |: 52 RECOMMENDED TELEPHONE CALL BY THE PRESIDENT TO: Congressman Tim Penny (D-MN) DATE: April 1, 1992 RECOMMENDED BY: Nicholas E. Calio nec PURPOSE: To thank Congressman Penny for his help in defeating H.R. 3732, the Budget Process Reform Act (the \"firewalls\" bill). BACKGROUND: The House defeated the \"firewalls\" bill yesterday by a vote of 187 to 238. A total of 76 Democrats opposed the bill. Congressman Penny was one of the principal opponents of the bill among Democrats....",
-      "needsItemization": true
-    },
-    {
-      "date": "1992-04-05",
-      "title": "Event Packet: Sunday, April 5, 1992",
-      "naId": "470417685",
-      "folderId": "90667-003",
-      "containerId": "90667",
-      "category": "event-packet",
-      "type": "Event Packet",
-      "catalogUrl": "https://catalog.archives.gov/id/470417685",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90667-003.pdf",
-      "excerpt": "(George Bush Library) 01. Handwritten Re: Presidential Phone Call Camp David [EC Recognition ] (1 4/5 (b)(1) Note pp.) Collection: Record Group: Bush Presidential Records Office: Office of the President Series: Daily Files Subseries: WHORM Cat.: File Location: Sunday, April 5, 1992 Pinksheet Number: cap6045 OA/ID Number: 90667-003 Date Closed: 8/27/2019 FOIA/Sys Case #: 2009-0166-S[4] 4/5 MAY 92 BUSH LIBRARY PHOTOCOPY - George Bush Handwriting",
       "needsItemization": true
     },
     {
@@ -1089,19 +1088,6 @@
       "needsItemization": true
     },
     {
-      "date": "1992-05-02",
-      "title": "Telephone Log: Saturday, May 2, 1992",
-      "naId": "470417750",
-      "folderId": "90675-006",
-      "containerId": "90675",
-      "category": "telephone-log",
-      "type": "Telephone Log",
-      "catalogUrl": "https://catalog.archives.gov/id/470417750",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90675-006.pdf",
-      "excerpt": "(George Bush Library) 01. Handwritten Presidential Phone Calls Camp David with Prime Minister John 5/2 (b)(1) Note Major [double-sided] (1 pp.) 02. Handwritten Presidential Phone Calls Camp David with John Sununu (1 pp.) n.d. (b)(1) Note 03. Handwritten Presidential Phone Call with Brent Scowcroft (1 pp.) 5/2 (b)(1) Note Collection: Record Group: Bush Presidential Records Office: Office of the President Series: Daily Files Subseries: WHORM Cat.: File Location: Saturday, May 2, 1992",
-      "needsItemization": true
-    },
-    {
       "date": "1992-05-05",
       "title": "Speech Material: Tuesday, May 5, 1992 [3]",
       "naId": "470417757",
@@ -1125,19 +1111,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417761",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90677-003.pdf",
       "excerpt": "GD FE from ORM May 7, 1992 Dear John: Thank you for your letter of April 9 which was forwarded to me by Senator Alan Simpson requesting the President to be your presenter when you are admitted to membership in the \"Football Hall of Fame\" on August 1, 1992. We are aware that this is a very special event, and it is with sincere regret that I write to inform you that after an extremely careful review of the very demanding events on the President's calendar, we finally determined that we are unable to schedule his p...",
-      "needsItemization": true
-    },
-    {
-      "date": "1992-05-10",
-      "title": "Letter Packet: Sunday, May 10, 1992",
-      "naId": "470417764",
-      "folderId": "90677-006",
-      "containerId": "90677",
-      "category": "letter-packet",
-      "type": "Letter Packet",
-      "catalogUrl": "https://catalog.archives.gov/id/470417764",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90677-006.pdf",
-      "excerpt": "(George Bush Library) 01a. Talking Points Re: Points To Be Made in Shamir Phone Call (1 pp.) n.d. (b)(1) S 01b. Talking Points Re: Points To Be Made in Shamir Phone Call (1 pp.) n.d. (b)(1) S Collection: Record Group: Bush Presidential Records Office: Office of the President Series: Daily Files Subseries: WHORM Cat.: File Location: Sunday, May 10, 1992 Pinksheet Number: cap6103 OA/ID Number: 90677-006 Date Closed: 9/3/2019 FOIA/Sys Case #: 2009-0166-S[4] FROM",
       "needsItemization": true
     },
     {
@@ -1255,32 +1228,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417840",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90688-001.pdf",
       "excerpt": "THE WHITE HOUSE MRS. BUSH'S PRESS OFFICE DAILY PRESS CLIPPINGS Thursday, June 11, 1992 Mrs. Bush (in folder) Secretary Skinner West Wing Marlin Fitzwater West Wing Constance Horner West Wing Carol Powers West Wing Patty Presock Residence First Lady Detail Staircase Karen Connell Room 58 OEOB Shirley Green Room 94 OEOB Anne Griffith Room 98 OEOB Diana Kellogg Room 157 OEOB Gregg Petersmeyer Room 100 OEOB",
-      "needsItemization": true
-    },
-    {
-      "date": "1992-06-12",
-      "title": "Report Packet: Friday, June 12, 1992",
-      "naId": "470417841",
-      "folderId": "90688-002",
-      "containerId": "90688",
-      "category": "report-packet",
-      "type": "Report Packet",
-      "catalogUrl": "https://catalog.archives.gov/id/470417841",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90688-002.pdf",
-      "excerpt": "(George Bush Library) 01. Handwritten Re: Presidential Phone Call with Baker (4 pp.) 6/12 (b)(1) TS Notes Collection: Record Group: Bush Presidential Records Office: Office of the President Series: Daily Files Subseries: WHORM Cat.: File Location: Friday, June 12, 1992 Pinksheet Number: cap6142 OA/ID Number: 90688-002 Date Closed: 9/12/2019 FOIA/Sys Case #: 2009-0166-S[4] RV Finished",
-      "needsItemization": true
-    },
-    {
-      "date": "1992-06-16",
-      "title": "Event Packet: Tuesday, June 16, 1992 [2]",
-      "naId": "470417848",
-      "folderId": "90689-002",
-      "containerId": "90689",
-      "category": "event-packet",
-      "type": "Event Packet",
-      "catalogUrl": "https://catalog.archives.gov/id/470417848",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90689-002.pdf",
-      "excerpt": "(George Bush Library) 01. Handwritten Re: Presidential Phone Call with James A. Baker III (1 pp.) 6/16/92 (b)(1) Notes 02. Handwritten Re: Yeltsin Meeting (1 pp.) 6/16/92 (b)(1) Notes 03. Handwritten Re: Presidential Phone Call with James A. Baker III (1 pp.) 6/16/92 (b)(1) Notes Collection: Record Group: Bush Presidential Records Office: Office of the President Series: Daily Files Subseries: WHORM Cat.: File Location: Tuesday, June 16, 1992 [2] Pinksheet Number:",
       "needsItemization": true
     },
     {
@@ -1453,32 +1400,6 @@
       "needsItemization": true
     },
     {
-      "date": "1992-07-08",
-      "title": "Telephone Log: Wednesday, July 8, 1992",
-      "naId": "470417892",
-      "folderId": "90695-005",
-      "containerId": "90695",
-      "category": "telephone-log",
-      "type": "Telephone Log",
-      "catalogUrl": "https://catalog.archives.gov/id/470417892",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90695-005.pdf",
-      "excerpt": "35 1 7 0 (George Bush Library) 01. Handwritten Bob for George [double-sided] (1 pp.) n.d. (b)(1) Note 02. Handwritten Brent Scowcroft n.d. (b)(1) Note Re: [COCOM...] (1 pp.) 03. Handwritten Re: [Kohl...Munich Cont...] (1 pp.) n.d. (b)(1) Note 04. Handwritten Re: [POTUS FYI...] (1 pp.) n.d. (b)(1) Note 05. Handwritten Re: Heads Meeting 7+1 (17 pp.)",
-      "needsItemization": true
-    },
-    {
-      "date": "1992-07-13",
-      "title": "Letter Packet: Monday, July 13, 1992 [1]",
-      "naId": "470417899",
-      "folderId": "90696-004",
-      "containerId": "90696",
-      "category": "letter-packet",
-      "type": "Letter Packet",
-      "catalogUrl": "https://catalog.archives.gov/id/470417899",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90696-004.pdf",
-      "excerpt": "35 2 1 O (George Bush Library) 01. Cover Sheet Re: [Government Report] [originally closed as 03]. (1 pp.) 7/13/92 (b)(1) S Collection: Record Group: Bush Presidential Records Office: Office of the President Series: Daily Files Subseries: WHORM Cat.: File Location: Monday, July 13, 1992 [1] Pinksheet Number: cap6174 OA/ID Number: 90696-004 Date Closed: 9/17/2019 FOIA/Sys Case #:",
-      "needsItemization": true
-    },
-    {
       "date": "1992-07-13",
       "title": "Letter Packet: Monday, July 13, 1992 [2]",
       "naId": "470417900",
@@ -1544,32 +1465,6 @@
       "needsItemization": true
     },
     {
-      "date": "1992-07-21",
-      "title": "Event Packet: Tuesday, July 21, 1992 [2]",
-      "naId": "470417916",
-      "folderId": "90698-005",
-      "containerId": "90698",
-      "category": "event-packet",
-      "type": "Event Packet",
-      "catalogUrl": "https://catalog.archives.gov/id/470417916",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90698-005.pdf",
-      "excerpt": "35 2 1 0 (George Bush Library) 01. Cover Sheet Re: [Government Report] (1 pp.) 7/21/92 (b)(1) S 02. Cover Sheet Re: [Government Report] (1 pp.) 7/21/92 (b)(1) S Collection: Record Group: Bush Presidential Records Office: Office of the President Series: Daily Files Subseries: WHORM Cat.: File Location: Tuesday, July 21, 1992 [2] Pinksheet Number: cap6179",
-      "needsItemization": true
-    },
-    {
-      "date": "1992-07-22",
-      "title": "Telephone Log: Wednesday, July 22, 1992 [1]",
-      "naId": "470417919",
-      "folderId": "90698-008",
-      "containerId": "90698",
-      "category": "telephone-log",
-      "type": "Telephone Log",
-      "catalogUrl": "https://catalog.archives.gov/id/470417919",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90698-008.pdf",
-      "excerpt": "35 2 1 0 (George Bush Library) 01. Handwritten Re: Presidential Phone Calls with James A. Baker III [originally 7/22 (b)(1) Notes closed as 02]. (3 pp.) 02. Handwritten Re: Presidential Phone Calls with Bob Gates [originally closed as 7/22 (b)(1) Notes 03]. (1 pp.) Collection: Record Group: Bush Presidential Records Office: Office of the President Series: Daily Files Subseries: WHORM Cat.: File Location: Wednesday, July 22, 1992 [1]",
-      "needsItemization": true
-    },
-    {
       "date": "1992-07-27",
       "title": "Magazine Issue: Magazines, July 27, 1992",
       "naId": "470417933",
@@ -1583,19 +1478,6 @@
       "needsItemization": true
     },
     {
-      "date": "1992-07-27",
-      "title": "Memorandum Packet: Monday, July 27, 1992 [3]",
-      "naId": "470417932",
-      "folderId": "90700-007",
-      "containerId": "90700",
-      "category": "memorandum-packet",
-      "type": "Memorandum Packet",
-      "catalogUrl": "https://catalog.archives.gov/id/470417932",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90700-007.pdf",
-      "excerpt": "35 2 1 O (George Bush Library) 01. Outline Re: National Security Council Meeting (3 pp.) 7/27/92 (b)(1) S Collection: Record Group: Bush Presidential Records Office: Office of the President Series: Daily Files Subseries: WHORM Cat.: File Location: Monday, July 27, 1992 [3] Pinksheet Number: cap6187 OA/ID Number: 90700-007 Date Closed: 9/20/2019 FOIA/Sys Case #: 2009-0166-S[4]",
-      "needsItemization": true
-    },
-    {
       "date": "1992-07-28",
       "title": "Event Packet: Tuesday, July 28, 1992 [2]",
       "naId": "470417935",
@@ -1606,19 +1488,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417935",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90701-003.pdf",
       "excerpt": "35 2 1 O SCHEDULE OF THE PRESIDENT Tuesday, July 28, 1992 7:50 am Meeting with George Klein Oval Office (10 min) (Zamaria) 8:00 am Domestic Update Oval Office (15 min) (Darman) 8:15 am Meeting with Bipartisan Cabinet Room (60 min) Congressional Leadership (Calio) (TAB A) 9:15 am Personal Staff Time Oval Office (15 min) 9:30 am",
-      "needsItemization": true
-    },
-    {
-      "date": "1992-07-31",
-      "title": "Memorandum Packet: Friday, July 31, 1992 [2]",
-      "naId": "470417944",
-      "folderId": "90702-005",
-      "containerId": "90702",
-      "category": "memorandum-packet",
-      "type": "Memorandum Packet",
-      "catalogUrl": "https://catalog.archives.gov/id/470417944",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90702-005.pdf",
-      "excerpt": "35 2 1 0 (George Bush Library) 01. Manifest Helo Manifest (Staff/ Guests), Re: Camp David. (1 pp.) n.d. (b)(7)(c), (b)(7)(e), (b)(7)(f) 02. Manifest POV (Staff/ Guests), Re: Camp David. (1 pp.) n.d. (b)(7)(c), (b)(7)(e), (b)(7)(f) Collection: Record Group: Bush Presidential Records Office: Office of the President Series: Daily Files Subseries: WHORM Cat.: File Location: Friday, July 31, 1992 [2] Pinksheet Number: RML16012",
       "needsItemization": true
     },
     {
@@ -1662,19 +1531,6 @@
     },
     {
       "date": "1992-08-08",
-      "title": "Memorandum Packet: Saturday, August 8, 1992 [1]",
-      "naId": "470417963",
-      "folderId": "90705-002",
-      "containerId": "90705",
-      "category": "memorandum-packet",
-      "type": "Memorandum Packet",
-      "catalogUrl": "https://catalog.archives.gov/id/470417963",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90705-002.pdf",
-      "excerpt": "35 2 2 0 (George Bush Library) 01. Handwritten Re: Boutros Ghali (4 pp.) n.d. (b)(1) Notes Collection: Record Group: Bush Presidential Records Office: Office of the President Series: Daily Files Subseries: WHORM Cat.: File Location: Saturday, August 8, 1992 [1] Pinksheet Number: cap6199 OA/ID Number: 90705-002 Date Closed: 9/27/2019 FOIA/Sys Case #:",
-      "needsItemization": true
-    },
-    {
-      "date": "1992-08-08",
       "title": "Letter Packet: Saturday, August 8, 1992 [2]",
       "naId": "470417964",
       "folderId": "90705-003",
@@ -1697,19 +1553,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417970",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90705-009.pdf",
       "excerpt": "35 2 2 O HUG 10 32 10:06 P.2/12 OF OFFICE THE TREASURY THE 1789 fits mod mr President: interests of 8/11 attached are the two articles l mentioned plus the Speech. We have been saying everything that is in the articles but it is helpful to have Them from an undependent fruce Speech S with reading as 2/ it collects a lot of what you love been saying NFB Put in nick Brady. file HUG",
-      "needsItemization": true
-    },
-    {
-      "date": "1992-08-13",
-      "title": "Memorandum Packet: Thursday, August 13, 1992 [1]",
-      "naId": "470417974",
-      "folderId": "90706-004",
-      "containerId": "90706",
-      "category": "memorandum-packet",
-      "type": "Memorandum Packet",
-      "catalogUrl": "https://catalog.archives.gov/id/470417974",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90706-004.pdf",
-      "excerpt": "35 2 2 0 (George Bush Library) 01a. Talking Points Re: Points To Be Made for Telephone Conversation with Pope n.d. (b)(1) John II (2 pp.) 01b. Talking Points Re: Points To Be Made for Telephone Conversation with Pope n.d. (b)(1) John Paul II (1 pp.) Collection: Record Group: Bush Presidential Records Office: Office of the President Series: Daily Files Subseries: WHORM Cat.: File Location: Thursday, August 13, 1992 [1] Pinksheet Number: cap6206 OA/ID Number: 90706-004",
       "needsItemization": true
     },
     {
@@ -2165,6 +2008,19 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418060",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90718-002.pdf",
       "excerpt": "35 2 4 0 THE WHITE HOUSE WASHINGTON September 14, 1992 NOTE FOR POTUS FROM: JABIII Here is the National Guard speech draft which has been reviewed by those of us here and at the campaign. I also am sharing it with Dick Cheney. We have beefed up the part having to do with cutting the Guard in light of Clinton's subsequent appearance there. I think the part about Clinton's actions regarding the draft is high-toned, it's philosophical, it hits the issues that we want to talk about and has the appeal of saying (hope...",
+      "needsItemization": true
+    },
+    {
+      "date": "1992-09-16",
+      "title": "Telephone Log: Wednesday, September 16, 1992 [1]",
+      "naId": "470418061",
+      "folderId": "90718-003",
+      "containerId": "90718",
+      "category": "telephone-log",
+      "type": "Telephone Log",
+      "catalogUrl": "https://catalog.archives.gov/id/470418061",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90718-003.pdf",
+      "excerpt": "35 2 4 0 THE WHITE HOUSE WASHINGTON TELEPHONE memorandum SIGNAL SWITCHBOARD September 16, 19 92 ACTION TIME NAME PLACED DISC 7:55 AM Mr. Ron Hayes Tlkd-ok OUT 8:07 Oklahoma News Network 8:00 AM Tulsa, Oklahoma PA System used r 1992 MXX PM 405-843-7068 OUT",
       "needsItemization": true
     },
     {
@@ -2688,6 +2544,19 @@
       "needsItemization": true
     },
     {
+      "date": "1992-11-09",
+      "title": "Letter Packet: Monday, November 9, 1992 [2]",
+      "naId": "470418174",
+      "folderId": "90733-008",
+      "containerId": "90733",
+      "category": "letter-packet",
+      "type": "Letter Packet",
+      "catalogUrl": "https://catalog.archives.gov/id/470418174",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90733-008.pdf",
+      "excerpt": "35 2 6 O THE PRESIDENT Dear TLan P Burry, Your notic cheered us up ITO been nather dismal but now there's nice rainbow us the sky - - a more time in Maine / 6 months i year) (By the way do you need a good Fielding / st Bazeman ?) were doing better today. Due family lifts is up so do an friels - Love as Mr. and Mrs. Daniel B. Burke CC: (ins & out) 20 Island Drive Rose Zamaria (1cc) Rye, New York 10580 how 4, 1992 DAN BURKE Dear mr President, you may recall that once or twice I wrote you with",
+      "needsItemization": true
+    },
+    {
       "date": "1992-11-12",
       "title": "Speech Material: Thursday, November 12, 1992",
       "naId": "470418180",
@@ -2971,6 +2840,19 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418239",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90741-005.pdf",
       "excerpt": "35 2 7 0 THE PRESIDENT 12-10-92 Dear Bill, I just heard A Tishis death. I am so very very I'll sonry. never forget her many kindresses to Barbara - we. we zend ow nove sincere condolences and one fundy love - as The Honorable William A. Hewitt Roundelay, Route 100 North Post Office Box 50 Chadds Ford, Pennsylvania 19317 THE WHITE HOUSE WASHINGTON DATE: 12/10/92 NOTE FOR: SUSAN PORTER ROSE The President has reviewed the attached, and it is forwarded to you for your: Information",
+      "needsItemization": true
+    },
+    {
+      "date": "1992-12-11",
+      "title": "Memorandum Packet: Friday, December 11, 1992 [3]",
+      "naId": "470418243",
+      "folderId": "90742-002",
+      "containerId": "90742",
+      "category": "memorandum-packet",
+      "type": "Memorandum Packet",
+      "catalogUrl": "https://catalog.archives.gov/id/470418243",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90742-002.pdf",
+      "excerpt": "35 2 7 O 366288SS WHITE HOUSE STAFFING MEMORANDUM R2 12/9/92 DATE: ACTION/CONCURRENCE/COMMENT DUE BY: PRESIDENTIAL REMARKS: NATIONAL MEDAL OF FREEDOM AWARDS FRIDAY, DECEMBER 11, 1992 SUBJECT: ROSE GARDEN ACTION FYI ACTION FYI VICE PRESIDENT MCBRIDE BAKER MOORE SCOWCROFT MULLINS DARMAN PETERSMEYER BATES PORTER > BRADY",
       "needsItemization": true
     },
     {

@@ -74,7 +74,7 @@ function isHeaderLine(line) {
 }
 
 function isDateLine(line) {
-  return /^(n\.d\.|ne|no date|\d{1,2}\/\d{1,2}(?:\/(?:\d{2,4}|\[\d{2}\]))?|\d{1,2}\/\d{2}|\d{2}\/\d{2}\]?)$/i.test(
+  return /^(n\.?\s?d\.?|nd|ne|no date|\d{1,2}\/\d{1,2}(?:\/(?:\d{2,4}|\[\d{2}\]))?|\d{1,2}\/\d{2}|\d{2}\/\d{2}\]?)$/i.test(
     line
   );
 }
@@ -91,7 +91,7 @@ function isClassificationLine(line) {
 
 function normalizeDate(value, folderDate) {
   const clean = value.replace(/\[|\]/g, "").trim();
-  if (/^n\.d\.|ne|no date$/i.test(clean)) return "";
+  if (/^(n\.?\s?d\.?|nd|ne|no date)$/i.test(clean)) return "";
   const match = clean.match(/^(\d{1,2})\/(\d{1,2})(?:\/(\d{2,4}))?$/);
   if (!match) return "";
   const month = Number(match[1]);
@@ -102,14 +102,73 @@ function normalizeDate(value, folderDate) {
   return `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
 }
 
+const DOCUMENT_TYPE_PREFIXES = [
+  ["Schedule of the President", "Schedule"],
+  ["Telephone Log", "Telephone Log"],
+  ["Talking Points", "Talking Points"],
+  ["Press Release", "Press Release"],
+  ["Cover Sheet", "Cover Sheet"],
+  ["Index Cards", "Index Cards"],
+  ["Draft Cable", "Draft Cable"],
+  ["White House Staffing Memorandum", "White House Staffing Memorandum"],
+  ["Handwritten", "Handwritten"],
+  ["Coversheet", "Coversheet"],
+  ["Memorandum", "Memorandum"],
+  ["Directive", "Directive"],
+  ["Telegram", "Telegram"],
+  ["Transcript", "Transcript"],
+  ["Photograph", "Photograph"],
+  ["Briefing", "Briefing"],
+  ["Statement", "Statement"],
+  ["Newspaper", "Newspaper"],
+  ["Magazine", "Magazine"],
+  ["Message", "Message"],
+  ["Summary", "Summary"],
+  ["Schedule", "Schedule"],
+  ["Report", "Report"],
+  ["Notes", "Notes"],
+  ["Memo", "Memo"],
+  ["Note", "Note"],
+  ["Letter", "Letter"],
+  ["Cable", "Cable"],
+  ["List", "List"],
+  ["Agenda", "Agenda"],
+  ["Draft", "Draft"],
+  ["Article", "Article"],
+  ["Cards", "Cards"],
+  ["Card", "Card"],
+  ["Book", "Book"],
+  ["Form", "Form"],
+  ["Chart", "Chart"],
+  ["Diagram", "Diagram"],
+  ["Outline", "Outline"],
+  ["Manifest", "Manifest"],
+  ["Fax", "Fax"],
+  ["Map", "Map"],
+  ["Log", "Log"],
+];
+
+function splitDocTypeAndInlineTitle(value) {
+  const rest = cleanLine(value);
+  const match = DOCUMENT_TYPE_PREFIXES.find(([prefix]) => {
+    const escaped = prefix.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    return new RegExp(`^${escaped}(?:\\b|:|\\.|,|\\s)`, "i").test(rest);
+  });
+  if (!match) return null;
+
+  const [prefix, type] = match;
+  const inlineTitle = rest
+    .slice(prefix.length)
+    .replace(/^[\s:.,-]+/, "")
+    .trim();
+  return { type, inlineTitle };
+}
+
 function parseDocStart(line) {
   const match = line.match(/^(\d{1,3}[a-z]?)\.\s+(.+)$/i);
   if (!match) return null;
-  const type = cleanLine(match[2]);
-  if (/^(schedule|log|report|note|memo|memorandum|talking points|letter|cable|summary|list|coversheet|agenda|fax|form|map|chart|photograph|press release|briefing|statement|speech|draft|directive|telegram|message|article|newspaper|magazine|book|card|index cards|diagram|transcript|telephone log|schedule of the president)/i.test(type)) {
-    return { number: match[1], type };
-  }
-  return null;
+  const parsed = splitDocTypeAndInlineTitle(match[2]);
+  return parsed ? { number: match[1], ...parsed } : null;
 }
 
 function parseDocumentBlock(lines, folder) {
@@ -121,6 +180,10 @@ function parseDocumentBlock(lines, folder) {
   const classificationLines = [];
   let dateRaw = "";
   let sawColumnValue = false;
+
+  if (start.inlineTitle) {
+    titleLines.push(start.inlineTitle);
+  }
 
   for (const rawLine of lines.slice(1)) {
     const line = cleanLine(rawLine);
@@ -140,7 +203,12 @@ function parseDocumentBlock(lines, folder) {
       sawColumnValue = true;
       continue;
     }
-    if (sawColumnValue) continue;
+    if (sawColumnValue) {
+      if (titleLines.length && /\(\s*\d+\s*pp?\.?\)/i.test(line)) {
+        titleLines.push(line);
+      }
+      continue;
+    }
     titleLines.push(line);
   }
 
@@ -148,6 +216,7 @@ function parseDocumentBlock(lines, folder) {
     .replace(/\s+\(\s+/g, " (")
     .replace(/\s+\)/g, ")");
   if (!title || /^page \d+ of \d+$/i.test(title)) return null;
+  if (title.length < 3 || title.length > 500) return null;
 
   const pageMatch = title.match(/\((\d+)\s*pp?\.?\)/i);
   const documentDate = normalizeDate(dateRaw, folder.date);
