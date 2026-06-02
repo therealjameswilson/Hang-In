@@ -557,6 +557,20 @@ function directPoolReportStarts(lines) {
   return starts;
 }
 
+function directMemoStarts(lines) {
+  const starts = [];
+  for (let index = 0; index < lines.length; index += 1) {
+    if (
+      /^white house staffing memorandum\b/i.test(lines[index]) ||
+      /^recommended telephone call by the president\b/i.test(lines[index]) ||
+      /^memorandum (?:for|to)\s+\S/i.test(lines[index])
+    ) {
+      starts.push(index);
+    }
+  }
+  return starts;
+}
+
 function sortedUniqueNumbers(values) {
   return Array.from(new Set(values)).sort((a, b) => a - b);
 }
@@ -620,6 +634,131 @@ function poolReportTitle(segment) {
   }
   const title = compactTitle(titleLines.join(": "), "Pool Report").replace(/^pool report\b/i, "Pool Report");
   return /^Pool Report\b/.test(title) ? title : `Pool Report: ${title}`;
+}
+
+function memoKindFromStart(line) {
+  if (/^white house staffing memorandum\b/i.test(line)) return "staffing";
+  if (/^recommended telephone call by the president\b/i.test(line)) return "recommended-call";
+  return "memorandum";
+}
+
+function directMemoType(kind) {
+  if (kind === "staffing") return "White House Staffing Memorandum";
+  if (kind === "recommended-call") return "Recommended Telephone Call";
+  return "Memorandum";
+}
+
+function directMemoCategory(kind) {
+  if (kind === "staffing") return "staffing-memorandum-item";
+  if (kind === "recommended-call") return "recommended-call-item";
+  return "memorandum-item";
+}
+
+function directMemoDisposition(kind) {
+  if (kind === "staffing") return "itemized-staffing-memorandum";
+  if (kind === "recommended-call") return "itemized-recommended-telephone-call";
+  return "itemized-memorandum";
+}
+
+function isDirectMemoLabel(line) {
+  return /^(action\/concurrence\/comment due by|action fyi|date|from|through|to|purpose|background|key points|subject|recommended by):?$/i.test(
+    line
+  );
+}
+
+function isSubjectBodyStart(line) {
+  return /^(i\.|ii\.|issue:|purpose\b|summary\b|discussion\b|attached\b|on\b|your\b|most\b|the attached\b|you will\b|we believe\b|as\b|below\b|in\b|tomorrow\b|personal income\b|to \()/i.test(
+    line
+  );
+}
+
+function isSubjectContinuation(previous, line) {
+  if (!previous || isSubjectBodyStart(line)) return false;
+  if (/^(by|onth|draft|remarks|note|attachment|attachments):?$/i.test(line)) return false;
+  if (/^[A-Z0-9 .,'&()/:;-]+$/.test(line) && /[A-Z]/.test(line)) return true;
+  return /\b(a|an|the|of|for|from|to|and|or|between|with|in|on|concerning)$/i.test(previous);
+}
+
+function linesAfterLabel(segment, label) {
+  const values = [];
+  const pattern = new RegExp(`^${label}:?\\s*(.*)$`, "i");
+
+  for (let index = 0; index < segment.length; index += 1) {
+    const match = segment[index].match(pattern);
+    if (!match) continue;
+
+    if (match[1]) values.push(match[1]);
+    for (const line of segment.slice(index + 1)) {
+      if (values.length >= 3) break;
+      if (!line || isDirectMemoLabel(line)) break;
+      if (values.length && !isSubjectContinuation(values[values.length - 1], line)) break;
+      if (!values.length && /^(---|action fyi)$/i.test(line)) break;
+      values.push(line);
+    }
+    break;
+  }
+
+  return values.map(cleanLine).filter(Boolean);
+}
+
+function titleCaseMemoRecipient(value) {
+  return normalizeWhitespace(value)
+    .toLowerCase()
+    .replace(/\b[a-z]/g, (letter) => letter.toUpperCase())
+    .replace(/\bThe President\b/g, "the President")
+    .replace(/\bIii\b/g, "III")
+    .replace(/\bIi\b/g, "II")
+    .replace(/\bH\.\b/g, "H.");
+}
+
+function memorandumHeaderTitle(value, fallback) {
+  const match = value.match(/^memorandum\s+(for|to)\s+(.+)$/i);
+  if (!match) return compactTitle(value, fallback);
+  return `Memorandum ${match[1].toLowerCase()} ${titleCaseMemoRecipient(match[2])}`;
+}
+
+function directMemoDate(contentLines, start, folderDate) {
+  for (const line of contentLines.slice(Math.max(0, start - 8), start + 12)) {
+    const date = normalizeAnyDate(line, folderDate);
+    if (date) return date;
+  }
+  return folderDate;
+}
+
+function staffingMemoTitle(segment, typeLabel) {
+  const heading = [];
+  for (const line of segment.slice(0, 12)) {
+    if (/^presidential remarks:/i.test(line)) {
+      heading.push(line);
+      continue;
+    }
+    if (heading.length) {
+      if (isDirectMemoLabel(line) || /^(---|action fyi)$/i.test(line)) break;
+      heading.push(line);
+      if (heading.length >= 3) break;
+    }
+  }
+  const subject = heading.length ? heading : linesAfterLabel(segment, "subject");
+  return `${typeLabel}: ${compactTitle(subject.join(" "), typeLabel)}`;
+}
+
+function recommendedCallTitle(segment, typeLabel) {
+  const recipient = linesAfterLabel(segment, "to");
+  const purpose = linesAfterLabel(segment, "purpose");
+  const title = recipient.length ? recipient.join(" ") : purpose.join(" ");
+  return `${typeLabel}: ${compactTitle(title, typeLabel)}`;
+}
+
+function memorandumTitle(segment, typeLabel) {
+  const header = memorandumHeaderTitle(segment[0], typeLabel);
+  const subject = linesAfterLabel(segment, "subject").join(" ");
+  return subject ? `${header}: ${compactTitle(subject, typeLabel)}` : header;
+}
+
+function directMemoTitle(segment, kind, typeLabel) {
+  if (kind === "staffing") return staffingMemoTitle(segment, typeLabel);
+  if (kind === "recommended-call") return recommendedCallTitle(segment, typeLabel);
+  return memorandumTitle(segment, typeLabel);
 }
 
 function buildDirectLetterDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
@@ -740,6 +879,63 @@ function buildDirectPressReleaseDocuments(contentLines, folder, packetDoc, start
     .filter(Boolean);
 }
 
+function buildDirectMemoDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
+  if (!starts.length) return [];
+
+  return starts
+    .map((start, index) => {
+      const end = nextBoundaryAfter(boundaryStarts, start, contentLines.length);
+      const segment = contentLines.slice(start, end);
+      if (segment.length < 4) return null;
+      const kind = memoKindFromStart(segment[0]);
+      const itemNumber = index + 1;
+      const itemLabel = String(itemNumber).padStart(2, "0");
+      const seenDate = folder.date;
+      const documentDate = directMemoDate(contentLines, start, folder.date);
+      const typeLabel = directMemoType(kind);
+      const title = directMemoTitle(segment, kind, typeLabel);
+
+      return {
+        id: `${folder.id}-direct-memo-${itemLabel}`,
+        folderId: folder.id,
+        folderNaId: folder.naId,
+        folderTitle: folder.title,
+        folderDate: folder.date,
+        folderLocalId: folder.localId,
+        folderContainerId: folder.containerId,
+        catalogUrl: folder.catalogUrl,
+        pdfUrl: folder.pdfUrl || "",
+        chapterId: folder.chapterId,
+        chapter: folder.chapter,
+        themes: folder.themes,
+        searchTerms: folder.searchTerms,
+        documentNumber: `Direct-M${itemLabel}`,
+        documentType: typeLabel,
+        directScanCategory: directMemoCategory(kind),
+        directScanDisposition: directMemoDisposition(kind),
+        directScanItemizationStatus: "itemized-document",
+        directScanItemizationNote:
+          "Itemized from an explicit memorandum header in a direct folder scan.",
+        parentPacketId: packetDoc.id,
+        title,
+        date: seenDate,
+        seenDate,
+        documentDate,
+        year: seenDate.slice(0, 4),
+        month: seenDate.slice(0, 7),
+        pages: null,
+        restriction: "",
+        classification: "",
+        excerpt: excerptFromLines(segment),
+        evidence: "Itemized from NARA direct folder scan OCR using a memorandum header.",
+        evidenceStatus: "direct-scan-itemized",
+        needsItemization: false,
+        citation: `George H. W. Bush Papers, Presidential Daily Files, ${folder.title}, direct scan memorandum item ${itemLabel}, ${title}, National Archives Catalog NAID ${folder.naId}.`,
+      };
+    })
+    .filter(Boolean);
+}
+
 function buildDirectPoolReportDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
   if (!starts.length) return [];
 
@@ -850,14 +1046,17 @@ function buildDirectScanDocuments(text, folder) {
   const letterStarts = packetDoc.needsItemization ? directLetterStarts(contentLines) : [];
   const pressReleaseStarts = packetDoc.needsItemization ? directPressReleaseStarts(contentLines) : [];
   const poolReportStarts = packetDoc.needsItemization ? directPoolReportStarts(contentLines) : [];
+  const memoStarts = packetDoc.needsItemization ? directMemoStarts(contentLines) : [];
   const boundaryStarts = sortedUniqueNumbers([
     ...letterStarts,
     ...pressReleaseStarts,
     ...poolReportStarts,
+    ...memoStarts,
   ]);
   const itemizedDocs = packetDoc.needsItemization
     ? [
         ...buildDirectLetterDocuments(contentLines, folder, packetDoc, letterStarts, boundaryStarts),
+        ...buildDirectMemoDocuments(contentLines, folder, packetDoc, memoStarts, boundaryStarts),
         ...buildDirectPressReleaseDocuments(
           contentLines,
           folder,
