@@ -25,6 +25,12 @@ async function main() {
   const directScanRecords = data.documents.filter(
     (doc) => doc.evidenceStatus === "direct-folder-scan"
   );
+  const singleDocumentDirectScans = directScanRecords.filter(
+    (doc) => doc.directScanItemizationStatus === "single-document"
+  );
+  const directScanRecordsNeedingItemization = directScanRecords.filter(
+    (doc) => doc.needsItemization
+  );
   const unrepresentedFolders = data.folders.filter((folder) => !representedFolderIds.has(folder.id));
 
   const audit = {
@@ -35,12 +41,15 @@ async function main() {
       documentCount: data.metadata.documentCount,
       redactionSheetDocumentCount: data.metadata.redactionSheetDocumentCount,
       directFolderScanCount: data.metadata.directFolderScanCount,
+      directSingleDocumentScanCount: data.metadata.directSingleDocumentScanCount,
+      directPacketScanCount: data.metadata.directPacketScanCount,
       foldersWithoutParsedRows: data.metadata.foldersWithoutParsedRows,
       foldersStillUnrepresented: data.metadata.foldersStillUnrepresented,
     },
     directScanCategoryCounts: countBy(directScanRecords, (doc) => doc.directScanCategory),
+    directScanDispositionCounts: countBy(directScanRecords, (doc) => doc.directScanDisposition),
     auditNote:
-      "Direct folder scans keep source material visible when no numbered withdrawal/redaction-sheet rows were parsed. They should be itemized page by page before treating this as exhaustive document-by-document coverage.",
+      "Direct scans keep source material visible when no numbered withdrawal/redaction-sheet rows were parsed. Single-document direct scans are represented as one document; packet scans still need item-by-item review.",
     directScanRecords: directScanRecords.map((doc) => ({
       date: doc.seenDate,
       title: doc.title,
@@ -48,11 +57,40 @@ async function main() {
       folderId: doc.folderLocalId,
       containerId: doc.folderContainerId,
       category: doc.directScanCategory,
+      disposition: doc.directScanDisposition,
+      itemizationStatus: doc.directScanItemizationStatus,
+      itemizationNote: doc.directScanItemizationNote,
       type: doc.documentType,
       catalogUrl: doc.catalogUrl,
       pdfUrl: doc.pdfUrl,
       excerpt: doc.excerpt,
       needsItemization: Boolean(doc.needsItemization),
+    })),
+    singleDocumentDirectScans: singleDocumentDirectScans.map((doc) => ({
+      date: doc.seenDate,
+      title: doc.title,
+      naId: doc.folderNaId,
+      folderId: doc.folderLocalId,
+      containerId: doc.folderContainerId,
+      category: doc.directScanCategory,
+      disposition: doc.directScanDisposition,
+      type: doc.documentType,
+      catalogUrl: doc.catalogUrl,
+      pdfUrl: doc.pdfUrl,
+      excerpt: doc.excerpt,
+    })),
+    directScanRecordsNeedingItemization: directScanRecordsNeedingItemization.map((doc) => ({
+      date: doc.seenDate,
+      title: doc.title,
+      naId: doc.folderNaId,
+      folderId: doc.folderLocalId,
+      containerId: doc.folderContainerId,
+      category: doc.directScanCategory,
+      disposition: doc.directScanDisposition,
+      type: doc.documentType,
+      catalogUrl: doc.catalogUrl,
+      pdfUrl: doc.pdfUrl,
+      excerpt: doc.excerpt,
     })),
     unrepresentedFolders: unrepresentedFolders.map((folder) => ({
       date: folder.date,
@@ -68,7 +106,7 @@ async function main() {
   await mkdir("reports", { recursive: true });
   await writeFile(OUTFILE, `${JSON.stringify(audit, null, 2)}\n`);
   console.log(
-    `Wrote ${directScanRecords.length} direct-scan records and ${unrepresentedFolders.length} unrepresented folders to ${OUTFILE}`
+    `Wrote ${directScanRecords.length} direct-scan records (${directScanRecordsNeedingItemization.length} needing itemization) and ${unrepresentedFolders.length} unrepresented folders to ${OUTFILE}`
   );
 }
 

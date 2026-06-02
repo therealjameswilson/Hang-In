@@ -324,28 +324,125 @@ function contentLinesFromText(text) {
 
 function classifyDirectScan(folder, contentLines) {
   const text = `${folder.title}\n${contentLines.slice(0, 140).join("\n")}`;
+  const lead = `${folder.title}\n${contentLines.slice(0, 45).join("\n")}`;
   const lower = text.toLowerCase();
+  const leadLower = lead.toLowerCase();
   const title = folder.title.toLowerCase();
 
   if (/magazines/.test(title)) return "magazine-issue";
-  if (/telephone memorandum|signal switchboard|telephone log/.test(lower)) return "telephone-log";
-  if (/remarks by the president|address|speech|statement by the press secretary/.test(lower)) {
-    return "speech-material";
+  if (
+    /telephone memorandum|signal switchboard|telephone log/.test(leadLower) ||
+    (/presidential phone calls/.test(leadLower) && /incoming\/outgoing/.test(leadLower))
+  ) {
+    return "telephone-log";
   }
-  if (/\bletter\b|^dear |[\n ]dear /.test(lower)) return "letter-packet";
-  if (/the president has seen|memorandum for the president|memorandum to john h\. sununu|subject:/.test(lower)) {
-    return "memorandum-packet";
-  }
-  if (/luncheon|dinner|reception|schedule|arrival|departure|participants|guest list|program/.test(lower)) {
-    return "event-packet";
-  }
-  if (/upi|associated press|reuters|white house reporter|newspaper|washington post|new york times|editorials/.test(lower)) {
+  if (/daily news clips|daily press clippings|white house news summary|news summary|daily briefing/.test(leadLower)) {
     return "press-article";
   }
-  if (/response of the administration|report|overview|transmitted to the congress|issues update/.test(lower)) {
+  if (/remarks by the president|address|speech|statement by the press secretary/.test(leadLower)) {
+    return "speech-material";
+  }
+  if (/\bletter\b|^dear |[\n ]dear /.test(leadLower)) return "letter-packet";
+  if (/the president has seen|memorandum for the president|memorandum to john h\. sununu|subject:/.test(leadLower)) {
+    return "memorandum-packet";
+  }
+  if (/luncheon|dinner|reception|schedule|arrival|departure|participants|guest list|program/.test(leadLower)) {
+    return "event-packet";
+  }
+  if (/upi|associated press|reuters|white house reporter|newspaper|washington post|new york times|editorials/.test(leadLower)) {
+    return "press-article";
+  }
+  if (/response of the administration|report|overview|transmitted to the congress|issues update/.test(leadLower)) {
     return "report-packet";
   }
   return "direct-scan";
+}
+
+function classifyDirectScanItemization(folder, category, contentLines) {
+  const lead = contentLines.slice(0, 45).join("\n");
+  const compactLead = normalizeWhitespace(lead);
+  const lower = lead.toLowerCase();
+
+  if (category === "magazine-issue") {
+    return {
+      status: "single-document",
+      disposition: "single-magazine-issue",
+      note: "Treated as one magazine issue supplied in the Daily File.",
+    };
+  }
+
+  if (
+    /telephone memorandum|signal switchboard|telephone log/.test(lower) ||
+    (/presidential phone calls/.test(lower) && /incoming\/outgoing/.test(lower))
+  ) {
+    return {
+      status: "single-document",
+      disposition: "single-telephone-log",
+      note: "Treated as one telephone memorandum/log document.",
+    };
+  }
+
+  if (/schedule of the president/.test(lower)) {
+    return {
+      status: "single-document",
+      disposition: "single-presidential-schedule",
+      documentType: "Schedule",
+      note: "Treated as one presidential schedule document.",
+    };
+  }
+
+  if (
+    /office of the press secretary/.test(lower) &&
+    /for immediate release/.test(lower) &&
+    /remarks by the president|statement by the press secretary/.test(lower)
+  ) {
+    return {
+      status: "single-document",
+      disposition: "single-press-release-or-remarks",
+      note: "Treated as one press-release, remarks, or statement document.",
+    };
+  }
+
+  if (
+    /^[A-Z0-9 .,'&/-]{12,}\n[A-Z0-9 .,'&/-]{8,}/.test(lead) &&
+    /thank you/i.test(compactLead.slice(0, 420))
+  ) {
+    return {
+      status: "single-document",
+      disposition: "single-remarks-copy",
+      note: "Treated as one remarks/speech copy based on the event heading and opening text.",
+    };
+  }
+
+  if (/daily news clips|daily press clippings|white house news summary|news summary|daily briefing/.test(lower)) {
+    return {
+      status: "packet-needs-itemization",
+      disposition: "packet-news-clippings",
+      note: "News clipping or news summary packet; individual items still need review.",
+    };
+  }
+
+  if (/memorandum|recommended telephone call|white house staffing memorandum|from:|subject:/.test(lower)) {
+    return {
+      status: "packet-needs-itemization",
+      disposition: "packet-memorandum-material",
+      note: "Memorandum packet or mixed briefing material; individual items still need review.",
+    };
+  }
+
+  if (/\bdear\b|from the white house|the president\s+\w+ \d{1,2}, \d{4}/i.test(lead)) {
+    return {
+      status: "packet-needs-itemization",
+      disposition: "packet-correspondence",
+      note: "Correspondence packet; letters, enclosures, or routing material still need review.",
+    };
+  }
+
+  return {
+    status: "packet-needs-itemization",
+    disposition: "packet-uncertain",
+    note: "Direct scan remains a packet or uncertain itemization case.",
+  };
 }
 
 function excerptFromLines(lines) {
@@ -366,7 +463,9 @@ function buildDirectScanDocument(text, folder) {
   if (!contentLines.length) return null;
 
   const category = classifyDirectScan(folder, contentLines);
-  const typeLabel = DIRECT_SCAN_TYPES[category] || DIRECT_SCAN_TYPES["direct-scan"];
+  const itemization = classifyDirectScanItemization(folder, category, contentLines);
+  const typeLabel =
+    itemization.documentType || DIRECT_SCAN_TYPES[category] || DIRECT_SCAN_TYPES["direct-scan"];
   const seenDate = folder.date;
 
   return {
@@ -386,6 +485,9 @@ function buildDirectScanDocument(text, folder) {
     documentNumber: "Direct",
     documentType: typeLabel,
     directScanCategory: category,
+    directScanDisposition: itemization.disposition,
+    directScanItemizationStatus: itemization.status,
+    directScanItemizationNote: itemization.note,
     title: directScanTitle(folder, typeLabel),
     date: seenDate,
     seenDate,
@@ -399,7 +501,7 @@ function buildDirectScanDocument(text, folder) {
     evidence:
       "Directly digitized in the NARA folder OCR; no numbered withdrawal/redaction-sheet rows were parsed.",
     evidenceStatus: "direct-folder-scan",
-    needsItemization: true,
+    needsItemization: itemization.status !== "single-document",
     citation: `George H. W. Bush Papers, Presidential Daily Files, ${folder.title}, direct folder scan, National Archives Catalog NAID ${folder.naId}.`,
   };
 }
@@ -478,6 +580,18 @@ async function main() {
       acc[doc.directScanCategory] = (acc[doc.directScanCategory] || 0) + 1;
       return acc;
     }, {});
+  const directScanDispositionCounts = documents
+    .filter((doc) => doc.evidenceStatus === "direct-folder-scan")
+    .reduce((acc, doc) => {
+      acc[doc.directScanDisposition] = (acc[doc.directScanDisposition] || 0) + 1;
+      return acc;
+    }, {});
+  const directSingleDocumentScanCount = documents.filter(
+    (doc) =>
+      doc.evidenceStatus === "direct-folder-scan" &&
+      doc.directScanItemizationStatus === "single-document"
+  ).length;
+  const directPacketScanCount = directFolderScanCount - directSingleDocumentScanCount;
 
   const payload = {
     metadata: {
@@ -488,13 +602,16 @@ async function main() {
       documentCount: documents.length,
       redactionSheetDocumentCount,
       directFolderScanCount,
+      directSingleDocumentScanCount,
+      directPacketScanCount,
       foldersWithNoText,
       foldersWithoutParsedRows,
       foldersStillUnrepresented,
       foldersWithNoDocuments: foldersWithoutParsedRows,
       directScanCategoryCounts,
+      directScanDispositionCounts,
       coverageNote:
-        "Document records include numbered NARA withdrawal/redaction-sheet rows plus folder-level direct-scan records when OCR contains source material but no parsable numbered rows. Direct-scan records may contain multiple items and require page-level itemization before claiming exhaustive document-by-document coverage.",
+        "Document records include numbered NARA withdrawal/redaction-sheet rows plus direct scans when OCR contains source material but no parsable numbered rows. Direct scans are marked as either single-document scans or packet scans needing item-level review.",
       source: "NARA Catalog proxy records with digital object extracted text.",
     },
     folders: parsedFolders.map(

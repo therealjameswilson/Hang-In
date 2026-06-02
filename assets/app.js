@@ -116,6 +116,9 @@
       record.documentDate,
       record.folderTitle,
       record.directScanCategory,
+      record.directScanDisposition,
+      record.directScanItemizationStatus,
+      record.directScanItemizationNote,
       record.evidenceStatus,
       record.restriction,
       record.classification,
@@ -192,7 +195,9 @@
       <strong>${coverage.documentCount.toLocaleString()}</strong> document/source records from
       <strong>${coverage.folderCount.toLocaleString()}</strong> Daily File folders:
       <strong>${(coverage.redactionSheetDocumentCount || 0).toLocaleString()}</strong> numbered withdrawal-sheet rows plus
-      <strong>${(coverage.directFolderScanCount || 0).toLocaleString()}</strong> direct folder scans.
+      <strong>${(coverage.directFolderScanCount || 0).toLocaleString()}</strong> direct folder scans
+      (<strong>${(coverage.directSingleDocumentScanCount || 0).toLocaleString()}</strong> single-document,
+      <strong>${(coverage.directPacketScanCount || 0).toLocaleString()}</strong> packet scans needing itemization).
       <strong>${(coverage.foldersStillUnrepresented || 0).toLocaleString()}</strong> folders remain unrepresented at folder-scan level.
     `;
   }
@@ -309,6 +314,8 @@
               ${
                 record.needsItemization
                   ? `<span>Needs itemization</span>`
+                  : record.evidenceStatus === "direct-folder-scan"
+                    ? `<span>Single direct scan</span>`
                   : ""
               }
               ${record.classification ? `<span>${escapeHtml(record.classification)}</span>` : ""}
@@ -454,10 +461,14 @@
             : ""
         }
         ${
-          record.needsItemization
+          record.evidenceStatus === "direct-folder-scan"
             ? `<div class="detail-row">
                 <dt>Audit</dt>
-                <dd>Folder-level direct scan; item-by-item page audit still needed.</dd>
+                <dd>${
+                  record.needsItemization
+                    ? "Direct packet scan; item-by-item page audit still needed."
+                    : escapeHtml(record.directScanItemizationNote || "Direct scan treated as one source document.")
+                }</dd>
               </div>`
             : ""
         }
