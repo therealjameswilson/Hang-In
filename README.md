@@ -5,8 +5,9 @@ George H. W. Bush presidency from February 28, 1991, through January 20, 1993.
 
 The site is designed as an archive workbench: search, filter, cite, and open
 NARA Catalog records while keeping the source documents at the National
-Archives. It now includes a document-level index parsed from NARA Catalog
-extracted text for the Presidential Daily File withdrawal/redaction sheets.
+Archives. It now includes a document/source-record index parsed from NARA
+Catalog extracted text for the Presidential Daily File withdrawal/redaction
+sheets, plus direct folder scans when no numbered sheet rows are present.
 
 ## Sources
 
@@ -19,7 +20,14 @@ The generated Daily File folder index is lightweight metadata only: title, date,
 catalog ID, chapter grouping, folder/container hints, FOIA number, and citation.
 The generated document index adds document number, type, title, seen/filed date,
 document date when available, page count, restriction/classification hints, PDF
-URL, and citation.
+URL, and citation. Records have an evidence status:
+
+- `redaction-sheet-listed`: a numbered document row parsed from a NARA
+  withdrawal/redaction sheet.
+- `direct-folder-scan`: source material appears directly in the folder OCR, but
+  no numbered withdrawal/redaction-sheet rows were parsed. These records keep
+  the material visible and citable, but they still need page-by-page itemization
+  before the project can claim exhaustive document-by-document coverage.
 
 ## Update The Daily File Index
 
@@ -39,15 +47,25 @@ node scripts/build-seen-documents.mjs
 
 The script reads `assets/data/daily-files.js`, queries the NARA Catalog proxy
 for each folder's PDF URL and extracted text, parses withdrawal/redaction sheet
-rows, and writes `assets/data/seen-documents.js`. Catalog responses are cached
-under `.cache/catalog-records/`, which is ignored by Git.
+rows, adds direct-scan representative records for folders with OCR but no
+numbered rows, and writes `assets/data/seen-documents.js`. Catalog responses are
+cached under `.cache/catalog-records/`, which is ignored by Git.
 
-The parser is intentionally conservative: it includes rows that look like
-document entries in the withdrawal/redaction sheets and reports how many folders
-had OCR but no parsable document rows. This is evidence of document-level
-coverage, not a claim that every page is fully digitized or readable.
+The parser is intentionally conservative. This is evidence of strong
+folder-level coverage and partial document-level coverage, not a final claim
+that every scanned page has been itemized.
+
+## Update The Coverage Audit
+
+```bash
+node scripts/audit-seen-documents.mjs
+```
+
+The audit script reads `assets/data/seen-documents.js` and writes
+`reports/coverage-audit.json`, including direct-scan records that still need
+item-by-item review.
 
 ## Publish
 
-In the repository settings for `therealjameswilson/Hang-In`, enable GitHub
-Pages from the root of the default branch. No build step is required.
+GitHub Pages is deployed by `.github/workflows/pages.yml` from the root of the
+`main` branch.

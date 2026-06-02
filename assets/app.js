@@ -115,8 +115,11 @@
       record.documentType,
       record.documentDate,
       record.folderTitle,
+      record.directScanCategory,
+      record.evidenceStatus,
       record.restriction,
       record.classification,
+      record.excerpt,
       record.themes.map((theme) => theme.label).join(" "),
       record.keywords?.join(" "),
       record.searchTerms?.join(" "),
@@ -157,8 +160,13 @@
   }
 
   function renderHero() {
+    const recordLabel = coverage?.directFolderScanCount
+      ? "Document/source records"
+      : isDocumentIndex
+        ? "Listed documents"
+        : "Daily File catalog records";
     els.heroStats.innerHTML = [
-      [records.length.toLocaleString(), isDocumentIndex ? "Listed documents" : "Daily File catalog records"],
+      [records.length.toLocaleString(), recordLabel],
       [(coverage?.folderCount || folders.length).toLocaleString(), "Daily File folders"],
       [chapters.length.toLocaleString(), "Book chapter files"],
     ]
@@ -181,9 +189,11 @@
       return;
     }
     els.coverageStats.innerHTML = `
-      <strong>${coverage.documentCount.toLocaleString()}</strong> document rows parsed from
-      <strong>${coverage.folderCount.toLocaleString()}</strong> Daily File folders.
-      <strong>${coverage.foldersWithNoDocuments.toLocaleString()}</strong> folders have OCR but no parsable withdrawal-sheet rows.
+      <strong>${coverage.documentCount.toLocaleString()}</strong> document/source records from
+      <strong>${coverage.folderCount.toLocaleString()}</strong> Daily File folders:
+      <strong>${(coverage.redactionSheetDocumentCount || 0).toLocaleString()}</strong> numbered withdrawal-sheet rows plus
+      <strong>${(coverage.directFolderScanCount || 0).toLocaleString()}</strong> direct folder scans.
+      <strong>${(coverage.foldersStillUnrepresented || 0).toLocaleString()}</strong> folders remain unrepresented at folder-scan level.
     `;
   }
 
@@ -271,7 +281,12 @@
         const catalogId = record.folderNaId || record.naId;
         const folderLabel = record.folderLocalId || record.localId || "";
         const typeLabel = record.documentType || record.type;
-        const numberLabel = record.documentNumber ? `Doc ${record.documentNumber}` : "";
+        const numberLabel =
+          record.evidenceStatus === "direct-folder-scan"
+            ? "Direct scan"
+            : record.documentNumber
+              ? `Doc ${record.documentNumber}`
+              : "";
         return `
           <article class="record-card${selected}">
             <div class="record-head">
@@ -291,6 +306,11 @@
               ${record.pages ? `<span>${record.pages} pp.</span>` : ""}
               ${record.documentDate ? `<span>Document ${formatDate(record.documentDate)}</span>` : ""}
               ${folderLabel ? `<span>Folder ${escapeHtml(folderLabel)}</span>` : ""}
+              ${
+                record.needsItemization
+                  ? `<span>Needs itemization</span>`
+                  : ""
+              }
               ${record.classification ? `<span>${escapeHtml(record.classification)}</span>` : ""}
             </div>
             <div class="record-actions">
@@ -358,6 +378,10 @@
       : `<span class="tag">Chronology</span>`;
     const catalogId = record.folderNaId || record.naId;
     const typeLabel = record.documentType || record.type;
+    const documentLabel =
+      record.evidenceStatus === "direct-folder-scan"
+        ? typeLabel
+        : `${record.documentNumber} ${typeLabel}`;
 
     els.detailPanel.innerHTML = `
       <p class="eyebrow">Selected document</p>
@@ -369,7 +393,7 @@
           record.documentNumber
             ? `<div class="detail-row">
                 <dt>Document</dt>
-                <dd>${escapeHtml(record.documentNumber)} ${escapeHtml(typeLabel)}</dd>
+                <dd>${escapeHtml(documentLabel)}</dd>
               </div>`
             : ""
         }
@@ -421,6 +445,22 @@
           <dt>Evidence</dt>
           <dd>${escapeHtml(record.evidence || "NARA Catalog record")}</dd>
         </div>
+        ${
+          record.excerpt
+            ? `<div class="detail-row">
+                <dt>OCR Start</dt>
+                <dd>${escapeHtml(record.excerpt)}</dd>
+              </div>`
+            : ""
+        }
+        ${
+          record.needsItemization
+            ? `<div class="detail-row">
+                <dt>Audit</dt>
+                <dd>Folder-level direct scan; item-by-item page audit still needed.</dd>
+              </div>`
+            : ""
+        }
         <div class="detail-row">
           <dt>Chapter</dt>
           <dd>${escapeHtml(record.chapter)}</dd>
@@ -502,7 +542,12 @@
 
   function render() {
     const items = filteredRecords();
-    els.resultCount.textContent = `${items.length.toLocaleString()} ${isDocumentIndex ? "documents" : "records"}`;
+    const label = coverage?.directFolderScanCount
+      ? "source records"
+      : isDocumentIndex
+        ? "documents"
+        : "records";
+    els.resultCount.textContent = `${items.length.toLocaleString()} ${label}`;
     renderMonthStrip(items);
     renderRecords(items);
     renderDetail(items);

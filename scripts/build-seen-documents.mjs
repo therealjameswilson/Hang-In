@@ -217,6 +217,124 @@ function parseDocumentsFromText(text, folder) {
   return Array.from(new Map(documents.map((doc) => [doc.id, doc])).values());
 }
 
+const DIRECT_SCAN_TYPES = {
+  "magazine-issue": "Magazine Issue",
+  "telephone-log": "Telephone Log",
+  "memorandum-packet": "Memorandum Packet",
+  "report-packet": "Report Packet",
+  "event-packet": "Event Packet",
+  "press-article": "Press Article",
+  "letter-packet": "Letter Packet",
+  "speech-material": "Speech Material",
+  "direct-scan": "Direct Folder Scan",
+};
+
+function contentLinesFromText(text) {
+  const lines = text
+    .split(/\r?\n/)
+    .map(cleanLine)
+    .filter(Boolean);
+  const positionIndex = lines.findIndex((line) => /^position:?$/i.test(line));
+  const hasAdministrativeMarker = lines.some((line) => /^foia marker$/i.test(line));
+  let start =
+    positionIndex >= 0
+      ? positionIndex + 1
+      : hasAdministrativeMarker
+        ? Math.min(lines.length, 30)
+        : 0;
+
+  while (
+    start < lines.length &&
+    (/^[a-z]$/i.test(lines[start]) || /^[0o]$/i.test(lines[start]) || /^\d$/.test(lines[start]))
+  ) {
+    start += 1;
+  }
+
+  return lines.slice(start).filter((line) => !isHeaderLine(line));
+}
+
+function classifyDirectScan(folder, contentLines) {
+  const text = `${folder.title}\n${contentLines.slice(0, 140).join("\n")}`;
+  const lower = text.toLowerCase();
+  const title = folder.title.toLowerCase();
+
+  if (/magazines/.test(title)) return "magazine-issue";
+  if (/telephone memorandum|signal switchboard|telephone log/.test(lower)) return "telephone-log";
+  if (/remarks by the president|address|speech|statement by the press secretary/.test(lower)) {
+    return "speech-material";
+  }
+  if (/\bletter\b|^dear |[\n ]dear /.test(lower)) return "letter-packet";
+  if (/the president has seen|memorandum for the president|memorandum to john h\. sununu|subject:/.test(lower)) {
+    return "memorandum-packet";
+  }
+  if (/luncheon|dinner|reception|schedule|arrival|departure|participants|guest list|program/.test(lower)) {
+    return "event-packet";
+  }
+  if (/upi|associated press|reuters|white house reporter|newspaper|washington post|new york times|editorials/.test(lower)) {
+    return "press-article";
+  }
+  if (/response of the administration|report|overview|transmitted to the congress|issues update/.test(lower)) {
+    return "report-packet";
+  }
+  return "direct-scan";
+}
+
+function excerptFromLines(lines) {
+  const excerpt = normalizeWhitespace(lines.slice(0, 28).join(" "));
+  return excerpt.length > 520 ? `${excerpt.slice(0, 517).trim()}...` : excerpt;
+}
+
+function directScanTitle(folder, typeLabel) {
+  if (/^magazines,/i.test(folder.title)) return `${typeLabel}: ${folder.title}`;
+  if (/^(monday|tuesday|wednesday|thursday|friday|saturday|sunday),/i.test(folder.title)) {
+    return `${typeLabel}: ${folder.title}`;
+  }
+  return folder.title;
+}
+
+function buildDirectScanDocument(text, folder) {
+  const contentLines = contentLinesFromText(text);
+  if (!contentLines.length) return null;
+
+  const category = classifyDirectScan(folder, contentLines);
+  const typeLabel = DIRECT_SCAN_TYPES[category] || DIRECT_SCAN_TYPES["direct-scan"];
+  const seenDate = folder.date;
+
+  return {
+    id: `${folder.id}-direct-scan`,
+    folderId: folder.id,
+    folderNaId: folder.naId,
+    folderTitle: folder.title,
+    folderDate: folder.date,
+    folderLocalId: folder.localId,
+    folderContainerId: folder.containerId,
+    catalogUrl: folder.catalogUrl,
+    pdfUrl: folder.pdfUrl || "",
+    chapterId: folder.chapterId,
+    chapter: folder.chapter,
+    themes: folder.themes,
+    searchTerms: folder.searchTerms,
+    documentNumber: "Direct",
+    documentType: typeLabel,
+    directScanCategory: category,
+    title: directScanTitle(folder, typeLabel),
+    date: seenDate,
+    seenDate,
+    documentDate: seenDate,
+    year: seenDate.slice(0, 4),
+    month: seenDate.slice(0, 7),
+    pages: null,
+    restriction: "",
+    classification: "",
+    excerpt: excerptFromLines(contentLines),
+    evidence:
+      "Directly digitized in the NARA folder OCR; no numbered withdrawal/redaction-sheet rows were parsed.",
+    evidenceStatus: "direct-folder-scan",
+    needsItemization: true,
+    citation: `George H. W. Bush Papers, Presidential Daily Files, ${folder.title}, direct folder scan, National Archives Catalog NAID ${folder.naId}.`,
+  };
+}
+
 function extractRecord(json) {
   return json?.body?.hits?.hits?.[0]?._source?.record || null;
 }
@@ -234,10 +352,15 @@ async function worker(queue, folders, results) {
       title: record?.title || folder.title,
       pdfUrl: object.objectUrl || "",
     };
-    const docs = text ? parseDocumentsFromText(text, enrichedFolder) : [];
+    const redactionSheetDocs = text ? parseDocumentsFromText(text, enrichedFolder) : [];
+    const directScanDoc =
+      text && !redactionSheetDocs.length ? buildDirectScanDocument(text, enrichedFolder) : null;
+    const docs = redactionSheetDocs.length ? redactionSheetDocs : directScanDoc ? [directScanDoc] : [];
     results[index] = {
       folder: enrichedFolder,
       documentCount: docs.length,
+      redactionSheetDocumentCount: redactionSheetDocs.length,
+      directFolderScanCount: directScanDoc ? 1 : 0,
       hasExtractedText: Boolean(text),
       documents: docs,
     };
@@ -262,13 +385,30 @@ async function main() {
   const parsedFolders = results.filter(Boolean);
   const documents = parsedFolders.flatMap((entry) => entry.documents).sort((a, b) =>
     a.date === b.date
-      ? a.documentNumber.localeCompare(b.documentNumber, undefined, { numeric: true })
+      ? (a.documentNumber || "").localeCompare(b.documentNumber || "", undefined, { numeric: true })
       : a.date.localeCompare(b.date)
   );
   const foldersWithNoText = parsedFolders.filter((entry) => !entry.hasExtractedText).length;
-  const foldersWithNoDocuments = parsedFolders.filter(
+  const foldersWithoutParsedRows = parsedFolders.filter(
+    (entry) => entry.hasExtractedText && entry.redactionSheetDocumentCount === 0
+  ).length;
+  const foldersStillUnrepresented = parsedFolders.filter(
     (entry) => entry.hasExtractedText && entry.documentCount === 0
   ).length;
+  const redactionSheetDocumentCount = parsedFolders.reduce(
+    (sum, entry) => sum + entry.redactionSheetDocumentCount,
+    0
+  );
+  const directFolderScanCount = parsedFolders.reduce(
+    (sum, entry) => sum + entry.directFolderScanCount,
+    0
+  );
+  const directScanCategoryCounts = documents
+    .filter((doc) => doc.evidenceStatus === "direct-folder-scan")
+    .reduce((acc, doc) => {
+      acc[doc.directScanCategory] = (acc[doc.directScanCategory] || 0) + 1;
+      return acc;
+    }, {});
 
   const payload = {
     metadata: {
@@ -277,17 +417,32 @@ async function main() {
       dateRange: `${RANGE_START}/${RANGE_END}`,
       folderCount: parsedFolders.length,
       documentCount: documents.length,
+      redactionSheetDocumentCount,
+      directFolderScanCount,
       foldersWithNoText,
-      foldersWithNoDocuments,
+      foldersWithoutParsedRows,
+      foldersStillUnrepresented,
+      foldersWithNoDocuments: foldersWithoutParsedRows,
+      directScanCategoryCounts,
       coverageNote:
-        "Document records are parsed from NARA Catalog extracted text for Presidential Daily File withdrawal/redaction sheets. They identify documents listed in the folders but do not prove that every document is fully digitized or readable.",
+        "Document records include numbered NARA withdrawal/redaction-sheet rows plus folder-level direct-scan records when OCR contains source material but no parsable numbered rows. Direct-scan records may contain multiple items and require page-level itemization before claiming exhaustive document-by-document coverage.",
       source: "NARA Catalog proxy records with digital object extracted text.",
     },
-    folders: parsedFolders.map(({ folder, documentCount, hasExtractedText }) => ({
-      ...folder,
-      documentCount,
-      hasExtractedText,
-    })),
+    folders: parsedFolders.map(
+      ({
+        folder,
+        documentCount,
+        redactionSheetDocumentCount,
+        directFolderScanCount,
+        hasExtractedText,
+      }) => ({
+        ...folder,
+        documentCount,
+        redactionSheetDocumentCount,
+        directFolderScanCount,
+        hasExtractedText,
+      })
+    ),
     documents,
   };
 
