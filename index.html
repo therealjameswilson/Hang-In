@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Primary-document organizer for a book on the George H. W. Bush presidency from February 28, 1991, to January 20, 1993."
+    />
+    <title>Hang In | Late Bush Presidency Documents</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+    <script src="assets/data/daily-files.js" defer></script>
+    <script src="assets/data/seen-documents.js" defer></script>
+    <script src="https://unpkg.com/lucide@latest" defer></script>
+    <script src="assets/app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="topbar" aria-label="Primary">
+        <a class="brand" href="#top" aria-label="Hang In home">
+          <span class="brand-mark">HI</span>
+          <span>Hang In</span>
+        </a>
+        <div class="nav-links">
+          <a href="#documents">Documents</a>
+          <a href="#chapters">Chapters</a>
+          <a href="#notes">Notes</a>
+          <a href="#sources">Sources</a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="intro-band" aria-labelledby="site-title">
+        <div class="intro-copy">
+          <p class="eyebrow">George H. W. Bush presidency, February 28, 1991-January 20, 1993</p>
+          <h1 id="site-title">Hang In</h1>
+          <p class="lede">
+            An archive-forward home for the documents George H. W. Bush saw in
+            the late presidency: victory and aftermath, Soviet collapse,
+            recession politics, the 1992 campaign, and the transfer of power.
+          </p>
+          <div class="stat-row" id="heroStats" aria-label="Archive summary"></div>
+        </div>
+        <figure class="portrait-figure">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/0/0f/George_H._W._Bush%2C_President_of_the_United_States%2C_1989_official_portrait.jpg"
+            alt="Official portrait of President George H. W. Bush"
+          />
+          <figcaption>
+            Official White House portrait, 1989. Public domain via Wikimedia Commons.
+          </figcaption>
+        </figure>
+      </section>
+
+      <section class="workbench-band" id="documents" aria-labelledby="documents-title">
+        <div class="section-heading">
+          <p class="eyebrow">Primary document workbench</p>
+          <h2 id="documents-title">Documents Bush Saw</h2>
+        </div>
+
+        <div class="workbench">
+          <aside class="filters" aria-label="Document filters">
+            <label class="search-label" for="searchInput">Search</label>
+            <div class="search-box">
+              <i data-lucide="search" aria-hidden="true"></i>
+              <input
+                id="searchInput"
+                type="search"
+                placeholder="NAID, title, theme, folder"
+                autocomplete="off"
+              />
+            </div>
+
+            <div class="filter-block">
+              <h3>Chapter</h3>
+              <div class="button-stack" id="chapterFilter"></div>
+            </div>
+
+            <div class="filter-grid">
+              <label>
+                Year
+                <select id="yearFilter"></select>
+              </label>
+              <label>
+                Type
+                <select id="typeFilter"></select>
+              </label>
+              <label>
+                Sort
+                <select id="sortControl">
+                  <option value="date-asc">Date ascending</option>
+                  <option value="date-desc">Date descending</option>
+                  <option value="title-asc">Title A-Z</option>
+                </select>
+              </label>
+            </div>
+
+            <div class="filter-block">
+              <h3>Theme</h3>
+              <div class="chip-cloud" id="themeFilter"></div>
+            </div>
+          </aside>
+
+          <section class="results-panel" aria-live="polite">
+            <div class="results-toolbar">
+              <div>
+                <p class="eyebrow">Results</p>
+                <h3 id="resultCount">Loading records</h3>
+              </div>
+              <button class="tool-button" id="resetFilters" type="button">
+                <i data-lucide="rotate-ccw" aria-hidden="true"></i>
+                <span>Reset</span>
+              </button>
+            </div>
+            <div class="coverage-line" id="coverageStats"></div>
+            <div class="month-strip" id="monthStrip" aria-label="Records by month"></div>
+            <div class="records-list" id="recordsList"></div>
+            <div class="pager" id="pager"></div>
+          </section>
+
+          <aside class="detail-panel" id="detailPanel" aria-label="Selected document"></aside>
+        </div>
+      </section>
+
+      <section class="chapters-band" id="chapters" aria-labelledby="chapters-title">
+        <div class="section-heading">
+          <p class="eyebrow">Book architecture</p>
+          <h2 id="chapters-title">Chapter Files</h2>
+        </div>
+        <div class="chapter-grid" id="chapterCards"></div>
+      </section>
+
+      <section class="notes-band" id="notes" aria-labelledby="notes-title">
+        <div class="section-heading">
+          <p class="eyebrow">Research notebook</p>
+          <h2 id="notes-title">Document Fields</h2>
+        </div>
+        <div class="notes-layout">
+          <div class="note-table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Field</th>
+                  <th>Purpose</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Argument</td>
+                  <td>What this document changes about the chapter's claim.</td>
+                </tr>
+                <tr>
+                  <td>Actors</td>
+                  <td>President, advisers, foreign leaders, agencies, outside pressure.</td>
+                </tr>
+                <tr>
+                  <td>Pressure</td>
+                  <td>Decision, contingency, political risk, or inherited constraint.</td>
+                </tr>
+                <tr>
+                  <td>Afterlife</td>
+                  <td>Where the paper leads next: meeting, speech, memo, call, vote.</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="quote-slab">
+            <p>
+              The organizing premise is chronology under pressure: not a
+              retrospective monument to order, but a trail of small instruments by
+              which officials tried to make events legible before events moved on.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="sources-band" id="sources" aria-labelledby="sources-title">
+        <div class="section-heading">
+          <p class="eyebrow">Sources</p>
+          <h2 id="sources-title">Archival Grounding</h2>
+        </div>
+        <div class="source-list">
+          <a href="https://www.bush41library.gov/digital-research-room/search?f%5B0%5D=presidential_daily_type%3APresidential%20Daily%20Files">
+            George H. W. Bush Presidential Library Digital Research Room: Presidential Daily Files
+          </a>
+          <a href="https://catalog.archives.gov/id/186322">
+            National Archives Catalog: Presidential Daily Diary collection record
+          </a>
+          <a href="https://www.archives.gov/presidential-records/research/presidential-daily-diary">
+            NARA Presidential Daily Diary research overview
+          </a>
+          <a href="https://commons.wikimedia.org/wiki/File:George_H._W._Bush,_President_of_the_United_States,_1989_official_portrait.jpg">
+            Official portrait image record at Wikimedia Commons
+          </a>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
