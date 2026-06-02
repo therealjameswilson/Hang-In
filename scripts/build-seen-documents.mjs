@@ -541,6 +541,30 @@ function directLetterStarts(lines) {
   return starts;
 }
 
+function directPressReleaseStarts(lines) {
+  const starts = [];
+  for (let index = 0; index < lines.length; index += 1) {
+    if (/^for immediate release\b/i.test(lines[index])) starts.push(index);
+  }
+  return starts;
+}
+
+function directPoolReportStarts(lines) {
+  const starts = [];
+  for (let index = 0; index < lines.length; index += 1) {
+    if (/^pool report\b/i.test(lines[index])) starts.push(index);
+  }
+  return starts;
+}
+
+function sortedUniqueNumbers(values) {
+  return Array.from(new Set(values)).sort((a, b) => a - b);
+}
+
+function nextBoundaryAfter(boundaryStarts, start, fallback) {
+  return boundaryStarts.find((candidate) => candidate > start) || fallback;
+}
+
 function salutationFromSegment(lines) {
   const salutation = lines.slice(0, 8).find((line) => /^(dear|pear)\b/i.test(line));
   if (!salutation) return "unidentified correspondent";
@@ -559,17 +583,55 @@ function documentDateFromSegment(lines, folderDate) {
   return folderDate;
 }
 
-function buildDirectLetterDocuments(contentLines, folder, packetDoc) {
+function compactTitle(value, fallback) {
+  const clean = normalizeWhitespace(value)
+    .replace(/\s+([,.;:])/g, "$1")
+    .replace(/^[#:\-\s]+/, "")
+    .trim();
+  if (!clean) return fallback;
+  return clean.length > 160 ? `${clean.slice(0, 157).trim()}...` : clean;
+}
+
+function pressReleaseType(segment) {
+  const lead = segment.slice(0, 12).join("\n").toLowerCase();
+  if (/press briefing/.test(lead)) return "Press Briefing";
+  if (/remarks by the president|address by the president/.test(lead)) return "Remarks";
+  if (/statement by the press secretary/.test(lead)) return "Statement";
+  return "Press Release";
+}
+
+function pressReleaseTitle(segment, typeLabel) {
+  const skip = /^(for immediate release|contact:|bq'?92|office of the press secretary|the white house|washington|[a-z]+day,|january|february|march|april|may|june|july|august|september|october|november|december)/i;
+  const titleLines = [];
+  for (const line of segment.slice(0, 12)) {
+    if (!line || skip.test(line) || normalizeAnyDate(line, "") || /^\([^)]+\)$/.test(line)) continue;
+    titleLines.push(line);
+    if (titleLines.length >= 3 || /[.!?]$/.test(line)) break;
+  }
+  return `${typeLabel}: ${compactTitle(titleLines.join(" "), typeLabel)}`;
+}
+
+function poolReportTitle(segment) {
+  const titleLines = [segment[0]];
+  for (const line of segment.slice(1, 5)) {
+    if (normalizeAnyDate(line, "") || /^\([^)]+\)$/.test(line)) continue;
+    titleLines.push(line);
+    if (titleLines.length >= 2) break;
+  }
+  const title = compactTitle(titleLines.join(": "), "Pool Report").replace(/^pool report\b/i, "Pool Report");
+  return /^Pool Report\b/.test(title) ? title : `Pool Report: ${title}`;
+}
+
+function buildDirectLetterDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
   if (!["packet-correspondence", "packet-memorandum-material"].includes(packetDoc.directScanDisposition)) {
     return [];
   }
 
-  const starts = directLetterStarts(contentLines);
   if (starts.length < 2) return [];
 
   return starts
     .map((start, index) => {
-      const end = starts[index + 1] || contentLines.length;
+      const end = nextBoundaryAfter(boundaryStarts, start, contentLines.length);
       const segment = contentLines.slice(start, end);
       if (segment.length < 6 || !hasSalutation(segment, 0, 8)) return null;
       const itemNumber = index + 1;
@@ -616,6 +678,118 @@ function buildDirectLetterDocuments(contentLines, folder, packetDoc) {
         evidenceStatus: "direct-scan-itemized",
         needsItemization: false,
         citation: `George H. W. Bush Papers, Presidential Daily Files, ${folder.title}, direct scan item ${itemLabel}, ${title}, National Archives Catalog NAID ${folder.naId}.`,
+      };
+    })
+    .filter(Boolean);
+}
+
+function buildDirectPressReleaseDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
+  if (!starts.length) return [];
+
+  return starts
+    .map((start, index) => {
+      const end = nextBoundaryAfter(boundaryStarts, start, contentLines.length);
+      const segment = contentLines.slice(start, end);
+      if (segment.length < 4) return null;
+      const itemNumber = index + 1;
+      const itemLabel = String(itemNumber).padStart(2, "0");
+      const seenDate = folder.date;
+      const documentDate = documentDateFromSegment(segment, folder.date);
+      const typeLabel = pressReleaseType(segment);
+      const title = pressReleaseTitle(segment, typeLabel);
+
+      return {
+        id: `${folder.id}-direct-press-${itemLabel}`,
+        folderId: folder.id,
+        folderNaId: folder.naId,
+        folderTitle: folder.title,
+        folderDate: folder.date,
+        folderLocalId: folder.localId,
+        folderContainerId: folder.containerId,
+        catalogUrl: folder.catalogUrl,
+        pdfUrl: folder.pdfUrl || "",
+        chapterId: folder.chapterId,
+        chapter: folder.chapter,
+        themes: folder.themes,
+        searchTerms: folder.searchTerms,
+        documentNumber: `Direct-P${itemLabel}`,
+        documentType: typeLabel,
+        directScanCategory: "press-release-item",
+        directScanDisposition: "itemized-press-release",
+        directScanItemizationStatus: "itemized-document",
+        directScanItemizationNote:
+          "Itemized from a For Immediate Release marker in a direct folder scan.",
+        parentPacketId: packetDoc.id,
+        title,
+        date: seenDate,
+        seenDate,
+        documentDate,
+        year: seenDate.slice(0, 4),
+        month: seenDate.slice(0, 7),
+        pages: null,
+        restriction: "",
+        classification: "",
+        excerpt: excerptFromLines(segment),
+        evidence:
+          "Itemized from NARA direct folder scan OCR using a For Immediate Release marker.",
+        evidenceStatus: "direct-scan-itemized",
+        needsItemization: false,
+        citation: `George H. W. Bush Papers, Presidential Daily Files, ${folder.title}, direct scan press item ${itemLabel}, ${title}, National Archives Catalog NAID ${folder.naId}.`,
+      };
+    })
+    .filter(Boolean);
+}
+
+function buildDirectPoolReportDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
+  if (!starts.length) return [];
+
+  return starts
+    .map((start, index) => {
+      const end = nextBoundaryAfter(boundaryStarts, start, contentLines.length);
+      const segment = contentLines.slice(start, end);
+      if (segment.length < 5) return null;
+      const itemNumber = index + 1;
+      const itemLabel = String(itemNumber).padStart(2, "0");
+      const seenDate = folder.date;
+      const documentDate = documentDateFromSegment(segment, folder.date);
+      const title = poolReportTitle(segment);
+
+      return {
+        id: `${folder.id}-direct-pool-${itemLabel}`,
+        folderId: folder.id,
+        folderNaId: folder.naId,
+        folderTitle: folder.title,
+        folderDate: folder.date,
+        folderLocalId: folder.localId,
+        folderContainerId: folder.containerId,
+        catalogUrl: folder.catalogUrl,
+        pdfUrl: folder.pdfUrl || "",
+        chapterId: folder.chapterId,
+        chapter: folder.chapter,
+        themes: folder.themes,
+        searchTerms: folder.searchTerms,
+        documentNumber: `Direct-R${itemLabel}`,
+        documentType: "Pool Report",
+        directScanCategory: "pool-report-item",
+        directScanDisposition: "itemized-pool-report",
+        directScanItemizationStatus: "itemized-document",
+        directScanItemizationNote:
+          "Itemized from a pool-report marker in a direct folder scan.",
+        parentPacketId: packetDoc.id,
+        title,
+        date: seenDate,
+        seenDate,
+        documentDate,
+        year: seenDate.slice(0, 4),
+        month: seenDate.slice(0, 7),
+        pages: null,
+        restriction: "",
+        classification: "",
+        excerpt: excerptFromLines(segment),
+        evidence: "Itemized from NARA direct folder scan OCR using a pool-report marker.",
+        evidenceStatus: "direct-scan-itemized",
+        needsItemization: false,
+        citation: `George H. W. Bush Papers, Presidential Daily Files, ${folder.title}, direct scan pool report item ${itemLabel}, ${title}, National Archives Catalog NAID ${folder.naId}.`,
       };
     })
     .filter(Boolean);
@@ -673,8 +847,26 @@ function buildDirectScanDocuments(text, folder) {
   const contentLines = contentLinesFromText(text);
   const packetDoc = buildDirectScanDocument(text, folder);
   if (!packetDoc) return [];
+  const letterStarts = packetDoc.needsItemization ? directLetterStarts(contentLines) : [];
+  const pressReleaseStarts = packetDoc.needsItemization ? directPressReleaseStarts(contentLines) : [];
+  const poolReportStarts = packetDoc.needsItemization ? directPoolReportStarts(contentLines) : [];
+  const boundaryStarts = sortedUniqueNumbers([
+    ...letterStarts,
+    ...pressReleaseStarts,
+    ...poolReportStarts,
+  ]);
   const itemizedDocs = packetDoc.needsItemization
-    ? buildDirectLetterDocuments(contentLines, folder, packetDoc)
+    ? [
+        ...buildDirectLetterDocuments(contentLines, folder, packetDoc, letterStarts, boundaryStarts),
+        ...buildDirectPressReleaseDocuments(
+          contentLines,
+          folder,
+          packetDoc,
+          pressReleaseStarts,
+          boundaryStarts
+        ),
+        ...buildDirectPoolReportDocuments(contentLines, folder, packetDoc, poolReportStarts, boundaryStarts),
+      ]
     : [];
   return [packetDoc, ...itemizedDocs];
 }
@@ -794,7 +986,7 @@ async function main() {
       directScanCategoryCounts,
       directScanDispositionCounts,
       coverageNote:
-        "Document records include numbered NARA withdrawal/redaction-sheet rows plus direct scans when OCR contains source material but no parsable numbered rows. Direct scans are marked as either single-document scans or packet scans needing item-level review; high-confidence correspondence markers inside packet scans are added as itemized child records while packet placeholders remain for residual audit.",
+        "Document records include numbered NARA withdrawal/redaction-sheet rows plus direct scans when OCR contains source material but no parsable numbered rows. Direct scans are marked as either single-document scans or packet scans needing item-level review; high-confidence OCR markers inside packet scans are added as itemized child records while packet placeholders remain for residual audit.",
       source: "NARA Catalog proxy records with digital object extracted text.",
     },
     folders: parsedFolders.map(

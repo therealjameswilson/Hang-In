@@ -58,7 +58,7 @@ async function main() {
       (doc) => doc.directScanDisposition
     ),
     auditNote:
-      "Direct scans keep source material visible when no numbered withdrawal/redaction-sheet rows were parsed. Single-document direct scans are represented as one document; packet scans still need item-by-item review. Itemized child records are added only when the OCR has repeated high-confidence document markers, and the packet placeholder remains until residual material is reviewed.",
+      "Direct scans keep source material visible when no numbered withdrawal/redaction-sheet rows were parsed. Single-document direct scans are represented as one document; packet scans still need item-by-item review. Itemized child records are added only when the OCR has high-confidence document markers, and the packet placeholder remains until residual material is reviewed.",
     directScanRecords: directScanRecords.map((doc) => ({
       date: doc.seenDate,
       title: doc.title,
