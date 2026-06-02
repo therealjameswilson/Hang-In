@@ -571,6 +571,75 @@ function directMemoStarts(lines) {
   return starts;
 }
 
+function hasLongDate(line) {
+  return /\b(January|February|March|April|May|June|July|August|September|October|November|December)\.?\s+\d{1,2},?\s+\d{4}\b/i.test(
+    line
+  );
+}
+
+function isNewsContinuationDateLine(line) {
+  return /--\s*A-[2-9]\b/i.test(line);
+}
+
+function isNewsEditionLine(line) {
+  return /\b(edition|update|network|coverage|clips|index)\b/i.test(line);
+}
+
+function isDailyPressClippingSequence(lines, index) {
+  return (
+    /^the white house$/i.test(lines[index] || "") &&
+    /^mrs\. bush'?s press office$/i.test(lines[index + 1] || "") &&
+    /^daily press clippings\b/i.test(lines[index + 2] || "")
+  );
+}
+
+function isDailyPressClippingStart(lines, index) {
+  if (isDailyPressClippingSequence(lines, index)) return true;
+  if (!/^daily press clippings\b/i.test(lines[index] || "")) return false;
+  if (
+    /^mrs\. bush'?s press office$/i.test(lines[index - 1] || "") &&
+    /^the white house$/i.test(lines[index - 2] || "")
+  ) {
+    return false;
+  }
+  return (
+    hasLongDate(lines[index + 1] || "") ||
+    /^(monday|tuesday|wednesday|thursday|friday|saturday|sunday)\b/i.test(lines[index + 1] || "")
+  );
+}
+
+function isNewsSummaryStart(lines, index) {
+  const line = lines[index] || "";
+  if (/^news summary$/i.test(line)) {
+    return (
+      /^office of the press secretary$/i.test(lines[index + 1] || "") &&
+      /^the white house$/i.test(lines[index + 2] || "") &&
+      /^washington$/i.test(lines[index + 3] || "") &&
+      hasLongDate(lines[index + 4] || "")
+    );
+  }
+  if (/^white house news summary$/i.test(line)) {
+    const dateLine = lines[index + 1] || "";
+    if (!hasLongDate(dateLine) || isNewsContinuationDateLine(dateLine)) return false;
+    return (
+      isNewsEditionLine(lines[index + 2] || "") ||
+      isNewsEditionLine(lines[index + 3] || "") ||
+      /^[A-Z0-9 .,'&()/-]{12,}$/.test(lines[index + 2] || "")
+    );
+  }
+  return false;
+}
+
+function directNewsStarts(lines) {
+  const starts = [];
+  for (let index = 0; index < lines.length; index += 1) {
+    if (isDailyPressClippingStart(lines, index) || isNewsSummaryStart(lines, index)) {
+      starts.push(index);
+    }
+  }
+  return starts;
+}
+
 function sortedUniqueNumbers(values) {
   return Array.from(new Set(values)).sort((a, b) => a - b);
 }
@@ -589,10 +658,19 @@ function salutationFromSegment(lines) {
     .trim();
 }
 
+function normalizeDateLineYear(value, folderDate) {
+  return String(value || "").replace(/\b(\d{4})\b/g, (yearValue) => {
+    const year = Number(yearValue);
+    return year < 1900 || year > 2099 ? folderDate.slice(0, 4) : yearValue;
+  });
+}
+
 function documentDateFromSegment(lines, folderDate) {
   for (const line of lines.slice(0, 12)) {
-    const date = normalizeAnyDate(line, folderDate);
-    if (date) return date;
+    let date = normalizeAnyDate(line, folderDate);
+    if (date && date >= "1900-01-01" && date <= "2099-12-31") return date;
+    date = normalizeAnyDate(normalizeDateLineYear(line, folderDate), folderDate);
+    if (date && date >= "1900-01-01" && date <= "2099-12-31") return date;
   }
   return folderDate;
 }
@@ -719,8 +797,10 @@ function memorandumHeaderTitle(value, fallback) {
 
 function directMemoDate(contentLines, start, folderDate) {
   for (const line of contentLines.slice(Math.max(0, start - 8), start + 12)) {
-    const date = normalizeAnyDate(line, folderDate);
-    if (date) return date;
+    let date = normalizeAnyDate(line, folderDate);
+    if (date && date >= "1900-01-01" && date <= "2099-12-31") return date;
+    date = normalizeAnyDate(normalizeDateLineYear(line, folderDate), folderDate);
+    if (date && date >= "1900-01-01" && date <= "2099-12-31") return date;
   }
   return folderDate;
 }
@@ -759,6 +839,57 @@ function directMemoTitle(segment, kind, typeLabel) {
   if (kind === "staffing") return staffingMemoTitle(segment, typeLabel);
   if (kind === "recommended-call") return recommendedCallTitle(segment, typeLabel);
   return memorandumTitle(segment, typeLabel);
+}
+
+function newsKindFromStart(segment) {
+  return isDailyPressClippingSequence(segment, 0) || /^daily press clippings\b/i.test(segment[0] || "")
+    ? "daily-press-clippings"
+    : "news-summary";
+}
+
+function directNewsType(kind) {
+  return kind === "daily-press-clippings" ? "Daily Press Clippings" : "News Summary";
+}
+
+function directNewsCategory(kind) {
+  return kind === "daily-press-clippings" ? "daily-press-clippings-item" : "news-summary-item";
+}
+
+function directNewsDisposition(kind) {
+  return kind === "daily-press-clippings"
+    ? "itemized-daily-press-clippings"
+    : "itemized-news-summary";
+}
+
+function dailyPressClippingTitle(segment, typeLabel, folderDate) {
+  const start = segment.findIndex((line) => /^daily press clippings\b/i.test(line));
+  const titleLines = [];
+  for (const line of segment.slice(Math.max(0, start + 1), start + 5)) {
+    if (!line || /^(mrs\. bush|\(in folder\)|secretary|west wing|residence|susan porter rose)/i.test(line)) {
+      break;
+    }
+    titleLines.push(normalizeDateLineYear(line, folderDate));
+    if (hasLongDate(line)) break;
+  }
+  return `${typeLabel}: ${compactTitle(titleLines.join(" "), typeLabel)}`;
+}
+
+function newsSummaryTitle(segment, typeLabel, folderDate) {
+  const titleLines = [];
+  for (const line of segment.slice(1, 9)) {
+    if (/^(office of the press secretary|the white house|washington)$/i.test(line)) continue;
+    if (!titleLines.length && !hasLongDate(line)) continue;
+    titleLines.push(normalizeDateLineYear(line, folderDate).replace(/\s+--\s*1\b/i, ""));
+    if (titleLines.length >= 2) break;
+  }
+  return `${typeLabel}: ${compactTitle(titleLines.join(" "), typeLabel)}`;
+}
+
+function directNewsTitle(segment, kind, typeLabel, folderDate) {
+  if (kind === "daily-press-clippings") {
+    return dailyPressClippingTitle(segment, typeLabel, folderDate);
+  }
+  return newsSummaryTitle(segment, typeLabel, folderDate);
 }
 
 function buildDirectLetterDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
@@ -936,6 +1067,64 @@ function buildDirectMemoDocuments(contentLines, folder, packetDoc, starts, bound
     .filter(Boolean);
 }
 
+function buildDirectNewsDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
+  if (!starts.length) return [];
+
+  return starts
+    .map((start, index) => {
+      const end = nextBoundaryAfter(boundaryStarts, start, contentLines.length);
+      const segment = contentLines.slice(start, end);
+      if (segment.length < 5) return null;
+      const kind = newsKindFromStart(segment);
+      const itemNumber = index + 1;
+      const itemLabel = String(itemNumber).padStart(2, "0");
+      const seenDate = folder.date;
+      const documentDate = documentDateFromSegment(segment, folder.date);
+      const typeLabel = directNewsType(kind);
+      const title = directNewsTitle(segment, kind, typeLabel, folder.date);
+
+      return {
+        id: `${folder.id}-direct-news-${itemLabel}`,
+        folderId: folder.id,
+        folderNaId: folder.naId,
+        folderTitle: folder.title,
+        folderDate: folder.date,
+        folderLocalId: folder.localId,
+        folderContainerId: folder.containerId,
+        catalogUrl: folder.catalogUrl,
+        pdfUrl: folder.pdfUrl || "",
+        chapterId: folder.chapterId,
+        chapter: folder.chapter,
+        themes: folder.themes,
+        searchTerms: folder.searchTerms,
+        documentNumber: `Direct-N${itemLabel}`,
+        documentType: typeLabel,
+        directScanCategory: directNewsCategory(kind),
+        directScanDisposition: directNewsDisposition(kind),
+        directScanItemizationStatus: "itemized-document",
+        directScanItemizationNote:
+          "Itemized from an explicit news-summary or daily-press-clippings header in a direct folder scan.",
+        parentPacketId: packetDoc.id,
+        title,
+        date: seenDate,
+        seenDate,
+        documentDate,
+        year: seenDate.slice(0, 4),
+        month: seenDate.slice(0, 7),
+        pages: null,
+        restriction: "",
+        classification: "",
+        excerpt: excerptFromLines(segment),
+        evidence:
+          "Itemized from NARA direct folder scan OCR using a news-summary or daily-press-clippings header.",
+        evidenceStatus: "direct-scan-itemized",
+        needsItemization: false,
+        citation: `George H. W. Bush Papers, Presidential Daily Files, ${folder.title}, direct scan news item ${itemLabel}, ${title}, National Archives Catalog NAID ${folder.naId}.`,
+      };
+    })
+    .filter(Boolean);
+}
+
 function buildDirectPoolReportDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
   if (!starts.length) return [];
 
@@ -1047,16 +1236,19 @@ function buildDirectScanDocuments(text, folder) {
   const pressReleaseStarts = packetDoc.needsItemization ? directPressReleaseStarts(contentLines) : [];
   const poolReportStarts = packetDoc.needsItemization ? directPoolReportStarts(contentLines) : [];
   const memoStarts = packetDoc.needsItemization ? directMemoStarts(contentLines) : [];
+  const newsStarts = packetDoc.needsItemization ? directNewsStarts(contentLines) : [];
   const boundaryStarts = sortedUniqueNumbers([
     ...letterStarts,
     ...pressReleaseStarts,
     ...poolReportStarts,
     ...memoStarts,
+    ...newsStarts,
   ]);
   const itemizedDocs = packetDoc.needsItemization
     ? [
         ...buildDirectLetterDocuments(contentLines, folder, packetDoc, letterStarts, boundaryStarts),
         ...buildDirectMemoDocuments(contentLines, folder, packetDoc, memoStarts, boundaryStarts),
+        ...buildDirectNewsDocuments(contentLines, folder, packetDoc, newsStarts, boundaryStarts),
         ...buildDirectPressReleaseDocuments(
           contentLines,
           folder,

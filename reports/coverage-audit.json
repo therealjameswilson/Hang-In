@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-02T18:05:18.753Z",
+  "generatedAt": "2026-06-02T18:16:21.257Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
-    "documentCount": 6008,
+    "documentCount": 6036,
     "redactionSheetDocumentCount": 5531,
     "directFolderScanCount": 240,
     "directSingleDocumentScanCount": 113,
     "directPacketScanCount": 127,
-    "directItemizedDocumentCount": 237,
-    "directItemizedFolderCount": 68,
+    "directItemizedDocumentCount": 265,
+    "directItemizedFolderCount": 86,
     "foldersWithoutParsedRows": 240,
     "foldersStillUnrepresented": 0
   },
@@ -38,10 +38,12 @@
   "directScanItemizedDispositionCounts": {
     "itemized-memorandum": 38,
     "itemized-correspondence-letter": 165,
+    "itemized-news-summary": 21,
     "itemized-pool-report": 8,
     "itemized-staffing-memorandum": 8,
     "itemized-press-release": 17,
-    "itemized-recommended-telephone-call": 1
+    "itemized-recommended-telephone-call": 1,
+    "itemized-daily-press-clippings": 7
   },
   "auditNote": "Direct scans keep source material visible when no numbered withdrawal/redaction-sheet rows were parsed. Single-document direct scans are represented as one document; packet scans still need item-by-item review. Itemized child records are added only when the OCR has high-confidence document markers, and the packet placeholder remains until residual material is reviewed.",
   "directScanRecords": [
@@ -7087,6 +7089,21 @@
       "excerpt": "MEMORANDUM TO JOHN H. SUNUNU Cr FROM: BURTON J. LEE SUBJECT: AIDS Most pertinent to the President, in my view, is the theme that he must educate. Prevention is all we have, and will have for many years. Issues: V1. promiscuity 2. drugs 3. fairness to our fellow Americans. I. Mr. Baker's visit makes us hopeful. view the elections, For students, intellectuals, workers Forty-seven years of Communist The Democratic Party emerged as and peasants, socialism is dead in our rule have made us the poorest coun- the main a..."
     },
     {
+      "date": "1991-07-15",
+      "documentDate": "1991-07-15",
+      "title": "News Summary: MONDAY, JULY 15, 1991 6:00 a.m. EDT EDITION",
+      "parentPacketId": "nara-470417253-direct-scan",
+      "naId": "470417253",
+      "folderId": "90609-004",
+      "containerId": "90609",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470417253",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90609-004.pdf",
+      "excerpt": "News Summary OFFICE OF THE PRESS SECRETARY THE WHITE HOUSE WASHINGTON MONDAY, JULY 15, 1991 6:00 a.m. EDT EDITION INTERNATIONAL NEWS GORBACHEV LETTER GETS COLD REACTION -- Western and Japanese officials gathering in London for the annual economic summit meeting of the seven leading industrial powers reacted with little enthusiasm Sunday to a 23-page letter from President Gorbachev outlining his case for political and economic support. (Washington Post) IRAQ PETITIONS ARAB LEAGUE ON BOMBING THREAT -- Iraq petitio..."
+    },
+    {
       "date": "1991-08-21",
       "documentDate": "1991-08-21",
       "title": "Letter: Dear Hector",
@@ -7249,7 +7266,67 @@
       "type": "Letter",
       "catalogUrl": "https://catalog.archives.gov/id/470417305",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90614-010.pdf",
-      "excerpt": "THE president August 21, 1991 (Kennebunkport) Dear Herbie, Barbara and I heard about your surgery and just wanted to let you know that we are thinking of you. I hope your recovery is speedy. We Bushes send warmest regards. Take care of yourself. Sincerely, GBl WALKERS POINT kennebunkport, MAINE Mr. Herbie Hutchins RFD 2: Box 1346 Kennebunkport, ME 04046 White House News Summary Wednesday, August 21, 1991 3:30 p.m. EDT UPDATE GORBACHEV (Moscow/Reuter) -- President Gorbachev has told Soviet television that he was..."
+      "excerpt": "THE president August 21, 1991 (Kennebunkport) Dear Herbie, Barbara and I heard about your surgery and just wanted to let you know that we are thinking of you. I hope your recovery is speedy. We Bushes send warmest regards. Take care of yourself. Sincerely, GBl WALKERS POINT kennebunkport, MAINE Mr. Herbie Hutchins RFD 2: Box 1346 Kennebunkport, ME 04046"
+    },
+    {
+      "date": "1991-08-21",
+      "documentDate": "1991-08-21",
+      "title": "News Summary: Wednesday, August 21, 1991 3:30 p.m. EDT UPDATE",
+      "parentPacketId": "nara-470417305-direct-scan",
+      "naId": "470417305",
+      "folderId": "90614-010",
+      "containerId": "90614",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470417305",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90614-010.pdf",
+      "excerpt": "White House News Summary Wednesday, August 21, 1991 3:30 p.m. EDT UPDATE GORBACHEV (Moscow/Reuter) -- President Gorbachev has told Soviet television that he was in full control and will be resuming his normal duties in the next few days, the main television news program said Wednesday. He also ordered armed forces Chief of Staff Gen. Moiseyev to obey only his commands and to withdraw all troops to their permanent quarters \"In the next few days he will be back to his normal duties,\" an announcer said. (Moscow/AP)..."
+    },
+    {
+      "date": "1991-08-21",
+      "documentDate": "1991-08-21",
+      "title": "News Summary: Wednesday, August 21, 1991 1:00 p.m. EDT UPDATE",
+      "parentPacketId": "nara-470417305-direct-scan",
+      "naId": "470417305",
+      "folderId": "90614-010",
+      "containerId": "90614",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470417305",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90614-010.pdf",
+      "excerpt": "White House News Summary Wednesday, August 21, 1991 -- 1 1:00 p.m. EDT UPDATE COUP/YAZOV (Headline News) -- ABC News and CBS News is reporting that Dmitri Yazov may have committed suicide. CNN has no independent confirmation of that. COUP/ARMY (Headline News) -- NATO officials are saying that Boris Yeltsin has assured Secretary-General Woener that he has taken control of the Soviet armed forces now. Woerner talked to Yeltsin by phone during an emergency meeting of the NATO foreign ministers. COUP/GORBACHEV (Head..."
+    },
+    {
+      "date": "1991-09-27",
+      "documentDate": "1991-09-27",
+      "title": "News Summary: Friday, September 27, 1991 NETWORK COVERAGE FOLLOWING THE PRESIDENT'S ADDRESS.",
+      "parentPacketId": "nara-470417364-direct-scan",
+      "naId": "470417364",
+      "folderId": "90622-003",
+      "containerId": "90622",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470417364",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90622-003.pdf",
+      "excerpt": "White House News Summary Friday, September 27, 1991 NETWORK COVERAGE FOLLOWING THE PRESIDENT'S ADDRESS. ABC PETER JENNINGS interviews analyst TONY CORDISMAN, who thinks there will be \"very broad support\" for this on Capitol Hill. There will be a lot of questions, though. BOB ZELNICK says the early Soviet reaction to this has been \"very, very positive.\" He thinks they will raise two questions: One is what about long-range missiles at sea. Second is what about sharing SDI technology. CBS DAN RATHER asks CBS's DAVI..."
+    },
+    {
+      "date": "1991-09-27",
+      "documentDate": "1991-09-27",
+      "title": "News Summary: Friday, September 27, 1991 NETWORK EVENING NEWS COVERAGE (6:30 P.M.)",
+      "parentPacketId": "nara-470417364-direct-scan",
+      "naId": "470417364",
+      "folderId": "90622-003",
+      "containerId": "90622",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470417364",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90622-003.pdf",
+      "excerpt": "White House News Summary Friday, September 27, 1991 NETWORK EVENING NEWS COVERAGE (6:30 P.M.) OF THE PRESIDENT'S UPCOMING ADDRESS ON DEFENSE POLICY ABC ABC's Peter Jennings: We begin tonight with what the White House calls an historic turning point in the nation's defense. Consider these numbers: The United States has 19,000 nuclear warheads, the Soviet Union even more, 27,000. President Bush will go on television this evening to say: Enough, the world has changed, it is time to slash the numbers. And Mr. Bush s..."
     },
     {
       "date": "1991-10-11",
@@ -7747,6 +7824,36 @@
       "excerpt": "WHITE HOUSE STAFFING MEMORANDUM RZ DATE: 04/09/92 ACTION/CONCURRENCE/COMMENT DUE BY: ---- SUBJECT: PRESIDENTIAL REMARKS: VIDEOTAPING SESSION - 04/09 ACTION FYI ACTION FYI VICE PRESIDENT > HORNER SKINNER MCBRIDE SCOWCROFT MOORE > DARMAN PETERSMEYER BRADY PORTER BROMLEY ROGICH CALIO ROLLINS DEMAREST SMITH YEUTTER"
     },
     {
+      "date": "1992-04-13",
+      "documentDate": "1992-04-13",
+      "title": "News Summary: Monday, April 13, 1992 10:15 A.M. NEWS UPDATE",
+      "parentPacketId": "nara-470417703-direct-scan",
+      "naId": "470417703",
+      "folderId": "90669-006",
+      "containerId": "90669",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470417703",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90669-006.pdf",
+      "excerpt": "White House News Summary Monday, April 13, 1992 10:15 A.M. NEWS UPDATE LIBYA/TERRORIST SUSPECTS (Tripoli/AP) -- With the deadline for U.N. sanctions approaching, Moammar Gadafi is indicating he might back down from his refusal to surrender to the West two suspects in the Pan Am 103 bombing. He is reported to have accepted the U.N. demand with conditions. Such acceptance would appear to fall short of what is necessary to avoid the imposition of sanctions on Wednesday. As the Arab community continued to pursue las..."
+    },
+    {
+      "date": "1992-04-18",
+      "documentDate": "1992-04-18",
+      "title": "Daily Press Clippings: SATURDAY, SUNDAY, MONDAY AND TUESDAY April 18, 19, 20 and 21, 1992",
+      "parentPacketId": "nara-470417714-direct-scan",
+      "naId": "470417714",
+      "folderId": "90671-001",
+      "containerId": "90671",
+      "category": "daily-press-clippings-item",
+      "disposition": "itemized-daily-press-clippings",
+      "type": "Daily Press Clippings",
+      "catalogUrl": "https://catalog.archives.gov/id/470417714",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90671-001.pdf",
+      "excerpt": "THE WHITE HOUSE MRS. BUSH'S PRESS OFFICE DAILY PRESS CLIPPINGS SATURDAY, SUNDAY, MONDAY AND TUESDAY April 18, 19, 20 and 21, 1992 Mrs. Bush (in folder) Secretary Skinner West Wing Marlin Fitzwater West Wing Constance Horner West Wing Carol Powers West Wing Patty Presock Residence First Lady Detail Staircase Karen Connell Room 58 OEOB Shirley Green Room 94 OEOB Diana Kellogg Room 157 OEOB Gregg Petersmeyer Room 100 OEOB Marguerite Sullivan"
+    },
+    {
       "date": "1992-04-20",
       "documentDate": "1992-04-15",
       "title": "Memorandum for the President: AMERIFLORA 1992",
@@ -8002,6 +8109,21 @@
       "excerpt": "THE WHITE HOUSE WASHINGTON May 15, 1992 Dear Mr. Zaloudek: Thank you for your letter reminding me of the recent fishing tournament that I enjoyed with many talented anglers, and for telling me about your newly acquired interest in fishing. I couldn't agree with you more about the therapeutic benefits of fishing. I've found that when I have a lot on my mind a few hours of fishing is just the thing that I need in order to relax. Being outdoors with friends or family not only is good fun but also helps to remind us..."
     },
     {
+      "date": "1992-05-15",
+      "documentDate": "1992-05-15",
+      "title": "Daily Press Clippings: Friday, May 15, 1992",
+      "parentPacketId": "nara-470417777-direct-scan",
+      "naId": "470417777",
+      "folderId": "90679-006",
+      "containerId": "90679",
+      "category": "daily-press-clippings-item",
+      "disposition": "itemized-daily-press-clippings",
+      "type": "Daily Press Clippings",
+      "catalogUrl": "https://catalog.archives.gov/id/470417777",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90679-006.pdf",
+      "excerpt": "THE WHITE HOUSE MRS. BUSH'S PRESS OFFICE DAILY PRESS CLIPPINGS Friday, May 15, 1992 Mrs. Bush (in folder) Secretary Skinner West Wing Marlin Fitzwater West Wing Constance Horner West Wing Carol Powers West Wing Patty Presock Residence First Lady Detail Staircase Karen Connell Room 58 OEOB Shirley Green Room 94 OEOB Anne Griffith Room 98 OEOB Diana Kellogg Room 157 OEOB Gregg Petersmeyer Room 100 OEOB"
+    },
+    {
       "date": "1992-05-17",
       "documentDate": "1992-05-17",
       "title": "Letter: Dear Marlin",
@@ -8045,6 +8167,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417793",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90682-002.pdf",
       "excerpt": "MEMORANDUM FOR THE PRESIDENT FROM: ROGER B. PORTER RBP SUBJECT: Letter from Kenneth O. Gilmore Kenneth Gilmore, editor-in-chief of Reader's Digest until Parkinson's disease forced his retirement, has written urging you to end the moratorium on federal funds for fetal tissue research using tissue from induced abor ions. He included with his letter a short article he published in American Health about his experience with Parkinson S disease It is a moving and interesting account, and worth reading. The draft respo..."
+    },
+    {
+      "date": "1992-05-22",
+      "documentDate": "1992-05-22",
+      "title": "News Summary: Friday, May 22, 1992 INDEX TO NEW YORK TIMES CLIPS",
+      "parentPacketId": "nara-470417794-direct-scan",
+      "naId": "470417794",
+      "folderId": "90682-003",
+      "containerId": "90682",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470417794",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90682-003.pdf",
+      "excerpt": "White House News Summary Friday, May 22, 1992 INDEX TO NEW YORK TIMES CLIPS 1. Front page, top half 2. Front page, bottom half 3. NEWS ANALYSIS -- The Politics Of Morality, by Andrew Rosenthal, A19 4. Clinton Sees Bush Engaging In Empty Talk On Families, A18 5. Campaign In California: Little But Commercials, A1 6. Disinterest And Disgust Are Leading In California, A18 7. Senate Adds $1.4 Billion To Urban Aid Bill, Challenging Bush, A16 Currency Comptroller Is Nominated By Bush, D2 8. S.E.C. Asks For Sweeping Cha..."
     },
     {
       "date": "1992-05-22",
@@ -8195,6 +8332,66 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417810",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90684-003.pdf",
       "excerpt": "MEMORANDUM FOR THE PRESIDENT FROM: MICHAEL J. BOSKIN mps SUBJECT: April Personal Income and Outlays, Commerce Department Release, Monday, 10:00 a.m. Personal income rose 0.1 percent in April, following a 0.4 percent increase in March. Private analysts had expected a 0.2 percent increase in April. Real disposable personal income--income adjusted for inflation and taxes--fell 0.2 percent in April, following increases of 0.6 percent in both March and February. About half of the gain in March resulted from a reducti..."
+    },
+    {
+      "date": "1992-06-11",
+      "documentDate": "1992-06-11",
+      "title": "Daily Press Clippings: Thursday, June 11, 1992",
+      "parentPacketId": "nara-470417840-direct-scan",
+      "naId": "470417840",
+      "folderId": "90688-001",
+      "containerId": "90688",
+      "category": "daily-press-clippings-item",
+      "disposition": "itemized-daily-press-clippings",
+      "type": "Daily Press Clippings",
+      "catalogUrl": "https://catalog.archives.gov/id/470417840",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90688-001.pdf",
+      "excerpt": "THE WHITE HOUSE MRS. BUSH'S PRESS OFFICE DAILY PRESS CLIPPINGS Thursday, June 11, 1992 Mrs. Bush (in folder) Secretary Skinner West Wing Marlin Fitzwater West Wing Constance Horner West Wing Carol Powers West Wing Patty Presock Residence First Lady Detail Staircase Karen Connell Room 58 OEOB Shirley Green Room 94 OEOB Anne Griffith Room 98 OEOB Diana Kellogg Room 157 OEOB Gregg Petersmeyer Room 100 OEOB"
+    },
+    {
+      "date": "1992-06-17",
+      "documentDate": "1992-06-17",
+      "title": "News Summary: WEDNESDAY, JUNE 17, 1992 6:00 A.M. EDT EDITION",
+      "parentPacketId": "nara-470417851-direct-scan",
+      "naId": "470417851",
+      "folderId": "90689-005",
+      "containerId": "90689",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470417851",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90689-005.pdf",
+      "excerpt": "News Summary OFFICE OF THE PRESS SECRETARY THE WHITE HOUSE WASHINGTON WEDNESDAY, JUNE 17, 1992 6:00 A.M. EDT EDITION INTERNATIONAL NEWS BUSH, YELTSIN AGREE ON MASSIVE NUCLEAR CUTS -- President Bush and Boris Yeltsin agreed Tuesday to the most drastic arms cuts of the nuclear age, which will reduce U.S. and Russian long-range nuclear weapons over the next 11 years to about one-third of current levels. (Washington Post, Washington Times, Chicago Tribune, Dallas Morning News) BAKER OFFERS REASSURANCES AFTER COURT K..."
+    },
+    {
+      "date": "1992-06-19",
+      "documentDate": "1992-06-19",
+      "title": "News Summary: FRIDAY, JUNE 19, 1992 6:00 A.M. EDT EDITION",
+      "parentPacketId": "nara-470417856-direct-scan",
+      "naId": "470417856",
+      "folderId": "90690-003",
+      "containerId": "90690",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470417856",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90690-003.pdf",
+      "excerpt": "News Summary OFFICE OF THE PRESS SECRETARY THE WHITE HOUSE WASHINGTON FRIDAY, JUNE 19, 1992 6:00 A.M. EDT EDITION TRIP NEWS PEROT, BUSH MAKE THEIR PITCH -- Beginning a campaign swing through California, President Bush acknowledged Thursday that Ross Perot's candidacy is a \"hurricane blowing out there.\" (San Francisco Chronicle, Washington Post, AP, Reuter) NATIONAL NEWS GOP SUPPORT IN ORANGE COUNTY WAVERING AT CRITICAL TIME FOR BUSH - Republican loyalty in Orange County is wavering just when George Bush needs it..."
+    },
+    {
+      "date": "1992-06-23",
+      "documentDate": "1992-06-23",
+      "title": "News Summary: TUESDAY, JUNE 23, 1992 6:00 A.M. EDT EDITION",
+      "parentPacketId": "nara-470417863-direct-scan",
+      "naId": "470417863",
+      "folderId": "90691-003",
+      "containerId": "90691",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470417863",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90691-003.pdf",
+      "excerpt": "News Summary OFFICE OF THE PRESS SECRETARY THE WHITE HOUSE WASHINGTON TUESDAY, JUNE 23, 1992 6:00 A.M. EDT EDITION NATIONAL PEROT INVESTIGATIONS NOT VERY 'AMERICAN,' BUSH SAYS - President Bush, whose surrogates have sought to portray Ross Perot as bizarre and dangerous to democracy, gingerly hinted it himself Monday, noting that investigations Perot launched into his business affairs and record as Vice President were not very \"American.\" (Washington Post, New York Daily News, Washington Times) BUSH SIGNS $1 BILL..."
     },
     {
       "date": "1992-06-30",
@@ -8677,6 +8874,21 @@
       "excerpt": "FOR IMMEDIATE RELEASE August 13, 1992 CONTACT: PRESS OFFICE BQ'92 - 284 (202) 336-7099 (713) 646-9080 COMMANDER-IN-CHIEF. OR JUST A CLERK? - Bill Clinton's Meandering Resume - HOUSTON, TX -- Tuesday, The Clinton Record Highlight was pleased to clarify Governor Clinton's foreign policy credentials. Today, we are delighted to see our daily efforts are beginning to the truth. have some effect on the Governor's life-long habit of stretching Monday, appearing on \"CBS This Morning,\" Governor Clinton Relations credenti..."
     },
     {
+      "date": "1992-08-15",
+      "documentDate": "1992-08-15",
+      "title": "Daily Press Clippings: SATURDAY, AUGUST 15, 1992",
+      "parentPacketId": "nara-470417981-direct-scan",
+      "naId": "470417981",
+      "folderId": "90707-003",
+      "containerId": "90707",
+      "category": "daily-press-clippings-item",
+      "disposition": "itemized-daily-press-clippings",
+      "type": "Daily Press Clippings",
+      "catalogUrl": "https://catalog.archives.gov/id/470417981",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90707-003.pdf",
+      "excerpt": "THE WHITE HOUSE MRS. BUSH'S PRESS OFFICE DAILY PRESS CLIPPINGS SATURDAY, AUGUST 15, 1992 SUNDAY, AUGUST 16, 1992 MONDAY, AUGUST 17, 1992 Mrs. Bush (in folder) Secretary Skinner West Wing Marlin Fitzwater West Wing Constance Horner West Wing Carol Powers West Wing Patty Presock Residence First Lady Detail Staircase Karen Connell Room 58 OEOB Shirley Green Room 94 OEOB Anne Griffith Room 98 OEOB"
+    },
+    {
       "date": "1992-08-17",
       "documentDate": "1992-08-10",
       "title": "Memorandum for the President: AMERICAN LEGISLATIVE EXCHANGE COUNCIL (ALEC) ANNUAL MEETING",
@@ -8690,6 +8902,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417985",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90707-007.pdf",
       "excerpt": "MEMORANDUM FOR THE PRESIDENT THROUGH: DAVID DEMAREST PP B2 FROM: BOBBIE KILBERG CLIFF ALDERMAN: TA SUBJECT: AMERICAN LEGISLATIVE EXCHANGE COUNCIL (ALEC) ANNUAL MEETING We thought you would be interested in seeing the clippings from the local Colorado papers regarding your address to the ALEC Annual Meeting on Thursday, August 6. The state legislators and corporate attendees gave very positive reviews. As one article noted, \"I saw some of the Give-'em Hell- Harry style coming out in Bush [He] has a very solid rec..."
+    },
+    {
+      "date": "1992-08-18",
+      "documentDate": "1992-08-18",
+      "title": "News Summary: Tuesday, August 18, 1992 12:30 P.M. CDT/1:30 P.M. EDT NEWS UPDATE",
+      "parentPacketId": "nara-470417989-direct-scan",
+      "naId": "470417989",
+      "folderId": "90708-004",
+      "containerId": "90708",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470417989",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90708-004.pdf",
+      "excerpt": "White House News Summary Tuesday, August 18, 1992 -- 1 12:30 P.M. CDT/1:30 P.M. EDT NEWS UPDATE CONVENTION (Houston/Reuter) -- Republicans went into the second day of their convention elated by a newly combative George Bush leading what one party leader likened to an Old West cavalry charge. The wave of words and bravado seemed to shove weeks of bad news in the polls into the background, at least temporarily. \"You get here and you feel something happening,\" said Bush, visiting a school in Houston. \"Yesterday was..."
     },
     {
       "date": "1992-08-18",
@@ -8735,6 +8962,36 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417989",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90708-004.pdf",
       "excerpt": "POOL REPORT # 5 August 18, 1992 (Houston, Texas) #: Two events on the President's evening excursion: A reception (closed to press) given by Bill and Sharon Archer honoring Republican members of the Senate and the House, at the Houston Museum of Natural Science. According to an invitation, it was called Taste of Houston. \" Approximately 1,000 guests. The second event was a reception (closed to the press) at the Houston Museum of Fine Arts--270 people, mostly friends of the Bushes and Bush family members, hosted b..."
+    },
+    {
+      "date": "1992-08-21",
+      "documentDate": "1992-08-21",
+      "title": "Daily Press Clippings: Friday, August 21, 1992",
+      "parentPacketId": "nara-470417996-direct-scan",
+      "naId": "470417996",
+      "folderId": "90709-003",
+      "containerId": "90709",
+      "category": "daily-press-clippings-item",
+      "disposition": "itemized-daily-press-clippings",
+      "type": "Daily Press Clippings",
+      "catalogUrl": "https://catalog.archives.gov/id/470417996",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90709-003.pdf",
+      "excerpt": "THE WHITE HOUSE MRS. BUSH'S PRESS OFFICE DAILY PRESS CLIPPINGS Friday, August 21, 1992 Mrs. Bush (in folder) Secretary Skinner West Wing Marlin Fitzwater West Wing Constance Horner West Wing Carol Powers West Wing Patty Presock Residence First Lady Detail Staircase Karen Connell Room 58 OEOB Shirley Green Room 94 OEOB Anne Griffith Room 98 OEOB Diana Kellogg Room 157 OEOB Gregg Petersmeyer Room 100 OEOB"
+    },
+    {
+      "date": "1992-08-22",
+      "documentDate": "1992-07-17",
+      "title": "News Summary: Friday, July 17, 1992 INDEX TO NEW YORK TIMES CLIPS",
+      "parentPacketId": "nara-470417997-direct-scan",
+      "naId": "470417997",
+      "folderId": "90709-004",
+      "containerId": "90709",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470417997",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90709-004.pdf",
+      "excerpt": "White House News Summary Friday, July 17, 2992 INDEX TO NEW YORK TIMES CLIPS 1, Front page, top half 2. Front page, bottom half 3. Bush Switches From Trout And Fishes For Perot Voters, A17 4. (photo of the President during news conference), A17 5. Democratic Team Opens By Appealing To Middle Class, A1 6. NEWS ANALYSIS -- A Candidate, And A Race, Transformed, A1 7. Withdrawal By Independent Follows Turmoil In Campaign, A1 8. (continued) 10. 9. Perot Says Democratic Surge Reduced Prospect of Victory, A1 Bush Libra..."
     },
     {
       "date": "1992-08-23",
@@ -8825,6 +9082,36 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418028",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90713-006.pdf",
       "excerpt": "THE PRESIDENT 715 AM Dear Brian - I m here the office for 20 munts - the ott organin Thanks, old friend, for your Aug 25th counts- What a God-autal year! It's ugly out there; but I think you're right- - There will be a chean choice\" in Nov; and will nale it. So my Huls, Love to m. CC: (in & out) Rose Zamaria (1cc) Brent Scowcroft by (FYI) Donect/2 THE WHITE HOUSE WASHINGTON DATE: 09/02/92 NOTE FOR: GENERAL SCOWCROFT The President has reviewed the attached, and it is forwarded to you for your: Information XX"
+    },
+    {
+      "date": "1992-09-22",
+      "documentDate": "1992-09-22",
+      "title": "News Summary: Tuesday, September 22, 1992 9:30 A.M. CDT/10:30 A.M. EDT NEWS UPDATE",
+      "parentPacketId": "nara-470418078-direct-scan",
+      "naId": "470418078",
+      "folderId": "90720-007",
+      "containerId": "90720",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470418078",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90720-007.pdf",
+      "excerpt": "White House News Summary Tuesday, September 22, 1992 9:30 A.M. CDT/10:30 A.M. EDT NEWS UPDATE TRIP (Robert Burns/AP) -- President Bush, picking up the pace of his re-election drive as state and national polls show him trailing his Democratic rival, set out at daybreak on a hurriedly arranged one-day campaign swing through six states. After launching his most pointed attack yet on Bill Clinton's explanation of his draft history on Monday, Bush was pressing his case with voters at rallies in Missouri, Louisiana, O..."
+    },
+    {
+      "date": "1992-09-22",
+      "documentDate": "1992-09-22",
+      "title": "News Summary: Tuesday, September 22, 1992 12:30 P.M. CDT/1:30 P.M. EDT NEWS UPDATE",
+      "parentPacketId": "nara-470418078-direct-scan",
+      "naId": "470418078",
+      "folderId": "90720-007",
+      "containerId": "90720",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470418078",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90720-007.pdf",
+      "excerpt": "White House News Summary Tuesday, September 22, 1992 -- 1 12:30 P.M. CDT/1:30 P.M. EDT NEWS UPDATE TRIP/MISSOURI (Springfield/UPI) -- His polls plunging, President Bush announced he was fed up with \"the half-truths\" pouring from the Clinton camp and ready \"to lay it on the line\" beginning with a lightning strike sweep of six key states. Kicking off what he promised would be telling attacks on Clinton, Bush took Clinton on on the full range of issues, blasting him for his record on everything from civil rights, t..."
     },
     {
       "date": "1992-09-24",
@@ -8962,6 +9249,21 @@
       "excerpt": "MEMORANDUM FOR THE PRESIDENT 4 FROM: STEVE PROVOST SUBJECT: REMARKS AT PORT OF NEW ORLEANS Tomorrow afternoon at 2 p.m. you will speak to a crowd of 3,000 office workers and Republicans at the Port of New Orleans. Your remarks (16 minutes/teleprompted) explain the importance of NAFTA and criticize Governor Clinton's inexperience in global economics and his timidity on free trade. We hope to keep a positive free trade story alive for a second day. On page three, there is a reference to \"Cha Ching\" - - the popular..."
     },
     {
+      "date": "1992-10-08",
+      "documentDate": "1992-10-08",
+      "title": "News Summary: Thursday, October 8, 1992 1:00 P.M. CDT/2:00 P.M. EDT NEWS UPDATE",
+      "parentPacketId": "nara-470418117-direct-scan",
+      "naId": "470418117",
+      "folderId": "90726-002",
+      "containerId": "90726",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470418117",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90726-002.pdf",
+      "excerpt": "White House News Summary Thursday, October 8, 1992 -- 1 1:00 P.M. CDT/2:00 P.M. EDT NEWS UPDATE TRIP/PATRIOTISM (San Antonio/Terence Hunt, AP) -- Raising questions about patriotism and character, President Bush says Bill Clinton was wrong to demonstrate overseas against the Vietnam War and should \"tell us the truth\" about a student trip to Moscow. \"I'll probably have more to say\" on that, Bush said. Bush spoke briefly to reporters before going jogging in San Antonio, saying his previous night's remarks \"expresse..."
+    },
+    {
       "date": "1992-10-09",
       "documentDate": "1992-10-08",
       "title": "Memorandum for the President: GOVERNOR VOINOVICH",
@@ -8975,6 +9277,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418120",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90726-005.pdf",
       "excerpt": "MEMORANDUM FOR THE PRESIDENT BK foR HM THROUGH: HENSON MOORE FROM: BOBBIE KILBERG BK HIROSHI WALD AM SUBJECT: GOVERNOR VOINOVICH Governor Voinovich's office has indicated that he intends to discuss the following issues with you: A. Rickenbacker Air National Guard Base The 1991 Base Closure and Realignment Commission recommended that two Air National Guard units be relocated from Rikenbacker Air National Guard Base to Wright-Patterson Air Force Base, both in Ohio, and that the 4950th Test Wing be relocated from W..."
+    },
+    {
+      "date": "1992-10-09",
+      "documentDate": "1992-10-09",
+      "title": "News Summary: Friday, October 9, 1992 5:00 P.M. EDT NEWS UPDATE",
+      "parentPacketId": "nara-470418120-direct-scan",
+      "naId": "470418120",
+      "folderId": "90726-005",
+      "containerId": "90726",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470418120",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90726-005.pdf",
+      "excerpt": "White House News Summary Friday, October 9, 1992 -- 1 5:00 P.M. EDT NEWS UPDATE U.S./VIETNAM (Reuter) -- Lawrence Eagleburger and Secretary Cheney met Vietnamese Foreign Minister Nguyen Manh Cam Thursday, the highest level meeting between the two countries in a year, the State Department said. Richard Boucher said the three officials \"discussed outstanding issues between the two countries, in particular the POW/MIA issue and the normalization process.' ISRAEL/TALKS (AP) -- Israel has informed the U.S. it will ab..."
     },
     {
       "date": "1992-10-12",
@@ -9169,7 +9486,37 @@
       "type": "Letter",
       "catalogUrl": "https://catalog.archives.gov/id/470418143",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90729-005.pdf",
-      "excerpt": "THE PRESIDENT Caboard outrans) Dear Jonathan, I love my flag picture. Many thank - Good Luch GBut CC: (in & out) Rose Zamaria (1cc) THE WHITE HOUSE J. Tollett c/o Douglas Tollett Amer. Resurgers Management Smtoll00 945 E. Paceo Ferry Rd coup Atlanta, Ga 30326 DOUGLAS J. TOLLETT PRESIDENT To. President Bush GRATE AMERICAN RESURGENS MANAGEMENT CORP. 945 EAST PACES FERRY ROAD. SUITE 1100 form. Jonathan Tollett ATLANTA. GEORGIA 30326 (404) 233-7922 FAX (404) 240-0057 - News Summary OFFICE OF THE PRESS SECRETARY"
+      "excerpt": "THE PRESIDENT Caboard outrans) Dear Jonathan, I love my flag picture. Many thank - Good Luch GBut CC: (in & out) Rose Zamaria (1cc) THE WHITE HOUSE J. Tollett c/o Douglas Tollett Amer. Resurgers Management Smtoll00 945 E. Paceo Ferry Rd coup Atlanta, Ga 30326 DOUGLAS J. TOLLETT PRESIDENT To. President Bush GRATE AMERICAN RESURGENS MANAGEMENT CORP. 945 EAST PACES FERRY ROAD. SUITE 1100 form. Jonathan Tollett ATLANTA. GEORGIA 30326 (404) 233-7922 FAX (404) 240-0057 -"
+    },
+    {
+      "date": "1992-10-20",
+      "documentDate": "1992-10-20",
+      "title": "News Summary: TUESDAY, OCTOBER 20, 1992 6:00 A.M. EDT EDITION",
+      "parentPacketId": "nara-470418143-direct-scan",
+      "naId": "470418143",
+      "folderId": "90729-005",
+      "containerId": "90729",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470418143",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90729-005.pdf",
+      "excerpt": "News Summary OFFICE OF THE PRESS SECRETARY THE WHITE HOUSE WASHINGTON TUESDAY, OCTOBER 20, 1992 6:00 A.M. EDT EDITION NATIONAL NEWS BUSH COMES OUT SLUGGING IN FINAL DEBATE -- With his presidency on the line, President Bush Monday night mounted a sharp assault on Bill Clinton's record as governor of Arkansas and his changing positions on the draft. (Washington Post, Knight-Ridder, Washington Times, USA Today) DEBATE, ROUND III, A SPIRITED ENCOUNTER -- In the final debate of the presidential campaign, President Bu..."
+    },
+    {
+      "date": "1992-10-21",
+      "documentDate": "1992-10-21",
+      "title": "News Summary: WEDNESDAY, OCTOBER 21, 1992 6:00 A.M. EDT EDITION",
+      "parentPacketId": "nara-470418144-direct-scan",
+      "naId": "470418144",
+      "folderId": "90729-006",
+      "containerId": "90729",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470418144",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90729-006.pdf",
+      "excerpt": "News Summary OFFICE OF THE PRESS SECRETARY THE WHITE HOUSE WASHINGTON WEDNESDAY, OCTOBER 21, 1992 6:00 A.M. EDT EDITION TRIP NEWS BUSH SAYS 'FORGET POLLS,' WHISTLESTOPS ACROSS SOUTHEAST -- President Bush whistlestopped through the Southeast Tuesday, identifying himself with Atlanta's comeback Braves and telling supporters to \"forget about all these polls\" that show him trailing badly with two weeks until the election. (Raleigh News And Observer, AP) NATIONAL NEWS PEROT DISPUTED ON IRAQ ACCOUNT -- Richard Boucher..."
     },
     {
       "date": "1992-10-22",
@@ -9215,6 +9562,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418146",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90729-008.pdf",
       "excerpt": "GEORGE BUSH WASHINGTON October 22, 1992 Dear Steven, Thanks for your letter of October 15. I appreciate your ideas and suggestions and will pass them along to the Campaign. I am back on the road again tomorrow morning with stops in Kentucky, Florida, Alabama, and Louisiana. Just 12 more days to go, but I am confident of a victory in November. Thanks, again, and best wishes. Sincerely, Be CC: R. Zamaria copy in/out This letter was given to OPA to be transferred to the Bush/Quayle Committee for mailing. STEVEN D...."
+    },
+    {
+      "date": "1992-10-23",
+      "documentDate": "1992-10-23",
+      "title": "Daily Press Clippings: Friday, October 23, 1992",
+      "parentPacketId": "nara-470418150-direct-scan",
+      "naId": "470418150",
+      "folderId": "90730-004",
+      "containerId": "90730",
+      "category": "daily-press-clippings-item",
+      "disposition": "itemized-daily-press-clippings",
+      "type": "Daily Press Clippings",
+      "catalogUrl": "https://catalog.archives.gov/id/470418150",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90730-004.pdf",
+      "excerpt": "THE WHITE HOUSE MRS. BUSH'S PRESS OFFICE DAILY PRESS CLIPPINGS Friday, October 23, 1992 Mrs. Bush (in folder) Susan Porter Rose Julie Cooke Anna Perez Joan DeCain Laurie Firestone Ann Brock Sondra Haley Jean Becker Sally Runion Jane Moore Peggy Swift Anne Griffith Room 98 OEOB Diana Kellogg Room 157 OEOB Secretary Baker West Wing Marlin Fitzwater West Wing Constance Horner West Wing Dennis Ross"
     },
     {
       "date": "1992-10-23",
@@ -9455,6 +9817,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418174",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90733-008.pdf",
       "excerpt": "The White House Washington, D.C. Dear Mr. President: Thank you Mr. President for all that you have done for our country through the years of service you have provided. From the days of W.W.II to the culmination of your distinguished career as our great President, you have earned your place in history for the marvelous shaping of world events during your term of office. In the future years of our beloved country the name of President George Bush will by synonymous with greatness. Your singular ability in the fiel..."
+    },
+    {
+      "date": "1992-11-12",
+      "documentDate": "1992-11-12",
+      "title": "Daily Press Clippings: Thursday, November 12, 1992",
+      "parentPacketId": "nara-470418180-direct-scan",
+      "naId": "470418180",
+      "folderId": "90734-005",
+      "containerId": "90734",
+      "category": "daily-press-clippings-item",
+      "disposition": "itemized-daily-press-clippings",
+      "type": "Daily Press Clippings",
+      "catalogUrl": "https://catalog.archives.gov/id/470418180",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90734-005.pdf",
+      "excerpt": "THE WHITE HOUSE MRS. BUSH'S PRESS OFFICE DAILY PRESS CLIPPINGS Thursday, November 12, 1992 Mrs. Bush (in folder) Susan Porter Rose Julie Cooke Anna Perez Joan DeCain Laurie Firestone Ann Brock Sondra Haley Jean Becker Sally Runion Jane Moore Peggy Swift Anne Griffith Room 98 OEOB Diana Kellogg Room 157 OEOB Secretary Baker West Wing Marlin Fitzwater West Wing Constance Horner West Wing Dennis Ross"
     },
     {
       "date": "1992-11-16",
@@ -10492,6 +10869,21 @@
       "excerpt": "MEMORANDUM FOR SUSAN PORTER ROSE FROM: PEGGY SWIFT SUBJECT: FAMILY TRAVEL PLANS FOR CHRISTMAS 1992 Jeb Bush Family: Colu and kids Arrive: Sunday, 12/20/92 Private plane time TBD from Mexico. Will call carpet Sunday morning with time. Mini van should meet at gate and take directly to White House. Jeb Arrive: 12/22/92 American flight 1508 National Airport, 5:59pm. Sedan should meet at gate and take directly to White House. Depart: 12/27/92 American flight 1461 National Airport, 11:25am Departure from Camp David or..."
     },
     {
+      "date": "1992-12-28",
+      "documentDate": "1992-12-28",
+      "title": "News Summary: MONDAY, DECEMBER 28, 1992 5:00 A.M. CST/6:00 A.M. EST EDITION",
+      "parentPacketId": "nara-470418271-direct-scan",
+      "naId": "470418271",
+      "folderId": "90745-006",
+      "containerId": "90745",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470418271",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90745-006.pdf",
+      "excerpt": "News Summary OFFICE OF THE PRESS SECRETARY THE WHITE HOUSE WASHINGTON MONDAY, DECEMBER 28, 1992 5:00 A.M. CST/6:00 A.M. EST EDITION INTERNATIONAL NEWS U.S. FIGHTER DOWNS IRAQI MILITARY JET IN FLIGHT-BAN ZONE -- T h e Defense Department said Sunday that a U.S. fighter plane shot down an Iraqi military jet in the \"no-fly\" zone over southern Iraq. (Washington Post, UPI, AP) EAGLEBURGER OPTIMISTIC ON START -- Secretary Eagleburger said Sunday there was a \"better than 50-50 chance\" that he could wrap up a historic tr..."
+    },
+    {
       "date": "1993-01-04",
       "documentDate": "1993-01-04",
       "title": "Letter: Dear John",
@@ -10565,6 +10957,36 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418295",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1993/41-bpr-ootp-daily_files-90748-002.pdf",
       "excerpt": "The White House 1600 Pennsylvania Avenue Washington, DC 20500 Dear Mr. President: Each year, I send to a select group of friends a Murphy's Law Calendar for the upcoming particular year. One universally applicable rule of life is that one must always recognize the humor associated with life's foibles and aggravations and this particular calendar does an excellent job on a daily basis of putting things into perspective. Mr. President, I know that the year just concluded has been one of high high's and low low's...."
+    },
+    {
+      "date": "1993-01-11",
+      "documentDate": "1993-01-11",
+      "title": "News Summary: MONDAY, JANUARY 11, 1993 6:00 A.M. EST EDITION",
+      "parentPacketId": "nara-470418294-direct-scan",
+      "naId": "470418294",
+      "folderId": "90748-001",
+      "containerId": "90748",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470418294",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1993/41-bpr-ootp-daily_files-90748-001.pdf",
+      "excerpt": "News Summary OFFICE OF THE PRESS SECRETARY THE WHITE HOUSE WASHINGTON MONDAY, JANUARY 11, 1993 6:00 A.M. EST EDITION INTERNATIONAL NEWS IRAQIS SEIZE MISSILES IN KUWAIT BORDER RAID -- Hundreds of Iraqi workers stormed Kuwait's border Sunday, raiding ammunition bunkers and seizing weapons, including four surface-to-surface Silkworm missiles, U.N. military observers said. (Reuter, Washington Times, Washington Post, Los Angeles Times) U.S. CONGRESSMEN DODGE SOMALI FIRE -- Gunfire crackled across Mogadishu Sunday as..."
+    },
+    {
+      "date": "1993-01-14",
+      "documentDate": "1993-01-14",
+      "title": "News Summary: THURSDAY, JANUARY 14, 1993 6:00 A.M. EST EDITION",
+      "parentPacketId": "nara-470418300-direct-scan",
+      "naId": "470418300",
+      "folderId": "90748-007",
+      "containerId": "90748",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470418300",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1993/41-bpr-ootp-daily_files-90748-007.pdf",
+      "excerpt": "News Summary OFFICE OF THE PRESS SECRETARY THE WHITE HOUSE WASHINGTON THURSDAY, JANUARY 14, 1993 6:00 A.M. EST EDITION INTERNATIONAL NEWS U.S. DELIVERS LIMITED AIR STRIKE ON IRAQ -- After a week of brinkmanship in the waning days of his term, President Bush Wednesday dispatched Air Force and Navy warplanes to bomb air defense targets in southern Iraq, dealing a limited blow to the regime of Saddam Hussein. (Washington Post, AP, Washington Times, New York Times) HITTING HUSSEIN WITH A STICK -- Despite repeated th..."
     }
   ],
   "unrepresentedFolders": []
