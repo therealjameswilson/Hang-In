@@ -92,14 +92,48 @@ function isClassificationLine(line) {
 function normalizeDate(value, folderDate) {
   const clean = value.replace(/\[|\]/g, "").trim();
   if (/^(n\.?\s?d\.?|nd|ne|no date)$/i.test(clean)) return "";
-  const match = clean.match(/^(\d{1,2})\/(\d{1,2})(?:\/(\d{2,4}))?$/);
+  const match = clean.match(/^(\d{1,2})[/-](\d{1,2})(?:[/-](\d{2,4}))?$/);
   if (!match) return "";
   const month = Number(match[1]);
   const day = Number(match[2]);
   let year = match[3] ? Number(match[3]) : Number(folderDate.slice(0, 4));
   if (year < 100) year += year > 80 ? 1900 : 2000;
+  if (year < 1900 || year > 2099) return "";
   if (!month || !day || !year) return "";
   return `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
+}
+
+const MONTHS = new Map(
+  [
+    "january",
+    "february",
+    "march",
+    "april",
+    "may",
+    "june",
+    "july",
+    "august",
+    "september",
+    "october",
+    "november",
+    "december",
+  ].map((month, index) => [month, index + 1])
+);
+
+function normalizeLongDate(value) {
+  const match = normalizeWhitespace(value).match(
+    /\b(January|February|March|April|May|June|July|August|September|October|November|December)\.?\s+(\d{1,2}),?\s+(\d{4})\b/i
+  );
+  if (!match) return "";
+  const month = MONTHS.get(match[1].toLowerCase().replace(/\.$/, ""));
+  const day = Number(match[2]);
+  const year = Number(match[3]);
+  if (!month || !day || !year) return "";
+  return `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
+}
+
+function normalizeAnyDate(value, folderDate) {
+  return normalizeLongDate(value) || normalizeDate(value, folderDate);
 }
 
 const DOCUMENT_TYPE_PREFIXES = [
@@ -331,6 +365,13 @@ function classifyDirectScan(folder, contentLines) {
 
   if (/magazines/.test(title)) return "magazine-issue";
   if (
+    /u\.?\s*s\.?\s*news|u\.s\.news/i.test(lead) &&
+    /\bvol\.\s*\d+|\bno\.\s*\d+|world report/i.test(lead) &&
+    !/daily press clippings|daily news clips|white house news summary|news summary/i.test(lead)
+  ) {
+    return "magazine-issue";
+  }
+  if (
     /telephone memorandum|signal switchboard|telephone log/.test(leadLower) ||
     (/presidential phone calls/.test(leadLower) && /incoming\/outgoing/.test(leadLower))
   ) {
@@ -458,6 +499,128 @@ function directScanTitle(folder, typeLabel) {
   return folder.title;
 }
 
+function isDirectLetterhead(line) {
+  return /^(the president|the presioent|the president of|presidents? the|tresident the|resident the|george bush|walkers point|the white house|from the white house)/i.test(
+    line
+  );
+}
+
+function isDirectPresidentMarker(line) {
+  return /^(the president|the presioent|the president of|presidents? the|tresident the|resident the|george bush)/i.test(
+    line
+  );
+}
+
+function isSignatureContext(lines, index) {
+  return /^(sincerely|warmest regards|best wishes|with appreciation|with warm|love to all|regards)[,;]?$/i.test(
+    lines[index - 1] || ""
+  );
+}
+
+function hasSalutation(lines, index, window = 6) {
+  return lines
+    .slice(index, Math.min(lines.length, index + window + 1))
+    .some((line) => /^(dear|pear)\b/i.test(line));
+}
+
+function isDirectLetterStart(lines, index) {
+  const line = lines[index];
+  if (!line || /handwriting/i.test(line) || isSignatureContext(lines, index)) return false;
+  if (isDirectPresidentMarker(line) && hasSalutation(lines, index, 6)) return true;
+  if (isDirectLetterhead(line) && hasSalutation(lines, index, 5)) return true;
+  return index < 4 && /^(dear|pear)\b/i.test(line);
+}
+
+function directLetterStarts(lines) {
+  const starts = [];
+  for (let index = 0; index < lines.length; index += 1) {
+    if (!isDirectLetterStart(lines, index)) continue;
+    if (starts.length && index - starts[starts.length - 1] <= 7) continue;
+    starts.push(index);
+  }
+  return starts;
+}
+
+function salutationFromSegment(lines) {
+  const salutation = lines.slice(0, 8).find((line) => /^(dear|pear)\b/i.test(line));
+  if (!salutation) return "unidentified correspondent";
+  return salutation
+    .replace(/^pear\b/i, "Dear")
+    .replace(/\s+/g, " ")
+    .replace(/[,.;:]+$/, "")
+    .trim();
+}
+
+function documentDateFromSegment(lines, folderDate) {
+  for (const line of lines.slice(0, 12)) {
+    const date = normalizeAnyDate(line, folderDate);
+    if (date) return date;
+  }
+  return folderDate;
+}
+
+function buildDirectLetterDocuments(contentLines, folder, packetDoc) {
+  if (!["packet-correspondence", "packet-memorandum-material"].includes(packetDoc.directScanDisposition)) {
+    return [];
+  }
+
+  const starts = directLetterStarts(contentLines);
+  if (starts.length < 2) return [];
+
+  return starts
+    .map((start, index) => {
+      const end = starts[index + 1] || contentLines.length;
+      const segment = contentLines.slice(start, end);
+      if (segment.length < 6 || !hasSalutation(segment, 0, 8)) return null;
+      const itemNumber = index + 1;
+      const itemLabel = String(itemNumber).padStart(2, "0");
+      const salutation = salutationFromSegment(segment);
+      const seenDate = folder.date;
+      const documentDate = documentDateFromSegment(segment, folder.date);
+      const title = `Letter: ${salutation}`;
+
+      return {
+        id: `${folder.id}-direct-letter-${itemLabel}`,
+        folderId: folder.id,
+        folderNaId: folder.naId,
+        folderTitle: folder.title,
+        folderDate: folder.date,
+        folderLocalId: folder.localId,
+        folderContainerId: folder.containerId,
+        catalogUrl: folder.catalogUrl,
+        pdfUrl: folder.pdfUrl || "",
+        chapterId: folder.chapterId,
+        chapter: folder.chapter,
+        themes: folder.themes,
+        searchTerms: folder.searchTerms,
+        documentNumber: `Direct-L${itemLabel}`,
+        documentType: "Letter",
+        directScanCategory: "letter-item",
+        directScanDisposition: "itemized-correspondence-letter",
+        directScanItemizationStatus: "itemized-document",
+        directScanItemizationNote:
+          "Itemized from repeated presidential correspondence markers in a direct folder scan.",
+        parentPacketId: packetDoc.id,
+        title,
+        date: seenDate,
+        seenDate,
+        documentDate,
+        year: seenDate.slice(0, 4),
+        month: seenDate.slice(0, 7),
+        pages: null,
+        restriction: "",
+        classification: "",
+        excerpt: excerptFromLines(segment),
+        evidence:
+          "Itemized from NARA direct folder scan OCR using repeated letterhead and salutation markers.",
+        evidenceStatus: "direct-scan-itemized",
+        needsItemization: false,
+        citation: `George H. W. Bush Papers, Presidential Daily Files, ${folder.title}, direct scan item ${itemLabel}, ${title}, National Archives Catalog NAID ${folder.naId}.`,
+      };
+    })
+    .filter(Boolean);
+}
+
 function buildDirectScanDocument(text, folder) {
   const contentLines = contentLinesFromText(text);
   if (!contentLines.length) return null;
@@ -506,6 +669,16 @@ function buildDirectScanDocument(text, folder) {
   };
 }
 
+function buildDirectScanDocuments(text, folder) {
+  const contentLines = contentLinesFromText(text);
+  const packetDoc = buildDirectScanDocument(text, folder);
+  if (!packetDoc) return [];
+  const itemizedDocs = packetDoc.needsItemization
+    ? buildDirectLetterDocuments(contentLines, folder, packetDoc)
+    : [];
+  return [packetDoc, ...itemizedDocs];
+}
+
 function extractRecord(json) {
   return json?.body?.hits?.hits?.[0]?._source?.record || null;
 }
@@ -524,14 +697,14 @@ async function worker(queue, folders, results) {
       pdfUrl: object.objectUrl || "",
     };
     const redactionSheetDocs = text ? parseDocumentsFromText(text, enrichedFolder) : [];
-    const directScanDoc =
-      text && !redactionSheetDocs.length ? buildDirectScanDocument(text, enrichedFolder) : null;
-    const docs = redactionSheetDocs.length ? redactionSheetDocs : directScanDoc ? [directScanDoc] : [];
+    const directScanDocs =
+      text && !redactionSheetDocs.length ? buildDirectScanDocuments(text, enrichedFolder) : [];
+    const docs = redactionSheetDocs.length ? redactionSheetDocs : directScanDocs;
     results[index] = {
       folder: enrichedFolder,
       documentCount: docs.length,
       redactionSheetDocumentCount: redactionSheetDocs.length,
-      directFolderScanCount: directScanDoc ? 1 : 0,
+      directFolderScanCount: directScanDocs.length ? 1 : 0,
       hasExtractedText: Boolean(text),
       documents: docs,
     };
@@ -592,6 +765,14 @@ async function main() {
       doc.directScanItemizationStatus === "single-document"
   ).length;
   const directPacketScanCount = directFolderScanCount - directSingleDocumentScanCount;
+  const directItemizedDocumentCount = documents.filter(
+    (doc) => doc.evidenceStatus === "direct-scan-itemized"
+  ).length;
+  const directItemizedFolderCount = new Set(
+    documents
+      .filter((doc) => doc.evidenceStatus === "direct-scan-itemized")
+      .map((doc) => doc.folderId)
+  ).size;
 
   const payload = {
     metadata: {
@@ -604,6 +785,8 @@ async function main() {
       directFolderScanCount,
       directSingleDocumentScanCount,
       directPacketScanCount,
+      directItemizedDocumentCount,
+      directItemizedFolderCount,
       foldersWithNoText,
       foldersWithoutParsedRows,
       foldersStillUnrepresented,
@@ -611,7 +794,7 @@ async function main() {
       directScanCategoryCounts,
       directScanDispositionCounts,
       coverageNote:
-        "Document records include numbered NARA withdrawal/redaction-sheet rows plus direct scans when OCR contains source material but no parsable numbered rows. Direct scans are marked as either single-document scans or packet scans needing item-level review.",
+        "Document records include numbered NARA withdrawal/redaction-sheet rows plus direct scans when OCR contains source material but no parsable numbered rows. Direct scans are marked as either single-document scans or packet scans needing item-level review; high-confidence correspondence markers inside packet scans are added as itemized child records while packet placeholders remain for residual audit.",
       source: "NARA Catalog proxy records with digital object extracted text.",
     },
     folders: parsedFolders.map(

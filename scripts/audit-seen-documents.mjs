@@ -31,6 +31,9 @@ async function main() {
   const directScanRecordsNeedingItemization = directScanRecords.filter(
     (doc) => doc.needsItemization
   );
+  const directScanItemizedRecords = data.documents.filter(
+    (doc) => doc.evidenceStatus === "direct-scan-itemized"
+  );
   const unrepresentedFolders = data.folders.filter((folder) => !representedFolderIds.has(folder.id));
 
   const audit = {
@@ -43,13 +46,19 @@ async function main() {
       directFolderScanCount: data.metadata.directFolderScanCount,
       directSingleDocumentScanCount: data.metadata.directSingleDocumentScanCount,
       directPacketScanCount: data.metadata.directPacketScanCount,
+      directItemizedDocumentCount: data.metadata.directItemizedDocumentCount,
+      directItemizedFolderCount: data.metadata.directItemizedFolderCount,
       foldersWithoutParsedRows: data.metadata.foldersWithoutParsedRows,
       foldersStillUnrepresented: data.metadata.foldersStillUnrepresented,
     },
     directScanCategoryCounts: countBy(directScanRecords, (doc) => doc.directScanCategory),
     directScanDispositionCounts: countBy(directScanRecords, (doc) => doc.directScanDisposition),
+    directScanItemizedDispositionCounts: countBy(
+      directScanItemizedRecords,
+      (doc) => doc.directScanDisposition
+    ),
     auditNote:
-      "Direct scans keep source material visible when no numbered withdrawal/redaction-sheet rows were parsed. Single-document direct scans are represented as one document; packet scans still need item-by-item review.",
+      "Direct scans keep source material visible when no numbered withdrawal/redaction-sheet rows were parsed. Single-document direct scans are represented as one document; packet scans still need item-by-item review. Itemized child records are added only when the OCR has repeated high-confidence document markers, and the packet placeholder remains until residual material is reviewed.",
     directScanRecords: directScanRecords.map((doc) => ({
       date: doc.seenDate,
       title: doc.title,
@@ -92,6 +101,21 @@ async function main() {
       pdfUrl: doc.pdfUrl,
       excerpt: doc.excerpt,
     })),
+    directScanItemizedRecords: directScanItemizedRecords.map((doc) => ({
+      date: doc.seenDate,
+      documentDate: doc.documentDate,
+      title: doc.title,
+      parentPacketId: doc.parentPacketId,
+      naId: doc.folderNaId,
+      folderId: doc.folderLocalId,
+      containerId: doc.folderContainerId,
+      category: doc.directScanCategory,
+      disposition: doc.directScanDisposition,
+      type: doc.documentType,
+      catalogUrl: doc.catalogUrl,
+      pdfUrl: doc.pdfUrl,
+      excerpt: doc.excerpt,
+    })),
     unrepresentedFolders: unrepresentedFolders.map((folder) => ({
       date: folder.date,
       title: folder.title,
@@ -106,7 +130,7 @@ async function main() {
   await mkdir("reports", { recursive: true });
   await writeFile(OUTFILE, `${JSON.stringify(audit, null, 2)}\n`);
   console.log(
-    `Wrote ${directScanRecords.length} direct-scan records (${directScanRecordsNeedingItemization.length} needing itemization) and ${unrepresentedFolders.length} unrepresented folders to ${OUTFILE}`
+    `Wrote ${directScanRecords.length} direct-scan records (${directScanRecordsNeedingItemization.length} needing itemization), ${directScanItemizedRecords.length} itemized child records, and ${unrepresentedFolders.length} unrepresented folders to ${OUTFILE}`
   );
 }
 

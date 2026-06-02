@@ -102,6 +102,8 @@
   function searchHaystack(record) {
     return [
       record.title,
+      record.id,
+      record.parentPacketId,
       record.naId,
       record.folderNaId,
       record.localId,
@@ -132,9 +134,10 @@
   }
 
   function filteredRecords() {
-    const query = state.query.trim().toLowerCase();
+    const queryTerms = state.query.trim().toLowerCase().split(/\s+/).filter(Boolean);
     const filtered = records.filter((record) => {
-      const matchesQuery = !query || searchHaystack(record).includes(query);
+      const haystack = searchHaystack(record);
+      const matchesQuery = !queryTerms.length || queryTerms.every((term) => haystack.includes(term));
       const matchesChapter = state.chapter === "all" || record.chapterId === state.chapter;
       const matchesTheme =
         state.theme === "all" || record.themes.some((theme) => theme.id === state.theme);
@@ -197,7 +200,8 @@
       <strong>${(coverage.redactionSheetDocumentCount || 0).toLocaleString()}</strong> numbered withdrawal-sheet rows plus
       <strong>${(coverage.directFolderScanCount || 0).toLocaleString()}</strong> direct folder scans
       (<strong>${(coverage.directSingleDocumentScanCount || 0).toLocaleString()}</strong> single-document,
-      <strong>${(coverage.directPacketScanCount || 0).toLocaleString()}</strong> packet scans needing itemization).
+      <strong>${(coverage.directPacketScanCount || 0).toLocaleString()}</strong> packet scans needing itemization),
+      with <strong>${(coverage.directItemizedDocumentCount || 0).toLocaleString()}</strong> itemized direct-scan child records.
       <strong>${(coverage.foldersStillUnrepresented || 0).toLocaleString()}</strong> folders remain unrepresented at folder-scan level.
     `;
   }
@@ -289,6 +293,8 @@
         const numberLabel =
           record.evidenceStatus === "direct-folder-scan"
             ? "Direct scan"
+            : record.evidenceStatus === "direct-scan-itemized"
+              ? "Direct item"
             : record.documentNumber
               ? `Doc ${record.documentNumber}`
               : "";
@@ -316,6 +322,8 @@
                   ? `<span>Needs itemization</span>`
                   : record.evidenceStatus === "direct-folder-scan"
                     ? `<span>Single direct scan</span>`
+                    : record.evidenceStatus === "direct-scan-itemized"
+                      ? `<span>Itemized direct scan</span>`
                   : ""
               }
               ${record.classification ? `<span>${escapeHtml(record.classification)}</span>` : ""}
@@ -461,7 +469,7 @@
             : ""
         }
         ${
-          record.evidenceStatus === "direct-folder-scan"
+          record.evidenceStatus === "direct-folder-scan" || record.evidenceStatus === "direct-scan-itemized"
             ? `<div class="detail-row">
                 <dt>Audit</dt>
                 <dd>${
