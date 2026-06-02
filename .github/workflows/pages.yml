@@ -34,6 +34,7 @@ jobs:
           cp index.html _site/
           cp .nojekyll _site/
           cp -R assets _site/assets
+          cp -R reports _site/reports
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
