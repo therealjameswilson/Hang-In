@@ -640,6 +640,100 @@ function directNewsStarts(lines) {
   return starts;
 }
 
+function isAllCapsBriefingTitleLine(line) {
+  return (
+    /^[A-Z0-9 .,/&'():-]{5,}$/.test(line) &&
+    /[A-Z]/.test(line) &&
+    !/^(the white house|washington|date:?|time:?|location:?|from:?|through:?|to:?|subject:?|office of|classified|declassified|unclassified|confidential)$/i.test(
+      line
+    )
+  );
+}
+
+function directEventBriefingTitleLines(lines, index) {
+  if (
+    !/^the white house$/i.test(lines[index] || "") ||
+    !/^washington$/i.test(lines[index + 1] || "") ||
+    !hasLongDate(lines[index + 2] || "")
+  ) {
+    return [];
+  }
+
+  const titleLines = [];
+  let cursor = index + 3;
+  while (cursor < Math.min(lines.length, index + 8)) {
+    const line = lines[cursor] || "";
+    if (/^date:?\b/i.test(line)) break;
+    if (!isAllCapsBriefingTitleLine(line)) return [];
+    titleLines.push(line);
+    cursor += 1;
+  }
+
+  if (!titleLines.length || !/^date:?\b/i.test(lines[cursor] || "")) return [];
+  const detail = lines.slice(cursor, cursor + 10).join("\n");
+  if (!/(^|\n)(time|location|through|from):?\b/i.test(detail)) return [];
+  return titleLines;
+}
+
+function isDirectEventBriefingStart(lines, index) {
+  return Boolean(directEventBriefingTitleLines(lines, index).length);
+}
+
+function isDirectPresidentNoteStart(lines, index) {
+  if (!/^the white house$/i.test(lines[index] || "")) return false;
+  if (!/^washington$/i.test(lines[index + 1] || "")) return false;
+  const lead = lines.slice(index + 2, index + 7).join("\n");
+  return /^date:?$/im.test(lead) && /^from the president$/im.test(lead) && /^to:?$/im.test(lead);
+}
+
+function isDirectTalkingPointsStart(line) {
+  return /^talking points\b/i.test(line) && !/\b(provided by|to be provided)\b/i.test(line);
+}
+
+function isDirectAdministrationReportStart(lines, index) {
+  return (
+    /^response of the administration$/i.test(lines[index] || "") &&
+    /^to issues raised/i.test(lines[index + 1] || "") &&
+    lines.slice(index, index + 8).some((line) => /^transmitted to the congress$/i.test(line))
+  );
+}
+
+function isDirectLegislativeIssuesUpdateStart(lines, index) {
+  return (
+    /^legislative issues update$/i.test(lines[index] || "") &&
+    /^office of legislative affairs$/i.test(lines[index + 1] || "") &&
+    lines.slice(index + 2, index + 7).some((line) => /^index$/i.test(line))
+  );
+}
+
+function directBriefingKind(lines, index, seenPossibleQuestions) {
+  const line = lines[index] || "";
+  if (isDirectEventBriefingStart(lines, index)) return "event-briefing";
+  if (isDirectPresidentNoteStart(lines, index)) return "president-note";
+  if (/^schedule of the president$/i.test(line)) return "presidential-schedule";
+  if (isDirectTalkingPointsStart(line)) return "talking-points";
+  if (/^possible questions\b/i.test(line)) {
+    const key = line.toLowerCase();
+    if (seenPossibleQuestions.has(key)) return "";
+    seenPossibleQuestions.add(key);
+    return "possible-questions";
+  }
+  if (isDirectAdministrationReportStart(lines, index)) return "administration-report";
+  if (isDirectLegislativeIssuesUpdateStart(lines, index)) return "legislative-issues-update";
+  if (/^list of participants$/i.test(line)) return "participant-list";
+  return "";
+}
+
+function directBriefingStarts(lines) {
+  const starts = [];
+  const seenPossibleQuestions = new Set();
+  for (let index = 0; index < lines.length; index += 1) {
+    const kind = directBriefingKind(lines, index, seenPossibleQuestions);
+    if (kind) starts.push({ start: index, kind });
+  }
+  return starts;
+}
+
 function sortedUniqueNumbers(values) {
   return Array.from(new Set(values)).sort((a, b) => a - b);
 }
@@ -892,6 +986,97 @@ function directNewsTitle(segment, kind, typeLabel, folderDate) {
   return newsSummaryTitle(segment, typeLabel, folderDate);
 }
 
+function directBriefingType(kind) {
+  if (kind === "event-briefing") return "Event Briefing";
+  if (kind === "president-note") return "President's Note";
+  if (kind === "presidential-schedule") return "Schedule";
+  if (kind === "talking-points") return "Talking Points";
+  if (kind === "possible-questions") return "Possible Questions";
+  if (kind === "administration-report") return "Report";
+  if (kind === "legislative-issues-update") return "Legislative Issues Update";
+  if (kind === "participant-list") return "Participant List";
+  return "Briefing Material";
+}
+
+function directBriefingCategory(kind) {
+  if (kind === "event-briefing") return "event-briefing-item";
+  if (kind === "president-note") return "president-note-item";
+  if (kind === "presidential-schedule") return "presidential-schedule-item";
+  if (kind === "talking-points") return "talking-points-item";
+  if (kind === "possible-questions") return "possible-questions-item";
+  if (kind === "administration-report") return "report-item";
+  if (kind === "legislative-issues-update") return "legislative-issues-update-item";
+  if (kind === "participant-list") return "participant-list-item";
+  return "briefing-material-item";
+}
+
+function directBriefingDisposition(kind) {
+  if (kind === "event-briefing") return "itemized-event-briefing";
+  if (kind === "president-note") return "itemized-president-note";
+  if (kind === "presidential-schedule") return "itemized-presidential-schedule";
+  if (kind === "talking-points") return "itemized-talking-points";
+  if (kind === "possible-questions") return "itemized-possible-questions";
+  if (kind === "administration-report") return "itemized-report";
+  if (kind === "legislative-issues-update") return "itemized-legislative-issues-update";
+  if (kind === "participant-list") return "itemized-participant-list";
+  return "itemized-briefing-material";
+}
+
+function headingContinuationLines(segment, maxLines = 3) {
+  const heading = [segment[0]];
+  for (const line of segment.slice(1, maxLines)) {
+    if (
+      !line ||
+      /^--/.test(line) ||
+      /^\d+[).]/.test(line) ||
+      /^(date|time|location|through|from|to|i\.|ii\.|overview|index):?\b/i.test(line)
+    ) {
+      break;
+    }
+    if (!isAllCapsBriefingTitleLine(line)) break;
+    heading.push(line);
+  }
+  return heading;
+}
+
+function directEventBriefingTitle(segment, typeLabel) {
+  const titleLines = directEventBriefingTitleLines(segment, 0);
+  return `${typeLabel}: ${compactTitle(titleLines.join(" "), typeLabel)}`;
+}
+
+function directPresidentNoteTitle(segment, typeLabel) {
+  const toIndex = segment.findIndex((line) => /^to:?$/i.test(line));
+  const recipient = toIndex >= 0 ? segment[toIndex + 1] : "";
+  const title = recipient ? `To ${titleCaseMemoRecipient(recipient)}` : "";
+  return `${typeLabel}: ${compactTitle(title, typeLabel)}`;
+}
+
+function directBriefingReportTitle(segment, typeLabel) {
+  const heading = [segment[0]];
+  for (const line of segment.slice(1, 5)) {
+    if (/^(transmitted to the congress|by the president|on\b|overview|index)$/i.test(line)) break;
+    heading.push(line);
+  }
+  return `${typeLabel}: ${compactTitle(heading.join(" "), typeLabel)}`;
+}
+
+function directBriefingTitle(segment, kind, typeLabel, folderDate) {
+  if (kind === "event-briefing") return directEventBriefingTitle(segment, typeLabel);
+  if (kind === "president-note") return directPresidentNoteTitle(segment, typeLabel);
+  if (kind === "presidential-schedule") {
+    const scheduleDate = normalizeDateLineYear(segment[1] || folderDate, folderDate);
+    return `${typeLabel}: ${compactTitle(scheduleDate, typeLabel)}`;
+  }
+  if (kind === "talking-points") {
+    return `${typeLabel}: ${compactTitle(headingContinuationLines(segment).join(" "), typeLabel)}`;
+  }
+  if (kind === "possible-questions") return `${typeLabel}: ${compactTitle(segment[0], typeLabel)}`;
+  if (kind === "administration-report") return directBriefingReportTitle(segment, typeLabel);
+  if (kind === "legislative-issues-update") return typeLabel;
+  if (kind === "participant-list") return typeLabel;
+  return `${typeLabel}: ${compactTitle(segment[0], typeLabel)}`;
+}
+
 function buildDirectLetterDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
   if (!["packet-correspondence", "packet-memorandum-material"].includes(packetDoc.directScanDisposition)) {
     return [];
@@ -1125,6 +1310,63 @@ function buildDirectNewsDocuments(contentLines, folder, packetDoc, starts, bound
     .filter(Boolean);
 }
 
+function buildDirectBriefingDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
+  if (!starts.length) return [];
+
+  return starts
+    .map(({ start, kind }, index) => {
+      const end = nextBoundaryAfter(boundaryStarts, start, contentLines.length);
+      const segment = contentLines.slice(start, end);
+      if (segment.length < 4) return null;
+      const itemNumber = index + 1;
+      const itemLabel = String(itemNumber).padStart(2, "0");
+      const seenDate = folder.date;
+      const documentDate = documentDateFromSegment(segment, folder.date);
+      const typeLabel = directBriefingType(kind);
+      const title = directBriefingTitle(segment, kind, typeLabel, folder.date);
+
+      return {
+        id: `${folder.id}-direct-briefing-${itemLabel}`,
+        folderId: folder.id,
+        folderNaId: folder.naId,
+        folderTitle: folder.title,
+        folderDate: folder.date,
+        folderLocalId: folder.localId,
+        folderContainerId: folder.containerId,
+        catalogUrl: folder.catalogUrl,
+        pdfUrl: folder.pdfUrl || "",
+        chapterId: folder.chapterId,
+        chapter: folder.chapter,
+        themes: folder.themes,
+        searchTerms: folder.searchTerms,
+        documentNumber: `Direct-B${itemLabel}`,
+        documentType: typeLabel,
+        directScanCategory: directBriefingCategory(kind),
+        directScanDisposition: directBriefingDisposition(kind),
+        directScanItemizationStatus: "itemized-document",
+        directScanItemizationNote:
+          "Itemized from an explicit briefing, schedule, report, or presidential-note marker in a direct folder scan.",
+        parentPacketId: packetDoc.id,
+        title,
+        date: seenDate,
+        seenDate,
+        documentDate,
+        year: seenDate.slice(0, 4),
+        month: seenDate.slice(0, 7),
+        pages: null,
+        restriction: "",
+        classification: "",
+        excerpt: excerptFromLines(segment),
+        evidence:
+          "Itemized from NARA direct folder scan OCR using an explicit briefing, schedule, report, or presidential-note marker.",
+        evidenceStatus: "direct-scan-itemized",
+        needsItemization: false,
+        citation: `George H. W. Bush Papers, Presidential Daily Files, ${folder.title}, direct scan briefing/material item ${itemLabel}, ${title}, National Archives Catalog NAID ${folder.naId}.`,
+      };
+    })
+    .filter(Boolean);
+}
+
 function buildDirectPoolReportDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
   if (!starts.length) return [];
 
@@ -1237,18 +1479,27 @@ function buildDirectScanDocuments(text, folder) {
   const poolReportStarts = packetDoc.needsItemization ? directPoolReportStarts(contentLines) : [];
   const memoStarts = packetDoc.needsItemization ? directMemoStarts(contentLines) : [];
   const newsStarts = packetDoc.needsItemization ? directNewsStarts(contentLines) : [];
+  const briefingStarts = packetDoc.needsItemization ? directBriefingStarts(contentLines) : [];
   const boundaryStarts = sortedUniqueNumbers([
     ...letterStarts,
     ...pressReleaseStarts,
     ...poolReportStarts,
     ...memoStarts,
     ...newsStarts,
+    ...briefingStarts.map(({ start }) => start),
   ]);
   const itemizedDocs = packetDoc.needsItemization
     ? [
         ...buildDirectLetterDocuments(contentLines, folder, packetDoc, letterStarts, boundaryStarts),
         ...buildDirectMemoDocuments(contentLines, folder, packetDoc, memoStarts, boundaryStarts),
         ...buildDirectNewsDocuments(contentLines, folder, packetDoc, newsStarts, boundaryStarts),
+        ...buildDirectBriefingDocuments(
+          contentLines,
+          folder,
+          packetDoc,
+          briefingStarts,
+          boundaryStarts
+        ),
         ...buildDirectPressReleaseDocuments(
           contentLines,
           folder,
