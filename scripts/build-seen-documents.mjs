@@ -15508,6 +15508,360 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from page 120 of the NARA direct folder scan using the Wirtschaftsgipfel Munchen 1992 logo, color flag strip, rendered-page review, and low-confidence OCR.",
     },
   ],
+  470417900: [
+    {
+      slug: "charles-bartlett-europe-economy-perot-memo",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush handwritten note to Charles Bartlett with Washington Focus memorandum",
+      documentDate: "1992-07-13",
+      pages: 4,
+      excerpt:
+        "President Bush writes Charley Bartlett from Walker's Point after the Europe trip, and Bartlett's memorandum discusses optimism, Los Angeles riot analysis, economic advisers, vacation optics, Canadian advice on three-corner politics, and Perot.",
+      evidence:
+        "Itemized from pages 2-5 of the NARA direct folder scan using the Walker's Point handwritten presidential note, address page, Coleman/Bartlett's Washington Focus memorandum, OCR, and rendered-page review.",
+    },
+    {
+      slug: "elizabeth-cook-support-note",
+      documentType: "Presidential Handwritten Note and Incoming Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush handwritten note to Elizabeth S. Cook",
+      documentDate: "1992-07-13",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush thank Betty Cook for her supportive note, with Cook's patriotic handwritten letter attached.",
+      evidence:
+        "Itemized from pages 6-8 of the NARA direct folder scan using the Walker's Point handwritten presidential note, Elizabeth S. Cook address page, incoming flag stationery, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jane-ely-dallas-speech-correspondence",
+      documentType: "Presidential Handwritten Note and Clipping",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush handwritten note to Jane Ely re Dallas speech and Ross Perot",
+      documentDate: "1992-07-13",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Jane Ely about her June 24 Houston Chronicle column on his Dallas speech, the Perot piece, and the campaign, with the marked clipping attached.",
+      evidence:
+        "Itemized from pages 9-11 of the NARA direct folder scan using the Walker's Point handwritten note, Jane Ely address page, Houston Chronicle clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "raffi-hovannisian-armenia-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush and Barbara Bush correspondence with Raffi Hovannisian re Armenia",
+      documentDate: "1992-07-13",
+      pages: 5,
+      excerpt:
+        "President and Mrs. Bush thank Armenian Foreign Minister Raffi Hovannisian for his CSCE letter and discuss Armenia, with George Bush routing notes and NSC handling instructions attached.",
+      evidence:
+        "Itemized from pages 12-16 of the NARA direct folder scan using the Walker's Point and From the desk of George Bush handwriting pages, Armenian foreign minister addressee, NSC routing instruction, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sevareid-condolence-letter",
+      documentType: "Presidential Condolence Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush condolence letter to Mrs. Eric Sevareid",
+      documentDate: "1992-07-13",
+      pages: 1,
+      excerpt:
+        "President and Mrs. Bush send condolences to Mrs. Eric Sevareid and praise Eric Sevareid's journalism, clarity, context, and conscience.",
+      evidence:
+        "Itemized from page 17 of the NARA direct folder scan using the White House letterhead, Kennebunkport Maine location, July 13 1992 date, Sevareid addressee, OCR, and rendered-page review.",
+    },
+    {
+      slug: "frances-sclafani-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Frances A. Sclafani correspondence packet",
+      documentDate: "1992-06-28",
+      pages: 2,
+      excerpt:
+        "The packet includes a White House address page for Frances A. Sclafani and an incoming June 28 letter to President Bush.",
+      evidence:
+        "Itemized from pages 18-19 of the NARA direct folder scan using the White House address page, Frances A. Sclafani name and Washington address, incoming handwritten letter page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-stinnett-world-war-ii-video-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Robert B. Stinnett correspondence re George Bush: His World War II Years video",
+      documentDate: "1992-07-08",
+      pages: 2,
+      excerpt:
+        "Robert B. Stinnett sends President Bush a first draft of the completed A&E video George Bush: His World War II Years, with a presidential reply note and routing annotations.",
+      evidence:
+        "Itemized from pages 20-21 of the NARA direct folder scan using the White House address page to Robert B. Stinnett, Walker's Point reply note, Stinnett incoming letterhead, A&E video title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "key-points-nafta-negotiations-to-date",
+      documentType: "NAFTA Briefing Chronology",
+      category: "nafta-briefing",
+      disposition: "itemized-nafta-briefing",
+      title: "Key Points in NAFTA Negotiations to Date",
+      documentDate: "1992-07-13",
+      pages: 2,
+      excerpt:
+        "The chronology summarizes major NAFTA negotiation milestones from the 1990 Bush-Salinas joint statement through ministerial, congressional, environmental, and negotiating sessions.",
+      evidence:
+        "Itemized from pages 22-23 of the NARA direct folder scan using the Key Points in NAFTA Negotiations To Date heading, July 13 1992 date, two-page chronology sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-prosperi-cpb-nomination-release",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title:
+        "Nomination release: David B. Prosperi to be a member of the Corporation for Public Broadcasting Board",
+      documentDate: "1992-07-13",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate David B. Prosperi to the Corporation for Public Broadcasting Board of Directors.",
+      evidence:
+        "Itemized from page 24 of the NARA direct folder scan using the Office of the Press Secretary release heading, Kennebunkport Maine location, David B. Prosperi name line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "linton-brooks-acda-nomination-release",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title:
+        "Nomination release: Linton F. Brooks to be Assistant Director of ACDA",
+      documentDate: "1992-07-13",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate Ambassador Linton F. Brooks as Assistant Director of the Arms Control and Disarmament Agency's Bureau of Strategic and Nuclear Affairs.",
+      evidence:
+        "Itemized from page 25 of the NARA direct folder scan using the Office of the Press Secretary release heading, Linton F. Brooks nomination text, ACDA title line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "shirley-ryan-disability-council-nomination-release",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title:
+        "Nomination release: Shirley W. Ryan to be a member of the National Council on Disability",
+      documentDate: "1992-07-13",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate Shirley W. Ryan to the National Council on Disability.",
+      evidence:
+        "Itemized from page 26 of the NARA direct folder scan using the Office of the Press Secretary release heading, Shirley W. Ryan nomination text, National Council on Disability line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "advisory-committee-trade-policy-negotiations-appointments",
+      documentType: "Appointment Release",
+      category: "appointment-release",
+      disposition: "itemized-appointment-release",
+      title:
+        "Appointment release: Advisory Committee for Trade Policy and Negotiations members",
+      documentDate: "1992-07-13",
+      pages: 1,
+      excerpt:
+        "The President appoints members of the Advisory Committee for Trade Policy and Negotiations, including Georgette Mosbacher, George M.C. Fisher, P. Roy Vagelos, Walter Y. Elisha, Michael A. Miles, Ralph S. Larsen, and others.",
+      evidence:
+        "Itemized from page 27 of the NARA direct folder scan using the Office of the Press Secretary release heading, Advisory Committee for Trade Policy and Negotiations title, appointee list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "h-ross-perot-daybook-july-13-1992",
+      documentType: "Campaign Daybook",
+      category: "campaign-briefing",
+      disposition: "itemized-campaign-briefing",
+      title: "H. Ross Perot Daybook: Monday, July 13, 1992",
+      documentDate: "1992-07-13",
+      pages: 2,
+      excerpt:
+        "The daybook tracks Perot's schedule, NAACP remarks fallout, Hal Riney, elector loyalty oaths, Douglas Wilder, Calvin Butts, polling, and commentary comparing Perot and Truman.",
+      evidence:
+        "Itemized from pages 28-29 of the NARA direct folder scan using the H. Ross Perot Daybook heading, Monday July 13 1992 date, schedule and news sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "amory-houghton-house-visit-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush reply to Representative Amory Houghton re House visit",
+      documentDate: "1992-07-13",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Representative Amo Houghton for his July 2 note about the House visit, with Houghton's handwritten House of Representatives note attached.",
+      evidence:
+        "Itemized from pages 30-32 of the NARA direct folder scan using the White House address and reply page, Amory Houghton addressee, House of Representatives handwritten note pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chi-chi-rodriguez-sweetser-golf-classic-packet",
+      documentType: "Invitation and Event Packet",
+      category: "event-invitation",
+      disposition: "itemized-event-invitation",
+      title:
+        "President Bush invitation to Chi Chi Rodriguez with Sweetser Golf Classic material",
+      documentDate: "1992-07-13",
+      pages: 7,
+      excerpt:
+        "President Bush invites Chi Chi Rodriguez to Walker's Point before the August 10 Saco golf event; attached material includes a note page, July and August schedule pages, a Sweetser fax, team roster form, and Toyota/Sweetser Golf Classic flyer.",
+      evidence:
+        "Itemized from pages 33-39 of the NARA direct folder scan using the Walker's Point letter to Chi Chi Rodriguez, handwritten continuation page, President's Schedule pages, Sweetser fax cover, team roster form, golf classic flyer, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-july-13-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary, Monday, July 13, 1992",
+      documentDate: "1992-07-13",
+      pages: 24,
+      excerpt:
+        "The White House News Summary covers Bush's Kennebunkport weekend, the Democratic convention, polling, Perot, network news, Sunday political programs, Clinton-Gore, Iraq, NAACP, Honduras, and related political coverage.",
+      evidence:
+        "Itemized from pages 40-63 of the NARA direct folder scan using the upside-down White House News Summary first page, Monday July 13 1992 date, National News, International News, Network News, and C-section page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "salinas-nafta-call-points",
+      documentType: "Presidential Call Notes and NAFTA Talking Points",
+      category: "telephone-call-points",
+      disposition: "itemized-telephone-call-points",
+      title:
+        "George Bush handwritten Salinas note and NAFTA points on agriculture, autos, investment, energy, procurement, drawbacks, and tariffs",
+      documentDate: "1992-07-13",
+      pages: 8,
+      excerpt:
+        "A From the desk of George Bush note labeled Salinas introduces NAFTA negotiation point cards on must-get and can't-give issues for agriculture, autos, investment, energy, government procurement, drawbacks, and tariffs.",
+      evidence:
+        "Itemized from pages 64-71 of the NARA direct folder scan using the From the desk of George Bush page, Document Originally Attached marker, Salinas note, July 13 1992 NAFTA point-card headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-phone-calls-handwritten-follow-up",
+      documentType: "Presidential Phone Call Notes",
+      category: "telephone-note-packet",
+      disposition: "itemized-telephone-note-packet",
+      title: "Presidential phone calls handwritten follow-up page",
+      documentDate: "1992-07-13",
+      pages: 1,
+      excerpt:
+        "A Bush Library photocopy page headed Presidential Phone Calls contains handwritten follow-up notes and names connected to call handling.",
+      evidence:
+        "Itemized from page 72 of the NARA direct folder scan using the Presidential Phone Calls heading, Bush Library photocopy and George Bush handwriting markers, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-leboutillier-roger-ailes-pow-mia-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "John LeBoutillier and Roger Ailes POW/MIA correspondence packet",
+      documentDate: "1992-07-13",
+      pages: 6,
+      excerpt:
+        "President Bush replies to John LeBoutillier about working together on POW/MIA issues; attachments include Roger Ailes's cover letter, LeBoutillier's June 19 letter, polling/crosstab material, and an envelope page.",
+      evidence:
+        "Itemized from pages 73-78 of the NARA direct folder scan using the Walker's Point reply to John LeBoutillier, Roger Ailes Communications letterhead, LeBoutillier letterhead, Decision/Making/Information survey pages, envelope page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "freddy-heineken-eurotopia-correspondence-packet",
+      documentType: "Presidential Correspondence and Case File",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "C. Howard Wilkins and A.H. Heineken correspondence re The United States of Europe",
+      documentDate: "1992-07-13",
+      pages: 6,
+      excerpt:
+        "President Bush sends Ambassador C. Howard Wilkins a reply and note for Freddy Heineken on Heineken's Eurotopia study; the packet includes NSC referral and records-management follow-up after the Heineken enclosure was mishandled.",
+      evidence:
+        "Itemized from pages 79-84 of the NARA direct folder scan using the President's letters to Howard Wilkins and Mr. Heineken, NSC referral, Terry Good memorandum for the record, Bracken follow-up letter, duplicate Heineken letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "july-13-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "Telephone memoranda for President Bush, July 13, 1992",
+      documentDate: "1992-07-13",
+      pages: 4,
+      excerpt:
+        "Telephone memorandum pages record no calls on the President Bush sheet and signal-switchboard calls with James Baker, Jack Kemp, Ron Kaufman, Richard Bond, Bernard Law, Ben Andrews, Thomas Ashley, John Sununu, Arlen Specter, Yitzhak Rabin, and Thomas Koroscil.",
+      evidence:
+        "Itemized from pages 85-88 of the NARA direct folder scan using the President Bush and Signal Switchboard telephone memorandum headings, July 13 date lines, call entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "july-13-presidential-movements-kennebunkport",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-log",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential movements log: Kennebunkport, Maine, July 13, 1992",
+      documentDate: "1992-07-13",
+      pages: 1,
+      excerpt:
+        "The WHCA movements log records no presidential movements in Kennebunkport, Maine, on July 13, 1992.",
+      evidence:
+        "Itemized from page 89 of the NARA direct folder scan using the Presidential Movements heading, Kennebunkport Maine location line, July 13 1992 date, No Movements entry, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-news-clips-july-13-1992",
+      documentType: "Daily News Clips Packet",
+      category: "daily-news-clips",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips: Monday, July 13, 1992",
+      documentDate: "1992-07-13",
+      pages: 120,
+      excerpt:
+        "The Office of Media Affairs Daily News Clips packet collects July 13 coverage from the Washington Post, USA Today, New York Times, Washington Times, and Wall Street Journal on the Democratic convention, Clinton and Gore, Perot, Bush campaign ads, Iraq/BNL, NAFTA and trade, Honduras, Yugoslavia, and political commentary.",
+      evidence:
+        "Itemized from pages 90-209 of the NARA direct folder scan using the Daily News Clips cover page, newspaper mastheads, Washington Post pages, USA Today pages, New York Times pages, Washington Times pages, Wall Street Journal pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-mckenzie-libya-qaddafi-note",
+      documentType: "Presidential Handwritten Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title:
+        "President Bush handwritten note to William A. McKenzie re Libyans, Qaddafi, Ross Perot, and the campaign",
+      documentDate: "1992-07-13",
+      pages: 1,
+      excerpt:
+        "President Bush writes Billy Mac from Walker's Point about the Class of 1992's gift, Brent Scowcroft and the Libyans, Qaddafi, and Ross Perot getting better defined.",
+      evidence:
+        "Itemized from page 210 of the NARA direct folder scan using the Walker's Point handwritten note, William A. McKenzie address page, Libyans and Ross references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "duplicate-charles-bartlett-handwritten-note",
+      documentType: "Presidential Handwritten Note Duplicate",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "Loose duplicate of President Bush handwritten note to Charles Bartlett",
+      documentDate: "1992-07-13",
+      pages: 1,
+      excerpt:
+        "A loose duplicate or copy of the President's July 13 Walker's Point note to Charles Bartlett appears near the end of the packet with Lans note and handling marks.",
+      evidence:
+        "Itemized from page 211 of the NARA direct folder scan using the Walker's Point handwritten note, Charles Bartlett address block, Lans annotation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photo-july-13-walkers-point",
+      documentType: "Official White House Photograph",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photograph from Walker's Point, July 13, 1992",
+      documentDate: "1992-07-13",
+      pages: 2,
+      excerpt:
+        "A color Official White House photograph and back page show President Bush at Walker's Point with visitors and a stamped Official White House Photo backing page.",
+      evidence:
+        "Itemized from pages 212-213 of the NARA direct folder scan using the color photograph page, Official White House Photo backing page dated 13JUL92, rendered-page review, and low-confidence OCR.",
+    },
+  ],
   470417970: [
     {
       slug: "treasury-forwarding-note-brady-houston-club-materials",
@@ -21362,6 +21716,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417877",
   "470417878",
   "470417888",
+  "470417900",
   "470418083",
 ]);
 
