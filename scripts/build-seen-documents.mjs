@@ -1535,6 +1535,326 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from page 106 of the NARA direct folder scan using the White House News Summary update heading, 2:30 p.m. EDT / 7:30 p.m. London marker, OCR, and rendered-page review.",
     },
   ],
+  470417305: [
+    {
+      slug: "hector-salazar-shirt-thanks-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to Hector Salazar re Kennebunkport shirt",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Hector Salazar for a shirt, says he expects to use it in Kennebunkport, and notes that Marvin will get the shirt Salazar sent him.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using presidential letterhead, Hector Salazar address page, signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mark-yudof-charles-alan-wright-handwritten-note",
+      documentType: "Handwritten Presidential Note and Envelope",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush handwritten note to Mark Yudof re New York Times picture and University of Texas law school friends",
+      documentDate: "1991-08-21",
+      pages: 2,
+      excerpt:
+        "President Bush writes Mark Yudof about a New York Times picture, Charles Alan Wright, University of Texas law school friends, and sends thanks and regards to Edith.",
+      evidence:
+        "Itemized from pages 3-4 of the NARA direct folder scan using Walker's Point notecard pages, Mark G. Yudof address page, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-moseley-handwritten-note-camp-david-maine",
+      documentType: "Handwritten Presidential Note and Envelope",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush handwritten note to Thomas W. Moseley re photographs, Camp David call, and Maine",
+      documentDate: "1991-08-21",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Thomas W. Moseley for photographs, mentions a Camp David call with Lud Ashley, says he is back in Maine, and asks about Moseley's fall schedule.",
+      evidence:
+        "Itemized from pages 5-6 of the NARA direct folder scan using Walker's Point notecard pages, Thomas W. Moseley address page, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "craig-shergold-card-collection-note",
+      documentType: "Handwritten Presidential Note and Envelope",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush handwritten note to Craig Shergold re card collection",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "President Bush writes Craig Shergold that Lud Ashley told him about Shergold's card collection and sends one of his cards to add to it.",
+      evidence:
+        "Itemized from page 7 of the NARA direct folder scan using presidential notecard text, Craig Shergold address page, bcc to Lud Ashley, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ted-stevens-salmon-recovery-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to Ted Stevens re salmon and recovery",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Senator Ted Stevens for salmon sent to Kennebunkport and hopes Stevens's recovery is speedy.",
+      evidence:
+        "Itemized from page 8 of the NARA direct folder scan using presidential letterhead, Ted Stevens address page, Gift Unit note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jack-guy-georgia-veterans-day-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to Jack O. Guy re Southeast Georgia Veterans Day Celebration",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "President Bush tells Jack O. Guy that he does not know whether he can attend the Southeast Georgia Veterans Day Celebration but will have schedulers give it close attention.",
+      evidence:
+        "Itemized from page 9 of the NARA direct folder scan using presidential letterhead, Jack O. Guy address page, scheduler note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "prescott-bush-armando-ferla-william-edgar-copies-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush letter to Prescott S. Bush Jr. transmitting Armando Ferla and William Edgar reply copies",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "President Bush sends Prescott S. Bush Jr. copies of letters to Armando Ferla and William Edgar and comments on vacation at Kennebunkport despite events in the Soviet Union.",
+      evidence:
+        "Itemized from page 10 of the NARA direct folder scan using presidential letterhead, Prescott S. Bush Jr. address page, signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-black-campaign-organization-counsel-note",
+      documentType: "Handwritten Presidential Note and Envelope",
+      category: "campaign-organization-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush handwritten note to Charles R. Black Jr. re campaign organization counsel",
+      documentDate: "1991-08-21",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Charles Black for helpful input, says he has not finalized campaign organization decisions, and values Black's counsel.",
+      evidence:
+        "Itemized from pages 11-12 of the NARA direct folder scan using Walker's Point notecard pages, Charles R. Black Jr. address page, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "philip-grondin-bluefish-tuna-tournament-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to Philip H. Grondin re Sturdivant Island Bluefish/Tuna Tournament",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "President Bush tells Philip Grondin that he missed the Sturdivant Island Bluefish/Tuna Tournament, appreciates the invitation, and calls it one of the best summers for blue fishing he can recall.",
+      evidence:
+        "Itemized from page 13 of the NARA direct folder scan using presidential letterhead, Philip H. Grondin address page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-kockos-anniversary-letter-note",
+      documentType: "Presidential Letter with Staff Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to Mr. and Mrs. William Kockos re 49th wedding anniversary",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "President Bush congratulates Mr. and Mrs. William Kockos on their 49th wedding anniversary, with a handwritten staff note about sending the tie bar and stick pin.",
+      evidence:
+        "Itemized from page 14 of the NARA direct folder scan using presidential letterhead, William Kockos address page, handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "armando-ferla-missing-may-letter-response",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to Armando Ferla re missing May letter",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "President Bush writes Armando Ferla that Pres passed along Ferla's message about a May letter, says no record of the letter was found, and invites him to stay in touch.",
+      evidence:
+        "Itemized from page 15 of the NARA direct folder scan using White House letterhead, Armando Ferla address page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-edgar-westminster-theological-seminary-invitation-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush letter to William Edgar re Westminster Theological Seminary keynote invitation",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "President Bush thanks William Edgar for inviting him to keynote the Westminster Theological Seminary luncheon and says a scheduler will be in touch.",
+      evidence:
+        "Itemized from page 16 of the NARA direct folder scan using presidential letterhead, William Edgar address page, scheduler note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "herbie-surgery-recovery-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to Herbie re surgery and recovery",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "President Bush tells Herbie that he and Barbara heard about the surgery, are thinking of him, and hope his recovery is speedy.",
+      evidence:
+        "Itemized from page 17 of the NARA direct folder scan using presidential letterhead, addressee line, signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-august-21-1991-330pm-update",
+      documentType: "White House News Summary Update",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 3:30 p.m. EDT update, August 21, 1991",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "The 3:30 p.m. update tracks Gorbachev's television statement, Yazov, Soviet coup developments, Yeltsin, and related wire coverage.",
+      evidence:
+        "Itemized from page 18 of the NARA direct folder scan using the White House News Summary heading, 3:30 p.m. EDT update marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-august-21-1991-100pm-update",
+      documentType: "White House News Summary Update",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 1:00 p.m. EDT update, August 21, 1991",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "The 1:00 p.m. update covers reports about Dmitri Yazov, Soviet army movement, the coup committee, Yeltsin, Gorbachev, and Bush administration reaction.",
+      evidence:
+        "Itemized from page 19 of the NARA direct folder scan using the White House News Summary heading, 1:00 p.m. EDT update marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-august-21-1991-1000am-update",
+      documentType: "White House News Summary Update",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 10:00 a.m. news update, August 21, 1991",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "The 10:00 a.m. news update covers the collapse of the Soviet coup, Yeltsin, Gorbachev, Lithuania, and U.S. administration reaction.",
+      evidence:
+        "Itemized from page 21 of the NARA direct folder scan using the White House News Summary heading, 10:00 a.m. news update marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-august-21-1991-830am-update",
+      documentType: "White House News Summary Update",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 8:30 a.m. news update, August 21, 1991",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "The 8:30 a.m. news update covers the Gang of Eight, Yeltsin, Soviet television, Bush statements, the Baltics, and early coup-collapse reporting.",
+      evidence:
+        "Itemized from page 22 of the NARA direct folder scan using the White House News Summary heading, 8:30 a.m. news update marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "romania-jackson-vanik-waiver-release-packet",
+      documentType: "Press Release Packet",
+      category: "romania-jackson-vanik-waiver",
+      disposition: "itemized-romania-jackson-vanik-waiver",
+      title:
+        "Romania Jackson-Vanik waiver release packet, letter, executive order, determination, and duplicate copies",
+      documentDate: "1991-08-21",
+      pages: 8,
+      excerpt:
+        "The Romania waiver packet includes press secretary statements, the President's transmittal letter to Congress, an executive order, and Presidential Determination No. 91-48 waiving Trade Act emigration provisions for Romania.",
+      evidence:
+        "Itemized from pages 23, 39-44, and 46 of the NARA direct folder scan using White House Press Secretary headings, Romania Jackson-Vanik waiver text, executive order, presidential determination, duplicate copies, OCR, and rendered-page review.",
+    },
+    {
+      slug: "walkers-point-press-availability-gorbachev-duplicate-transcripts",
+      documentType: "Press Availability Transcript Copies",
+      category: "presidential-press-availability",
+      disposition: "itemized-presidential-press-availability",
+      title:
+        "Remarks by President Bush during Walker's Point press availability on Gorbachev, duplicate transcript copies",
+      documentDate: "1991-08-21",
+      pages: 8,
+      excerpt:
+        "Two transcript copies record President Bush's Walker's Point press availability on the Soviet coup, Gorbachev's status, popular elections, the five plotters, and the coup's collapse.",
+      evidence:
+        "Itemized from pages 24-27 and 47-50 of the NARA direct folder scan using Office of the Press Secretary release headings, Walker's Point location line, duplicate transcript copies, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-24-post-press-conference",
+      documentType: "Pool Report",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #24: post-press conference, August 21, 1991",
+      documentDate: "1991-08-21",
+      pages: 2,
+      excerpt:
+        "Pool Report #24 covers the motorcade back to Walker's Point, Fitzwater comments after the press conference, the Gorbachev call, and the President's informal shirt appearance.",
+      evidence:
+        "Itemized from pages 28-29 of the NARA direct folder scan using Pool Report #24 heading, K-Port Press Office fax line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-press-conference-shawmut-inn-august-21-1991",
+      documentType: "Press Conference Transcript",
+      category: "press-conference-transcript",
+      disposition: "itemized-press-conference-transcript",
+      title: "Press conference by President Bush at the Shawmut Inn, August 21, 1991",
+      documentDate: "1991-08-21",
+      pages: 9,
+      excerpt:
+        "The Shawmut Inn press conference transcript covers Bush's response to the Soviet coup, Gorbachev, Yeltsin, Baker's European consultations, the Baltics, democracy, and U.S. policy toward the Soviet Union.",
+      evidence:
+        "Itemized from pages 30-38 of the NARA direct folder scan using the Press Conference by the President heading, Shawmut Inn location line, K-Port Press Office fax pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chemical-safety-board-budget-amendment-statement",
+      documentType: "Press Secretary Statement",
+      category: "budget-amendment-statement",
+      disposition: "itemized-budget-amendment-statement",
+      title: "Press Secretary statement on FY 1992 budget amendment for Chemical Safety and Hazard Investigation Board",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "The statement announces that President Bush transmitted an FY 1992 budget amendment to establish the Chemical Safety and Hazard Investigation Board authorized by the Clean Air Act Amendments of 1990.",
+      evidence:
+        "Itemized from page 45 of the NARA direct folder scan using the Office of the Press Secretary heading, budget amendment text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-inside-beltway-banzhaf-clipping",
+      documentType: "Newspaper Clipping",
+      category: "press-clipping",
+      disposition: "itemized-press-clipping",
+      title: "Washington Times Inside the Beltway clipping re John Banzhaf and lawyer jokes",
+      documentDate: "1991-08-21",
+      pages: 1,
+      excerpt:
+        "A Washington Times Inside the Beltway clipping includes item text on John Banzhaf and reactions to a lawyer-joke item.",
+      evidence:
+        "Itemized from page 51 of the NARA direct folder scan using the Washington Times masthead, Inside the Beltway column title, clipping layout, OCR, and rendered-page review.",
+    },
+    {
+      slug: "transferred-white-house-photographs-august-21-1991-transfer-sheet",
+      documentType: "Transfer Sheet and Photograph Photocopies",
+      category: "transferred-white-house-photographs",
+      disposition: "itemized-transferred-white-house-photographs",
+      title: "George Bush Presidential Library transfer sheet and photocopies of transferred White House photographs, August 21, 1991",
+      documentDate: "2013-01-11",
+      pages: 19,
+      excerpt:
+        "A Bush Library transfer sheet records White House photographs transferred to the audiovisual collection, followed by photocopies of official White House photographs from August 21, 1991.",
+      evidence:
+        "Itemized from pages 53-71 of the NARA direct folder scan using the transfer sheet, official White House photograph captions, photocopied images, OCR, and rendered-page review.",
+    },
+  ],
   470417389: [
     {
       slug: "presidential-log-selected-congressional-mail",
@@ -9252,6 +9572,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417151",
   "470417227",
   "470417253",
+  "470417305",
   "470418083",
 ]);
 
