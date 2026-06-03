@@ -499,6 +499,156 @@ function excerptFromLines(lines) {
 }
 
 const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
+  470417059: [
+    {
+      slug: "upi-thomas-ferraro-bush-speech-pows-abused",
+      documentType: "Wire Story",
+      category: "joint-session-address-wire-story",
+      disposition: "itemized-wire-story",
+      title:
+        "UPI Wire Story by Thomas Ferraro: Bush speech; doctors say some POWs abused by Iraqis",
+      documentDate: "1991-03-06",
+      pages: 1,
+      excerpt:
+        "Thomas Ferraro reports for UPI on President Bush's joint-session address, the return of U.S. troops from the Gulf, POW releases, and continuing Iraq developments.",
+      evidence:
+        "Itemized from the UPI 9:45 p.m. writethru heading and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "upi-gulf-wrapup-saddam-postwar-troubles",
+      documentType: "Wire Story",
+      category: "gulf-war-wrapup-wire-story",
+      disposition: "itemized-wire-story",
+      title: "UPI Gulf wrapup first add: Saddam's postwar troubles intensify",
+      documentDate: "1991-03-06",
+      pages: 1,
+      excerpt:
+        "A UPI Gulf wrapup first-add page reports on Saddam Hussein's postwar troubles, unrest in Iraq, missing journalists, Arab postwar cooperation, and regional security issues.",
+      evidence:
+        "Itemized from a UPI gulf-wrapup first-add heading and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "march-4-8am-joint-session-address-draft",
+      documentType: "Speech Draft",
+      category: "joint-session-address-draft",
+      disposition: "itemized-speech-draft",
+      title: "Presidential Remarks: Joint Session of Congress, March 4, 1991, 8:00 a.m. draft",
+      documentDate: "1991-03-04",
+      pages: 10,
+      excerpt:
+        "McGroarty/Dooley draft of the President's joint-session address, dated March 4, 1991, 8:00 a.m., with Desert Storm victory, Gulf security, Middle East peace, and domestic-agenda language.",
+      evidence:
+        "Itemized from the March 4, 1991, 8:00 a.m. draft heading and full-PDF OCR page sequence in the NARA direct folder scan.",
+    },
+    {
+      slug: "march-4-445pm-joint-session-address-marked-draft",
+      documentType: "Speech Draft with President Bush Handwriting",
+      category: "joint-session-address-draft",
+      disposition: "itemized-speech-draft",
+      title:
+        "Presidential Remarks: Joint Session of Congress, March 4, 1991, 4:45 p.m. marked draft",
+      documentDate: "1991-03-04",
+      pages: 10,
+      excerpt:
+        "McGroarty/Dooley marked draft of the joint-session address, dated March 4, 1991, 4:45 p.m., with George Bush handwriting and edits to the Desert Storm victory language.",
+      evidence:
+        "Itemized from the March 4, 1991, 4:45 p.m. draft heading, Bush Library handwriting marker, and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "march-6-9am-joint-session-address-draft",
+      documentType: "Speech Draft",
+      category: "joint-session-address-draft",
+      disposition: "itemized-speech-draft",
+      title: "Presidential Remarks: Joint Session of Congress, March 6, 1991, 9:00 a.m. draft",
+      documentDate: "1991-03-06",
+      pages: 11,
+      excerpt:
+        "McGroarty/Dooley March 6, 1991, 9:00 a.m. draft of the joint-session address, including mission-accomplished language and the planned troop-return celebration.",
+      evidence:
+        "Itemized from the March 6, 1991, 9:00 a.m. draft heading and full-PDF OCR page sequence in the NARA direct folder scan.",
+    },
+    {
+      slug: "march-5-815pm-joint-session-address-marked-copy",
+      documentType: "Speech Draft with President Bush Handwriting",
+      category: "joint-session-address-draft",
+      disposition: "itemized-speech-draft",
+      title:
+        "Presidential Remarks: Joint Session of Congress, March 5, 1991, 8:15 p.m. marked copy",
+      documentDate: "1991-03-05",
+      pages: 11,
+      excerpt:
+        "Marked March 5, 1991, 8:15 p.m. copy of the joint-session address with George Bush handwriting across the Desert Storm, Middle East peace, and domestic-agenda sections.",
+      evidence:
+        "Itemized from the March 5, 1991, 8:15 p.m. draft heading, Bush Library handwriting marker, and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "march-5-815pm-joint-session-address-second-marked-copy",
+      documentType: "Speech Draft with President Bush Handwriting",
+      category: "joint-session-address-draft",
+      disposition: "itemized-speech-draft",
+      title:
+        "Presidential Remarks: Joint Session of Congress, March 5, 1991, 8:15 p.m. second marked copy",
+      documentDate: "1991-03-05",
+      pages: 9,
+      excerpt:
+        "Second marked copy or partial copy of the March 5, 1991, 8:15 p.m. joint-session address draft, with additional George Bush handwriting and line edits.",
+      evidence:
+        "Itemized from a second March 5, 1991, 8:15 p.m. marked draft heading and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-news-summary-network-reaction",
+      documentType: "News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: Network Reaction to the President's Address to a Joint Session",
+      documentDate: "1991-03-06",
+      pages: 3,
+      excerpt:
+        "White House News Summary excerpts ABC, CBS, and NBC reaction to the President's March 6, 1991 joint-session address after Operation Desert Storm.",
+      evidence:
+        "Itemized from the White House News Summary heading and continuation pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "ap-terence-hunt-arab-israeli-conflict",
+      documentType: "Wire Story",
+      category: "joint-session-address-wire-story",
+      disposition: "itemized-wire-story",
+      title:
+        "AP Wire Story by Terence Hunt: Bush Urges Compromise in New Efforts to End Arab-Israeli Conflict",
+      documentDate: "1991-03-06",
+      pages: 2,
+      excerpt:
+        "Terence Hunt reports for AP on President Bush proclaiming an end to the Persian Gulf War and calling for compromise in new Arab-Israeli peace efforts.",
+      evidence:
+        "Itemized from the AP urgent wire heading and continuation page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "ap-merrell-hartson-domestic-agenda",
+      documentType: "Wire Story",
+      category: "joint-session-address-wire-story",
+      disposition: "itemized-wire-story",
+      title: "AP Wire Story by Merrell Hartson: Bush Calls Congress for Enactment of Domestic Agenda",
+      documentDate: "1991-03-06",
+      pages: 1,
+      excerpt:
+        "Merrell Hartson reports for AP on President Bush urging Congress to speed action on anticrime, highway, energy, education, and civil-rights legislation.",
+      evidence:
+        "Itemized from the AP domestic-agenda wire heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "reuters-laurance-mcquillan-first-troops-home",
+      documentType: "Wire Story",
+      category: "joint-session-address-wire-story",
+      disposition: "itemized-wire-story",
+      title: "Reuters Wire Story by Laurance McQuillan: Bush says first troops coming home from Gulf within hours",
+      documentDate: "1991-03-06",
+      pages: 2,
+      excerpt:
+        "Reuters copy by Laurance McQuillan reports on Bush saying the first U.S. troops would come home within hours and outlining a postwar Middle East agenda.",
+      evidence:
+        "Itemized from Reuters Gulf-Bush fourth-lead wire headings and rendered page review of the NARA direct folder scan.",
+    },
+  ],
   470417565: [
     {
       slug: "state-of-union-fact-sheet",
