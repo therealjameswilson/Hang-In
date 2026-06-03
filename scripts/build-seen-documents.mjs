@@ -7623,6 +7623,385 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 49-57 of the NARA direct folder scan using the Walker's Point handwritten note, Whistling Wings Farm card and envelope pages, outgoing letter to Don and Julie Harper, Initially Yours card, Port Video receipt, OCR, and rendered-page review.",
     },
   ],
+  470417718: [
+    {
+      slug: "ted-cohen-cape-arundel-photograph-note",
+      documentType: "Photograph and Presidential Note",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Photograph and presidential note to Ted Cohen re Cape Arundel tee shot",
+      documentDate: "1992-04-20",
+      pages: 1,
+      excerpt:
+        "An upside-down photocopied photograph bears the President's handwritten note to Ted Cohen warning about a shanked tee shot at Cape Arundel, with an additional note thanking Cohen and mentioning Tom Raum.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the photograph page, Ted Cohen addressee, Cape Arundel tee-shot handwriting, OCR limits, and rendered-page review.",
+    },
+    {
+      slug: "ameriflora-remarks-situation-room-transmittal",
+      documentType: "Situation Room Transmittal",
+      category: "speech-material-transmittal",
+      disposition: "itemized-speech-material",
+      title: "Situation Room transmittal for AmeriFlora presidential remarks packet",
+      documentDate: "1992-04-16",
+      pages: 1,
+      excerpt:
+        "The White House Situation Room transmits the AmeriFlora presidential remarks packet by immediate precedence on April 16, 1992.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using the White House Situation Room cover, immediate precedence line, AmeriFlora remarks reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "curt-smith-ameriflora-remarks-memo",
+      documentType: "Speech Memorandum",
+      category: "speech-material-memorandum",
+      disposition: "itemized-speech-material",
+      title: "Curt Smith memorandum to the President re AmeriFlora 1992 remarks",
+      documentDate: "1992-04-15",
+      pages: 1,
+      excerpt:
+        "Curt Smith briefs the President on the AmeriFlora '92 international flower show in Columbus, noting Bob Hope's introduction, the First Lady's honorary role, Columbus themes, and the remarks' discovery and open-trade message.",
+      evidence:
+        "Itemized from page 4 of the NARA direct folder scan using the Curt Smith memorandum heading, David Demarest through line, AmeriFlora 1992 subject, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ameriflora-remarks-draft-three-first-copy",
+      documentType: "Speech/Remarks Draft",
+      category: "speech-remarks-item",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Draft Three presidential remarks for AmeriFlora in Columbus",
+      documentDate: "1992-04-16",
+      pages: 3,
+      excerpt:
+        "Draft Three of the AmeriFlora remarks thanks Bob Hope, Governor Voinovich, Mayor Lashutka, and other hosts while linking Columbus, discovery, an open world, trade, and America 2000 themes.",
+      evidence:
+        "Itemized from pages 5-7 of the NARA direct folder scan using the Presidential Remarks: AmeriFlora Conference heading, Columbus date line, draft-three label, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ameriflora-staffing-situation-room-transmittal",
+      documentType: "Situation Room Transmittal",
+      category: "speech-material-transmittal",
+      disposition: "itemized-speech-material",
+      title: "Situation Room transmittal for AmeriFlora staffing copy",
+      documentDate: "1992-04-16",
+      pages: 1,
+      excerpt:
+        "A second White House Situation Room cover transmits the AmeriFlora remarks package, marked for review and distribution.",
+      evidence:
+        "Itemized from page 8 of the NARA direct folder scan using the Situation Room cover, transmittal routing fields, AmeriFlora subject, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ameriflora-white-house-staffing-memo",
+      documentType: "White House Staffing Memorandum",
+      category: "staffing-memorandum-item",
+      disposition: "itemized-staffing-memorandum",
+      title: "White House Staffing Memorandum for AmeriFlora presidential remarks",
+      documentDate: "1992-04-16",
+      pages: 1,
+      excerpt:
+        "The staffing memorandum routes the April 16 draft of the AmeriFlora presidential remarks for action, concurrence, comment, or information across the White House staff.",
+      evidence:
+        "Itemized from page 9 of the NARA direct folder scan using the White House Staffing Memorandum form, AmeriFlora Conference subject, routing check marks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "curt-smith-ameriflora-remarks-staffing-copy",
+      documentType: "Speech Memorandum",
+      category: "speech-material-memorandum",
+      disposition: "itemized-speech-material",
+      title: "Curt Smith memorandum to the President re AmeriFlora 1992, staffing copy",
+      documentDate: "1992-04-15",
+      pages: 1,
+      excerpt:
+        "A staffing-copy memorandum from Curt Smith again briefs the President on the April 20 AmeriFlora remarks, the First Lady introduction, Bob Hope, and the Columbus/discovery message.",
+      evidence:
+        "Itemized from page 10 of the NARA direct folder scan using the White House memorandum heading, AmeriFlora 1992 subject, time stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ameriflora-remarks-draft-three-staffing-copy",
+      documentType: "Speech/Remarks Draft",
+      category: "speech-remarks-item",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Draft Three AmeriFlora presidential remarks, staffing copy",
+      documentDate: "1992-04-16",
+      pages: 3,
+      excerpt:
+        "A second copy of Draft Three of the AmeriFlora remarks prepares the President's Columbus speech on discovery, trade, open cities, open hearts, education, and the spirit of exploration.",
+      evidence:
+        "Itemized from pages 11-13 of the NARA direct folder scan using the AmeriFlora Conference heading, Columbus date line, draft-three text, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dorrance-smith-welfare-radio-address-media-usage",
+      documentType: "Media Analysis Memorandum",
+      category: "media-analysis-memorandum",
+      disposition: "itemized-media-analysis",
+      title: "Dorrance Smith memorandum re April 11 welfare radio address media usage",
+      documentDate: "1992-04-13",
+      pages: 6,
+      excerpt:
+        "Dorrance Smith reports on radio and television usage of the President's April 11 welfare radio address, including ABC, CBS, NBC/Mutual/Westwood One, UPI, Unistar, CNN, CNBC, and a Washington Post article on welfare responsibility.",
+      evidence:
+        "Itemized from pages 14-19 of the NARA direct folder scan using the Dorrance Smith memorandum, radio network news usage sections, attached Washington Post clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "boskin-march-housing-starts-note",
+      documentType: "Economic Memorandum",
+      category: "economic-memorandum",
+      disposition: "itemized-economic-memorandum",
+      title: "Mike Boskin note to the President re March housing starts",
+      documentDate: "1992-04-16",
+      pages: 1,
+      excerpt:
+        "Mike Boskin tells the President that March housing starts rose more than expected and ties the data to employment, income, spending, trade numbers, and possible first-quarter GDP growth.",
+      evidence:
+        "Itemized from page 20 of the NARA direct folder scan using the Council of Economic Advisers heading, March Housing Starts subject line, April 16 date, presidential daily notation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cea-march-housing-starts-release-memo",
+      documentType: "Economic Memorandum",
+      category: "economic-memorandum",
+      disposition: "itemized-economic-memorandum",
+      title: "CEA memorandum re March housing starts Commerce Department release",
+      documentDate: "1992-04-16",
+      pages: 1,
+      excerpt:
+        "Michael J. Boskin's formal memorandum previews the March housing starts release, noting a fourth consecutive monthly increase, building permits, and a housing starts chart.",
+      evidence:
+        "Itemized from page 21 of the NARA direct folder scan using the Council of Economic Advisers letterhead, March Housing Starts subject, chart, declassification stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "boyden-gray-laws-congress-should-apply-packet",
+      documentType: "Legal Memorandum Packet",
+      category: "legal-memorandum-packet",
+      disposition: "itemized-legal-memorandum",
+      title: "Boyden Gray packet re laws Congress should apply to itself",
+      documentDate: "1992-04-13",
+      pages: 2,
+      excerpt:
+        "Boyden Gray responds to the President's handwritten request for bullet points on laws Congress should apply to itself, including Title VII, labor-management relations, health and safety, family and medical leave, independent counsel, deficit acts, Hatch Act, privacy, and FOIA.",
+      evidence:
+        "Itemized from pages 22-23 of the NARA direct folder scan using the Counsel to the President memorandum, the President's April 10 handwritten request page, subject headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "canadian-beer-import-practices-memo-packet",
+      documentType: "Trade Memorandum Packet",
+      category: "trade-memorandum-packet",
+      disposition: "itemized-trade-memorandum",
+      title: "Gary Blumenthal and USTR packet re Canadian provincial beer import practices",
+      documentDate: "1992-04-09",
+      pages: 3,
+      excerpt:
+        "Gary Blumenthal sends the President background on the GATT decision over Canadian provincial beer practices, with Julius Katz's USTR memorandum summarizing Canada's plan and U.S. concerns about effective implementation.",
+      evidence:
+        "Itemized from pages 24-26 of the NARA direct folder scan using the Blumenthal memorandum, USTR memorandum, Canadian Provincial Practices Affecting Beer Imports subject, GATT references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "boskin-february-merchandise-trade-note",
+      documentType: "Economic Memorandum",
+      category: "economic-memorandum",
+      disposition: "itemized-economic-memorandum",
+      title: "Mike Boskin note to the President re February merchandise trade",
+      documentDate: "1992-04-15",
+      pages: 1,
+      excerpt:
+        "Mike Boskin reports that the February merchandise trade deficit was the lowest since 1983, exports reached an all-time high, the stock market hit another high, and unemployment claims continued to fall.",
+      evidence:
+        "Itemized from page 27 of the NARA direct folder scan using the Council of Economic Advisers heading, February Merchandise Trade subject, April 15 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cea-february-merchandise-exports-imports-memo",
+      documentType: "Economic Memorandum",
+      category: "economic-memorandum",
+      disposition: "itemized-economic-memorandum",
+      title: "CEA memorandum re merchandise exports and imports in February",
+      documentDate: "1992-04-15",
+      pages: 1,
+      excerpt:
+        "Michael J. Boskin's formal memorandum previews the February merchandise exports and imports release, describing the trade-deficit decline, export gains, import trends, and a merchandise exports and imports chart.",
+      evidence:
+        "Itemized from page 28 of the NARA direct folder scan using the Council of Economic Advisers letterhead, merchandise exports and imports subject, chart, OCR, and rendered-page review.",
+    },
+    {
+      slug: "april-20-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title: "Telephone memoranda and Signal Switchboard log: April 20, 1992",
+      documentDate: "1992-04-20",
+      pages: 3,
+      excerpt:
+        "White House telephone memoranda record April 20 calls for President Bush, including messages and connected calls through the President's line and the Signal Switchboard.",
+      evidence:
+        "Itemized from pages 29-31 of the NARA direct folder scan using the White House Telephone Memorandum headings, President Bush and Signal Switchboard forms, April 20 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "april-20-presidential-movements",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-item",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: Kennebunkport, Columbus, and Washington, April 20, 1992",
+      documentDate: "1992-04-20",
+      pages: 2,
+      excerpt:
+        "The movement logs track the President from Walker's Point to Pease Air National Guard Base, Columbus, Andrews Air Force Base, the White House, the South Grounds, and the Residence.",
+      evidence:
+        "Itemized from pages 32-33 of the NARA direct folder scan using Presidential Movements headings, Kennebunkport/Columbus/Washington location line, April 20 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-easter-egg-roll-handouts",
+      documentType: "Event Handouts",
+      category: "event-handout-packet",
+      disposition: "itemized-event-handout-packet",
+      title: "White House Easter Egg Roll family and safety handouts",
+      documentDate: "1992-04-20",
+      pages: 5,
+      excerpt:
+        "The Easter Egg Roll packet includes an attached-document marker, bicycle-safety and fire-safety sheets, Barbara Bush's welcome note for A Family Easter at the White House, and an activities map.",
+      evidence:
+        "Itemized from pages 34-38 of the NARA direct folder scan using the attached-document marker, Have a Fun and Safe Spring page, Fire Safety page, Easter Egg Roll welcome page, activities map, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-8-kennebunkport-to-columbus",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #8: Kennebunkport to Columbus",
+      documentDate: "1992-04-20",
+      pages: 1,
+      excerpt:
+        "Pool Report #8 covers the President's helicopter, motorcade, and Air Force One trip from Kennebunkport to Columbus for AmeriFlora, including the downtown fly-by and traveling party.",
+      evidence:
+        "Itemized from page 39 of the NARA direct folder scan using the Pool Report #8 heading, Kennebunkport to Columbus title, April 20 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-note-family-planning-time-article",
+      documentType: "Presidential Note and Press Clipping",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Presidential note to Marlin Fitzwater re family planning and Time article",
+      documentDate: "1992-04-20",
+      pages: 2,
+      excerpt:
+        "The President asks Marlin Fitzwater to tell Time that he still favors family planning and that the administration is doing more worldwide than predecessors, with instructions to research his congressional family-planning work and an attached U.S. News article on gender politics and abortion.",
+      evidence:
+        "Itemized from pages 40-41 of the NARA direct folder scan using the From the President note to Marlin, Tony Snow and Bob Teeter instructions, Ted Gest/Gary Cohen article page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "patty-presock-ranger-photograph-packet",
+      documentType: "Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Patty Presock photograph packet of Ranger aboard aircraft",
+      documentDate: "1992-04-20",
+      pages: 4,
+      excerpt:
+        "A Patty Presock note says the photographs were for the daily and that copies were sent to Sam and Ellie, followed by color photographs of Ranger aboard an aircraft.",
+      evidence:
+        "Itemized from pages 42-45 of the NARA direct folder scan using the Patty Presock attached-document marker, Sam and Ellie note, color photograph pages, OCR limits, and rendered-page review.",
+    },
+    {
+      slug: "research-recommendations-paperwork-note-packet",
+      documentType: "Presidential Note and Newsletter Packet",
+      category: "policy-clipping-packet",
+      disposition: "itemized-policy-clipping-packet",
+      title: "Presidential note to Dick Darman and Boyden Gray with Research Recommendations paperwork article",
+      documentDate: "1992-04-20",
+      pages: 3,
+      excerpt:
+        "The President asks Dick Darman and Boyden Gray whether a highlighted Research Recommendations passage about government paperwork costs is accurate, with the April 6 National Institute of Business Management newsletter pages attached.",
+      evidence:
+        "Itemized from pages 46-48 of the NARA direct folder scan using the President's note to Dick Darman and Boyden Gray, highlighted yellow-part reference, Research Recommendations masthead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-rita-coolidge-go-to-brazil",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Rita Coolidge re Go to Brazil tape",
+      documentDate: "1992-04-20",
+      pages: 1,
+      excerpt:
+        "The President tells Rita Coolidge that he watched Olivia Newton-John's Go to Brazil tape, listened to the plea, and will make a decision soon while defending U.S. environmental efforts and budget constraints.",
+      evidence:
+        "Itemized from page 49 of the NARA direct folder scan using the White House letterhead, Rita Coolidge address block, Go to Brazil text, signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-note-meg-louie-bagby-clips",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Handwritten note from the President to Meg Louie Bagby re clips",
+      documentDate: "1992-04-20",
+      pages: 1,
+      excerpt:
+        "The President writes Mrs. J. Thomas Bagby that he received her April 6 letter, wrote Queida Rauch, and thanks her for sending clips.",
+      evidence:
+        "Itemized from page 50 of the NARA direct folder scan using The President stationery, handwritten note, Mrs. J. Thomas Bagby address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-dc-talk-dove-awards",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to D.C. Talk re Dove Awards",
+      documentDate: "1992-04-20",
+      pages: 1,
+      excerpt:
+        "The President congratulates Toby, Kevin, and Michael of D.C. Talk on their recent Dove Awards and sends best wishes from himself and Barbara.",
+      evidence:
+        "Itemized from page 51 of the NARA direct folder scan using The President stationery, D.C. Talk address block, Dove Awards text, R. Zamaria cc, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ameriflora-photograph-packet",
+      documentType: "Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "AmeriFlora photograph packet with President Bush, Barbara Bush, and Bob Hope",
+      documentDate: "1992-04-20",
+      pages: 4,
+      excerpt:
+        "Color photographs show President Bush, Barbara Bush, Bob Hope, and other participants around the AmeriFlora exhibition and related White House settings.",
+      evidence:
+        "Itemized from pages 52-55 of the NARA direct folder scan using the color photograph pages, AmeriFlora Exhibition handwriting on one page, event context, and rendered-page review.",
+    },
+    {
+      slug: "daily-news-clips-april-20-1992",
+      documentType: "Daily News Clips",
+      category: "daily-news-clips-item",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips: April 20, 1992",
+      documentDate: "1992-04-20",
+      pages: 49,
+      excerpt:
+        "The daily news-clips packet compiles April 20 coverage and commentary from the Washington Post, Washington Times, Wall Street Journal, USA Today, New York Times, and other outlets on abortion, campaign finance, AmeriFlora, Bush power-walking, campaign strategy, crime, housing, and related political issues.",
+      evidence:
+        "Itemized from pages 56-104 of the NARA direct folder scan using the Daily News Clips cover, newspaper mastheads, article starts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-jane-seymour-go-to-brazil",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Jane Seymour re Go to Brazil tape",
+      documentDate: "1992-04-20",
+      pages: 1,
+      excerpt:
+        "The President tells Jane Seymour that he watched Olivia Newton-John's Go to Brazil tape, listened to the plea, and will make a decision soon while discussing U.S. environmental work and financial constraints.",
+      evidence:
+        "Itemized from page 105 of the NARA direct folder scan using the White House letterhead, Jane Seymour address block, Go to Brazil text, signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "national-affairs-briefing-1980-program",
+      documentType: "Program Brochure",
+      category: "program-brochure",
+      disposition: "itemized-program-brochure",
+      title: "National Affairs Briefing program brochure, Dallas, August 21-22, 1980",
+      documentDate: "1980-08-21",
+      pages: 14,
+      excerpt:
+        "The Roundtable's National Affairs Briefing brochure for Reunion Arena in Dallas includes a statement of purpose, notes pages, program schedules, and speaker profiles for religious and political figures including Charles Stanley, James Robison, Bill Stanmeyer, Ed McAteer, Pat Robertson, Bill Armstrong, Jesse Helms, and W.A. Criswell.",
+      evidence:
+        "Itemized from pages 106-119 of the NARA direct folder scan using the National Affairs Briefing cover, Roundtable statement of purpose, schedule pages, speaker profiles, OCR, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -14293,6 +14672,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417703",
   "470417713",
   "470417714",
+  "470417718",
   "470418083",
 ]);
 
