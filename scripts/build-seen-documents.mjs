@@ -17787,7 +17787,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "Nicholas F. Brady forwards two Wall Street Journal articles and the Houston Club speech material, noting that the articles collect points the administration had been making.",
       evidence:
-        "Itemized from the Treasury forwarding page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+        "Itemized from page 2 of the NARA direct folder scan using the Treasury forwarding note, Nicholas F. Brady handwritten initials, Houston Club speech reference, Wall Street Journal article references, OCR, and rendered-page review.",
     },
     {
       slug: "wall-street-journal-small-business-debt-articles",
@@ -17800,7 +17800,20 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The Wall Street Journal packet includes 'For New Jobs, Help Small Business' and a companion article on the end of the American borrowing binge and debt reduction.",
       evidence:
-        "Itemized from Wall Street Journal article starts found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+        "Itemized from pages 3-4 of the NARA direct folder scan using the Wall Street Journal masthead, August 10 1992 date, For New Jobs Help Small Business article, debt-reduction article page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nicholas-brady-houston-club-remarks",
+      documentType: "Speech Text",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title: "Nicholas F. Brady remarks to the Houston Club",
+      documentDate: "1992-08-10",
+      pages: 8,
+      excerpt:
+        "The Treasury News text prepared for delivery records Nicholas F. Brady's Houston Club remarks on the economy, transition, savings and loan cleanup, debt, trade, the deficit, and values in the 1992 campaign.",
+      evidence:
+        "Itemized from pages 5-12 of the NARA direct folder scan using the Treasury News heading, Text as Prepared for Delivery line, Nicholas F. Brady Houston Club title page, August 10 1992 date, page-numbered remarks sequence, OCR, and rendered-page review.",
     },
     {
       slug: "bill-signing-release-zuni-catawba",
@@ -17813,7 +17826,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The White House press release announces the President's signing of H.R. 4026, the Zuni River Watershed Act, and H.R. 5566, concerning Catawba Indian Tribe land claims.",
       evidence:
-        "Itemized from an Office of the Press Secretary release heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+        "Itemized from page 13 of the NARA direct folder scan using the Office of the Press Secretary heading, August 11 1992 release date, H.R. 4026 and H.R. 5566 bill-signing text, OCR, and rendered-page review.",
     },
     {
       slug: "presidential-determination-zambia-defense-articles",
@@ -17826,7 +17839,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "Presidential Determination No. 92-38 finds Zambia eligible to be furnished defense articles and services under the Foreign Assistance Act and Arms Export Control Act.",
       evidence:
-        "Itemized from a Presidential Determination release heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+        "Itemized from page 14 of the NARA direct folder scan using the Office of the Press Secretary heading, Presidential Determination No. 92-38 title, Zambia defense articles and services language, OCR, and rendered-page review.",
     },
     {
       slug: "radiation-control-health-safety-message",
@@ -17840,7 +17853,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The message transmits the Department of Health and Human Services report pursuant to section 540 of the Federal Food, Drug, and Cosmetic Act regarding radiation control.",
       evidence:
-        "Itemized from a White House message-to-Congress release found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+        "Itemized from page 15 of the NARA direct folder scan using the Office of the Press Secretary heading, Message to the Congress title, radiation control for health and safety report language, OCR, and rendered-page review.",
     },
     {
       slug: "materials-forwarded-to-president-august-11-1992",
@@ -17853,7 +17866,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The forwarded-materials list identifies action items, classified information, and information items, including the Zuni and Catawba bills, a Derwinski certificate, a Jonathan Moore resignation acceptance, a Bolten Federal Implementation Plan memo, a Chernomyrdin item, campaign press material, procurement rules, the President's block schedule, and July producer-price numbers.",
       evidence:
-        "Itemized from a Materials Forwarded to the President cover list found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+        "Itemized from pages 16-17 of the NARA direct folder scan using the Materials Forwarded to the President heading, August 11 1992 date, action and information-item lists, OCR, and rendered-page review.",
     },
     {
       slug: "nafta-call-points-salinas-mulroney",
@@ -17862,11 +17875,24 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-telephone-call-points",
       title: "Points for calls to President Salinas and Prime Minister Mulroney re NAFTA agreement",
       documentDate: "1992-08-11",
-      pages: 6,
+      pages: 2,
       excerpt:
         "The call-points packet reports that negotiators had reached agreement on NAFTA and frames the agreement as a historic step toward a hemisphere-wide free trade area.",
       evidence:
-        "Itemized from a telephone-call points packet and routing pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+        "Itemized from pages 18-19 of the NARA direct folder scan using the Brent Scowcroft call memorandum to the President, Telephone Calls to President Salinas and Prime Minister Mulroney subject line, Points to Be Made attachment, NAFTA agreement language, OCR, and rendered-page review.",
+    },
+    {
+      slug: "signed-olympic-team-photo-routing-packet",
+      documentType: "Signed Photograph Routing Packet",
+      category: "photograph-routing-packet",
+      disposition: "itemized-photograph-routing-packet",
+      title: "Signed Olympic team photograph and Rose Zamaria routing page",
+      documentDate: "1992-08-11",
+      pages: 4,
+      excerpt:
+        "The packet includes a signed color photograph of an Olympic team group, its annotated reverse, a handwritten note page, and a Rose Zamaria routing page.",
+      evidence:
+        "Itemized from pages 20-23 of the NARA direct folder scan using the color team photograph, signed reverse page, handwritten note page, Rose Zamaria Deputy Assistant to the President routing page, rendered-page review, and low-confidence OCR.",
     },
     {
       slug: "mrs-bush-press-clippings-august-11-1992",
@@ -17879,7 +17905,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The Mrs. Bush press-clippings packet includes GOP platform coverage, Clinton polling, New York Post Bush-affair stories, cartoons, and family-values and campaign coverage.",
       evidence:
-        "Itemized from a Mrs. Bush's Press Office Daily Press Clippings cover and clipping run found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+        "Itemized from pages 24-44 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover page, Tuesday August 11 1992 date, distribution list, clipping sequence, OCR, and rendered-page review.",
     },
     {
       slug: "mrs-bush-press-clippings-september-12-14-1992",
@@ -17892,7 +17918,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The September 12-14 Mrs. Bush press-clippings packet includes John Major campaign strategy, Al Gore and family leave, Barbara Bush on Social Security and literacy, Clinton coverage, and a Bob Teeter memorandum.",
       evidence:
-        "Itemized from a second Mrs. Bush's Press Office Daily Press Clippings cover and clipping run found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+        "Itemized from pages 45-78 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover page for September 12, 13, and 14 1992, distribution list, Bob Teeter memorandum, clipping sequence, OCR, and rendered-page review.",
     },
     {
       slug: "daily-news-clips-august-11-1992",
@@ -17905,7 +17931,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "Office of Media Affairs Daily News Clips for August 11, 1992, draw from the Los Angeles Times, USA Today, The Wall Street Journal, The Washington Post, The New York Times, and The Washington Times, with coverage of Bosnia, Iraq, health care, the GOP platform, James Baker, Israel, and the Clinton economic plan.",
       evidence:
-        "Itemized from an Office of Media Affairs Daily News Clips cover and clipping sequence found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+        "Itemized from pages 79-178 of the NARA direct folder scan using the Office of Media Affairs Daily News Clips cover page, Tuesday August 11 1992 date, Los Angeles Times, USA Today, Wall Street Journal, Washington Post, New York Times, and Washington Times clipping sequence, OCR, and rendered-page review.",
     },
     {
       slug: "official-white-house-photo-transfer-pages-august-1992",
@@ -17918,7 +17944,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "Official White House photograph pages and transfer placeholders appear at the end of the direct folder scan.",
       evidence:
-        "Itemized from official White House photograph pages and transfer placeholders found in rendered page review of the NARA direct folder scan.",
+        "Itemized from pages 179-186 of the NARA direct folder scan using color Official White House photograph fronts, Official White House Photo back pages, transfer placeholders, rendered-page review, and low-confidence OCR.",
     },
   ],
   470417978: [
@@ -23636,6 +23662,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417953",
   "470417957",
   "470417964",
+  "470417970",
   "470418083",
 ]);
 
