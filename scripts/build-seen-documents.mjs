@@ -8002,6 +8002,580 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 106-119 of the NARA direct folder scan using the National Affairs Briefing cover, Roundtable statement of purpose, schedule pages, speaker profiles, OCR, and rendered-page review.",
     },
   ],
+  470417723: [
+    {
+      slug: "president-to-william-broomfield-retirement",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to William S. Broomfield re House retirement decision",
+      documentDate: "1992-04-22",
+      pages: 2,
+      excerpt:
+        "The President writes Representative William S. Broomfield that he will miss Broomfield's leadership, decency, honor, counsel, and support, and appends handwritten reflections on the decision.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the White House letter to Broomfield, April 22 date, handwritten continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ashcroft-missouri-precinct-caucuses-call-packet",
+      documentType: "Recommended Telephone Call Packet",
+      category: "recommended-telephone-call",
+      disposition: "itemized-recommended-telephone-call",
+      title: "Recommended telephone call packet to Governor John Ashcroft re Missouri precinct caucuses",
+      documentDate: "1992-04-17",
+      pages: 3,
+      excerpt:
+        "The Bush-Quayle campaign recommends that the President call Governor John Ashcroft to congratulate him on the Missouri precinct caucus results; the packet includes a Missouri GOP article and a presidential phone-call note.",
+      evidence:
+        "Itemized from pages 4-6 of the NARA direct folder scan using the Bush-Quayle recommended telephone call form, Missouri GOP clipping, Presidential Phone Calls form, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-earth-summit-trade-talks",
+      documentType: "News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary excerpts re Earth Summit and trade talks",
+      documentDate: "1992-04-22",
+      pages: 2,
+      excerpt:
+        "White House News Summary pages cover President Bush's uncertainty about attending the Earth Summit and international news on tough U.S. trade talks.",
+      evidence:
+        "Itemized from pages 7-8 of the NARA direct folder scan using the White House News Summary heading, International News heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "departure-statement-prime-minister-cavaco-silva-cards",
+      documentType: "Departure Statement",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Departure statement for Prime Minister Cavaco Silva",
+      documentDate: "1992-04-22",
+      pages: 4,
+      excerpt:
+        "The departure statement for Portuguese Prime Minister Cavaco Silva discusses Iberian discovery, European unity, Yugoslavia, the Uruguay Round, GATT, and U.S.-EC partnership.",
+      evidence:
+        "Itemized from pages 9-12 of the NARA direct folder scan using the Departure Statement heading, South Lawn date line, numbered continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "redskins-remarks-white-house-staffing-memo",
+      documentType: "White House Staffing Memorandum",
+      category: "staffing-memorandum-item",
+      disposition: "itemized-staffing-memorandum",
+      title: "White House Staffing Memorandum for Washington Redskins presidential remarks",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "The staffing memorandum routes the April 22 presidential remarks for the Washington Redskins event, noting that the attached material has been forwarded to the President.",
+      evidence:
+        "Itemized from page 13 of the NARA direct folder scan using the White House Staffing Memorandum form, Redskins subject line, routing marks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "curt-smith-redskins-remarks-memo",
+      documentType: "Speech Memorandum",
+      category: "speech-material-memorandum",
+      disposition: "itemized-speech-material",
+      title: "Curt Smith memorandum to the President re Washington Redskins remarks",
+      documentDate: "1992-04-21",
+      pages: 1,
+      excerpt:
+        "Curt Smith briefs the President on proposed remarks for the Washington Redskins event and notes the setting, players, coaches, and themes for honoring the Super Bowl champions.",
+      evidence:
+        "Itemized from page 14 of the NARA direct folder scan using the Curt Smith memorandum heading, David Demarest through line, Redskins subject, OCR, and rendered-page review.",
+    },
+    {
+      slug: "redskins-remarks-draft-three",
+      documentType: "Speech/Remarks Draft",
+      category: "speech-remarks-item",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Draft Three presidential remarks for the Washington Redskins Rose Garden event",
+      documentDate: "1992-04-22",
+      pages: 3,
+      excerpt:
+        "Draft Three of the Redskins remarks welcomes Joe Gibbs, Charley Casserly, players, coaches, and friends while praising the Super Bowl champions and their charitable work.",
+      evidence:
+        "Itemized from pages 15-17 of the NARA direct folder scan using the Draft Three label, Redskins heading, Rose Garden date line, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "forum-of-americas-remarks-white-house-staffing-memo",
+      documentType: "White House Staffing Memorandum",
+      category: "staffing-memorandum-item",
+      disposition: "itemized-staffing-memorandum",
+      title: "White House Staffing Memorandum for Forum of the Americas presidential remarks",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "The staffing memorandum routes the Forum of the Americas remarks for the April 23 Sheraton Washington event.",
+      evidence:
+        "Itemized from page 18 of the NARA direct folder scan using the White House Staffing Memorandum form, Forum of the Americas subject, routing marks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "forum-of-americas-remarks-speech-memo",
+      documentType: "Speech Memorandum",
+      category: "speech-material-memorandum",
+      disposition: "itemized-speech-material",
+      title: "Speech memorandum to the President re Forum of the Americas remarks",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "A speech memorandum forwards proposed Forum of the Americas remarks to the President through David Demarest.",
+      evidence:
+        "Itemized from page 19 of the NARA direct folder scan using the White House memorandum heading, Forum of the Americas context, OCR, and rendered-page review.",
+    },
+    {
+      slug: "forum-of-americas-remarks-draft-five",
+      documentType: "Speech/Remarks Draft",
+      category: "speech-remarks-item",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Draft Five presidential remarks for the Forum of the Americas",
+      documentDate: "1992-04-22",
+      pages: 10,
+      excerpt:
+        "Draft Five of the Forum of the Americas remarks discusses the Enterprise for the Americas Initiative, Latin American democracy, free trade, NAFTA, GATT, and open markets.",
+      evidence:
+        "Itemized from pages 20-29 of the NARA direct folder scan using the Draft Five label, Trade heading, Sheraton Washington date line, ten-page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "this-mornings-news-april-22-1992",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing-item",
+      disposition: "itemized-daily-political-briefing",
+      title: "This Morning's News: April 22, 1992",
+      documentDate: "1992-04-22",
+      pages: 23,
+      excerpt:
+        "The American Political Network briefing covers Pennsylvania, Perot, Clinton, Earth Day, Senate races, House races, TV monitoring, abortion, and campaign coverage for April 22.",
+      evidence:
+        "Itemized from pages 30-52 of the NARA direct folder scan using the This Morning's News heading, APN Bulletin Board, section headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "redskins-rose-garden-remarks-cards",
+      documentType: "Presidential Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Washington Redskins Rose Garden remarks cards",
+      documentDate: "1992-04-22",
+      pages: 4,
+      excerpt:
+        "Large-type remarks cards welcome the 1991-92 Washington Redskins to the White House and praise the team, Joe Gibbs, the defense, and players' charitable work.",
+      evidence:
+        "Itemized from pages 53-56 of the NARA direct folder scan using the Washington Redskins Rose Garden heading, large-type card sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jan-naylor-note-david-laughter-bill-reilly",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "FYI note to the President re David Laughter and Bill Reilly lunch",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "A handwritten FYI note tells the President that Jan Naylor called about David Laughter being offered an Agriculture job and notes lunch with Bill Reilly.",
+      evidence:
+        "Itemized from page 57 of the NARA direct folder scan using the Mr. President FYI note, Jan Naylor and Bill Reilly references, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "upi-bush-earth-day-brown-article",
+      documentType: "Wire Story",
+      category: "wire-story-item",
+      disposition: "itemized-wire-story",
+      title: "UPI Wire Story: Bush says every day is Earth Day; Brown shows up on the scene",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "Thomas Ferraro's UPI story reports on President Bush's Earth Day comments and Jerry Brown's appearance on the scene.",
+      evidence:
+        "Itemized from page 59 of the NARA direct folder scan using the UPI headline and Thomas Ferraro byline; page 58 is an administrative attachment marker and was not counted.",
+    },
+    {
+      slug: "horner-remaining-ambassadorships-memo",
+      documentType: "Policy Memorandum",
+      category: "policy-memorandum-item",
+      disposition: "itemized-policy-memorandum",
+      title: "Constance Horner memorandum to the President re remaining ambassadorships",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "Constance Horner updates the President on remaining political ambassadorial posts including Saudi Arabia, Croatia, Seychelles, and the Bermuda consulate, with presidential handwritten decisions.",
+      evidence:
+        "Itemized from page 60 of the NARA direct folder scan using the Constance Horner memorandum heading, ambassadorship subject, handwritten presidential marginalia, OCR, and rendered-page review.",
+    },
+    {
+      slug: "section-337-rotary-printing-machines-policy-review",
+      documentType: "Policy Memorandum Packet",
+      category: "policy-memorandum-packet",
+      disposition: "itemized-policy-memorandum",
+      title: "Ede Holiday and USTR packet re Section 337 rotary printing machines order",
+      documentDate: "1992-04-21",
+      pages: 3,
+      excerpt:
+        "Ede Holiday asks the President to decide whether to allow a Section 337 order on certain rotary printing machines to go into effect, attaching USTR Carla Hills's recommendation.",
+      evidence:
+        "Itemized from pages 61-63 of the NARA direct folder scan using the Ede Holiday action memorandum, President-has-seen stamp, USTR attachment, OCR, and rendered-page review.",
+    },
+    {
+      slug: "scowcroft-opic-letters-mubarak-ben-ali",
+      documentType: "Foreign Policy Correspondence Packet",
+      category: "foreign-policy-correspondence",
+      disposition: "itemized-foreign-policy-correspondence",
+      title: "Brent Scowcroft packet for OPIC letters to President Mubarak and President Ben Ali",
+      documentDate: "1992-04-23",
+      pages: 3,
+      excerpt:
+        "Brent Scowcroft asks the President to sign letters to President Hosni Mubarak of Egypt and President Ben Ali of Tunisia for OPIC President Frank Zeder's investment mission.",
+      evidence:
+        "Itemized from pages 64-66 of the NARA direct folder scan using the Scowcroft action memorandum, President-has-seen stamp, Mubarak and Ben Ali letter copies, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-rich-bond-prescott-bush-dinner",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Rich Bond re Prescott Bush Dinner",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "The President sends warm greetings to RNC Chairman Rich Bond and Connecticut Republicans for the 1992 Prescott Bush Dinner honoring Chris Shays and Betty Hudson.",
+      evidence:
+        "Itemized from page 67 of the NARA direct folder scan using George Bush letterhead, Rich Bond salutation, Prescott Bush Dinner text, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-vicki-davis-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press release recognizing Vicki Davis as the 752nd Daily Point of Light",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "The Office of the Press Secretary announces Vicki Davis of Little Rock, Arkansas, as the 752nd Daily Point of Light for her volunteer work.",
+      evidence:
+        "Itemized from page 68 of the NARA direct folder scan using the Office of the Press Secretary immediate release heading, Daily Point of Light text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "signed-legislation-greenville-humanitarian-aid-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press release on signed legislation re Greenville federal court and humanitarian aid",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "The Office of the Press Secretary announces the President's signing of H.R. 3686 on Greenville federal court locations and S. 985 on humanitarian aid.",
+      evidence:
+        "Itemized from page 69 of the NARA direct folder scan using the Office of the Press Secretary immediate release heading, signed-legislation text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nathaniel-gorton-district-judge-nomination-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press release announcing Nathaniel M. Gorton judicial nomination",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "The Office of the Press Secretary announces the President's intention to nominate Nathaniel M. Gorton as United States District Judge for Massachusetts.",
+      evidence:
+        "Itemized from page 70 of the NARA direct folder scan using the Office of the Press Secretary immediate release heading, Gorton nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "arkansas-wild-scenic-rivers-act-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press release on signing S. 1743, Arkansas Wild and Scenic Rivers Act of 1992",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "The Office of the Press Secretary announces the President's signing of S. 1743 designating segments of eight Arkansas rivers as part of the National Wild and Scenic Rivers System.",
+      evidence:
+        "Itemized from page 71 of the NARA direct folder scan using the Office of the Press Secretary immediate release heading, S. 1743 text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "james-jameson-commerce-nomination-release-copies",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Duplicate press release copies announcing James D. Jameson Commerce nomination",
+      documentDate: "1992-04-22",
+      pages: 2,
+      excerpt:
+        "Duplicate Office of the Press Secretary copies announce the President's intention to nominate James D. Jameson as Assistant Secretary of Commerce for Trade Development.",
+      evidence:
+        "Itemized from pages 72-73 of the NARA direct folder scan using duplicate immediate-release headings, Jameson nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "earth-day-statement-by-president",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement by the President on Earth Day",
+      documentDate: "1992-04-22",
+      pages: 2,
+      excerpt:
+        "The President's Earth Day statement calls for everyday environmental action and urges Congress to pass energy, wetlands, safe drinking water, pesticide, recycling, and wastewater legislation.",
+      evidence:
+        "Itemized from pages 74-75 of the NARA direct folder scan using the Statement by the President heading, Earth Day text, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cavaco-silva-departure-remarks-press-release",
+      documentType: "Press Release",
+      category: "press-release-remarks",
+      disposition: "itemized-press-release",
+      title: "Press release: remarks by the President and Prime Minister Cavaco Silva upon departure",
+      documentDate: "1992-04-22",
+      pages: 3,
+      excerpt:
+        "The Office of the Press Secretary releases the President's and Prime Minister Cavaco Silva's South Lawn departure remarks on European unity, Yugoslavia, and transatlantic partnership.",
+      evidence:
+        "Itemized from pages 76-78 of the NARA direct folder scan using the immediate-release heading, Remarks by the President title, South Lawn time stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-niles-europe-canada-press-briefing",
+      documentType: "Press Briefing",
+      category: "press-briefing-item",
+      disposition: "itemized-press-briefing",
+      title: "Press briefing by Assistant Secretary Thomas Niles re European and Canadian affairs",
+      documentDate: "1992-04-22",
+      pages: 7,
+      excerpt:
+        "Assistant Secretary Thomas Niles briefs the press after the U.S.-EC meeting on trade, agriculture, GATT, Yugoslavia, environmental questions, and European relations.",
+      evidence:
+        "Itemized from pages 79-85 of the NARA direct folder scan using the Press Briefing heading, Thomas Niles title, Briefing Room time stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-to-president-april-22-1992",
+      documentType: "Materials Forwarded List",
+      category: "materials-forwarded-list",
+      disposition: "itemized-materials-forwarded-list",
+      title: "Materials Forwarded to the President: April 22, 1992",
+      documentDate: "1992-04-22",
+      pages: 2,
+      excerpt:
+        "The forwarding list inventories action items, classified material, information memos, remarks, and schedule materials sent to the President on April 22.",
+      evidence:
+        "Itemized from pages 86-87 of the NARA direct folder scan using the Materials Forwarded to the President heading, action/information/remarks sections, schedule continuation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "redskins-rose-garden-barbecue-guest-list",
+      documentType: "Guest List",
+      category: "guest-list-item",
+      disposition: "itemized-guest-list",
+      title: "Rose Garden Ceremony and Barbecue for the Redskins guest list and regrets",
+      documentDate: "1992-04-22",
+      pages: 6,
+      excerpt:
+        "The guest list for the Rose Garden Ceremony and Barbecue for the Redskins lists the President and Mrs. Bush, players, coaches, staff, guests, and regrets.",
+      evidence:
+        "Itemized from pages 88-93 of the NARA direct folder scan using the Rose Garden Ceremony and Barbecue title, guest roster pages, regrets page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fred-malek-political-fundraising-plan",
+      documentType: "Campaign Memorandum Packet",
+      category: "campaign-memorandum-packet",
+      disposition: "itemized-campaign-memorandum",
+      title: "Fred Malek political and fundraising plan packet",
+      documentDate: "1992-04-22",
+      pages: 8,
+      excerpt:
+        "Fred Malek sends Sam Skinner a political and fundraising plan outlining Bush-Quayle funding needs, confirmed finance events, Victory '92, candidate events, compliance costs, and voter-contact activities.",
+      evidence:
+        "Itemized from pages 94-101 of the NARA direct folder scan using the Bush-Quayle transmittal, Political/Fundraising Plan memorandum, Attachment A, OCR, and rendered-page review.",
+    },
+    {
+      slug: "harold-solomon-tennis-dreamers-photograph-packet",
+      documentType: "Correspondence and Photograph Packet",
+      category: "photograph-correspondence-packet",
+      disposition: "itemized-photograph-correspondence",
+      title: "Letter to Harold Solomon and Dreamers photograph packet",
+      documentDate: "1992-04-22",
+      pages: 3,
+      excerpt:
+        "The President declines Harold Solomon's tennis invitation because of a short Florida visit; attached photographs carry presidential notes to Jamie Bush and the Dreamers.",
+      evidence:
+        "Itemized from pages 102-104 of the NARA direct folder scan using the Harold Solomon letter, Patty Presock photograph routing, handwritten Dreamers notes, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jasper-textiles-outer-banks-shirt-gift-packet",
+      documentType: "Gift Correspondence Packet",
+      category: "gift-correspondence-packet",
+      disposition: "itemized-gift-correspondence",
+      title: "Jasper Textiles and Outer Banks sports-shirt gift packet",
+      documentDate: "1992-04-22",
+      pages: 4,
+      excerpt:
+        "The packet includes the President's handwritten thank-you note to William Hunter Jr. for Outer Banks sports shirts, a Jasper Textiles letter, packing slip, and photocopied shirt image.",
+      evidence:
+        "Itemized from pages 105-108 of the NARA direct folder scan using the White House address block, handwritten presidential note, Jasper Textiles letter, packing slip, shirt image, OCR, and rendered-page review.",
+    },
+    {
+      slug: "redskins-rose-garden-guest-list-second-copy",
+      documentType: "Guest List",
+      category: "guest-list-item",
+      disposition: "itemized-guest-list",
+      title: "Second copy of Rose Garden Ceremony and Barbecue for the Redskins guest list",
+      documentDate: "1992-04-22",
+      pages: 5,
+      excerpt:
+        "A second copy of the Redskins Rose Garden guest list repeats the President and Mrs. Bush, team members, coaches, staff, and guests.",
+      evidence:
+        "Itemized from pages 109-113 of the NARA direct folder scan using the repeated Rose Garden Ceremony and Barbecue title and roster pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "us-japan-paper-trade-agreement-signing-remarks",
+      documentType: "Presidential Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Signing of U.S.-Japan paper trade agreement remarks cards",
+      documentDate: "1992-04-23",
+      pages: 3,
+      excerpt:
+        "Remarks cards for the Roosevelt Room signing of the U.S.-Japan paper trade agreement emphasize market access, equal partnership, and open trade.",
+      evidence:
+        "Itemized from pages 114-116 of the NARA direct folder scan using the Signing of U.S.-Japan Trade Agreement heading, Roosevelt Room date line, card sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "burton-lee-manfred-werner-case-letter",
+      documentType: "Medical Correspondence",
+      category: "medical-correspondence",
+      disposition: "itemized-medical-correspondence",
+      title: "Burton J. Lee letter to the President re Manfred Werner's case",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "Burton J. Lee updates the President on Manfred Werner's colon cancer surgery, pathology questions, and treatment considerations, with a handwritten presidential note.",
+      evidence:
+        "Itemized from page 117 of the NARA direct folder scan using the White House letterhead, Burton J. Lee signature, Manfred Werner text, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "april-22-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title: "Telephone memoranda and Signal Switchboard log: April 22, 1992",
+      documentDate: "1992-04-22",
+      pages: 3,
+      excerpt:
+        "Telephone memorandum pages and a Signal Switchboard sheet record April 22 call entries and contacts for President Bush.",
+      evidence:
+        "Itemized from pages 118-120 of the NARA direct folder scan using Telephone Memorandum headings, Signal Switchboard form, April 22 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "april-22-presidential-movements",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-item",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: Washington, D.C., April 22, 1992",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "The presidential movement log records the President's Washington, D.C. movements on April 22, 1992, beginning with the doctor's office and White House entries.",
+      evidence:
+        "Itemized from page 121 of the NARA direct folder scan using the Presidential Movements heading, Washington, D.C. location, April 22 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-phone-call-note-mfb-treasury-restoration",
+      documentType: "Presidential Phone Call Note",
+      category: "telephone-note-item",
+      disposition: "itemized-telephone-note",
+      title: "Presidential phone-call note re MFB and Treasury restoration",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "A handwritten Presidential Phone Calls form records an April 22 call notation involving MFB, Treasury restoration, and follow-up by Cathy to call Hollis and set it up.",
+      evidence:
+        "Itemized from page 122 of the NARA direct folder scan using the Presidential Phone Calls form, April 22 date, handwritten MFB and Treasury-restoration notes, and rendered-page review.",
+    },
+    {
+      slug: "sandy-muir-correspondence-bush-philosophy-commentary",
+      documentType: "Correspondence and Clipping Packet",
+      category: "correspondence-clipping-packet",
+      disposition: "itemized-correspondence-clipping",
+      title: "Sandy Muir correspondence and Bush philosophy commentary packet",
+      documentDate: "1992-04-22",
+      pages: 4,
+      excerpt:
+        "The President thanks Sandy Muir for writing and sending an editorial; the packet includes a routing note, Muir's April 17 letter, and the commentary article 'Define the Man to See the President.'",
+      evidence:
+        "Itemized from pages 123-126 of the NARA direct folder scan using the outgoing Sandy Muir letter, Sandy Muir routing note, incoming letter, commentary clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jonathan-bush-jerry-cammarata-resume-packet",
+      documentType: "Correspondence and Resume Packet",
+      category: "correspondence-resume-packet",
+      disposition: "itemized-correspondence-resume",
+      title: "Jonathan Bush and Jerry Cammarata resume packet",
+      documentDate: "1992-04-22",
+      pages: 8,
+      excerpt:
+        "The President tells Jonathan Bush he is passing Jerry Cammarata's resume to Connie Horner; the packet includes Jonathan Bush's letter, Cammarata's letter, resume, publications, and education pages.",
+      evidence:
+        "Itemized from pages 127-134 of the NARA direct folder scan using the outgoing Jonathan Bush letter, incoming Jonathan Bush and Jerry Cammarata letters, resume pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "state-protocol-portugal-ec-working-visit-fax",
+      documentType: "Protocol Fax Packet",
+      category: "protocol-fax-packet",
+      disposition: "itemized-protocol-fax",
+      title: "State Department and Protocol fax packet re Portugal/EC official working visit",
+      documentDate: "1992-04-21",
+      pages: 2,
+      excerpt:
+        "The State Department and Office of Protocol transmit material on the Portugal/EC official working visit, including schedule, briefing, and room information.",
+      evidence:
+        "Itemized from pages 135-136 of the NARA direct folder scan using the State Department memorandum, Portugal/EC subject, Office of Protocol fax cover, OCR, and rendered-page review.",
+    },
+    {
+      slug: "redskins-remarks-press-release",
+      documentType: "Press Release",
+      category: "press-release-remarks",
+      disposition: "itemized-press-release",
+      title: "Press release: remarks by the President to the Washington Redskins",
+      documentDate: "1992-04-22",
+      pages: 2,
+      excerpt:
+        "The Office of the Press Secretary releases the President's Rose Garden remarks welcoming the 1992 Super Bowl champion Washington Redskins.",
+      evidence:
+        "Itemized from pages 137-138 of the NARA direct folder scan using the immediate-release heading, Redskins remarks title, Rose Garden time stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jasper-textiles-note-second-copy",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Second copy of presidential note to William Hunter Jr. re Jasper Textiles shirts",
+      documentDate: "1992-04-22",
+      pages: 1,
+      excerpt:
+        "A second copy of the President's handwritten thank-you note to William Hunter Jr. thanks him for the Outer Banks sports shirts, with highlighted bcc notation to Nicholas Brady.",
+      evidence:
+        "Itemized from page 139 of the NARA direct folder scan using the repeated Jasper Textiles address block, handwritten note, bcc notation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "willard-johnson-correspondence-clippings-reply",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Willard Johnson correspondence and clippings reply packet",
+      documentDate: "1992-04-22",
+      pages: 3,
+      excerpt:
+        "The President thanks Willard Johnson for a heartfelt letter and clippings, says he will share the observations with staff, and the packet includes Johnson's March 23 letter.",
+      evidence:
+        "Itemized from pages 140-142 of the NARA direct folder scan using duplicate Dear Willard reply copies, Willard M. Johnson letterhead, handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alexander-graham-bell-association-honorary-chairmen-packet",
+      documentType: "Scheduling and Correspondence Packet",
+      category: "scheduling-correspondence-packet",
+      disposition: "itemized-scheduling-correspondence",
+      title: "Alexander Graham Bell Association honorary chairmen scheduling packet",
+      documentDate: "1992-04-22",
+      pages: 12,
+      excerpt:
+        "The packet covers President and Mrs. Bush accepting honorary chairmanship of the Alexander Graham Bell Association for the Deaf benefit, including letter drafts and copies, invitation material, counsel review, Susan Porter Rose and Patricia Cox routing, and scheduling recommendation forms.",
+      evidence:
+        "Itemized from pages 143-154 of the NARA direct folder scan using the Grosvenor acceptance letters and draft, Alexander Graham Bell invitation, White House counsel and scheduling memoranda, recommendation forms, OCR, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -14673,6 +15247,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417713",
   "470417714",
   "470417718",
+  "470417723",
   "470418083",
 ]);
 
