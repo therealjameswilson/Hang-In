@@ -16525,6 +16525,438 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 146-147 of the NARA direct folder scan using the color photograph page, Official White House Photo back page dated 17JUL92, photo identifier, rendered-page review, and low-confidence OCR.",
     },
   ],
+  470417910: [
+    {
+      slug: "charles-bartlett-moyers-tape-bush-note",
+      documentType: "Presidential Handwritten Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "President Bush handwritten note to Charles L. Bartlett re Bill Moyers tape",
+      documentDate: "1992-07-19",
+      pages: 1,
+      excerpt:
+        "President Bush tells Charles Bartlett that he watched the Moyers tape, did not think Clinton squirmed much, and sent the tape for campaign analysis.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the Charles L. Bartlett address block, July 19 1992 handwritten date, Moyers tape text, campaign file note, Bush signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "aw-clausen-advisory-committee-trade-policy-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush letter to A. W. Clausen re Advisory Committee for Trade Policy and Negotiations",
+      documentDate: "1992-07-19",
+      pages: 1,
+      excerpt:
+        "President Bush thanks A. W. Clausen for service on the Advisory Committee for Trade Policy and Negotiations and for sharing his expertise with the committee.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using the White House letterhead, July 19 1992 date, A. W. Clausen address block, Advisory Committee for Trade Policy and Negotiations text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "camp-david-handwritten-phone-notes-july-19-1992",
+      documentType: "Presidential Phone Call Notes",
+      category: "telephone-note-packet",
+      disposition: "itemized-telephone-note-packet",
+      title: "Camp David presidential phone-call notes, July 19, 1992",
+      documentDate: "1992-07-19",
+      pages: 3,
+      excerpt:
+        "Three Camp David presidential phone-call sheets preserve Bush handwriting on campaign, Perot, Clinton, Russia, Philadelphia, and related follow-up points.",
+      evidence:
+        "Itemized from pages 4-6 of the NARA direct folder scan using the Presidential Phone Calls Camp David forms, July 19 date lines, Perot, Clinton, Russia, Philadelphia, and off-ballot references, Bush Library handwriting stamps, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pat-boone-quayle-ticket-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Pat Boone correspondence packet re Quayle, Dole, Powell, and Elizabeth Dole",
+      documentDate: "1992-07-19",
+      pages: 6,
+      excerpt:
+        "President Bush answers Pat Boone's private suggestion that Dan Quayle step aside, with Boone's fax to Patty Presock and the President, a three-page argument for changing the ticket, and a July 20 follow-up naming Colin Powell and Elizabeth Dole.",
+      evidence:
+        "Itemized from pages 7-12 of the NARA direct folder scan using the President's July 19 personal reply to Pat, Boone Enterprises fax pages, Patty Presock cover fax, July 17 and July 20 date lines, Quayle, Dole, Powell, and Elizabeth Dole references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tom-kleppe-jim-baker-campaign-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Thomas S. Kleppe correspondence packet re Jim Baker and campaign management",
+      documentDate: "1992-07-19",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Thomas S. Kleppe's personal letter urging him to put Jim Baker in charge of the campaign, saying Baker is abroad after two fishing days in Wyoming and that the ball game is just beginning.",
+      evidence:
+        "Itemized from pages 13-14 of the NARA direct folder scan using the President's July 19 handwritten reply, Thomas S. Kleppe's July 10 incoming letter, Jim Baker and campaign manager references, Bush Library handwriting stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "points-light-foundation-commercials-memo",
+      documentType: "Memorandum and Advertisement List",
+      category: "points-of-light-material",
+      disposition: "itemized-points-of-light-material",
+      title: "C. Gregg Petersmeyer memo to President Bush re Points of Light Foundation commercials",
+      documentDate: "1992-07-10",
+      pages: 2,
+      excerpt:
+        "C. Gregg Petersmeyer forwards new Points of Light Foundation television commercials and an advertisement list covering 1992 and 1991 spots.",
+      evidence:
+        "Itemized from pages 15-16 of the NARA direct folder scan using the Points of Light Foundation advertisements page, C. Gregg Petersmeyer memorandum for the President, July 10 1992 date, Advertising Council and Saatchi & Saatchi references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-teeter-clinton-charges-analysis-note",
+      documentType: "Presidential Handwritten Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "President Bush handwritten note to Bob Teeter re analyzing Clinton's charges",
+      documentDate: "1992-07-19",
+      pages: 1,
+      excerpt:
+        "President Bush asks Bob Teeter to have someone analyze material giving him Clinton's charges against the President and the truth.",
+      evidence:
+        "Itemized from page 17 of the NARA direct folder scan using the 7-19 handwritten note to Bob, Teeter notation, Clinton's charges and truth text, Bush signature, Bush Library handwriting stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "campaign-vice-president-phone-notes-annenberg",
+      documentType: "Phone Notes",
+      category: "telephone-note-packet",
+      disposition: "itemized-telephone-note-packet",
+      title: "Campaign phone notes re vice-presidential speculation and Walter Annenberg",
+      documentDate: "1992-07-19",
+      pages: 2,
+      excerpt:
+        "A Camp David phone note and a typed message from Ambassador Walter Annenberg convey campaign and vice-presidential speculation, including Annenberg's dream that Dan Quayle stepped aside for Secretary Baker.",
+      evidence:
+        "Itemized from pages 18-19 of the NARA direct folder scan using the Camp David Presidential Phone Calls form, July 19 date, Ambassador Walter Annenberg typed call note, Dan Quayle and Secretary Baker references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "camp-david-handwritten-followup-notes-july-19-1992",
+      documentType: "Presidential Phone and Follow-up Notes",
+      category: "telephone-note-packet",
+      disposition: "itemized-telephone-note-packet",
+      title: "Camp David presidential phone and follow-up notes re Jack Steel and campaign issues",
+      documentDate: "1992-07-19",
+      pages: 7,
+      excerpt:
+        "The handwritten follow-up packet includes Camp David phone sheets, a typed Rose Zamaria update on Jack Steel's condition, and additional Bush handwriting on campaign, economic, education, and Tony Moody matters.",
+      evidence:
+        "Itemized from pages 20-26 of the NARA direct folder scan using the rotated Presidential Phone Calls forms, July 19 date lines, Jack Steel typed update, Tony Moody reference, Bush Library handwriting stamps, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-moseley-handwritten-letter",
+      documentType: "Incoming Handwritten Letter",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Thomas W. Moseley handwritten letter to President Bush",
+      documentDate: "1992-07-19",
+      pages: 2,
+      excerpt:
+        "Thomas W. Moseley of Gates Mills, Ohio, sends President Bush a two-page handwritten letter during the July campaign period.",
+      evidence:
+        "Itemized from pages 27-28 of the NARA direct folder scan using the Thomas W. Moseley letterhead/address lines, two-page handwritten sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sara-bertagnolli-letter-and-drawing-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sara Bertagnolli correspondence and drawing packet",
+      documentDate: "1992-07-19",
+      pages: 2,
+      excerpt:
+        "President Bush writes to Sara Bertagnolli of Lander, Wyoming, thanking her for a nice card and friendly note, with her hand-addressed drawing page attached.",
+      evidence:
+        "Itemized from pages 29-30 of the NARA direct folder scan using the Miss Sara Bertagnolli address block, President letter page, Lander Wyoming address, drawing page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alan-simpson-tony-principi-recommendation-packet",
+      documentType: "Presidential Correspondence and Recommendation Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Alan K. Simpson correspondence packet re Tony Principi recommendation",
+      documentDate: "1992-07-19",
+      pages: 5,
+      excerpt:
+        "President Bush replies to Senator Alan Simpson about seeing him in Jackson and about Tony Principi, with Simpson's July 6 letter to the President, his recommendation letter to Constance Horner, and Rose Zamaria routing material attached.",
+      evidence:
+        "Itemized from pages 31-35 of the NARA direct folder scan using the President's July 19 letter to Al, Alan K. Simpson Senate letterhead, July 6 1992 letters, Tony Principi and Constance Horner references, Rose Zamaria routing page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kristin-clark-taylor-bellsouth-correspondence",
+      documentType: "Incoming Correspondence",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Kristin Clark Taylor BellSouth correspondence",
+      documentDate: "1992-06-26",
+      pages: 2,
+      excerpt:
+        "Kristin Clark Taylor of BellSouth writes President Bush, with an address page and incoming BellSouth correspondence page in the packet.",
+      evidence:
+        "Itemized from pages 36-37 of the NARA direct folder scan using the Kristin Clark Taylor address block, BellSouth letterhead, June 26 1992 date, President addressee, OCR, and rendered-page review.",
+    },
+    {
+      slug: "loret-ruppe-wedding-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Loret M. Ruppe wedding correspondence packet",
+      documentDate: "1992-07-19",
+      pages: 2,
+      excerpt:
+        "President Bush writes Ambassador Loret M. Ruppe from Camp David thanking her for a note about Doro's wedding, with Ruppe's incoming note attached.",
+      evidence:
+        "Itemized from pages 38-39 of the NARA direct folder scan using the Camp David reply to Loret, July 19 1992 date, Loret M. Ruppe address block, wedding note text, incoming Ambassador Loret M. Ruppe page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-bartlett-incoming-moyers-packet",
+      documentType: "Correspondence Packet with Duplicate Presidential Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Charles L. Bartlett incoming letter and duplicate Bush note re Bill Moyers tape",
+      documentDate: "1992-07-19",
+      pages: 2,
+      excerpt:
+        "A second Charles L. Bartlett packet includes a duplicate of President Bush's Moyers tape note and Bartlett's incoming handwritten letter saying the tape looked good to him.",
+      evidence:
+        "Itemized from pages 40-41 of the NARA direct folder scan using the duplicate July 19 Bush note to Charlie, Bartlett address block, incoming Charles Bartlett handwritten page, Moyers tape references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "buck-beer-kitchen-table-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Buck correspondence packet re beer left on the kitchen table",
+      documentDate: "1992-07-19",
+      pages: 2,
+      excerpt:
+        "President Bush writes Buck after returning from the West to thank him for beer left on the kitchen table, with Buck's handwritten note attached.",
+      evidence:
+        "Itemized from pages 42-43 of the NARA direct folder scan using the President's July 19 letter to Buck, West trip and beer references, incoming handwritten note page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sam-skinner-digger-black-mayors-note",
+      documentType: "Presidential Handwritten Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "President Bush note to Sam Skinner re Digger and Black Mayors meeting",
+      documentDate: "1992-07-19",
+      pages: 1,
+      excerpt:
+        "President Bush asks Sam Skinner to have Digger invited to the Black Mayors meeting because of his work in cities on Weed and Seed.",
+      evidence:
+        "Itemized from page 44 of the NARA direct folder scan using the President's July 19 note to Sam Skinner, Digger, Black Mayors meeting, and Weed and Seed references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "brent-grenada-criminals-note",
+      documentType: "Presidential Handwritten Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "President Bush note to Brent Scowcroft re Grenada criminals",
+      documentDate: "1992-07-19",
+      pages: 1,
+      excerpt:
+        "President Bush asks Brent Scowcroft where the trials or sentencing of Grenada criminals stand.",
+      evidence:
+        "Itemized from page 45 of the NARA direct folder scan using the President's July 19 note to Brent, Grenada criminals trials or sentencing text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "speechwriters-house-control-perot-notes",
+      documentType: "Presidential Handwritten Notes",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "President Bush notes to speechwriters re House control and Perot",
+      documentDate: "1992-07-19",
+      pages: 2,
+      excerpt:
+        "President Bush tells the speechwriters to add more on Republicans not controlling the House for decades and to be careful about how much to keep talking about Perot.",
+      evidence:
+        "Itemized from pages 46-47 of the NARA direct folder scan using the President's July 19 notes to the speechwriters, Teeter reference, House control and Perot language, duplicate/photocopy page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dan-mcgroarty-satellite-broadcast-remarks-packet",
+      documentType: "Campaign Memorandum and Remarks Draft",
+      category: "campaign-speech-material",
+      disposition: "itemized-campaign-speech-material",
+      title: "Dan McGroarty memo and remarks draft for satellite broadcast to Bush-Quayle headquarters",
+      documentDate: "1992-07-17",
+      pages: 7,
+      excerpt:
+        "Dan McGroarty sends President Bush a memorandum and six-page draft remarks for the July 20 satellite broadcast to Bush-Quayle '92 campaign headquarters.",
+      evidence:
+        "Itemized from pages 48-54 of the NARA direct folder scan using the July 17 Dan McGroarty memorandum for the President, Satellite Broadcast to Campaign Headquarters subject, White House Communications Center draft pages, July 20 1992 remarks title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "july-19-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "Telephone memoranda for President Bush, July 19, 1992",
+      documentDate: "1992-07-19",
+      pages: 4,
+      excerpt:
+        "White House Signal Switchboard and President Bush telephone memorandum pages record July 19 calls involving David Bates, Barbara Bush, Neil Bush, Robert Mosbacher, Robert Teeter, and other entries.",
+      evidence:
+        "Itemized from pages 55-58 of the NARA direct folder scan using the Telephone Memorandum headings, Signal Switchboard and President Bush labels, July 19 date lines, call entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "july-19-presidential-movements-camp-david-washington",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-log",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential movements log: Camp David to Washington, July 19, 1992",
+      documentDate: "1992-07-19",
+      pages: 1,
+      excerpt:
+        "The movements log records President Bush's July 19 departure from Camp David by Marine One and arrival on the South Grounds in Washington.",
+      evidence:
+        "Itemized from page 59 of the NARA direct folder scan using the Presidential Movements heading, Camp David Maryland and Washington D.C. location lines, July 19 1992 date, Marine One and South Grounds entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cardinal-oconnor-knights-columbus-letter-copy",
+      documentType: "Incoming Correspondence Copy",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "John Cardinal O'Connor letter copy re Knights of Columbus meeting and Pope John Paul II",
+      documentDate: "1992-07-16",
+      pages: 2,
+      excerpt:
+        "A Camp David-routed copy of John Cardinal O'Connor's July 16 letter looks forward to meeting President Bush at the Knights of Columbus Convention and conveys Pope John Paul II's gratitude for the President's prayerful concern.",
+      evidence:
+        "Itemized from pages 60-61 of the NARA direct folder scan using the Camp David routing page, Cardinal's Office fax page, The President Has Seen stamp, July 16 1992 O'Connor letter, Knights of Columbus and Holy Father references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cardinal-oconnor-call-note",
+      documentType: "Presidential Phone Call Note",
+      category: "telephone-note-packet",
+      disposition: "itemized-telephone-note-packet",
+      title: "Camp David phone-call note re Cardinal O'Connor",
+      documentDate: "1992-07-19",
+      pages: 1,
+      excerpt:
+        "A Camp David presidential phone-call sheet records handwritten follow-up connected to Cardinal O'Connor.",
+      evidence:
+        "Itemized from page 62 of the NARA direct folder scan using the Presidential Phone Calls Camp David form, Cardinal O'Connor references, handwritten follow-up, Bush Library handwriting stamp, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "duplicate-brent-grenada-criminals-note",
+      documentType: "Duplicate Presidential Handwritten Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "Duplicate President Bush note to Brent Scowcroft re Grenada criminals",
+      documentDate: "1992-07-19",
+      pages: 1,
+      excerpt:
+        "A duplicate or alternate copy repeats President Bush's question to Brent Scowcroft about the status of trials or sentencing for Grenada criminals.",
+      evidence:
+        "Itemized from page 63 of the NARA direct folder scan using the President's July 19 note to Brent, Grenada criminals text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-mothers-sons-alone-article",
+      documentType: "Press Article",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title: "Washington Post article packet: Mothers Struggle to Raise Sons Alone",
+      documentDate: "1992-07-19",
+      pages: 5,
+      excerpt:
+        "The Washington Post clipping packet covers mothers raising sons alone, male role models, sons' defiance, and the limits of mothering without a male presence.",
+      evidence:
+        "Itemized from pages 64-68 of the NARA direct folder scan using the Washington Post masthead fragments, Mothers Struggle to Raise Sons Alone headline, A Son's Defiance and A Feeling That Mothering Isn't Enough continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-adult-literacy-cover-story",
+      documentType: "Press Article",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title: "USA Today Life cover story on adult literacy",
+      documentDate: "1992-07-20",
+      pages: 3,
+      excerpt:
+        "The USA Today Life cover story examines adult illiteracy, including the Home program segment and continuation material on people learning to fake literacy.",
+      evidence:
+        "Itemized from pages 69-71 of the NARA direct folder scan using the USA Today Life masthead, Monday July 20 1992 date, Of words and walls headline, Cover Story and Many learn how to fake literacy continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "newsday-homelessness-aids-linked-article",
+      documentType: "Press Article",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title: "Newsday article: Homelessness, AIDS Linked",
+      documentDate: "1992-07-16",
+      pages: 1,
+      excerpt:
+        "A Newsday Associated Press article reports a National Commission on AIDS warning that many Americans with AIDS are homeless or close to homelessness.",
+      evidence:
+        "Itemized from page 72 of the NARA direct folder scan using the Newsday Thursday July 16 1992 masthead, Homelessness AIDS Linked headline, Associated Press byline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-aids-virus-adaptation-article",
+      documentType: "Press Article",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title: "USA Today article: AIDS shows new signs that it can adapt",
+      documentDate: "1992-07-20",
+      pages: 1,
+      excerpt:
+        "A USA Today article from Amsterdam reports on new questions about the AIDS virus, including undetectable HIV cases and findings about heterosexual transmission.",
+      evidence:
+        "Itemized from page 73 of the NARA direct folder scan using the USA Today masthead, Monday July 20 1992 date, AIDS shows new signs that it can adapt headline, Kim Painter byline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "to-whom-it-may-concern-campaign-draft",
+      documentType: "Presidential Handwritten Statement Draft",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "President Bush handwritten To Whom It May Concern campaign statement draft",
+      documentDate: "1992-07-19",
+      pages: 3,
+      excerpt:
+        "A sticky-note marker introduces a two-page handwritten campaign statement draft in which President Bush writes about a strenuous reelection campaign, integrity, honor, excitement, and pride in America.",
+      evidence:
+        "Itemized from pages 74-76 of the NARA direct folder scan using the Document Originally Attached to Following Page marker, July 19 1992 sticky note, To Whom It May Concern heading, handwritten campaign statement text, Bush signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-time-capsule-materials",
+      documentType: "Time Capsule Packet",
+      category: "white-house-material",
+      disposition: "itemized-white-house-material",
+      title: "White House time capsule materials for the cornerstone anniversary",
+      documentDate: "1992-07-08",
+      pages: 7,
+      excerpt:
+        "The time-capsule packet includes Bush-signed images and family material, a From the desk of George Bush attachment marker, Anne Porter Rose's memo to Rose Zamaria, Mrs. Bush time-capsule notes, and a June 12 item list for the October 13 cornerstone anniversary.",
+      evidence:
+        "Itemized from pages 77-83 of the NARA direct folder scan using the Bush/Gorbachev image page, Bush family image page, From the desk of George Bush marker, Anne Porter Rose memorandum to Rose Zamaria, To let your mind soar to 100 years from now page, June 12 Time Capsule list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cardinal-oconnor-correspondence-response-packet",
+      documentType: "Correspondence and Response Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John Cardinal O'Connor correspondence and President Bush response packet",
+      documentDate: "1992-07-16",
+      pages: 7,
+      excerpt:
+        "The packet includes Camp David routing, Cardinal O'Connor's July 16 letter about the Knights of Columbus Convention and Pope John Paul II, a presidential response draft, an attachment marker, the White House envelope page, and a correspondence tracking worksheet.",
+      evidence:
+        "Itemized from pages 84-90 of the NARA direct folder scan using the Camp David routing sheet, Cardinal's Office letter, President Bush response page to Your Eminence, Document Originally Attached marker, White House envelope page, correspondence tracking worksheet ID 339345, OCR, and rendered-page review.",
+    },
+    {
+      slug: "duplicate-tom-kleppe-baker-reply",
+      documentType: "Duplicate Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Duplicate President Bush letter to Thomas S. Kleppe re Jim Baker",
+      documentDate: "1992-07-19",
+      pages: 1,
+      excerpt:
+        "A duplicate or alternate copy of the President's July 19 letter to Thomas S. Kleppe about Jim Baker appears with the White House address block.",
+      evidence:
+        "Itemized from page 91 of the NARA direct folder scan using the White House address block for Thomas S. Kleppe, July 19 1992 President letter text, Jim Baker references, OCR, and rendered-page review.",
+    },
+  ],
   470417970: [
     {
       slug: "treasury-forwarding-note-brady-houston-club-materials",
@@ -22383,6 +22815,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417904",
   "470417907",
   "470417908",
+  "470417910",
   "470418083",
 ]);
 
