@@ -5181,6 +5181,273 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from Washington Post mastheads, columns, and article starts found in full-PDF OCR of the NARA direct folder scan.",
     },
   ],
+  470418071: [
+    {
+      slug: "stanton-ohio-campaign-assistance-initial-packet",
+      documentType: "Campaign Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title:
+        "Bill Stanton Ohio campaign-assistance fax packet with President Bush note",
+      documentDate: "1992-09-19",
+      pages: 3,
+      excerpt:
+        "President Bush forwards Bill Stanton's fax to James A. Baker III, asking whether Stanton should take leave from the World Bank to help in Ohio, with a follow-up note from Teeter's office and Stanton's handwritten fax.",
+      evidence:
+        "Itemized from the President's note to JAB III, Teeter-office follow-up note, Stanton fax page, and rendered-page review.",
+    },
+    {
+      slug: "reuters-maastricht-wire-and-marked-imf-insertion",
+      documentType: "Wire Story and Speech Draft Page",
+      category: "economic-policy-speech-material",
+      disposition: "itemized-economic-policy-speech-material",
+      title:
+        "Reuters Maastricht referendum wire and marked IMF statement insertion page",
+      documentDate: "1992-09-20",
+      pages: 2,
+      excerpt:
+        "A Reuters wire reports the French Maastricht Treaty referendum result while a marked IMF statement page adds G-7 economic-coordination language for the President's Sunday remarks.",
+      evidence:
+        "Itemized from the Reuters NWSID wire page, marked speech page, and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "phillip-brady-speech-cards-transmittal",
+      documentType: "Staff Transmittal Note",
+      category: "speech-material-transmittal",
+      disposition: "itemized-speech-material",
+      title:
+        "Phillip D. Brady note transmitting September 20 speech cards",
+      documentDate: "1992-09-19",
+      pages: 1,
+      excerpt:
+        "Phillip D. Brady tells the President that speech cards for Sunday, September 20 will be at the residence upon his return.",
+      evidence:
+        "Itemized from the White House note by Phillip D. Brady and rendered-page review.",
+    },
+    {
+      slug: "imf-statement-speech-cards-drafts",
+      documentType: "Speech Drafts",
+      category: "economic-policy-speech-material",
+      disposition: "itemized-economic-policy-speech-material",
+      title:
+        "IMF statement speech-card drafts for September 20, 1992",
+      documentDate: "1992-09-20",
+      pages: 9,
+      excerpt:
+        "Two speech-card drafts of the IMF statement address European financial-market turmoil, the Maastricht vote, European integration, G-7 coordination, commodity indicators, growth, and post-Cold War economic architecture.",
+      evidence:
+        "Itemized from the IMF Statement headings, numbered speech-card pages, handwritten edits, and rendered-page review.",
+    },
+    {
+      slug: "tailhook-edwards-letter-packet",
+      documentType: "Staff Note and Incoming Letter",
+      category: "defense-correspondence",
+      disposition: "itemized-defense-correspondence",
+      title:
+        "President Bush note to Brent Scowcroft re Tailhook and Grogan Edwards letter",
+      documentDate: "1992-09-19",
+      pages: 2,
+      excerpt:
+        "President Bush asks Brent Scowcroft to get Dick Cheney's update on Tailhook and notes a comment about Lt. Coughlin in Grogan Edwards's letter.",
+      evidence:
+        "Itemized from the President's note to Brent Scowcroft, New York Life inter-office memo from Grogan Edwards, Bush handwriting marker, and rendered-page review.",
+    },
+    {
+      slug: "camp-david-campaign-filming-schedule-script",
+      documentType: "Schedule and Campaign Script Packet",
+      category: "campaign-media-production",
+      disposition: "itemized-campaign-media-production",
+      title:
+        "Camp David campaign filming schedule and Plan Courts television script",
+      documentDate: "1992-09-19",
+      pages: 3,
+      excerpt:
+        "The packet includes the President's Saturday Camp David schedule, a proposed campaign filming schedule with the First Family, and a revised Plan Courts television ad script.",
+      evidence:
+        "Itemized from the Saturday schedule page, proposed campaign filming schedule, Plan Courts script page, and rendered-page review.",
+    },
+    {
+      slug: "betty-walker-support-letter",
+      documentType: "Incoming Correspondence",
+      category: "constituent-correspondence",
+      disposition: "itemized-constituent-correspondence",
+      title: "Betty Walker letter to President Bush re Arkansas support",
+      documentDate: "1992-09-12",
+      pages: 2,
+      excerpt:
+        "Betty Walker writes from Springdale, Arkansas, encouraging the President and describing local support, bumper-sticker calls, and television coverage.",
+      evidence:
+        "Itemized from the White House routing/address page, Betty Walker letter, handwritten markings, and rendered-page review.",
+    },
+    {
+      slug: "president-note-to-mat-re-election-support",
+      documentType: "Presidential Correspondence Drafts",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush note drafts to Mat thanking him for re-election support",
+      documentDate: "1992-09-19",
+      pages: 2,
+      excerpt:
+        "Two versions of a President Bush note thank Mat for distinguished service and enthusiastic re-election support.",
+      evidence:
+        "Itemized from the President's note pages, George Bush handwriting marker, and rendered-page review.",
+    },
+    {
+      slug: "frederick-reeder-macarthur-vietnam-letter-photo",
+      documentType: "Incoming Correspondence and Photograph",
+      category: "defense-correspondence",
+      disposition: "itemized-defense-correspondence",
+      title:
+        "Rear Admiral Frederick Reeder letter on MacArthur, Vietnam, and presidential command",
+      documentDate: "1992-09-15",
+      pages: 3,
+      excerpt:
+        "Rear Admiral Frederick M. Reeder writes through Don Rhodes about General Douglas MacArthur, President Johnson, Vietnam, and command decisions, with an attached photograph and handwritten note.",
+      evidence:
+        "Itemized from the Reeder address page, attached photograph page, Reeder letter, handwriting, and rendered-page review.",
+    },
+    {
+      slug: "stanton-ohio-campaign-assistance-copy-packet",
+      documentType: "Campaign Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title:
+        "Bill Stanton Ohio campaign-assistance routing copy packet",
+      documentDate: "1992-09-19",
+      pages: 5,
+      excerpt:
+        "A second routing copy of the Stanton Ohio campaign-assistance material includes the President's note to JAB III, a World Bank address page, Stanton's handwritten fax, and a Bush Library handwriting photocopy.",
+      evidence:
+        "Itemized from the duplicate Stanton routing pages, address page, handwritten fax, Bush handwriting marker, and rendered-page review.",
+    },
+    {
+      slug: "press-clippings-women-education-family-california-higher-ed",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Press clippings on women voters, education, family research, and California higher education",
+      documentDate: "1992-09-21",
+      pages: 8,
+      excerpt:
+        "The clipping packet includes New York Post coverage of Bush courting women voters, Wall Street Journal and Washington Post education pieces, family-structure research, and California higher-education budget coverage.",
+      evidence:
+        "Itemized from newspaper mastheads, article starts, continuation pages, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings-september-19-21-1992",
+      documentType: "Daily Press Clippings",
+      category: "first-lady-press-clippings",
+      disposition: "itemized-first-lady-press-clippings",
+      title:
+        "Mrs. Bush's Press Office daily press clippings, September 19-21, 1992",
+      documentDate: "1992-09-21",
+      pages: 13,
+      excerpt:
+        "The Mrs. Bush clipping packet covers Barbara Bush appearances in Port Charlotte, Sarasota, Lexington, and Barberton, including literacy, campaign, and local press coverage.",
+      evidence:
+        "Itemized from the Mrs. Bush's Press Office Daily Press Clippings cover sheet, local newspaper mastheads, photo captions, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-family-values-tone-clippings-september-20-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "New York Times clippings on Bush campaign family-values tone",
+      documentDate: "1992-09-20",
+      pages: 2,
+      excerpt:
+        "The New York Times clippings report on Bush efforts to recoup from the harsh tone of family-values politics after the Republican convention.",
+      evidence:
+        "Itemized from New York Times article pages, continuation heading, and rendered-page review.",
+    },
+    {
+      slug: "associated-press-california-campaign-wire-september-20-1992",
+      documentType: "Wire Story",
+      category: "campaign-wire-story",
+      disposition: "itemized-wire-story",
+      title:
+        "Associated Press wire: Bush trails, but can't write off California",
+      documentDate: "1992-09-20",
+      pages: 1,
+      excerpt:
+        "The AP wire reports on Bush's large polling deficit in California, Jeb Bush's argument that the campaign had not yet fully engaged there, and the state's electoral stakes.",
+      evidence:
+        "Itemized from the Associated Press dateline, timestamped wire page, and rendered-page review.",
+    },
+    {
+      slug: "on-the-road-with-candidates-magazine-feature",
+      documentType: "Magazine Feature",
+      category: "campaign-magazine-feature",
+      disposition: "itemized-campaign-magazine-feature",
+      title:
+        "Magazine feature: On the Road with the Candidates",
+      documentDate: "",
+      pages: 9,
+      excerpt:
+        "The magazine feature profiles George Bush, Bill Clinton, Dan Quayle, Al Gore, Barbara Bush, Hillary Clinton, campaign travel, and the role of candidates' spouses.",
+      evidence:
+        "Itemized from the 'On the Road with the Candidates' feature pages, candidate profile spreads, spouse profile pages, and rendered-page review.",
+    },
+    {
+      slug: "time-washington-post-new-york-post-bush-family-items",
+      documentType: "Press and Magazine Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "TIME, Washington Post, and New York Post items on the Bush family and Barbara Bush",
+      documentDate: "1992-09-28",
+      pages: 5,
+      excerpt:
+        "The packet includes TIME Grapevine items, Washington Fax, Washington Post discussion of Barbara Bush and family values, and a New York Post item on criticism of Barbara Bush's family image.",
+      evidence:
+        "Itemized from TIME mastheads, Washington Post and New York Post clipping pages, article starts, and rendered-page review.",
+    },
+    {
+      slug: "admiral-william-crowe-correspondence-nuclear-weapons-packet",
+      documentType: "Correspondence Packet",
+      category: "defense-correspondence",
+      disposition: "itemized-defense-correspondence",
+      title:
+        "Admiral William J. Crowe correspondence packet on nuclear weapons and Gulf War letters",
+      documentDate: "1991-10-03",
+      pages: 12,
+      excerpt:
+        "The Crowe packet includes a routing note, address page, Admiral Crowe's October 1991 letter, earlier Bush-Crowe Gulf War correspondence, tracking worksheet, and draft presidential response on nuclear-weapons reductions.",
+      evidence:
+        "Itemized from the Crowe address page, incoming and outgoing correspondence, tracking worksheet, draft response pages, handwriting, and rendered-page review.",
+    },
+    {
+      slug: "stanton-ohio-campaign-assistance-tail-copy",
+      documentType: "Campaign Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title:
+        "Bill Stanton Ohio campaign-assistance tail copy with Teeter-office follow-up",
+      documentDate: "1992-09-19",
+      pages: 5,
+      excerpt:
+        "A final copy of the Stanton material includes the President's note, World Bank address page, Stanton's fax, and an October 2 JAB follow-up note reporting Bob Bennett's Ohio campaign plans for Stanton.",
+      evidence:
+        "Itemized from the repeated Stanton pages, October 2 JAB follow-up note, handwriting, and rendered-page review.",
+    },
+    {
+      slug: "frederick-reeder-camp-david-photo-transfer-pages",
+      documentType: "Photo Transfer Packet",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title:
+        "Rear Admiral Frederick Reeder address page and Camp David photo transfer pages",
+      documentDate: "1992-09-19",
+      pages: 5,
+      excerpt:
+        "The closing packet includes a Reeder address page and Camp David photographs with official White House photo label pages.",
+      evidence:
+        "Itemized from the Reeder address page, color Camp David photographs, official White House photo labels, and rendered-page review.",
+    },
+  ],
   470418122: [
     {
       slug: "st-louis-railroad-ymca-history",
