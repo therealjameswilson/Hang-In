@@ -14751,6 +14751,242 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 137-158 of the NARA direct folder scan using The Daily Briefing on American Politics masthead, Tuesday June 30 1992 date, APN Bulletin Board, White House '92, Issues '92, House/Senate/Governors/Poll sections, TV Monitor ending page, OCR, and rendered-page review.",
     },
   ],
+  470417878: [
+    {
+      slug: "nicholas-brady-munich-economic-summit-press-briefing",
+      documentType: "Press Briefing",
+      category: "press-briefing-item",
+      disposition: "itemized-press-briefing",
+      title: "Press briefing by Treasury Secretary Nicholas Brady on the Munich Economic Summit",
+      documentDate: "1992-06-30",
+      pages: 7,
+      excerpt:
+        "Treasury Secretary Nicholas Brady briefs reporters on the upcoming Munich Economic Summit, including Japan, the Uruguay Round, Russia, IMF deliberations, and world economic growth.",
+      evidence:
+        "Itemized from pages 2-8 of the NARA direct folder scan using the White House Office of the Press Secretary release heading, June 30 1992 date, Briefing Room location, transcript continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-light-walter-dean-adams",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title: "Daily Point of Light release recognizing Walter Dean Adams of Abilene, Texas",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "The President recognizes Walter Dean Adams of Abilene, Texas, as the 816th Daily Point of Light for organizing community service projects.",
+      evidence:
+        "Itemized from page 9 of the NARA direct folder scan using the Office of the Press Secretary release heading, Walter Dean Adams name line, 816th Daily Point of Light text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-simmons-south-carolina-us-attorney-nomination",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: John S. Simmons to be U.S. Attorney for the District of South Carolina",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate John S. Simmons to be United States Attorney for the District of South Carolina.",
+      evidence:
+        "Itemized from page 10 of the NARA direct folder scan using the Office of the Press Secretary release heading, John S. Simmons nomination text, South Carolina district line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "remarks-superconducting-super-collider-scientists",
+      documentType: "Presidential Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Remarks by the President in meeting with scientists on the Superconducting Super Collider",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "The President thanks scientists for making the scientific case for the Superconducting Super Collider and discusses its national importance.",
+      evidence:
+        "Itemized from page 11 of the NARA direct folder scan using the remarks title, Roosevelt Room location line, 4:10 p.m. EDT time line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-balanced-budget-amendment-june-30-1992",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement by the President calling for Senate passage of a Balanced Budget Constitutional Amendment",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "The President calls on the Senate to cut through procedural obstacles and pass a Balanced Budget Constitutional Amendment.",
+      evidence:
+        "Itemized from page 12 of the NARA direct folder scan using the Statement by the President heading, Balanced Budget Constitutional Amendment text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "clark-atlanta-morris-brown-army-centers-excellence",
+      documentType: "Presidential Announcement",
+      category: "presidential-announcement",
+      disposition: "itemized-presidential-announcement",
+      title: "Announcement re Clark-Atlanta and Morris Brown Army Centers of Excellence research awards",
+      documentDate: "1992-06-30",
+      pages: 2,
+      excerpt:
+        "The President announces that Clark-Atlanta University and Morris Brown College have been selected for Army Centers of Excellence information-science and training-research awards.",
+      evidence:
+        "Itemized from pages 13-14 of the NARA direct folder scan using the Office of the Press Secretary release heading, America 2000 line, Clark-Atlanta and Morris Brown text, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mark-guzzetta-sabine-river-compact-appointment",
+      documentType: "Appointment Release",
+      category: "appointment-release",
+      disposition: "itemized-appointment-release",
+      title: "Appointment release: Mark A. Guzzetta to be Federal Representative on the Sabine River Compact Administration",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to appoint Mark A. Guzzetta as Federal Representative of the United States on the Sabine River Compact Administration.",
+      evidence:
+        "Itemized from page 15 of the NARA direct folder scan using the Office of the Press Secretary release heading, Mark A. Guzzetta appointment text, Sabine River Compact Administration line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-determination-92-35-indonesia-nuclear-cooperation",
+      documentType: "Presidential Determination",
+      category: "presidential-determination",
+      disposition: "itemized-presidential-determination",
+      title: "Presidential Determination No. 92-35 re Indonesia peaceful nuclear cooperation agreement extension",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "Presidential Determination No. 92-35 concerns extending the agreement for cooperation between the United States and Indonesia on peaceful uses of nuclear energy.",
+      evidence:
+        "Itemized from page 16 of the NARA direct folder scan using the Presidential Determination No. 92-35 heading, Secretary of State and Secretary of Energy addressees, Indonesia nuclear cooperation subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-klaus-kinkel-oval-office-meeting",
+      documentType: "Press Secretary Statement",
+      category: "press-secretary-statement",
+      disposition: "itemized-press-secretary-statement",
+      title: "Statement by the Press Secretary re President Bush meeting with German Foreign Minister Klaus Kinkel",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "The Press Secretary reports that the President met with German Foreign Minister Klaus Kinkel and discussed U.S.-German relations, NATO, and the GATT Round.",
+      evidence:
+        "Itemized from page 17 of the NARA direct folder scan using the Statement by the Press Secretary heading, Oval Office meeting text, Klaus Kinkel name line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cyprus-bimonthly-report-letter-to-congress",
+      documentType: "Letter to Congress",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title: "Text of letter to Congress transmitting bimonthly Cyprus report",
+      documentDate: "1992-06-30",
+      pages: 2,
+      excerpt:
+        "The President transmits the bimonthly report on progress toward a negotiated settlement of the Cyprus question.",
+      evidence:
+        "Itemized from pages 18-19 of the NARA direct folder scan using the Text of a Letter from the President heading, Speaker and Senate Foreign Relations addressees, Cyprus and UNFICYP text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "message-congress-indonesia-nuclear-cooperation-extension",
+      documentType: "Message to Congress",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title: "Message to Congress transmitting Indonesia peaceful nuclear cooperation agreement extension",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "The President transmits to Congress the text of diplomatic notes extending the U.S.-Indonesia peaceful nuclear cooperation agreement.",
+      evidence:
+        "Itemized from page 20 of the NARA direct folder scan using the To the Congress of the United States salutation, Atomic Energy Act citation, Indonesia extension text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "proclamation-national-awareness-week-lifesaving-techniques-1992",
+      documentType: "Proclamation",
+      category: "proclamation",
+      disposition: "itemized-proclamation",
+      title: "Proclamation: National Awareness Week for Lifesaving Techniques, 1992",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "The President proclaims National Awareness Week for Lifesaving Techniques, 1992, emphasizing CPR and emergency-response skills.",
+      evidence:
+        "Itemized from page 21 of the NARA direct folder scan using the proclamation title, Office of the Press Secretary release heading, lifesaving techniques text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "proclamation-national-spina-bifida-awareness-month-1992",
+      documentType: "Proclamation",
+      category: "proclamation",
+      disposition: "itemized-proclamation",
+      title: "Proclamation: National Spina Bifida Awareness Month, 1992",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "The President proclaims National Spina Bifida Awareness Month, 1992, describing the disorder and the importance of awareness and support.",
+      evidence:
+        "Itemized from page 22 of the NARA direct folder scan using the proclamation title, Office of the Press Secretary release heading, spina bifida text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "remarks-agriculture-communicators-congress",
+      documentType: "Presidential Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Remarks by the President in address to the Agriculture Communicators Congress",
+      documentDate: "1992-06-30",
+      pages: 9,
+      excerpt:
+        "The President addresses the Agriculture Communicators Congress at the Department of Agriculture and discusses farmers, Russia agricultural credit guarantees, ethanol, rural health care, wetlands, capital gains, and Iraq.",
+      evidence:
+        "Itemized from pages 23-31 of the NARA direct folder scan using the remarks title, Department of Agriculture location line, 1:31 p.m. EDT time line, transcript continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-office-clippings-june-30-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Tuesday, June 30, 1992",
+      documentDate: "1992-06-30",
+      pages: 25,
+      excerpt:
+        "Mrs. Bush's Press Office daily clippings include coverage of Dorothy Bush's wedding, Reliable Source items, President Bush's summer schedule, health care and broccoli columns, Quayle and culture, Margot Perot, Hillary Clinton, and international business etiquette.",
+      evidence:
+        "Itemized from pages 32-56 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover page, June 30 1992 date, recipient list, newspaper mastheads, clipping sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photos-june-30-cbs-crew",
+      documentType: "Official White House Photographs",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photographs from June 30, 1992, including CBS crew and Oval Office scenes",
+      documentDate: "1992-06-30",
+      pages: 5,
+      excerpt:
+        "The photograph packet includes color Official White House photograph pages and backs, including images of President Bush with CBS crew and Oval Office or White House meeting scenes.",
+      evidence:
+        "Itemized from pages 57-61 of the NARA direct folder scan using color photograph pages, Official White House Photo back pages dated 30JUN92, CBS Crew sticky note, OCR/photo-page boundaries, and rendered-page review.",
+    },
+    {
+      slug: "daily-news-clips-june-30-1992",
+      documentType: "Daily News Clips Packet",
+      category: "daily-news-clips",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips: Tuesday, June 30, 1992",
+      documentDate: "1992-06-30",
+      pages: 119,
+      excerpt:
+        "The Office of Media Affairs Daily News Clips packet collects June 30 coverage from the Washington Post, Washington Times, Wall Street Journal, USA Today, and New York Times on CBS This Morning, Bush letters, Russia, Sarajevo, abortion, Tailhook, Perot, education, fetal tissue research, steel trade suits, China trade, and the campaign.",
+      evidence:
+        "Itemized from pages 62-180 of the NARA direct folder scan using the Daily News Clips cover page, newspaper mastheads, clipping sequence, Wall Street Journal pages, USA Today abortion package, Washington Times coverage, New York Times pages ending with A Victory for Roe, OCR, and rendered-page review.",
+    },
+    {
+      slug: "zoe-thomson-tron-welcome-letter-and-photographs",
+      documentType: "Presidential Correspondence and Photographs",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Zoe Alexandra Thomson Tron welcome letter and White House photographs",
+      documentDate: "1992-06-30",
+      pages: 4,
+      excerpt:
+        "President and Mrs. Bush welcome Zoe Alexandra Thomson Tron after her June 15 birth, with related Official White House photograph pages attached.",
+      evidence:
+        "Itemized from pages 181-184 of the NARA direct folder scan using the White House presidential letter to Zoe Alexandra Thomson Tron, June 30 1992 date, Official White House Photo back page, color photograph pages, OCR, and rendered-page review.",
+    },
+  ],
   470417970: [
     {
       slug: "treasury-forwarding-note-brady-houston-club-materials",
@@ -20603,6 +20839,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417863",
   "470417874",
   "470417877",
+  "470417878",
   "470418083",
 ]);
 
