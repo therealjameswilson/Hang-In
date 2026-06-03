@@ -3054,6 +3054,130 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from rendered-page review of color photo pages, handwritten sticky labels, and Official White House Photo stamp backs in the NARA direct folder scan.",
     },
   ],
+  470418007: [
+    {
+      slug: "response-to-claims-clinton-is-raising-again",
+      documentType: "Campaign Rebuttal Talking Points",
+      category: "campaign-rebuttal-talking-points",
+      disposition: "itemized-campaign-rebuttal-talking-points",
+      title: "Response to Claims Clinton is Raising Again",
+      documentDate: "1992-08-25",
+      pages: 13,
+      excerpt:
+        "A campaign rebuttal packet answers claims raised by Bill Clinton, with point-by-point responses on the economy, taxes, jobs, trade, wages, welfare, children, the environment, agriculture, regulation, and education.",
+      evidence:
+        "Itemized from the Response to Claims heading and claim/response pages found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "official-white-house-photo-transfer-pages-august-25-1992",
+      documentType: "Official White House Photographs",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photo transfer pages, August 25, 1992",
+      documentDate: "1992-08-25",
+      pages: 5,
+      excerpt:
+        "Official White House photo pages and transfer placeholders appear in the direct scan, including color photographs and Official White House Photo backing pages.",
+      evidence:
+        "Itemized from rendered-page review of color photo pages and Official White House Photo transfer placeholders in the NARA direct folder scan.",
+    },
+    {
+      slug: "washington-post-campaign-economy-clippings-august-25-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Washington Post clippings on campaign economics, Iraq, Quayle, peace talks, job training, arms control, and television",
+      documentDate: "1992-08-25",
+      pages: 15,
+      excerpt:
+        "The Washington Post clipping packet includes articles and columns on Bush's economic-revival argument, Clinton's economic attacks, low-wage earners, Iraq, Quayle, peace talks, Pat Buchanan, job training, arms control, and television coverage.",
+      evidence:
+        "Itemized from Washington Post mastheads, article starts, and continuation pages found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "wall-street-journal-libya-iraq-economy-articles",
+      documentType: "Press Articles",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Wall Street Journal articles on Libya, Iraq, markets, Thomas, Japan, and Iraqi weapons",
+      documentDate: "1992-08-25",
+      pages: 8,
+      excerpt:
+        "The Wall Street Journal article packet covers Libya sanctions and oil companies, Bush campaign strategy, Iraqi dissidents and weapons, the dollar and the Bundesbank, Clarence Thomas, and Japan.",
+      evidence:
+        "Itemized from Wall Street Journal article starts and continuation pages found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "new-york-times-clippings-august-25-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "New York Times clippings on remedial math, campaigns, Cambodia, courts, voting, and jobs",
+      documentDate: "1992-08-25",
+      pages: 7,
+      excerpt:
+        "The New York Times clipping packet includes opinion and news items on Bush and Clinton economics, campaign claims, Cambodia, New York courts, voting restrictions, and Bush's job-training proposal.",
+      evidence:
+        "Itemized from New York Times clipping pages, article starts, and continuation pages found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "washington-times-campaign-foreign-policy-clippings",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Washington Times clippings on Bush travel, Baker, foreign policy, U.N., chemical weapons, and campaign themes",
+      documentDate: "1992-08-25",
+      pages: 17,
+      excerpt:
+        "The Washington Times clipping packet covers Bush campaign travel, Baker's campaign role, foreign policy, chemical weapons, football and price-fixing commentary, Horn of Africa drought, the U.N., Mexico, and job training.",
+      evidence:
+        "Itemized from Washington Times mastheads, article starts, and continuation pages found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "usa-today-and-loose-campaign-clippings",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "USA Today and loose campaign clippings",
+      documentDate: "1992-08-25",
+      pages: 3,
+      excerpt:
+        "Loose clipping pages include USA Today campaign and economics items and an additional color or graphic clipping page in the August 25 packet.",
+      evidence:
+        "Itemized from USA Today clipping pages and a loose color/graphic page confirmed by rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "los-angeles-times-middle-east-campaign-clippings",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Los Angeles Times clippings on Middle East policy, Orange County, job training, Clinton, education, and Saddam",
+      documentDate: "1992-08-25",
+      pages: 11,
+      excerpt:
+        "The Los Angeles Times clipping packet includes articles and commentary on Israeli border negotiations, Saddam Hussein, Orange County politics, Bush's job-training plan, Clinton and Tsongas, education, and Middle East policy.",
+      evidence:
+        "Itemized from Los Angeles Times mastheads, article starts, and continuation pages found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "august-25-presidential-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Presidential correspondence packet: August 25, 1992",
+      documentDate: "1992-08-25",
+      pages: 3,
+      excerpt:
+        "A low-OCR presidential correspondence packet includes White House letter copies to supporters or constituents, including a letter to Major Donald P. Warren and a condolence note.",
+      evidence:
+        "Itemized from rendered-page review of photocopied White House correspondence pages at the end of the NARA direct folder scan; OCR is low-confidence on some recipients.",
+    },
+  ],
   470418070: [
     {
       slug: "charles-bartlett-massager-lincoln-anecdote",
