@@ -5282,6 +5282,489 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 138-145 of the NARA direct folder scan using rendered-page review of color photographs, handwritten sticky-note labels, and Oval Office briefing scenes.",
     },
   ],
+  470417674: [
+    {
+      slug: "youth-for-tomorrow-gala-kennedy-center-remarks",
+      documentType: "Presidential Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Remarks at the Youth for Tomorrow gala at the Kennedy Center",
+      documentDate: "1992-03-30",
+      pages: 3,
+      excerpt:
+        "The President's prepared remarks for the Youth for Tomorrow gala discuss family strength, Joe Gibbs, Project Bridge, and the program's work with boys from troubled homes.",
+      evidence:
+        "Itemized from pages 2-4 of the NARA direct folder scan using the Youth for Tomorrow Gala heading, Kennedy Center event line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "prescott-bush-abortion-fax-presidential-note",
+      documentType: "Presidential Note and Family Fax Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Prescott S. Bush Jr. abortion issue fax and presidential note packet",
+      documentDate: "1992-03-30",
+      pages: 3,
+      excerpt:
+        "Prescott S. Bush Jr. faxes the President about Greenwich Magazine, abortion, Beth Bush's thoughts, and a Roger Rosenblatt quotation; the packet includes Bush's self-typed note and the Office of the President fax cover page.",
+      evidence:
+        "Itemized from pages 5-7 of the NARA direct folder scan using the self-typed presidential note, Prescott S. Bush Jr. fax, Office of the President cover page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "teeter-burchfield-floyd-brown-newsweek-packet",
+      documentType: "Campaign Memorandum and Letter Packet",
+      category: "campaign-memorandum",
+      disposition: "itemized-campaign-memorandum",
+      title: "Bob Teeter and Bobby Burchfield packet re Newsweek, Floyd Brown, and Citizens for Bush",
+      documentDate: "1992-03-27",
+      pages: 3,
+      excerpt:
+        "Bob Teeter forwards Bobby Burchfield's letter to Newsweek editor Maynard Parker objecting to a Floyd Brown and Citizens for Bush item and denying Bush-Quayle approval of Brown's activities.",
+      evidence:
+        "Itemized from pages 8-10 of the NARA direct folder scan using the Bob Teeter memorandum, Burchfield fax letter, Newsweek clipping page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fetal-tissue-research-simpson-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Sam Skinner and Nick Calio re fetal tissue research",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "The President asks Sam Skinner and Nick Calio where the fetal tissue research issue stands after Senator Simpson warned that the administration position may not survive a veto fight.",
+      evidence:
+        "Itemized from page 11 of the NARA direct folder scan using the presidential note heading, Simpson reference, fetal tissue research subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "elsie-walker-india-tibet-fax",
+      documentType: "Family Fax",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Elsie Walker fax to the President re India trip and Tibetans",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "Elsie Walker writes the President before departing for India, says she will check in with Peter Mulrean about the Tibetans, and notes that a copy was given to General Scowcroft.",
+      evidence:
+        "Itemized from page 12 of the NARA direct folder scan using the Walker/Milborne fax heading, Elsie Walker signature line, Scowcroft copy note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "campaign-white-house-weekly-meeting-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Sam Skinner and Bob Teeter re weekly campaign and White House meetings",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "The President asks Sam Skinner and Bob Teeter to establish regular meetings with campaign and White House staff because he feels disconnected despite their updates.",
+      evidence:
+        "Itemized from page 13 of the NARA direct folder scan using the presidential note heading, campaign and White House meeting subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "press-secretary-statement-trade-former-soviet-union",
+      documentType: "Press Secretary Statement",
+      category: "white-house-press-release",
+      disposition: "itemized-press-secretary-statement",
+      title: "Statement by the Press Secretary re trade with the former Soviet Union",
+      documentDate: "1992-03-30",
+      pages: 2,
+      excerpt:
+        "The statement announces steps to expand trade with Russia and the other new former Soviet states, including Topaz space power technology, Hall thrusters, plutonium-238, imports, exports, and COCOM controls.",
+      evidence:
+        "Itemized from pages 14-15 of the NARA direct folder scan using the Statement by the Press Secretary heading, former Soviet Union trade text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fact-sheet-trade-former-soviet-union",
+      documentType: "Fact Sheet",
+      category: "white-house-fact-sheet",
+      disposition: "itemized-fact-sheet",
+      title: "Fact Sheet: Trade with former Soviet Union",
+      documentDate: "1992-03-30",
+      pages: 2,
+      excerpt:
+        "The fact sheet details administration actions on Topaz, Hall Thrusters, plutonium-238, import barriers, export licenses, COCOM controls, and expedited review of former Soviet Union trade.",
+      evidence:
+        "Itemized from pages 16-17 of the NARA direct folder scan using the Fact Sheet heading, trade with former Soviet Union title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "us-israel-relations-klein-olmert-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Brent Scowcroft and Chief of Staff re U.S.-Israel relations statement",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "The President asks Brent Scowcroft and the Chief of Staff about responding to a Klein letter, Olmert, and a possible statement, op-ed, or speech on U.S.-Israel relations.",
+      evidence:
+        "Itemized from page 18 of the NARA direct folder scan using the presidential note heading, U.S.-Israel relations references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jim-miller-spending-growth-facts-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Dick Darman re Jim Miller and spending growth facts",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "The President asks Dick Darman for a factual response to a New York Times piece involving Jim Miller and comparative claims about federal spending growth.",
+      evidence:
+        "Itemized from page 19 of the NARA direct folder scan using the presidential note heading, Jim Miller and New York Times references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "louis-connick-southeast-asia-personnel-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Louis Connick Southeast Asia personnel correspondence packet",
+      documentDate: "1992-03-30",
+      pages: 8,
+      excerpt:
+        "The President replies to Louis Connick about his interest in returning to Southeast Asia in an official capacity and forwards the matter to Connie Horner, with incoming material, a card, and a duplicate note.",
+      evidence:
+        "Itemized from pages 20-27 of the NARA direct folder scan using the presidential letter, Connie Horner routing note, Connick card, duplicate presidential note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "conservative-outreach-strategy-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Bob Teeter and Sam Skinner re conservative outreach strategy",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "The President asks Bob Teeter and Sam Skinner to discuss a strategy for including conservatives, mentioning Dick Allen, Tony Dolan, Bill Bennett, and Bob Tyrrell.",
+      evidence:
+        "Itemized from page 28 of the NARA direct folder scan using the presidential note heading, conservative strategy subject, OCR, and rendered-page review.",
+    },
+    {
+      slug: "entitlement-caps-darman-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Dick Darman re entitlement caps",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "The President asks Dick Darman to clarify a Washington Post editorial's claim that the administration had not actually proposed capping entitlement growth.",
+      evidence:
+        "Itemized from page 29 of the NARA direct folder scan using the presidential note heading, entitlement caps subject, OCR, and rendered-page review.",
+    },
+    {
+      slug: "demarest-congress-hall-speech-memo",
+      documentType: "Speech Memorandum",
+      category: "speech-memorandum",
+      disposition: "itemized-speech-memorandum",
+      title: "David Demarest memorandum re Congress Hall government reform speech",
+      documentDate: "1992-03-28",
+      pages: 1,
+      excerpt:
+        "David Demarest sends the President the staffed draft of his April 1 government reform speech for Congress Hall in Philadelphia and flags proposed actions on Congress and executive-branch reform.",
+      evidence:
+        "Itemized from page 30 of the NARA direct folder scan using the White House memorandum heading, Demarest signature line, Congress Hall subject, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congress-hall-government-reform-speech-draft",
+      documentType: "Speech Draft",
+      category: "speech-draft",
+      disposition: "itemized-speech-draft",
+      title: "Draft presidential remarks at Old House Chamber, Philadelphia, re government reform",
+      documentDate: "1992-04-01",
+      pages: 12,
+      excerpt:
+        "The Demarest/Aarhus draft frames Congress Hall as a setting for government reform, attacks entrenched Washington institutions, and proposes changes on congressional coverage, committees, campaign finance, spending, regulation, communications, nominations, and term limits.",
+      evidence:
+        "Itemized from pages 31-42 of the NARA direct folder scan using the draft speech title page, Demarest/Aarhus draft marker, reform headings, presidential handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "philip-brady-naag-possible-questions-memo",
+      documentType: "Event Memorandum",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Philip Brady memorandum re possible questions at the NAAG event",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "Philip Brady sends the President material for possible response to questions at the National Association of Attorneys General event.",
+      evidence:
+        "Itemized from page 43 of the NARA direct folder scan using the White House memorandum heading, Philip Brady signature line, NAAG event reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "naag-crime-drug-budget-response-points",
+      documentType: "Event Response Points",
+      category: "event-briefing",
+      disposition: "itemized-event-response-points",
+      title: "NAAG event response points on crime legislation and FY 1993 crime and drug budgets",
+      documentDate: "1992-03-30",
+      pages: 6,
+      excerpt:
+        "The response points summarize Weed and Seed, the crime bill, the FY 1993 crime budget, drug budget increases, prevention and treatment funding, and statistics on declining drug use.",
+      evidence:
+        "Itemized from pages 44-49 of the NARA direct folder scan using the possible-question points, crime bill, FY 1993 crime budget, FY 1993 drug budget, drug-use decline headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "zeders-50th-anniversary-scheduling-note",
+      documentType: "Scheduling Note Packet",
+      category: "scheduling-note",
+      disposition: "itemized-scheduling-note",
+      title: "Zeders 50th anniversary scheduling note packet",
+      documentDate: "1992-03-30",
+      pages: 3,
+      excerpt:
+        "The President alerts Kathy Super, Susan Rose, Patty Presock, and Mrs. Bush's office that the Zeders' 50th anniversary celebration is on August 8 and that he would like to go by if he is in town.",
+      evidence:
+        "Itemized from pages 50-52 of the NARA direct folder scan using the Zeders 50th subject line, duplicate presidential note, routing page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "naag-roosevelt-room-remarks",
+      documentType: "Presidential Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Remarks to the National Association of Attorneys General in the Roosevelt Room",
+      documentDate: "1992-03-30",
+      pages: 6,
+      excerpt:
+        "The President's prepared remarks to state attorneys general discuss Weed and Seed, the crime bill, law enforcement, public corruption, school choice, health care reform, legal reform, and change.",
+      evidence:
+        "Itemized from pages 53-58 of the NARA direct folder scan using the NAAG Roosevelt Room heading, March 30 event line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "anne-belcher-retirement-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Presidential retirement letter to Anne Belcher, M.D.",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "The President and Mrs. Bush congratulate Anne Belcher on her retirement and salute her contributions to medicine, with a handwritten note identifying her as Suzie Munzel's mother.",
+      evidence:
+        "Itemized from page 59 of the NARA direct folder scan using the signed presidential letter, Anne Belcher address block, handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fred-zeder-50th-anniversary-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Fred Zeder re August 8 anniversary celebration",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "The President writes Fred Zeder that if he is in town on August 8 he will try to attend the anniversary celebration and calls it a bash.",
+      evidence:
+        "Itemized from page 60 of the NARA direct folder scan using the Fred M. Zeder II address block, presidential handwriting, routing names, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-simon-cormac-thanks-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Robert H. Simon re Cormac thanks",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "The President sends a handwritten thank-you note to Robert H. Simon of the White House Speechwriting Office, saying Cormac thanks him and that even the rotund one thanks him.",
+      evidence:
+        "Itemized from page 61 of the NARA direct folder scan using the Robert H. Simon address block, presidential handwriting, sticky note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-brandts-tv-cabinet-thank-you-letter",
+      documentType: "Presidential Letter and Draft Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Charles Brandts TV cabinet thank-you letter and handwritten draft",
+      documentDate: "1992-03-30",
+      pages: 2,
+      excerpt:
+        "The President thanks White House carpenter Charles Brandts for the bedroom TV cabinet, with the final letter and Bush's handwritten draft asking staff to get the first name of the craftsman.",
+      evidence:
+        "Itemized from pages 62-63 of the NARA direct folder scan using the signed presidential letter, Charles Brandts address block, handwritten draft, OCR, and rendered-page review.",
+    },
+    {
+      slug: "peggy-dolan-connecticut-bush-campaign-clipping",
+      documentType: "Presidential Note and Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Peggy Dolan Connecticut Bush campaign clipping packet",
+      documentDate: "1992-03-30",
+      pages: 3,
+      excerpt:
+        "The packet sends Peggy Dolan, with a blind copy to Tony Dolan, a clipping on Connecticut Bush backers and the Republican delegate fight.",
+      evidence:
+        "Itemized from pages 64-66 of the NARA direct folder scan using the Peggy Dolan address page, Tony Dolan blind-copy line, campaign clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "anthony-dolan-campaign-strategy-cover-letter",
+      documentType: "Incoming Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Anthony R. Dolan cover letter to the President re campaign strategy memo",
+      documentDate: "1992-03-26",
+      pages: 1,
+      excerpt:
+        "Anthony R. Dolan tells the President he is sending a nine-page post-New Hampshire strategy memorandum that still deals with campaign problems and opportunities.",
+      evidence:
+        "Itemized from page 67 of the NARA direct folder scan using the March 26 Anthony R. Dolan letter, White House address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "anthony-dolan-campaign-strategy-memo",
+      documentType: "Campaign Strategy Memo",
+      category: "campaign-strategy-memo",
+      disposition: "itemized-campaign-strategy-memo",
+      title: "Anthony R. Dolan memorandum to George Bush re conservatives and campaign strategy",
+      documentDate: "1992-02-21",
+      pages: 10,
+      excerpt:
+        "Dolan's memorandum argues that conservatives remain both a problem and an opportunity after New Hampshire, sketches sample campaign coverage, urges a conservative strategy, and recommends personnel and volunteer moves.",
+      evidence:
+        "Itemized from pages 68-77 of the NARA direct folder scan using the February 21 Anthony R. Dolan memorandum heading, campaign strategy sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michele-nix-cormac-thanks-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to S. Michele Nix re Cormac thanks",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "The President sends S. Michele Nix of the White House Speechwriting Office a handwritten note saying Cormac, the noble one, sends sincere thanks and that it worked swell.",
+      evidence:
+        "Itemized from page 78 of the NARA direct folder scan using the S. Michele Nix address block, presidential handwriting, sticky note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-bartlett-sunday-luncheon-note-fax",
+      documentType: "Presidential Note and Fax Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Charles L. Bartlett Sunday luncheon guest-list fax and presidential note",
+      documentDate: "1992-03-30",
+      pages: 3,
+      excerpt:
+        "The packet includes Charley Bartlett's faxed Sunday luncheon guest list for the President and Mrs. Bush and Bush's handwritten note to Martha Bartlett about the event, Robert Maxwell, and Barbara Bush.",
+      evidence:
+        "Itemized from pages 79-80 and duplicate page 91 of the NARA direct folder scan using the Bartlett address page, handwritten presidential note, Charley Bartlett fax, OCR, and rendered-page review.",
+    },
+    {
+      slug: "paul-hubbard-new-detroit-chris-mcallister-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Paul L. Hubbard and New Detroit packet re Chris McAllister",
+      documentDate: "1992-03-30",
+      pages: 3,
+      excerpt:
+        "New Detroit president Paul L. Hubbard thanks the President for his Economic Club of Detroit speech and for recognizing Chris McAllister's question, with presidential handwriting and address pages.",
+      evidence:
+        "Itemized from pages 81-83 of the NARA direct folder scan using the Paul L. Hubbard address pages, New Detroit letterhead, Chris McAllister references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-larson-us-attorney-iowa-reappointment",
+      documentType: "Press Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination announcement re Charles W. Larson as U.S. Attorney for the Northern District of Iowa",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to reappoint Charles W. Larson as United States Attorney for the Northern District of Iowa.",
+      evidence:
+        "Itemized from page 84 of the NARA direct folder scan using the Office of the Press Secretary heading, Charles W. Larson nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "richard-hassell-daily-point-of-light-732",
+      documentType: "Daily Point of Light Press Release",
+      category: "daily-point-of-light-release",
+      disposition: "itemized-daily-point-of-light-release",
+      title: "Daily Point of Light 732: Richard Hassell of Norfolk, Virginia",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "The White House recognizes Richard Hassell of Norfolk, Virginia, as the 732nd Daily Point of Light for Christian Action and more than 50 years of service to neighbors and people in poverty.",
+      evidence:
+        "Itemized from page 85 of the NARA direct folder scan using the Daily Point of Light release, Richard Hassell name, Christian Action text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "judy-smith-cyprus-vassiliou-meeting-statement",
+      documentType: "Deputy Press Secretary Statement",
+      category: "press-secretary-statement",
+      disposition: "itemized-press-secretary-statement",
+      title: "Statement by Deputy Press Secretary Judy Smith re President Bush meeting with President George Vassiliou",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "Judy Smith states that President Bush met with President George Vassiliou of Cyprus and discussed the UN-led effort to negotiate a fair and permanent settlement to the Cyprus dispute.",
+      evidence:
+        "Itemized from page 86 of the NARA direct folder scan using the Judy Smith statement heading, Vassiliou meeting text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "loretta-preska-judicial-nomination-release",
+      documentType: "Judicial Nomination Press Release",
+      category: "judicial-nomination",
+      disposition: "itemized-judicial-nomination",
+      title: "Judicial nomination announcement for Loretta A. Preska",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Loretta A. Preska as United States District Judge for the Southern District of New York.",
+      evidence:
+        "Itemized from page 87 of the NARA direct folder scan using the Office of the Press Secretary heading, Loretta A. Preska nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jay-gardner-us-attorney-georgia-nomination",
+      documentType: "Press Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination announcement re Jay D. Gardner as U.S. Attorney for the Southern District of Georgia",
+      documentDate: "1992-03-30",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Jay D. Gardner as United States Attorney for the Southern District of Georgia.",
+      evidence:
+        "Itemized from page 88 of the NARA direct folder scan using the Office of the Press Secretary heading, Jay D. Gardner nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bush-vassiliou-cyprus-photo-op-remarks",
+      documentType: "Press Release Transcript",
+      category: "presidential-remarks",
+      disposition: "itemized-press-release",
+      title: "Remarks by President Bush and President George Vassiliou during Oval Office photo opportunity",
+      documentDate: "1992-03-30",
+      pages: 2,
+      excerpt:
+        "The press release transcript records President Bush and President George Vassiliou answering questions about Cyprus, the UN process, Turkey, Soviet aid, and the U.S. election year.",
+      evidence:
+        "Itemized from pages 89-90 of the NARA direct folder scan using the Office of the Press Secretary heading, photo opportunity title, Oval Office event line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-news-clips-march-30-campaign-russia-health",
+      documentType: "Press Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Daily News Clips packet re Clinton, Brown, Russia, health care, Congress, Perot, and March 30 coverage",
+      documentDate: "1992-03-30",
+      pages: 66,
+      excerpt:
+        "The Office of Media Affairs Daily News Clips packet collects March 30 coverage from the New York Times, Washington Post, Washington Times, Wall Street Journal, USA Today, wire services, and other outlets on the campaign, Russia, health care, House bank, Israel, Beck, Perot, and related political and policy stories.",
+      evidence:
+        "Itemized from pages 92-157 of the NARA direct folder scan using the Daily News Clips cover page, newspaper mastheads, clipping sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "march-30-youth-for-tomorrow-economic-briefing-photographs",
+      documentType: "Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "March 30 Youth for Tomorrow gala and economic briefing photograph packet",
+      documentDate: "1992-03-30",
+      pages: 6,
+      excerpt:
+        "A color photograph packet shows the President at the Youth for Tomorrow gala and in an Oval Office economic briefing sequence, including a yellow sticky-note label on the briefing photographs.",
+      evidence:
+        "Itemized from pages 158-163 of the NARA direct folder scan using rendered-page review of color photographs, Youth for Tomorrow backdrop, Oval Office briefing scenes, and sticky-note labels.",
+    },
+  ],
   470417713: [
     {
       slug: "billy-graham-convention-note",
@@ -12337,6 +12820,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417649",
   "470417658",
   "470417663",
+  "470417674",
   "470418083",
 ]);
 
