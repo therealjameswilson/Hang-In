@@ -13744,6 +13744,242 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 163-174 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover, Friday June 19 1992 date line, clipping sequence, OCR, and rendered-page review.",
     },
   ],
+  470417863: [
+    {
+      slug: "white-house-news-summary-june-23-1992-6am",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary, June 23, 1992, 6:00 A.M. EDT edition",
+      documentDate: "1992-06-23",
+      pages: 20,
+      excerpt:
+        "The morning White House News Summary covers Perot investigations of Bush, Bush campaign efforts to frame Perot as a civil-liberties threat, Gingrich criticism, housing policy, SDI, judgeships, Yugoslavia, Moldova, Romania trade, Jordan and Iraq, network news, Clinton's economic plan, editorials, and foreign-media reaction to the U.S.-Russia summit.",
+      evidence:
+        "Itemized from pages 2-21 of the NARA direct folder scan using the News Summary Office of the Press Secretary cover, Tuesday June 23 1992 6:00 A.M. EDT edition line, national/international/network/editorial sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-june-23-1992",
+      documentType: "Congressional Monitor",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title: "Congressional Monitor: Tuesday, June 23, 1992",
+      documentDate: "1992-06-23",
+      pages: 22,
+      excerpt:
+        "Congressional Quarterly's Congressional Monitor covers Coast Guard authorization, major legislation status, House and Senate committee schedules, appropriations status, and House and Senate floor action.",
+      evidence:
+        "Itemized from pages 22-43 of the NARA direct folder scan using the Congressional Monitor cover, Tuesday June 23 1992 date, Volume 28 Number 100, back-cover mailing page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congress-in-print-june-23-1992",
+      documentType: "Congress In Print",
+      category: "congress-in-print",
+      disposition: "itemized-congress-in-print",
+      title: "Congress In Print: Tuesday, June 23, 1992",
+      documentDate: "1992-06-23",
+      pages: 8,
+      excerpt:
+        "Congress In Print lists recently released congressional committee publications and Government Printing Office order information, with a Governing subscription page and mailing back page.",
+      evidence:
+        "Itemized from pages 44-51 of the NARA direct folder scan using the Congress In Print cover, Tuesday June 23 1992 date, publication listings, Governing page, back-cover mailing page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "apn-daily-briefing-june-23-1992",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing-item",
+      disposition: "itemized-daily-political-briefing",
+      title: "The Daily Briefing on American Politics: Tuesday, June 23, 1992",
+      documentDate: "1992-06-23",
+      pages: 17,
+      excerpt:
+        "The American Political Network daily briefing tracks Perot investigations, Bush and Perot, Clinton's economic plan, abortion politics, Senate and House races, family-values polling, television monitoring, and related campaign coverage.",
+      evidence:
+        "Itemized from pages 52-68 of the NARA direct folder scan using The Daily Briefing on American Politics masthead, Tuesday June 23 1992 date, APN Bulletin Board, issue sections, TV Monitor ending, OCR, and rendered-page review.",
+    },
+    {
+      slug: "james-mcmonagle-ohio-district-judge-nomination",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: James J. McMonagle to be U.S. District Judge for the Northern District of Ohio",
+      documentDate: "1992-06-23",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate James J. McMonagle to be United States District Judge for the Northern District of Ohio.",
+      evidence:
+        "Itemized from page 69 of the NARA direct folder scan using the White House Office of the Press Secretary header, For Immediate Release June 23 1992 line, James J. McMonagle nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "katharine-armentrout-maryland-district-judge-nomination",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: Katharine J. Armentrout to be U.S. District Judge for the District of Maryland",
+      documentDate: "1992-06-23",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate Katharine J. Armentrout to be United States District Judge for the District of Maryland.",
+      evidence:
+        "Itemized from page 70 of the NARA direct folder scan using the White House Office of the Press Secretary header, For Immediate Release June 23 1992 line, Katharine J. Armentrout nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "message-congress-magnuson-fishery-report",
+      documentType: "Message to Congress",
+      category: "message-to-congress",
+      disposition: "itemized-message-to-congress",
+      title: "Message to Congress transmitting the Magnuson Fishery Conservation and Management Act report",
+      documentDate: "1992-06-23",
+      pages: 1,
+      excerpt:
+        "The President transmits the annual report on implementation of the Magnuson Fishery Conservation and Management Act.",
+      evidence:
+        "Itemized from page 71 of the NARA direct folder scan using the Office of the Press Secretary header, To the Congress of the United States salutation, Magnuson Fishery Conservation and Management Act report text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-light-hahnemann-homeless-clinics-volunteers",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title: "Daily Point of Light release recognizing Hahnemann Homeless Clinics volunteers",
+      documentDate: "1992-06-23",
+      pages: 1,
+      excerpt:
+        "The White House recognizes Hahnemann University medical students volunteering through Hahnemann Homeless Clinics in Philadelphia as a Daily Point of Light.",
+      evidence:
+        "Itemized from page 72 of the NARA direct folder scan using the Daily Point of Light release header, June 23 1992 date, Hahnemann Homeless Clinics volunteer text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "veto-message-hr-2507-nih-revitalization-amendments",
+      documentType: "Veto Message",
+      category: "veto-message",
+      disposition: "itemized-veto-message",
+      title: "Veto message returning H.R. 2507, the National Institutes of Health Revitalization Amendments of 1992",
+      documentDate: "1992-06-23",
+      pages: 2,
+      excerpt:
+        "The President returns H.R. 2507 without approval and explains his objections to the National Institutes of Health Revitalization Amendments of 1992.",
+      evidence:
+        "Itemized from pages 73-74 of the NARA direct folder scan using the To the House of Representatives salutation, H.R. 2507 title line, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "proclamation-year-reconciliation-american-indians-non-indians",
+      documentType: "Proclamation",
+      category: "proclamation",
+      disposition: "itemized-proclamation",
+      title: "Proclamation: Year of Reconciliation Between American Indians and Non-Indians, 1992",
+      documentDate: "1992-06-23",
+      pages: 1,
+      excerpt:
+        "The President proclaims 1992 as the Year of Reconciliation Between American Indians and Non-Indians.",
+      evidence:
+        "Itemized from page 75 of the NARA direct folder scan using the proclamation title, Office of the Press Secretary header, June 23 1992 release date, proclamation text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "proclamation-national-scleroderma-awareness-month-1992",
+      documentType: "Proclamation",
+      category: "proclamation",
+      disposition: "itemized-proclamation",
+      title: "Proclamation: National Scleroderma Awareness Month, 1992",
+      documentDate: "1992-06-23",
+      pages: 1,
+      excerpt:
+        "The President proclaims June 1992 as National Scleroderma Awareness Month.",
+      evidence:
+        "Itemized from page 76 of the NARA direct folder scan using the proclamation title, Office of the Press Secretary header, June 23 1992 release date, proclamation text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "remarks-transportation-secretary-card-oval-office-photo-op",
+      documentType: "Presidential Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Remarks by the President and Transportation Secretary Card in Oval Office photo opportunity",
+      documentDate: "1992-06-23",
+      pages: 3,
+      excerpt:
+        "The President and Transportation Secretary Andrew Card discuss rail-strike concerns, possible legislation, and the economic consequences of a strike during an Oval Office photo opportunity.",
+      evidence:
+        "Itemized from pages 77-79 of the NARA direct folder scan using the Office of the Press Secretary release header, Remarks by the President and Transportation Secretary Card title, Oval Office location line, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "remarks-national-medals-science-technology",
+      documentType: "Presidential Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Remarks presenting the National Medal of Science and National Medal of Technology",
+      documentDate: "1992-06-23",
+      pages: 3,
+      excerpt:
+        "The President presents the National Medals of Science and Technology in the Rose Garden and praises American scientists, inventors, and entrepreneurs.",
+      evidence:
+        "Itemized from pages 80-82 of the NARA direct folder scan using the Office of the Press Secretary release header, remarks title, Rose Garden location line, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "newt-gingrich-campaign-advice-and-bush-response",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Newt Gingrich campaign advice, President Bush response, and Washington Times article",
+      documentDate: "1992-06-23",
+      pages: 3,
+      excerpt:
+        "A handwritten recommendation from Newt Gingrich to the President urges faster grassroots and communications work; Bush writes a response to Gingrich, and the packet includes the Washington Times article on Gingrich's criticism of the Bush campaign.",
+      evidence:
+        "Itemized from pages 83-85 of the NARA direct folder scan using the President Has Seen stamp, handwritten Newt note dated June 22 1992, Bush handwritten June 23 1992 response, Washington Times Gingrich article, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lucy-brown-100th-birthday-letter-case-file",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Lucy Brown 100th-birthday letter case file routed through Newt Gingrich and Nick Calio",
+      documentDate: "1992-06-23",
+      pages: 7,
+      excerpt:
+        "The case file includes President Bush's birthday letter to Lucy Brown, Gingrich's referral to Nick Calio, a White House draft sheet and edits, a signed-copy routing page, and Brown's handwritten card thanking the President and discussing Supreme Court nominations.",
+      evidence:
+        "Itemized from pages 86-92 of the NARA direct folder scan using the Copy from ORM presidential letter, Lucy Brown address material, Gingrich-to-Calio referral letter, draft-control sheet, edited White House letter, handwritten card, OCR, and rendered-page review.",
+    },
+    {
+      slug: "team-100-oval-office-photographs-june-23-1992",
+      documentType: "Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Team 100 Oval Office photographs",
+      documentDate: "1992-06-23",
+      pages: 3,
+      excerpt:
+        "The packet includes two Oval Office photographs labeled Team 100 and a photo-back page dated June 23, 1992.",
+      evidence:
+        "Itemized from pages 93-95 of the NARA direct folder scan using the Team 100 note, two Oval Office photographs, Official White House Photograph back page, OCR warnings for photo pages, and rendered-page review.",
+    },
+    {
+      slug: "daily-news-clips-june-23-perot-investigations-bush-congress-iraq",
+      documentType: "Daily News Clips Packet",
+      category: "daily-news-clips",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips packet re Perot, campaign investigations, Bush, Congress, Iraq, and June 23 coverage",
+      documentDate: "1992-06-23",
+      pages: 84,
+      excerpt:
+        "The Office of Media Affairs Daily News Clips packet collects June 23 coverage from USA Today, the Wall Street Journal, Washington Post, Washington Times, New York Times, Los Angeles Times, and other outlets on Perot investigations, Bush, Clinton's economic plan, Congress, Iran-contra, Iraq, Yugoslavia, POW/MIA issues, the Supreme Court, and campaign politics.",
+      evidence:
+        "Itemized from pages 96-179 of the NARA direct folder scan using the Office of Media Affairs Daily News Clips cover dated June 23 1992, newspaper mastheads, clipping sequence ending with a Washington Times Clarence Page column, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hahnemann-homeless-clinics-daily-point-light-attachment",
+      documentType: "Daily Point of Light Attachment Packet",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title: "Hahnemann Homeless Clinics Daily Point of Light attachment packet",
+      documentDate: "1992-06-23",
+      pages: 4,
+      excerpt:
+        "The attachment packet includes a Daily File attachment marker, a Philadelphia Inquirer clipping on the Hahnemann golf tournament, and Hahnemann University magazine pages noting President Bush's Daily Point of Light recognition of medical students.",
+      evidence:
+        "Itemized from pages 180-183 of the NARA direct folder scan using the Document Originally Attached marker, Philadelphia Inquirer clipping, Hahnemann University Summer 1992 magazine cover and contents page, OCR, and rendered-page review.",
+    },
+  ],
   470417874: [
     {
       slug: "white-house-news-summary-june-29-1992",
@@ -19803,6 +20039,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417840",
   "470417851",
   "470417856",
+  "470417863",
   "470418083",
 ]);
 
