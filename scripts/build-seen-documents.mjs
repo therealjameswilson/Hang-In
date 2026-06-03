@@ -2964,6 +2964,269 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 124-132 of the NARA direct folder scan using the George Bush Presidential Library transfer sheet, photograph photocopies, OCR, and rendered-page review.",
     },
   ],
+  470417505: [
+    {
+      slug: "presock-memo-peggy-noonan-letter",
+      documentType: "Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Memorandum for the file from Patricia Presock re Peggy Noonan's letter",
+      documentDate: "1991-12-17",
+      pages: 1,
+      excerpt:
+        "Patricia Presock records that Peggy Noonan's letter surfaced while POTUS was traveling, that she spoke with Noonan, and that no further action was required.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using OCR and rendered-page review of the Presock memorandum.",
+    },
+    {
+      slug: "transferred-nancy-bush-ellis-photograph",
+      documentType: "Transfer Sheet and Photograph",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title: "Transfer sheet and photocopied photograph of Nancy Bush Ellis with child",
+      documentDate: "1991-12-17",
+      pages: 3,
+      excerpt:
+        "The audiovisual transfer sheet describes a photograph of Nancy Bush Ellis with a child on her lap, followed by photocopied photograph pages.",
+      evidence:
+        "Itemized from pages 3-5 of the NARA direct folder scan using the George Bush Presidential Library transfer sheet and rendered-page review.",
+    },
+    {
+      slug: "peggy-noonan-lesley-stahl-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Peggy Noonan correspondence re Lesley Stahl birthday request",
+      documentDate: "1991-12-12",
+      pages: 3,
+      excerpt:
+        "Peggy Noonan asks President Bush to telephone Lesley Stahl for her fiftieth birthday and sends Patty Presock a related handwritten note and address page.",
+      evidence:
+        "Itemized from pages 6-8 of the NARA direct folder scan using OCR and rendered-page review of the Noonan letter, handwritten note, and address page.",
+    },
+    {
+      slug: "rocco-martino-support-letter-response",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Rocco Leonard Martino support letter and presidential reply",
+      documentDate: "1991-12-12",
+      pages: 2,
+      excerpt:
+        "The packet includes a presidential reply to Rocco Leonard Martino and Martino's incoming letter to Jane Leonard praising the President's remarks.",
+      evidence:
+        "Itemized from pages 9-10 of the NARA direct folder scan using OCR and rendered-page review of the presidential reply and incoming XRT Financial Systems letter.",
+    },
+    {
+      slug: "craig-thomas-support-correspondence",
+      documentType: "Congressional Correspondence Packet",
+      category: "congressional-correspondence",
+      disposition: "itemized-congressional-correspondence",
+      title: "Craig Thomas support letter and presidential reply",
+      documentDate: "1991-12-17",
+      pages: 2,
+      excerpt:
+        "Representative Craig Thomas thanks the President for his 1991 leadership and urges Republicans to set concrete goals; President Bush replies with thanks and good wishes.",
+      evidence:
+        "Itemized from pages 11-12 of the NARA direct folder scan using OCR and rendered-page review of the presidential reply and Thomas incoming letter.",
+    },
+    {
+      slug: "diplomatic-holiday-photo-correspondence-salah-ould-daddah",
+      documentType: "Diplomatic Correspondence Packet",
+      category: "diplomatic-correspondence",
+      disposition: "itemized-diplomatic-correspondence",
+      title:
+        "Diplomatic holiday and photograph correspondence re Fadwa and Abdullah Salah and Abdella Ould Daddah",
+      documentDate: "1991-12-17",
+      pages: 5,
+      excerpt:
+        "The diplomatic packet includes Barbara Bush handwriting, a presidential note to Fadwa and Abdullah Salah, a handwritten holiday message, and signed photograph material for Abdella Ould Daddah.",
+      evidence:
+        "Itemized from pages 13-17 of the NARA direct folder scan using OCR and rendered-page review of the handwritten card material, Salah correspondence, and Ould Daddah photograph page.",
+    },
+    {
+      slug: "saint-johns-hospital-weintraub-gift-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Saint John's Hospital gift correspondence with Jerome Weintraub",
+      documentDate: "1991-12-17",
+      pages: 3,
+      excerpt:
+        "President Bush writes Jerome Weintraub about the Saint John's Hospital gift made in the President and Mrs. Bush's name, with the hospital's incoming notification letter.",
+      evidence:
+        "Itemized from pages 18-20 of the NARA direct folder scan using OCR and rendered-page review of the presidential letter, note page, and Saint John's Hospital letter.",
+    },
+    {
+      slug: "douglas-dillon-brady-domestic-policy-letter",
+      documentType: "Correspondence Packet",
+      category: "economic-policy-correspondence",
+      disposition: "itemized-economic-policy-correspondence",
+      title: "Douglas Dillon letter to Nicholas Brady re domestic policy and congressional affairs",
+      documentDate: "1991-12-17",
+      pages: 5,
+      excerpt:
+        "The packet includes a presidential reply to Douglas Dillon, Nicholas Brady forwarding material, and Dillon's letter on the domestic-policy opening after the White House staff change.",
+      evidence:
+        "Itemized from pages 21-25 of the NARA direct folder scan using OCR and rendered-page review of the presidential reply, Brady note, and Dillon letter.",
+    },
+    {
+      slug: "willard-heminway-bluefish-cup-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Willard S. Heminway Jr. note re proposed Bush Bluefish Cup",
+      documentDate: "1991-12-17",
+      pages: 2,
+      excerpt:
+        "Willard S. Heminway Jr. suggests a Bush Bluefish Cup for Kennebunkporters and attaches a bluefish newspaper clipping and travel note for Betsy and Spike.",
+      evidence:
+        "Itemized from pages 26-27 of the NARA direct folder scan using OCR and rendered-page review of the note, clipping, and travel routing page.",
+    },
+    {
+      slug: "jimmy-walker-christmas-reception-memo",
+      documentType: "Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Memorandum from Patty Presock re Jimmy Walker attending White House Christmas reception",
+      documentDate: "1991-12-12",
+      pages: 1,
+      excerpt:
+        "Patty Presock informs the President and Mrs. Bush that Jimmy Walker will be in Washington and will attend the White House Christmas reception.",
+      evidence:
+        "Itemized from page 28 of the NARA direct folder scan using OCR and rendered-page review of the December 12 memorandum.",
+    },
+    {
+      slug: "kilpatrick-column-pat-buchanan-challenge",
+      documentType: "Column Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "James Jackson Kilpatrick letter and column re Pat Buchanan presidential challenge",
+      documentDate: "1991-12-17",
+      pages: 5,
+      excerpt:
+        "James Jackson Kilpatrick asks Marlin Fitzwater to thank the President for a note and forwards his column criticizing Pat Buchanan's presidential challenge.",
+      evidence:
+        "Itemized from pages 29-33 of the NARA direct folder scan using OCR and rendered-page review of the Kilpatrick letter and 'Awww, Pat!' column.",
+    },
+    {
+      slug: "skinner-resignation-exchange-material",
+      documentType: "Press Release and Correspondence",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press release and letters re Samuel Skinner's resignation as Secretary of Transportation",
+      documentDate: "1991-12-16",
+      pages: 5,
+      excerpt:
+        "The packet includes a Staff Secretary routing note and the White House press release attaching Samuel Skinner's resignation letter and President Bush's response.",
+      evidence:
+        "Itemized from pages 34-38 of the NARA direct folder scan using OCR and rendered-page review of the routing note, press release, Skinner letter, and presidential response.",
+    },
+    {
+      slug: "saint-johns-hospital-weintraub-gift-copy",
+      documentType: "Correspondence Copy",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Additional copy of Saint John's Hospital gift correspondence with Jerome Weintraub",
+      documentDate: "1991-12-17",
+      pages: 2,
+      excerpt:
+        "A second copy of the Weintraub/Saint John's Hospital correspondence appears later in the packet with the presidential note and hospital notification letter.",
+      evidence:
+        "Itemized from pages 39-40 of the NARA direct folder scan using OCR and rendered-page review of the duplicate correspondence copy.",
+    },
+    {
+      slug: "russell-clark-davis-appointment-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press release re intention to appoint Major General Russell Clark Davis",
+      documentDate: "1991-12-16",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to appoint Major General Russell Clark Davis as Commanding General of the Militia of the District of Columbia.",
+      evidence:
+        "Itemized from page 41 of the NARA direct folder scan using OCR and rendered-page review of the Office of the Press Secretary release.",
+    },
+    {
+      slug: "white-house-news-summary-december-17-1991",
+      documentType: "News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary updates, Tuesday, December 17, 1991",
+      documentDate: "1991-12-17",
+      pages: 3,
+      excerpt:
+        "The 10:45 a.m., 1:15 p.m., and 5:00 p.m. White House News Summary updates cover the Soviet endgame, Baker travel, Japan, China, Middle East talks, Buchanan, education, and the economy.",
+      evidence:
+        "Itemized from pages 42-44 of the NARA direct folder scan using OCR and rendered-page review of the White House News Summary update run.",
+    },
+    {
+      slug: "mrs-bush-press-office-clippings-december-17-18",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings, December 17-18, 1991",
+      documentDate: "1991-12-17",
+      pages: 10,
+      excerpt:
+        "The First Lady clipping run includes December 17 and 18 cover sheets, Mrs. Bush's New Hampshire filing trip, Chase Story Time, Christmas in Washington, and a Bowie Blade cover story.",
+      evidence:
+        "Itemized from pages 45-54 of the NARA direct folder scan using OCR and rendered-page review of the Mrs. Bush press office clipping covers and attached clippings.",
+    },
+    {
+      slug: "wire-service-clippings-december-17-18-1991",
+      documentType: "Wire Clipping Packet",
+      category: "wire-clipping-packet",
+      disposition: "itemized-wire-clipping-packet",
+      title: "Wire service clipping packet, December 17-18, 1991",
+      documentDate: "1991-12-18",
+      pages: 8,
+      excerpt:
+        "The wire run includes UPI, AP, and Reuters stories on Bush's New Hampshire education call, possible tax rebate, Texas transportation-bill trip, and Mrs. Bush filing New Hampshire primary papers.",
+      evidence:
+        "Itemized from pages 55-62 of the NARA direct folder scan using OCR and rendered-page review of the wire-service clipping run.",
+    },
+    {
+      slug: "newspaper-clippings-bush-economy-new-hampshire",
+      documentType: "Newspaper Clipping Packet",
+      category: "newspaper-clipping-packet",
+      disposition: "itemized-newspaper-clipping-packet",
+      title: "Newspaper clippings re Bush economy coverage and New Hampshire politics",
+      documentDate: "1991-12-18",
+      pages: 5,
+      excerpt:
+        "The newspaper clippings cover Mrs. Bush's New Hampshire primary filing, Fitzwater's trip announcement, Bush economic messaging, and First Lady press coverage.",
+      evidence:
+        "Itemized from pages 63-67 of the NARA direct folder scan using rendered-page review of Wall Street Journal, Washington Post, Washington Times, New York Daily News, and related clipping pages.",
+    },
+    {
+      slug: "collin-street-bakery-fruitcake-letter",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Bill and Josephine re Collin Street Bakery fruitcake",
+      documentDate: "1991-12-17",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Bill and Josephine for sending a fruitcake in a holiday tin from Collin Street Bakery.",
+      evidence:
+        "Itemized from page 68 of the NARA direct folder scan using OCR and rendered-page review of the presidential letter.",
+    },
+    {
+      slug: "additional-craig-thomas-reply-copy",
+      documentType: "Letter Copy",
+      category: "congressional-correspondence",
+      disposition: "itemized-congressional-correspondence",
+      title: "Additional copy of the President's reply to Craig Thomas",
+      documentDate: "1991-12-17",
+      pages: 1,
+      excerpt:
+        "A later copy of the President's reply to Representative Craig Thomas appears with the same thanks for Thomas's letter and good wishes.",
+      evidence:
+        "Itemized from page 69 of the NARA direct folder scan using OCR and rendered-page review of the additional Craig Thomas reply copy.",
+    },
+  ],
   470417565: [
     {
       slug: "state-of-union-fact-sheet",
@@ -10145,6 +10408,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417389",
   "470417446",
   "470417483",
+  "470417505",
   "470418083",
 ]);
 
