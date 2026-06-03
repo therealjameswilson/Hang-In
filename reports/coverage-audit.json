@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T17:19:10.962Z",
+  "generatedAt": "2026-06-03T17:24:00.854Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
@@ -21370,6 +21370,21 @@
     {
       "date": "1992-06-17",
       "documentDate": "1992-06-17",
+      "title": "White House News Summary, June 17, 1992",
+      "parentPacketId": "nara-470417851-direct-scan",
+      "naId": "470417851",
+      "folderId": "90689-005",
+      "containerId": "90689",
+      "category": "white-house-news-summary",
+      "disposition": "itemized-news-summary",
+      "type": "White House News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470417851",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90689-005.pdf",
+      "excerpt": "The June 17 White House News Summary covers the Bush-Yeltsin nuclear-arms agreement, POW/MIA follow-up, U.S.-Russian business, Baker and the kidnapping ruling, Haiti, domestic politics, network news, Weinberger, and a 4:15 p.m. Russian-aid update."
+    },
+    {
+      "date": "1992-06-17",
+      "documentDate": "1992-06-17",
       "title": "Congressional Monitor: Wednesday, June 17, 1992",
       "parentPacketId": "nara-470417851-direct-scan",
       "naId": "470417851",
@@ -22056,21 +22071,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417851",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90689-005.pdf",
       "excerpt": "Mrs. Bush's Press Office clipping packet includes Ross Perot timeline material, Barbara Bush and Hillary Clinton cookie coverage, Hillary Clinton and Chelsea Clinton stories, Tipper Gore coverage, Jimmy Carter, and women's caucus reporting."
-    },
-    {
-      "date": "1992-06-17",
-      "documentDate": "1992-06-17",
-      "title": "News Summary: WEDNESDAY, JUNE 17, 1992 6:00 A.M. EDT EDITION",
-      "parentPacketId": "nara-470417851-direct-scan",
-      "naId": "470417851",
-      "folderId": "90689-005",
-      "containerId": "90689",
-      "category": "news-summary-item",
-      "disposition": "itemized-news-summary",
-      "type": "News Summary",
-      "catalogUrl": "https://catalog.archives.gov/id/470417851",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90689-005.pdf",
-      "excerpt": "News Summary OFFICE OF THE PRESS SECRETARY THE WHITE HOUSE WASHINGTON WEDNESDAY, JUNE 17, 1992 6:00 A.M. EDT EDITION INTERNATIONAL NEWS BUSH, YELTSIN AGREE ON MASSIVE NUCLEAR CUTS -- President Bush and Boris Yeltsin agreed Tuesday to the most drastic arms cuts of the nuclear age, which will reduce U.S. and Russian long-range nuclear weapons over the next 11 years to about one-third of current levels. (Washington Post, Washington Times, Chicago Tribune, Dallas Morning News) BAKER OFFERS REASSURANCES AFTER COURT K..."
     },
     {
       "date": "1992-06-19",

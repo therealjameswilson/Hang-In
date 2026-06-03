@@ -12857,6 +12857,19 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from a White House letter page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
     },
     {
+      slug: "white-house-news-summary-june-17-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary, June 17, 1992",
+      documentDate: "1992-06-17",
+      pages: 23,
+      excerpt:
+        "The June 17 White House News Summary covers the Bush-Yeltsin nuclear-arms agreement, POW/MIA follow-up, U.S.-Russian business, Baker and the kidnapping ruling, Haiti, domestic politics, network news, Weinberger, and a 4:15 p.m. Russian-aid update.",
+      evidence:
+        "Itemized from pages 4-26 of the NARA direct folder scan using the News Summary Office of the Press Secretary cover, Wednesday June 17 1992 6:00 A.M. EDT edition line, A/B section pages, 4:15 p.m. news update, OCR, and rendered-page review.",
+    },
+    {
       slug: "congressional-monitor-june-17-1992",
       documentType: "Congressional Monitor",
       category: "congressional-monitor",
@@ -19513,6 +19526,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417809",
   "470417810",
   "470417840",
+  "470417851",
   "470418083",
 ]);
 
