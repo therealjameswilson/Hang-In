@@ -18084,6 +18084,20 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from selected-issues, Government Restructuring Language, and plan.scr pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
     },
     {
+      slug: "william-mobley-texas-am-presidential-library-docents",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "William H. Mobley correspondence packet re Bush Presidential Library docents",
+      documentDate: "1992-08-03",
+      pages: 3,
+      excerpt:
+        "William H. Mobley writes President and Mrs. Bush after a discussion of Bush Presidential Library docent space requirements, enclosing Oxford English Dictionary material on the term docent; President Bush replies from Camp David with a handwritten note about docents.",
+      evidence:
+        "Itemized from pages 10-12 of the NARA direct folder scan using the Camp David presidential reply to William H. Mobley, Texas A&M University August 3 1992 incoming letter to President and Mrs. Bush, Oxford English Dictionary enclosure, OCR, and rendered-page review.",
+    },
+    {
       slug: "leonard-garment-character-campaign-correspondence",
       documentType: "Correspondence Packet",
       category: "campaign-correspondence",
@@ -18094,7 +18108,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The packet includes White House routing material and Leonard Garment's faxed thoughts on Clinton, moral values, trustworthiness, character, and the 1992 presidential campaign.",
       evidence:
-        "Itemized from the Leonard Garment routing page and faxed pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+        "Itemized from pages 13-16 of the NARA direct folder scan using the Leonard Garment routing page, Dickstein Shapiro & Morin handwritten cover note, faxed character and Clinton pages, OCR, and rendered-page review.",
     },
     {
       slug: "anthony-dolan-campaign-thoughts",
@@ -23772,6 +23786,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417964",
   "470417970",
   "470417976",
+  "470417978",
   "470418083",
 ]);
 

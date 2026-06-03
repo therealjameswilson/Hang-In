@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T22:47:59.529Z",
+  "generatedAt": "2026-06-03T22:53:37.157Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
@@ -55,7 +55,7 @@
     "itemized-legislative-issues-update": 3,
     "itemized-aids-policy-memo": 1,
     "itemized-press-clipping": 4,
-    "itemized-presidential-correspondence": 283,
+    "itemized-presidential-correspondence": 284,
     "itemized-capital-gains-press-article": 1,
     "itemized-title-x-pregnancy-counseling": 5,
     "itemized-title-x-pregnancy-counseling-press": 6,
@@ -308,7 +308,7 @@
     "itemized-photograph-routing-packet": 1,
     "itemized-campaign-press-release": 1,
     "itemized-speech-planning-material": 1,
-    "itemized-correspondence-letter": 198,
+    "itemized-correspondence-letter": 197,
     "itemized-campaign-rally-remarks": 2,
     "itemized-press-clipping-routing": 1,
     "itemized-event-remarks-notes": 1,
@@ -27321,6 +27321,21 @@
     },
     {
       "date": "1992-08-14",
+      "documentDate": "1992-08-03",
+      "title": "William H. Mobley correspondence packet re Bush Presidential Library docents",
+      "parentPacketId": "nara-470417978-direct-scan",
+      "naId": "470417978",
+      "folderId": "90706-008",
+      "containerId": "90706",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Correspondence Packet",
+      "catalogUrl": "https://catalog.archives.gov/id/470417978",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90706-008.pdf",
+      "excerpt": "William H. Mobley writes President and Mrs. Bush after a discussion of Bush Presidential Library docent space requirements, enclosing Oxford English Dictionary material on the term docent; President Bush replies from Camp David with a handwritten note about docents."
+    },
+    {
+      "date": "1992-08-14",
       "documentDate": "1992-08-07",
       "title": "Leonard Garment correspondence packet re character, Clinton, and campaign themes",
       "parentPacketId": "nara-470417978-direct-scan",
@@ -27468,21 +27483,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417978",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90706-008.pdf",
       "excerpt": "The press-clips run includes USA Today, Los Angeles Times, The Washington Post, The Wall Street Journal, The New York Times, and The Washington Times coverage of Clinton, NAFTA, Bosnia, Baker, the Republican platform, abortion, and the campaign."
-    },
-    {
-      "date": "1992-08-14",
-      "documentDate": "1992-08-14",
-      "title": "Letter: Dear President and Mrs. Bush",
-      "parentPacketId": "nara-470417978-direct-scan",
-      "naId": "470417978",
-      "folderId": "90706-008",
-      "containerId": "90706",
-      "category": "letter-item",
-      "disposition": "itemized-correspondence-letter",
-      "type": "Letter",
-      "catalogUrl": "https://catalog.archives.gov/id/470417978",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90706-008.pdf",
-      "excerpt": "Dear President and Mrs. Bush: rive (as a person) of some salty for a fault (he was Hten used with of (~ him Samuel Butler +1902) dock, ditch. fr. L ductio During our recent meeting to discuss the Bush HE] 1 a archate: natural th a ship can be received Helat basin or enclosure in Presidential Library, we discussed docents and their space for the reception of ships folling the water height requirements. As you recall we speculated regarding the origin T DOCK 0: the waterway lecting w"
     },
     {
       "date": "1992-08-15",
