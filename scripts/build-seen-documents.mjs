@@ -4942,6 +4942,346 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 144-156 of the NARA direct folder scan using rendered-page review of color photographs, handwritten sticky notes, event scenes, and photograph sequence.",
     },
   ],
+  470417663: [
+    {
+      slug: "donald-celotto-small-world-report-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Donald W. Celotto small-world report correspondence",
+      documentDate: "1992-03-23",
+      pages: 4,
+      excerpt:
+        "The President replies to Connecticut Superior Court Administrative Judge Donald W. Celotto about his small-world report concerning Sandra Celano's son, a Panama veteran, with Celotto's incoming letter and a duplicate presidential reply copy.",
+      evidence:
+        "Itemized from pages 2-4 and duplicate page 135 of the NARA direct folder scan using the presidential reply, Celotto letterhead, February 26 incoming letter, handwritten notations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "eidson-scott-lee-aids-liposome-correspondence",
+      documentType: "Presidential Condolence and Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Wanda and Jack Eidson condolence and Scott Lee Eidson AIDS/liposome correspondence packet",
+      documentDate: "1992-03-23",
+      pages: 9,
+      excerpt:
+        "The packet includes the President's condolence letter to Wanda and Jack Eidson, Scott Lee Eidson's earlier letters about AIDS and liposome research, Barbara Bush and White House responses, and a Louis W. Sullivan HHS reply.",
+      evidence:
+        "Itemized from pages 5-13 of the NARA direct folder scan using the signed presidential condolence letter, Scott Lee Eidson letterhead pages, HHS Secretary Sullivan response, White House reply, handwritten notes, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charlie-ingram-pintlala-photo-mailing",
+      documentType: "Presidential Letter and Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Charlie Ingram Pintlala thank-you letter and photograph mailing",
+      documentDate: "1992-03-23",
+      pages: 9,
+      excerpt:
+        "The President thanks Charlie Ingram for the Pintlala fishing day and encloses official White House photographs, with address pages and mailing instructions.",
+      evidence:
+        "Itemized from pages 14-22 of the NARA direct folder scan using the signed March 23 letter, Charlie Ingram address page, official White House photograph pages, mailing instructions to Terry Good, OCR, and rendered-page review.",
+    },
+    {
+      slug: "roland-martin-pintlala-photo-mailing",
+      documentType: "Presidential Letter and Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Roland Martin Pintlala thank-you letter and photograph mailing",
+      documentDate: "1992-03-23",
+      pages: 2,
+      excerpt:
+        "The President thanks Roland Martin for the Pintlala fishing day and encloses a signed official White House photograph.",
+      evidence:
+        "Itemized from pages 23-24 of the NARA direct folder scan using the signed March 23 letter, Roland Martin address page, official White House photograph page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "orlando-wilson-pintlala-photo-mailing",
+      documentType: "Presidential Letter and Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Orlando Wilson Pintlala thank-you letter and photograph mailing",
+      documentDate: "1992-03-23",
+      pages: 2,
+      excerpt:
+        "The President thanks Orlando Wilson for the Pintlala fishing day and encloses a signed official White House photograph.",
+      evidence:
+        "Itemized from pages 25-26 of the NARA direct folder scan using the signed March 23 letter, Orlando Wilson address page, official White House photograph page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hank-parker-pintlala-photo-mailing",
+      documentType: "Presidential Letter and Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Hank Parker Pintlala thank-you letter and photograph mailing",
+      documentDate: "1992-03-23",
+      pages: 2,
+      excerpt:
+        "The President thanks Hank Parker for the Pintlala fishing day and encloses a signed official White House photograph.",
+      evidence:
+        "Itemized from pages 27-28 of the NARA direct folder scan using the signed March 23 letter, Hank Parker address page, official White House photograph page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "guy-eaker-pintlala-photo-mailing",
+      documentType: "Presidential Letter and Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Guy Eaker Pintlala thank-you letter and photograph mailing",
+      documentDate: "1992-03-23",
+      pages: 10,
+      excerpt:
+        "The President thanks Guy Eaker for the Pintlala fishing day and encloses a set of signed official White House photographs.",
+      evidence:
+        "Itemized from pages 29-38 of the NARA direct folder scan using the signed March 23 letter, Guy Eaker address page, official White House photograph pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "susie-peake-rnc-photograph-routing",
+      documentType: "Photograph Routing Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Susie Peake Republican National Convention photograph routing packet",
+      documentDate: "1992-03-23",
+      pages: 2,
+      excerpt:
+        "The packet routes a presidential photograph and handwritten message to Susie Peake at the 1992 Republican National Convention office, with a Bush Library photocopy note and internal routing instructions.",
+      evidence:
+        "Itemized from pages 39-40 of the NARA direct folder scan using the White House address page, photograph inscription, Bush handwriting photocopy page, routing names, and rendered-page review.",
+    },
+    {
+      slug: "edward-koch-baker-jewish-voters-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Edward I. Koch correspondence re James Baker and Jewish voters",
+      documentDate: "1992-03-23",
+      pages: 6,
+      excerpt:
+        "The President replies to Edward I. Koch about Secretary James Baker, Israel's security, and American Jewish political concerns; the packet includes Koch's incoming letter and New York Post and Forward clippings.",
+      evidence:
+        "Itemized from pages 41-46 of the NARA direct folder scan using the presidential reply, Koch's March 13 incoming letter, Baker-and-Jewish-voters clippings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "laura-hanley-mark-foley-photo-note",
+      documentType: "Photograph and Note Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Laura A. Hanley photograph and Rose Zamaria note packet",
+      documentDate: "1992-03-23",
+      pages: 3,
+      excerpt:
+        "Rose Zamaria routes a photograph and note to Laura A. Hanley, executive secretary to Florida State Representative Mark Foley, after a pleasant briefing and White House photo request.",
+      evidence:
+        "Itemized from pages 47-49 of the NARA direct folder scan using the official photograph inscription, Rose Zamaria notes dated March 20 and March 23, Hanley/Foley contact block, and rendered-page review.",
+    },
+    {
+      slug: "herb-kelleher-just-plane-terrific-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Presidential letter to Herb Kelleher re Just Plane Terrific arm-wrestling match",
+      documentDate: "1992-03-23",
+      pages: 1,
+      excerpt:
+        "The President writes Southwest Airlines chairman Herbert D. Kelleher about the Just Plane Terrific arm-wrestling match with Kurt Herwald and the comic relief it gave nightly-news viewers.",
+      evidence:
+        "Itemized from page 50 of the NARA direct folder scan using the signed March 23 letter, Southwest Airlines address block, handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kurt-herwald-just-plane-terrific-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Presidential letter to Kurt Herwald re Just Plane Terrific arm-wrestling victory",
+      documentDate: "1992-03-23",
+      pages: 1,
+      excerpt:
+        "The President congratulates Stevens Aviation chairman Kurt Herwald on the arm-wrestling victory over Herb Kelleher and the company spirit shown in the Just Plane Terrific event.",
+      evidence:
+        "Itemized from page 51 of the NARA direct folder scan using the signed March 23 letter, Stevens Aviation address block, handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "southwest-stevens-nbc-clipping-packet",
+      documentType: "Television Transcript and Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Southwest-Stevens Aviation Just Plane Smart NBC transcript and clipping packet",
+      documentDate: "1992-03-23",
+      pages: 2,
+      excerpt:
+        "The packet forwards a WHCA note, NBC Nightly News transcript, Jan Baran routing note, and newspaper clipping on the Southwest-Stevens Aviation Just Plane Smart arm-wrestling settlement.",
+      evidence:
+        "Itemized from pages 52-53 of the NARA direct folder scan using the WHCA note, March 20 NBC transcript, fax cover, newspaper clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-kerester-sba-chief-counsel-nomination",
+      documentType: "Press Release",
+      category: "white-house-press-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination announcement for Thomas P. Kerester as Chief Counsel for Advocacy at SBA",
+      documentDate: "1992-03-23",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Thomas P. Kerester as Chief Counsel for Advocacy at the Small Business Administration.",
+      evidence:
+        "Itemized from page 54 of the NARA direct folder scan using the Office of the Press Secretary heading, nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "strategic-defense-initiative-anniversary-statement",
+      documentType: "Presidential Statement",
+      category: "white-house-press-release",
+      disposition: "itemized-presidential-statement",
+      title: "Statement by the President on the ninth anniversary of the Strategic Defense Initiative",
+      documentDate: "1992-03-23",
+      pages: 1,
+      excerpt:
+        "The President marks the ninth anniversary of the Strategic Defense Initiative and argues for continued missile-defense support after the Gulf War and the Missile Defense Act.",
+      evidence:
+        "Itemized from page 55 of the NARA direct folder scan using the Statement by the President heading, SDI anniversary text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nowruz-iranian-new-year-message",
+      documentType: "Presidential Message",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title: "Message by the President for Nowruz, the Iranian New Year",
+      documentDate: "1992-03-23",
+      pages: 1,
+      excerpt:
+        "The President sends Nowruz greetings to Iranian Americans and recognizes their contributions to American culture and public life.",
+      evidence:
+        "Itemized from page 56 of the NARA direct folder scan using the Office of the Press Secretary heading, Nowruz title, presidential message text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "public-law-102-229-delegation-memorandum",
+      documentType: "Presidential Memorandum",
+      category: "presidential-memorandum",
+      disposition: "itemized-presidential-memorandum",
+      title: "Memorandum delegating responsibilities under Public Law 102-229",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The President delegates responsibilities under Public Law 102-229 to the Secretaries of State and Defense and the Director of OMB, with instructions for Federal Register publication.",
+      evidence:
+        "Itemized from page 57 of the NARA direct folder scan using the March 20 memorandum heading, Public Law 102-229 subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "leahy-huddleston-report-transmittal-letter",
+      documentType: "Presidential Letter Text",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title: "Text of presidential letter transmitting the 1991 Leahy-Huddleston Report",
+      documentDate: "1992-03-23",
+      pages: 1,
+      excerpt:
+        "The White House releases the text of the President's letter to congressional committee chairmen transmitting the classified 1991 Leahy-Huddleston Report on foreign governments' intelligence representation in the United States.",
+      evidence:
+        "Itemized from page 58 of the NARA direct folder scan using the Office of the Press Secretary heading, committee-chairmen addressees, Leahy-Huddleston Report text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "yeltsin-call-statement-kohl-cis",
+      documentType: "Press Secretary Statement",
+      category: "white-house-press-release",
+      disposition: "itemized-press-secretary-statement",
+      title: "Statement by the Press Secretary re President Bush call with President Yeltsin",
+      documentDate: "1992-03-23",
+      pages: 1,
+      excerpt:
+        "The Press Secretary states that President Bush briefed President Yeltsin on meetings with Chancellor Kohl and that Yeltsin discussed the CIS heads-of-state meeting, nuclear issues, and Nagorno-Karabakh.",
+      evidence:
+        "Itemized from page 59 of the NARA direct folder scan using the Statement by the Press Secretary heading, Yeltsin call text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cancer-control-month-1992-proclamation",
+      documentType: "Presidential Proclamation",
+      category: "presidential-proclamation",
+      disposition: "itemized-presidential-proclamation",
+      title: "Cancer Control Month, 1992 proclamation",
+      documentDate: "1992-03-23",
+      pages: 2,
+      excerpt:
+        "The President proclaims April 1992 as Cancer Control Month and discusses cancer research, prevention, screening, diet, smoking, and public participation.",
+      evidence:
+        "Itemized from pages 60-61 of the NARA direct folder scan using the proclamation heading, Office of the Press Secretary release, two-page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "barbara-franklin-commerce-swearing-in-remarks",
+      documentType: "Press Release",
+      category: "presidential-remarks",
+      disposition: "itemized-press-release",
+      title: "Remarks by the President at Barbara Franklin's swearing-in as Secretary of Commerce",
+      documentDate: "1992-03-23",
+      pages: 4,
+      excerpt:
+        "The White House press release transcript records the President's remarks and Secretary Barbara Franklin's response at her Commerce Department swearing-in ceremony.",
+      evidence:
+        "Itemized from pages 62-65 of the NARA direct folder scan using the Office of the Press Secretary heading, 9:36 a.m. event line, four-page transcript, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings-march-23",
+      documentType: "Press Clipping Packet",
+      category: "mrs-bush-press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Mrs. Bush's Press Office Daily Press Clippings for Monday, March 23, 1992",
+      documentDate: "1992-03-23",
+      pages: 16,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet includes coverage of Barbara Bush, outdoor recreation, Texas Scottish Rite Hospital, Hillary Clinton, Marilyn Quayle, political spouses, family politics, and a Paul Wylie Maalox Moment item.",
+      evidence:
+        "Itemized from pages 66-81 of the NARA direct folder scan using the Mrs. Bush's Press Office cover page, Daily Press Clippings distribution list, clipping mastheads, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-news-clips-march-23-campaign-russia-kohl",
+      documentType: "Press Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Daily News Clips packet re Clinton, Brown, Kohl, Russia, trade, Perot, and March 23 coverage",
+      documentDate: "1992-03-23",
+      pages: 53,
+      excerpt:
+        "A Daily News Clips run collects Reuters, UPI, AP, New York Times, Washington Post, Wall Street Journal, USA Today, and other coverage on Bush, Clinton, Brown, Perot, Kohl, GATT, Russia, Ukraine, the House bank, the tax bill, and related political and foreign-policy stories.",
+      evidence:
+        "Itemized from pages 82-134 of the NARA direct folder scan using the wire-service pages, newspaper mastheads, clipping sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-simon-discretionary-spending-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Presidential letter to William E. Simon re discretionary spending caps",
+      documentDate: "1992-03-23",
+      pages: 1,
+      excerpt:
+        "The President thanks William E. Simon for a letter passed along by Charley Bartlett and discusses the attached speech, congressional fights over discretionary spending, and keeping the 1990 budget caps in place.",
+      evidence:
+        "Itemized from page 136 of the NARA direct folder scan using the signed March 23 letter, William E. Simon address block, handwritten closing note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "guadalupe-valdez-birthday-greeting",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Presidential 97th birthday greeting to Guadalupe Valdez Sr.",
+      documentDate: "1992-03-23",
+      pages: 1,
+      excerpt:
+        "The President and Mrs. Bush send 97th birthday greetings to Guadalupe Valdez Sr., with a handwritten note forwarding the letter through his grandson David.",
+      evidence:
+        "Itemized from page 137 of the NARA direct folder scan using the signed March 23 birthday letter, Valdez address block, presidential handwritten forwarding note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "march-23-briefing-and-meeting-photograph-packet",
+      documentType: "Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "March 23 briefing and Oval Office photograph packet",
+      documentDate: "1992-03-23",
+      pages: 8,
+      excerpt:
+        "The photograph packet includes color prints and sticky-note labels for a BPM/Jamaica item, leading Republican Senators, a group event, domestic briefing, and Oval Office meeting scenes.",
+      evidence:
+        "Itemized from pages 138-145 of the NARA direct folder scan using rendered-page review of color photographs, handwritten sticky-note labels, and Oval Office briefing scenes.",
+    },
+  ],
   470417713: [
     {
       slug: "billy-graham-convention-note",
@@ -11996,6 +12336,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417640",
   "470417649",
   "470417658",
+  "470417663",
   "470418083",
 ]);
 
