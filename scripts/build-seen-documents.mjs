@@ -10705,6 +10705,433 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 95-101 of the NARA direct folder scan using the Bush Library handwriting labels, document-originally-attached marker, Gregg Petersmeyer/Julie Andrews note, White House stationery, invitation pages, OCR, and rendered-page review.",
     },
   ],
+  470417777: [
+    {
+      slug: "cheney-accounting-centers-out-for-bid-packet",
+      documentType: "President's Memorandum and Routing Note",
+      category: "president-memorandum-packet",
+      disposition: "itemized-president-memorandum",
+      title:
+        "President's memorandum to Dick Cheney re accounting centers out for bid, with routing note",
+      documentDate: "1992-05-31",
+      pages: 3,
+      excerpt:
+        "The President asks Dick Cheney to look into Governor Engler's suggestion that Defense Department accounting centers be put into urban centers, with a later routing note saying no further action was required after Cheney discussed the matter with Bush.",
+      evidence:
+        "Itemized from pages 2-4 of the NARA direct folder scan using the Document Originally Attached marker, June 15 routing note, May 31 President-to-Dick Cheney memorandum, cc page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "weizsaecker-troubled-conscience-film-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Richard von Weizsaecker Troubled Conscience film correspondence packet",
+      documentDate: "1992-05-15",
+      pages: 4,
+      excerpt:
+        "The packet includes White House routing notes, a presidential letter to Richard von Weizsaecker about the film Troubled Conscience, a marked Bush draft, and a Gary Walters note about searching for the documentary.",
+      evidence:
+        "Itemized from pages 5-8 of the NARA direct folder scan using the May 15 White House letter, Richard von Weizsaecker addressee, Troubled Conscience text, Bush handwriting, Gary Walters note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gene-zaloudek-fishing-tournament-correspondence-packet",
+      documentType: "Correspondence and Photograph Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Gene Zaloudek fishing tournament correspondence and signed photograph packet",
+      documentDate: "1992-05-15",
+      pages: 3,
+      excerpt:
+        "The President writes Gene Zaloudek about the Fishing with the President tournament and an attached photograph carries a Bush inscription encouraging him to keep fishing.",
+      evidence:
+        "Itemized from pages 9-11 of the NARA direct folder scan using the May 15 Dear Mr. Zaloudek letter, signed photograph, Eugene Zaloudek incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-may-15-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title:
+        "Mrs. Bush's Press Office Daily Press Clippings: Friday, May 15, 1992",
+      documentDate: "1992-05-15",
+      pages: 15,
+      excerpt:
+        "The Mrs. Bush press-clippings packet includes coverage of fishermen, Bush financial statements, Bill Clinton, Ronald Reagan, Broadway, education, LIFE magazine, Patricia Ireland, and Black youth education.",
+      evidence:
+        "Itemized from pages 12-26 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover, continuous clipping run, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pittsburgh-fundraiser-luncheon-remarks-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title:
+        "Press Release: Remarks by the President at Bush-Quayle '92 fundraising luncheon in Pittsburgh",
+      documentDate: "1992-05-15",
+      pages: 5,
+      excerpt:
+        "The press-release transcript records President Bush's May 15 remarks at the Bush-Quayle '92 fundraising luncheon at Duquesne University Union Building in Pittsburgh.",
+      evidence:
+        "Itemized from pages 27-31 of the NARA direct folder scan using the Office of the Press Secretary release heading, Pittsburgh dateline, Duquesne University setting, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-may-15-1992",
+      documentType: "Congressional Monitor",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title: "Congressional Monitor: Friday, May 15, 1992",
+      documentDate: "1992-05-15",
+      pages: 23,
+      excerpt:
+        "The Congressional Monitor packet tracks House and Senate activity, committee business, floor action, schedules, and White House legislative monitoring for May 15.",
+      evidence:
+        "Itemized from pages 32-54 of the NARA direct folder scan using the Congressional Monitor cover, numbered page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-6am-may-15-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: Friday, May 15, 1992, 6 A.M. EDT",
+      documentDate: "1992-05-15",
+      pages: 19,
+      excerpt:
+        "The 6 A.M. White House News Summary compiles national press coverage and broadcast items for the President on May 15.",
+      evidence:
+        "Itemized from pages 55-73 of the NARA direct folder scan using the White House News Summary heading, 6 A.M. EDT timestamp, continuous page run, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-update-may-15-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary update: Friday, May 15, 1992, 5:30 P.M. EDT",
+      documentDate: "1992-05-15",
+      pages: 3,
+      excerpt:
+        "The late-afternoon White House News Summary update provides additional May 15 news items, including an upside-down final page in the scan.",
+      evidence:
+        "Itemized from pages 74-76 of the NARA direct folder scan using the White House News Summary update heading, 5:30 P.M. EDT timestamp, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "della-newman-correspondence-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Della Newman correspondence packet",
+      documentDate: "1992-05-15",
+      pages: 2,
+      excerpt:
+        "The President sends Della Newman a May 15 reply, with a note to attach the Oval Office address and Los Angeles speech, following Newman's May 5 letter from the U.S. Embassy in Rome.",
+      evidence:
+        "Itemized from pages 77-78 of the NARA direct folder scan using the May 15 White House reply, Della Newman addressee, attachment note, Embassy Rome letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "aylwin-arrival-ceremony-remarks-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title:
+        "Press Release: Remarks by President Bush and President Aylwin of Chile at arrival ceremony",
+      documentDate: "1992-05-13",
+      pages: 3,
+      excerpt:
+        "The press-release transcript records remarks by President Bush and President Patricio Aylwin of Chile at the South Lawn arrival ceremony.",
+      evidence:
+        "Itemized from pages 79-81 of the NARA direct folder scan using the Office of the Press Secretary release heading, President Aylwin title, South Lawn setting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "generic-drug-approval-hr-2454-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press Release: President signs H.R. 2454 on generic drug approval",
+      documentDate: "1992-05-13",
+      pages: 1,
+      excerpt:
+        "The White House announces that the President signed H.R. 2454 concerning the generic drug approval process.",
+      evidence:
+        "Itemized from page 82 of the NARA direct folder scan using the immediate-release heading, H.R. 2454 bill number, generic drug approval text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mental-retardation-committee-appointments-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title:
+        "Press Release: President announces appointments to the President's Committee on Mental Retardation",
+      documentDate: "1992-05-13",
+      pages: 2,
+      excerpt:
+        "The White House announces appointments and designations to the President's Committee on Mental Retardation.",
+      evidence:
+        "Itemized from pages 83-84 of the NARA direct folder scan using the immediate-release heading, committee name, appointment list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "commemorative-coin-hr-3337-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title:
+        "Press Release: President signs H.R. 3337 on commemorative coin programs",
+      documentDate: "1992-05-13",
+      pages: 1,
+      excerpt:
+        "The White House announces that the President signed H.R. 3337 concerning commemorative coin programs.",
+      evidence:
+        "Itemized from page 85 of the NARA direct folder scan using the immediate-release heading, H.R. 3337 bill number, commemorative coin text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-goodwin-nomination-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title:
+        "Press Release: President nominates Robert F. Goodwin as Ambassador to New Zealand and Western Samoa",
+      documentDate: "1992-05-13",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Robert F. Goodwin as U.S. Ambassador to New Zealand and Western Samoa.",
+      evidence:
+        "Itemized from page 86 of the NARA direct folder scan using the immediate-release heading, Robert F. Goodwin name, New Zealand and Western Samoa nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-girls-inc-st-louis-release",
+      documentType: "Press Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title: "Daily Point of Light release: Girls Incorporated of St. Louis",
+      documentDate: "1992-05-13",
+      pages: 1,
+      excerpt:
+        "The Daily Point of Light release honors Girls Incorporated of St. Louis for work with young women and girls.",
+      evidence:
+        "Itemized from page 87 of the NARA direct folder scan using the Daily Point of Light heading, Girls Incorporated of St. Louis name, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-wes-schollander-release",
+      documentType: "Press Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title: "Daily Point of Light release: Wes Schollander",
+      documentDate: "1992-05-13",
+      pages: 1,
+      excerpt:
+        "The Daily Point of Light release honors Wes Schollander for volunteer service.",
+      evidence:
+        "Itemized from page 88 of the NARA direct folder scan using the Daily Point of Light heading, Wes Schollander name, OCR, and rendered-page review.",
+    },
+    {
+      slug: "baltimore-dunbar-high-school-address-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title:
+        "Press Release: Remarks by the President in address to Baltimore community at Dunbar High School",
+      documentDate: "1992-05-13",
+      pages: 6,
+      excerpt:
+        "The press-release transcript records President Bush's address to the Baltimore community at Dunbar High School.",
+      evidence:
+        "Itemized from pages 89-94 of the NARA direct folder scan using the Office of the Press Secretary release heading, Baltimore community title, Dunbar High School setting, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "iran-national-emergency-congress-report",
+      documentType: "Message and Report to Congress",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title:
+        "Message to Congress transmitting report on the national emergency with respect to Iran",
+      documentDate: "1992-05-14",
+      pages: 3,
+      excerpt:
+        "The President transmits a report to Congress on developments concerning the national emergency with respect to Iran.",
+      evidence:
+        "Itemized from pages 95-97 of the NARA direct folder scan using the Message to the Congress heading, national emergency with respect to Iran text, report continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "peter-secchia-rome-report-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Peter F. Secchia Rome report and presidential reply packet",
+      documentDate: "1992-05-15",
+      pages: 2,
+      excerpt:
+        "The President replies to Pete Secchia's April 28 Embassy Rome report on U.S.-Italian matters, the Mid-East peace process, and Embassy Rome accomplishments.",
+      evidence:
+        "Itemized from pages 98-99 of the NARA direct folder scan using the May 15 Dear Pete reply, Embassy of the United States of America Rome letterhead, Peter F. Secchia signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "phil-brady-edward-james-olmos-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title:
+        "President's note to Phil Brady re Edward James Olmos and Los Angeles cleanup",
+      documentDate: "1992-05-15",
+      pages: 1,
+      excerpt:
+        "The President asks Phil Brady to have A.C. Lyles or someone check on the politics of actor Edward James Olmos and prepare a congratulatory letter if appropriate.",
+      evidence:
+        "Itemized from page 100 of the NARA direct folder scan using the From the President page, Phil Brady addressee, Edward James Olmos text, Bush Library handwriting label, and rendered-page review.",
+    },
+    {
+      slug: "national-review-menem-lamars-choice-clips",
+      documentType: "Press Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "National Review clipping pages seen by the President: Argentine privatization and Lamar's Choice",
+      documentDate: "1992-05-25",
+      pages: 2,
+      excerpt:
+        "Two National Review pages include an article on Argentine privatization under Carlos Menem and William McGurn's 'Lamar's Choice,' marked with a President Has Seen stamp dated May 15.",
+      evidence:
+        "Itemized from pages 101-102 of the NARA direct folder scan using the National Review page dates, Lamar's Choice headline, President Has Seen stamp, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-phone-call-note-dan-goldin-nasa",
+      documentType: "Telephone Note",
+      category: "telephone-note",
+      disposition: "itemized-telephone-note",
+      title: "Presidential phone-call note re Dan Goldin and NASA",
+      documentDate: "1992-05-15",
+      pages: 1,
+      excerpt:
+        "A handwritten Presidential Phone Calls page records a May 15 call with Dan Goldin of NASA and notes about congratulations and the mission.",
+      evidence:
+        "Itemized from page 103 of the NARA direct folder scan using the Presidential Phone Calls form, May 15 date, NASA notation, Bush Library handwriting label, and rendered-page review.",
+    },
+    {
+      slug: "vice-president-memo-dan-goldin-nasa",
+      documentType: "Vice Presidential Memorandum",
+      category: "vice-presidential-memorandum",
+      disposition: "itemized-vice-presidential-memorandum",
+      title:
+        "Vice President memorandum to the President re Dan Goldin and NASA operation",
+      documentDate: "1992-05-15",
+      pages: 1,
+      excerpt:
+        "The Vice President suggests that the President call Dan Goldin to congratulate him and NASA on a tremendous operation.",
+      evidence:
+        "Itemized from page 104 of the NARA direct folder scan using The Vice President letterhead, May 15 memorandum date, Dan Goldin and NASA text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "matthew-fong-korean-american-petition-reply-packet",
+      documentType: "Correspondence and Petition Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Matthew Fong Korean American petition and presidential reply packet",
+      documentDate: "1992-05-15",
+      pages: 9,
+      excerpt:
+        "The packet includes presidential replies to Matt Fong and Mr. and Mrs. Yi, Fong's May 7 letter, a Korean American petition on rebuilding Los Angeles, Fong's 'Rebuilding Los Angeles' essay, a President-to-Phil Brady routing note, and Bob Teeter's memorandum.",
+      evidence:
+        "Itemized from pages 105-113 of the NARA direct folder scan using the Dear Matt and Dear Mr. and Mrs. Yi replies, Matthew K. Fong letterhead, petition pages, Rebuilding Los Angeles title, Phil Brady routing note, Bob Teeter memorandum, OCR, and rendered-page review.",
+    },
+    {
+      slug: "scowcroft-iraq-compliance-congress-report-packet",
+      documentType: "Action Memorandum and Congressional Letter",
+      category: "national-security-packet",
+      disposition: "itemized-national-security-packet",
+      title:
+        "Brent Scowcroft memorandum and congressional report letter re Iraq compliance with U.N. resolutions",
+      documentDate: "1992-05-15",
+      pages: 5,
+      excerpt:
+        "Brent Scowcroft forwards a letter reporting to Congress on efforts to obtain Iraq's compliance with U.N. Security Council resolutions.",
+      evidence:
+        "Itemized from pages 114-118 of the NARA direct folder scan using the Action memorandum heading, Brent Scowcroft byline, Iraq compliance subject, Dear Mr. Speaker letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "matthew-fong-korean-american-reply-materials-second-copy",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Second copy of Matthew Fong Korean American reply materials",
+      documentDate: "1992-05-15",
+      pages: 3,
+      excerpt:
+        "A second copy repeats the presidential replies to Matt Fong and Mr. and Mrs. Yi, together with the President-to-Phil Brady routing page.",
+      evidence:
+        "Itemized from pages 119-121 of the NARA direct folder scan using the repeated Dear Matt and Dear Mr. and Mrs. Yi letters, repeated Phil Brady routing page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lloyd-bentsen-oveta-culp-hobby-letter",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Letter from the President to Lloyd Bentsen re Oveta Culp Hobby recognition",
+      documentDate: "1992-05-15",
+      pages: 1,
+      excerpt:
+        "The President writes Senator Lloyd Bentsen about Oveta Culp Hobby, the Women's Army Corps, and the request to promote her to brigadier general on the retired list.",
+      evidence:
+        "Itemized from page 122 of the NARA direct folder scan using the May 15 Dear Lloyd letter, Lloyd Bentsen addressee, Oveta Culp Hobby text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hill-house-pittsburgh-community-leaders-talking-points",
+      documentType: "Talking Points",
+      category: "talking-points",
+      disposition: "itemized-talking-points",
+      title:
+        "Talking Points: Meeting with Community Leaders, Hill House, Pittsburgh",
+      documentDate: "1992-05-15",
+      pages: 4,
+      excerpt:
+        "Talking points for the Hill House meeting in Pittsburgh discuss Weed and Seed, community leadership, violence, and neighborhood recovery.",
+      evidence:
+        "Itemized from pages 123-126 of the NARA direct folder scan using the Talking Points heading, Hill House Pittsburgh title, May 15 date, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-phone-call-note-tom-busby-ross-dole",
+      documentType: "Telephone Note",
+      category: "telephone-note",
+      disposition: "itemized-telephone-note",
+      title:
+        "Presidential phone-call note with Tom Busby re Ross, Dole, and evaluation",
+      documentDate: "1992-05-15",
+      pages: 1,
+      excerpt:
+        "A handwritten Presidential Phone Calls page records a May 15 outgoing call with Tom Busby and a brief subject line mentioning Ross, Dole, and evaluation.",
+      evidence:
+        "Itemized from page 127 of the NARA direct folder scan using the Presidential Phone Calls form, May 15 date, Tom Busby name, subject line, Bush Library handwriting label, and rendered-page review.",
+    },
+    {
+      slug: "boyden-gray-james-francis-rtc-lawsuit-packet",
+      documentType: "President's Memorandum and Correspondence Packet",
+      category: "legal-correspondence-packet",
+      disposition: "itemized-legal-correspondence-packet",
+      title:
+        "President's memorandum to Boyden Gray and James B. Francis Jr. RTC lawsuit packet",
+      documentDate: "1992-05-15",
+      pages: 6,
+      excerpt:
+        "The President sends Boyden Gray a personal memorandum about lawsuits against outside directors, attaching James B. Francis Jr.'s letter to Harold M. Sklar of the Resolution Trust Corporation and Francis's note to the President.",
+      evidence:
+        "Itemized from pages 128-133 of the NARA direct folder scan using the Document Originally Attached marker, May 15 President-to-Boyden Gray memorandum, James B. Francis Jr. letter to Harold M. Sklar, bcc page to President George Bush, OCR, and rendered-page review.",
+    },
+    {
+      slug: "schedule-of-the-president-may-15-1992",
+      documentType: "Schedule",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title: "Schedule of the President: Friday, May 15, 1992",
+      documentDate: "1992-05-15",
+      pages: 2,
+      excerpt:
+        "The President's May 15 schedule lists White House morning briefings, travel to Pittsburgh, a Duquesne University fundraising luncheon, a Hill House community leaders meeting, and evening Houston events.",
+      evidence:
+        "Itemized from pages 134-135 of the NARA direct folder scan using the Schedule of the President heading, May 15 date, annotated goldie copy line, Houston continuation page, OCR, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -17382,6 +17809,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417741",
   "470417761",
   "470417766",
+  "470417777",
   "470418083",
 ]);
 
