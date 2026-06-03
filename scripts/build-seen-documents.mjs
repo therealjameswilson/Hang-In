@@ -14987,6 +14987,527 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 181-184 of the NARA direct folder scan using the White House presidential letter to Zoe Alexandra Thomson Tron, June 30 1992 date, Official White House Photo back page, color photograph pages, OCR, and rendered-page review.",
     },
   ],
+  470417888: [
+    {
+      slug: "yeutter-cover-note-new-york-times-interview",
+      documentType: "Cover Note with President Bush Handwriting",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title:
+        "Clayton Yeutter cover note to Samuel Skinner re New York Times interview comments",
+      documentDate: "1992-07-06",
+      pages: 1,
+      excerpt:
+        "Clayton Yeutter forwards sensitive New York Times interview comments to Samuel Skinner, with a DCF Has Seen marking and President Bush handwriting on the page.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the White House cover note, DCF Has Seen marking, Yeutter sender line, Skinner addressee line, President Bush handwriting marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "yeutter-memorandum-new-york-times-interview",
+      documentType: "Memorandum with President Bush Handwriting",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title:
+        "Clayton Yeutter memorandum to the President re New York Times interview",
+      documentDate: "1992-07-06",
+      pages: 3,
+      excerpt:
+        "Yeutter comments on the President's New York Times interview, emphasizing education, the economic growth package, urban policy, minority opportunity, health care, and second-term themes.",
+      evidence:
+        "Itemized from pages 3-5 of the NARA direct folder scan using the White House memorandum heading, New York Times Interview subject line, President Bush handwriting, Attachment line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-interview-excerpts-first-term",
+      documentType: "Newspaper Interview Excerpts",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "New York Times excerpts of interview with President Bush on his first term",
+      documentDate: "1992-06-25",
+      pages: 2,
+      excerpt:
+        "The attached New York Times interview excerpts cover President Bush's domestic agenda, the economy, urban policy, family values, and other first-term questions.",
+      evidence:
+        "Itemized from pages 6-7 of the NARA direct folder scan using the New York Times date line, Excerpts of Interview With President Bush on His First Term heading, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-july-6-1992",
+      documentType: "Congressional Monitor",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title: "Congressional Monitor: Monday, July 6, 1992",
+      documentDate: "1992-07-06",
+      pages: 20,
+      excerpt:
+        "Congressional Quarterly's Congressional Monitor covers House and Senate schedules, vetoes, committee listings, conference committees, appropriations status, and House floor action for the week of July 6.",
+      evidence:
+        "Itemized from pages 8-27 of the NARA direct folder scan using the Congressional Monitor cover, Monday July 6 1992 date, page sequence through page 19, back-cover mailing page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fred-bush-seville-expo-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Frederick M. Bush Seville Expo '92 correspondence packet",
+      documentDate: "1992-06-09",
+      pages: 4,
+      excerpt:
+        "The packet includes President Bush's June 9 reply to Frederick M. Bush, Fred Bush's May 25 handwritten note on Marilyn Quayle's Expo visit, and earlier presidential replies from February 3 and May 14.",
+      evidence:
+        "Itemized from pages 28-31 of the NARA direct folder scan using the White House address page to Frederick M. Bush, Seville Expo '92 letterhead, presidential letter pages, handwritten annotations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "apn-daily-briefing-july-6-1992",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing-item",
+      disposition: "itemized-daily-political-briefing",
+      title: "The Daily Briefing on American Politics: Monday, July 6, 1992",
+      documentDate: "1992-07-06",
+      pages: 23,
+      excerpt:
+        "The American Political Network daily briefing tracks the recession story, Bush's Fourth of July campaign events, Clinton vice-presidential speculation, Perot ballot access and organization, Senate and House races, polling, and television monitoring.",
+      evidence:
+        "Itemized from pages 32-54 of the NARA direct folder scan using The Daily Briefing on American Politics masthead, Monday July 6 1992 date, APN Bulletin Board, White House '92, Senate Watch, On the House, TV Monitor, OCR, and rendered-page review.",
+    },
+    {
+      slug: "july-6-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "Telephone memoranda for President Bush, July 6, 1992",
+      documentDate: "1992-07-06",
+      pages: 2,
+      excerpt:
+        "Two White House telephone memorandum pages record the President's July 6 call sheet, including a morning call to former Secretary Samuel K. Skinner and a signal-switchboard page marked no calls.",
+      evidence:
+        "Itemized from pages 55-56 of the NARA direct folder scan using the Telephone Memorandum headings, President Bush and Signal Switchboard labels, Skinner call entry, No Calls notation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "july-6-presidential-movements-munich",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-log",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential movements log: Munich, Germany, July 6, 1992",
+      documentDate: "1992-07-06",
+      pages: 1,
+      excerpt:
+        "The WHCA movements log records President Bush's Munich schedule from the Sheraton Hotel to Vier Jahreszeiten, the Residenz, Spatenhaus Restaurant, Nymphenburg Castle, and back to the Sheraton.",
+      evidence:
+        "Itemized from page 57 of the NARA direct folder scan using the Presidential Movements heading, Munich Germany location line, July 6 1992 date, WHCA form, OCR, and rendered-page review.",
+    },
+    {
+      slug: "scowcroft-yugoslavia-uruguay-round-press-briefing",
+      documentType: "Press Briefing",
+      category: "press-briefing-item",
+      disposition: "itemized-press-briefing",
+      title:
+        "Press briefing by National Security Advisor Brent Scowcroft at the Munich summit",
+      documentDate: "1992-07-06",
+      pages: 6,
+      excerpt:
+        "Brent Scowcroft briefs reporters after the heads-of-government dinner on Yugoslavia, the Uruguay Round, humanitarian assistance, possible military means, and summit consultations.",
+      evidence:
+        "Itemized from pages 58-63 of the NARA direct folder scan using the White House Office of the Press Secretary heading, Munich Germany location, 11:18 p.m. briefing time, six-page transcript sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "carroll-campbell-bmw-press-briefing",
+      documentType: "Press Briefing",
+      category: "press-briefing-item",
+      disposition: "itemized-press-briefing",
+      title:
+        "Press briefing by Governor Carroll Campbell re BMW investment in South Carolina",
+      documentDate: "1992-07-06",
+      pages: 6,
+      excerpt:
+        "Governor Carroll Campbell and BMW chairman Eberhard von Kuenheim brief reporters on BMW's planned South Carolina assembly plant, investment, jobs, trade, and exports.",
+      evidence:
+        "Itemized from pages 64-69 of the NARA direct folder scan using the White House Office of the Press Secretary heading, Governor Carroll Campbell briefing title, BMW discussion, six-page transcript sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "marlin-fitzwater-munich-summit-press-briefing",
+      documentType: "Press Briefing",
+      category: "press-briefing-item",
+      disposition: "itemized-press-briefing",
+      title: "Press briefing by Marlin Fitzwater at the Munich summit",
+      documentDate: "1992-07-06",
+      pages: 5,
+      excerpt:
+        "Marlin Fitzwater briefs reporters on the opening Munich summit session, economic growth, the Uruguay Round, Yugoslavia, summit communique language, and President Bush's view of the day's meetings.",
+      evidence:
+        "Itemized from pages 70-74 of the NARA direct folder scan using the White House Office of the Press Secretary heading, Marlin Fitzwater briefing title, 8:22 p.m. time line, five-page transcript sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "world-economy-talking-points-cards-1-6",
+      documentType: "Talking Points with President Bush Handwriting",
+      category: "talking-points-item",
+      disposition: "itemized-talking-points",
+      title:
+        "Points to be made on world economy, Munich summit first session, cards 1-6 of 9",
+      documentDate: "1992-07-06",
+      pages: 6,
+      excerpt:
+        "Marked summit talking-point cards emphasize growth, jobs, inflation, education, job training, crime, drugs, environmental concerns, civil justice reform, trade, competitiveness, and open markets.",
+      evidence:
+        "Itemized from pages 75-80 of the NARA direct folder scan using the Points To Be Made on World Economy heading, first-session date and time, Bush Library handwriting markers, card numbers 1-6 of 9, OCR, and rendered-page review.",
+    },
+    {
+      slug: "introductory-remarks-talking-points-first-session-munich",
+      documentType: "Talking Points with President Bush Handwriting",
+      category: "talking-points-item",
+      disposition: "itemized-talking-points",
+      title:
+        "Points to be made introductory remarks, Munich summit first session",
+      documentDate: "1992-07-06",
+      pages: 5,
+      excerpt:
+        "Marked introductory summit remarks discuss Helmut Kohl's arrangements, Boris Yeltsin, support for Russia and Poland, the Uruguay Round, growth, and the need to act on Bosnia.",
+      evidence:
+        "Itemized from pages 81-85 of the NARA direct folder scan using the Points To Be Made Introductory Remarks heading, first-session date and time, Confidential markings, card numbers 1-5 of 5, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "withdrawal-mitterrand-key-points",
+      documentType: "Withdrawal/Redaction Sheet",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title:
+        "Withdrawal/Redaction Sheet: Document No. 01, key points for meeting with French President Francois Mitterrand",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "The withdrawal sheet identifies a one-page classified talking-points item for President Bush's meeting with French President Francois Mitterrand.",
+      evidence:
+        "Itemized from page 86 of the NARA direct folder scan using the withdrawal/redaction sheet, Document No. 01 line, Mitterrand key-points title, restriction code, and rendered-page review.",
+    },
+    {
+      slug: "withdrawal-mitterrand-points-to-be-made",
+      documentType: "Withdrawal/Redaction Sheet",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title:
+        "Withdrawal/Redaction Sheet: Document No. 02, points to be made for meeting with French President Francois Mitterrand",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "The withdrawal sheet identifies an eighteen-page classified talking-points item for President Bush's meeting with French President Francois Mitterrand.",
+      evidence:
+        "Itemized from page 87 of the NARA direct folder scan using the withdrawal/redaction sheet, Document No. 02 line, Mitterrand points-to-be-made title, restriction code, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rio-conference-talking-points-first-session",
+      documentType: "Talking Points",
+      category: "talking-points-item",
+      disposition: "itemized-talking-points",
+      title: "Points to be made on Rio Conference, Munich summit first session",
+      documentDate: "1992-07-06",
+      pages: 2,
+      excerpt:
+        "Two summit talking-point cards address post-Rio follow-up, the climate change treaty, action plans, forest assistance, a forest partnership forum, GEF financing, oceans, marine resources, and post-UNCED work.",
+      evidence:
+        "Itemized from pages 88-89 of the NARA direct folder scan using the Points To Be Made on Rio Conference heading, first-session date and time, card numbers 1-2 of 2, OCR, and rendered-page review.",
+    },
+    {
+      slug: "developing-countries-talking-points-first-session",
+      documentType: "Talking Points",
+      category: "talking-points-item",
+      disposition: "itemized-talking-points",
+      title:
+        "Points to be made on developing countries, Munich summit first session",
+      documentDate: "1992-07-06",
+      pages: 6,
+      excerpt:
+        "Six confidential summit talking-point cards discuss developing countries, trade, counternarcotics, ESAF, debt, and drought in southern Africa.",
+      evidence:
+        "Itemized from pages 90-95 of the NARA direct folder scan using the Points To Be Made on Developing Countries heading, first-session date and time, card numbers 1-6 of 6, Confidential markings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bmw-south-carolina-signing-talking-points",
+      documentType: "Talking Points",
+      category: "talking-points-item",
+      disposition: "itemized-talking-points",
+      title:
+        "Points to be made for BMW investment in South Carolina signing ceremony",
+      documentDate: "1992-07-06",
+      pages: 2,
+      excerpt:
+        "Two talking-point cards congratulate BMW and South Carolina on the Spartanburg assembly-plant agreement and emphasize jobs, investment, exports, and the American worker.",
+      evidence:
+        "Itemized from pages 96-97 of the NARA direct folder scan using the Signing Ceremony: BMW Investment in South Carolina heading, card numbers 1-2 of 2, OCR, and rendered-page review.",
+    },
+    {
+      slug: "withdrawal-note-that-emotions-talking-points",
+      documentType: "Withdrawal/Redaction Sheet",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title:
+        "Withdrawal/Redaction Sheet: Document No. 03, talking points re Note that Emotions",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "The withdrawal sheet identifies a one-page classified talking-points item titled in part, Note that Emotions.",
+      evidence:
+        "Itemized from page 98 of the NARA direct folder scan using the withdrawal/redaction sheet, Document No. 03 line, Note that Emotions title fragment, restriction code, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wirtschaftsgipfel-scowcroft-award-handwritten-note",
+      documentType: "Presidential Handwritten Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title:
+        "President Bush handwritten Wirtschaftsgipfel Munchen note re Scowcroft Award",
+      documentDate: "1992-07-06",
+      pages: 1,
+      excerpt:
+        "A handwritten note on Wirtschaftsgipfel Munchen stationery jokes about becoming a strong and impressive challenger for the Scowcroft Award.",
+      evidence:
+        "Itemized from page 99 of the NARA direct folder scan using the Wirtschaftsgipfel Munchen 1992 letterhead, presidential handwriting, Scowcroft Award text, rendered-page review, and low-confidence OCR.",
+    },
+    {
+      slug: "withdrawal-president-bush-round-1-notes",
+      documentType: "Withdrawal/Redaction Sheet",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title:
+        "Withdrawal/Redaction Sheet: Document No. 04, President George Bush Round 1 handwritten notes",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "The withdrawal sheet identifies a multi-page set of classified handwritten notes titled President George Bush Round 1.",
+      evidence:
+        "Itemized from page 100 of the NARA direct folder scan using the withdrawal/redaction sheet, Document No. 04 line, President George Bush Round 1 title, restriction code, OCR, and rendered-page review.",
+    },
+    {
+      slug: "withdrawal-president-bush-round-2-notes",
+      documentType: "Withdrawal/Redaction Sheet",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title:
+        "Withdrawal/Redaction Sheet: Document No. 05, President George Bush Round 2 handwritten notes",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "The withdrawal sheet identifies an eleven-page classified set of handwritten notes titled President George Bush Round 2.",
+      evidence:
+        "Itemized from page 101 of the NARA direct folder scan using the withdrawal/redaction sheet, Document No. 05 line, President George Bush Round 2 title, restriction code, OCR, and rendered-page review.",
+    },
+    {
+      slug: "withdrawal-nuke-safety-notes",
+      documentType: "Withdrawal/Redaction Sheet",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title:
+        "Withdrawal/Redaction Sheet: Document No. 06, handwritten notes re nuke safety",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "The withdrawal sheet identifies a one-page classified handwritten-notes item on nuke safety.",
+      evidence:
+        "Itemized from page 102 of the NARA direct folder scan using the withdrawal/redaction sheet, Document No. 06 line, nuke safety title, restriction code, OCR, and rendered-page review.",
+    },
+    {
+      slug: "withdrawal-debt-notes",
+      documentType: "Withdrawal/Redaction Sheet",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title: "Withdrawal/Redaction Sheet: Document No. 07, handwritten notes re debt",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "The withdrawal sheet identifies a one-page classified handwritten-notes item on debt.",
+      evidence:
+        "Itemized from page 103 of the NARA direct folder scan using the withdrawal/redaction sheet, Document No. 07 line, debt title, restriction code, OCR, and rendered-page review.",
+    },
+    {
+      slug: "withdrawal-developing-countries-debt-notes",
+      documentType: "Withdrawal/Redaction Sheet",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title:
+        "Withdrawal/Redaction Sheet: Document No. 08, handwritten notes re developing countries and debt",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "The withdrawal sheet identifies a one-page classified handwritten-notes item on developing countries and debt.",
+      evidence:
+        "Itemized from page 104 of the NARA direct folder scan using the withdrawal/redaction sheet, Document No. 08 line, Developing Countries/Debt title, restriction code, OCR, and rendered-page review.",
+    },
+    {
+      slug: "withdrawal-g7-draft-agreement-doc-9",
+      documentType: "Withdrawal/Redaction Sheet",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title:
+        "Withdrawal/Redaction Sheet: Document No. 09, G-7 Draft Agreement",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "The withdrawal sheet identifies a one-page classified draft titled G-7 Draft Agreement.",
+      evidence:
+        "Itemized from page 105 of the NARA direct folder scan using the withdrawal/redaction sheet, Document No. 09 line, G-7 Draft Agreement title, restriction code, OCR, and rendered-page review.",
+    },
+    {
+      slug: "withdrawal-developing-countries-draft-notes",
+      documentType: "Withdrawal/Redaction Sheet",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title:
+        "Withdrawal/Redaction Sheet: Document No. 10, handwritten notes re developing countries draft",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "The withdrawal sheet identifies a one-page classified handwritten-notes item on a developing countries draft.",
+      evidence:
+        "Itemized from page 106 of the NARA direct folder scan using the withdrawal/redaction sheet, Document No. 10 line, Developing Countries/Draft title, restriction code, OCR, and rendered-page review.",
+    },
+    {
+      slug: "withdrawal-g7-draft-agreement-doc-11",
+      documentType: "Withdrawal/Redaction Sheet",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title:
+        "Withdrawal/Redaction Sheet: Document No. 11, G-7 Draft Agreement",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "The withdrawal sheet identifies another one-page classified draft titled G-7 Draft Agreement.",
+      evidence:
+        "Itemized from page 107 of the NARA direct folder scan using the withdrawal/redaction sheet, Document No. 11 line, G-7 Draft Agreement title, restriction code, OCR, and rendered-page review.",
+    },
+    {
+      slug: "withdrawal-president-bush-session-3-notes",
+      documentType: "Withdrawal/Redaction Sheet",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title:
+        "Withdrawal/Redaction Sheet: Document No. 12, President George Bush Session 3 handwritten notes",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "The withdrawal sheet identifies a one-page classified handwritten-notes item titled President George Bush Session 3.",
+      evidence:
+        "Itemized from page 108 of the NARA direct folder scan using the withdrawal/redaction sheet, Document No. 12 line, President George Bush Session 3 title, restriction code, OCR, and rendered-page review.",
+    },
+    {
+      slug: "air-force-one-munich-meeting-request-note",
+      documentType: "Handwritten Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title:
+        "Aboard Air Force One handwritten note re Munich meeting requests at Hotel Bayerischer Hof",
+      documentDate: "1992-07-06",
+      pages: 2,
+      excerpt:
+        "A handwritten note headed from Hotel Bayerischer Hof and Aboard Air Force One reports requests for time with the President in Munich and includes a continuation/back page with presidential handling marks.",
+      evidence:
+        "Itemized from pages 109-110 of the NARA direct folder scan using the Aboard Air Force One stationery, Hotel Bayerischer Hof heading, July 6 1992 date, meeting-request text, back-page handwriting, rendered-page review, and low-confidence OCR.",
+    },
+    {
+      slug: "pool-report-8-arrival-ceremony-luncheon-plenary",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #8: arrival ceremony, luncheon, class photo, and plenary session",
+      documentDate: "1992-07-06",
+      pages: 2,
+      excerpt:
+        "Pool Report #8 covers the Munich summit arrival ceremony, GATT questions, leaders' lunch, class photo, opening plenary, security moments, and President Bush's photo-op exchanges.",
+      evidence:
+        "Itemized from pages 111-112 of the NARA direct folder scan using the highlighted Pool Report #8 heading, July 6 1992 date, two-page report sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-to-president-july-6-1992",
+      documentType: "Forwarded Materials List",
+      category: "forwarded-materials-list",
+      disposition: "itemized-forwarded-materials-list",
+      title: "Materials Forwarded to the President: July 6, 1992",
+      documentDate: "1992-07-06",
+      pages: 1,
+      excerpt:
+        "The forwarded-materials list identifies a disaster-denial action item for Texas and a schedule item for the July 7 trip briefing book.",
+      evidence:
+        "Itemized from page 113 of the NARA direct folder scan using the Materials Forwarded to the President heading, July 6 1992 date, action and schedule sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-10-nymphenburg-dinner-arrival",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #10: arrival at dinner at Nymphenburg Castle",
+      documentDate: "1992-07-06",
+      pages: 1,
+      excerpt:
+        "Pool Report #10 covers the summit leaders' arrival for dinner at Nymphenburg Castle, Bavarian bands, and the dinner setting.",
+      evidence:
+        "Itemized from page 114 of the NARA direct folder scan using the Pool Report #10 heading, July 6 1992 date, Nymphenburg Castle location, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-11-bavarian-woods-dinner",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #11: dinner in the Bavarian woods",
+      documentDate: "1992-07-06",
+      pages: 1,
+      excerpt:
+        "Pool Report #11 covers the pool movement through the Nymphenburg grounds to the Amalienburg Pavilion and the dinner setting in Munich.",
+      evidence:
+        "Itemized from page 115 of the NARA direct folder scan using the Pool Report #11 heading, July 6 1992 date, Bavarian Woods and Munich location lines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-9-residenz-sheraton-motorcade",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #9: motorcade from Residenz to Sheraton",
+      documentDate: "1992-07-06",
+      pages: 1,
+      excerpt:
+        "Pool Report #9 notes the uneventful motorcade from the Residenz to the Sheraton and sparse sidewalk crowds.",
+      evidence:
+        "Itemized from page 116 of the NARA direct folder scan using the Pool Report #9 heading, July 6 1992 date, Jim Gerstenzang byline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "duplicate-pool-report-8-arrival-ceremony-luncheon-plenary",
+      documentType: "Pool Report Duplicate",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title:
+        "Duplicate copy of Pool Report #8: arrival ceremony, luncheon, class photo, and plenary session",
+      documentDate: "1992-07-06",
+      pages: 2,
+      excerpt:
+        "A second copy of Pool Report #8 repeats the report on the arrival ceremony, lunch, class photo, plenary session, GATT questions, and Bush photo-op moments.",
+      evidence:
+        "Itemized from pages 117-118 of the NARA direct folder scan using the duplicate Pool Report #8 heading, July 6 1992 date, two-page report sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-6-bush-mitterrand-dinner-photo-op",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #6: photo op of Bush-Mitterrand dinner",
+      documentDate: "1992-07-06",
+      pages: 1,
+      excerpt:
+        "Pool Report #6 covers the Bush-Mitterrand dinner photo op, a question about Yeltsin and the IMF, and Brent Scowcroft's comment after the pool exited.",
+      evidence:
+        "Itemized from page 119 of the NARA direct folder scan using the Pool Report #6 heading, Munich Germany location line, Bush-Mitterrand dinner photo-op title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wirtschaftsgipfel-munchen-cover-page",
+      documentType: "Summit Cover Page",
+      category: "event-background-material",
+      disposition: "itemized-event-background-material",
+      title: "Wirtschaftsgipfel Munchen 1992 cover page",
+      documentDate: "1992-07-06",
+      pages: 1,
+      excerpt:
+        "A color Munich Economic Summit cover page shows the Wirtschaftsgipfel Munchen 1992 logo and G-7 flags.",
+      evidence:
+        "Itemized from page 120 of the NARA direct folder scan using the Wirtschaftsgipfel Munchen 1992 logo, color flag strip, rendered-page review, and low-confidence OCR.",
+    },
+  ],
   470417970: [
     {
       slug: "treasury-forwarding-note-brady-houston-club-materials",
@@ -20840,6 +21361,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417874",
   "470417877",
   "470417878",
+  "470417888",
   "470418083",
 ]);
 
