@@ -5765,6 +5765,450 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 158-163 of the NARA direct folder scan using rendered-page review of color photographs, Youth for Tomorrow backdrop, Oval Office briefing scenes, and sticky-note labels.",
     },
   ],
+  470417679: [
+    {
+      slug: "tim-penny-firewalls-telephone-call-memo",
+      documentType: "Recommended Telephone Call",
+      category: "telephone-call-memo",
+      disposition: "itemized-telephone-call-memo",
+      title: "Recommended telephone call to Congressman Tim Penny re budget firewalls bill",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "Nicholas Calio recommends that the President call Congressman Tim Penny to thank him for helping defeat H.R. 3732, the Budget Process Reform Act, known as the firewalls bill.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the recommended telephone call heading, Tim Penny addressee line, firewalls-bill purpose, OCR, and rendered-page review.",
+    },
+    {
+      slug: "constance-horner-digger-phelps-ondcp-note",
+      documentType: "Personnel Note",
+      category: "personnel-note",
+      disposition: "itemized-personnel-note",
+      title: "Constance Horner note to the President re Digger Phelps and ONDCP",
+      documentDate: "1992-03-31",
+      pages: 1,
+      excerpt:
+        "Constance Horner tells the President that Digger Phelps is renegotiating his Notre Dame contract so he can come on board at the Office of National Drug Control Policy.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using the Constance Horner note heading, Digger Phelps subject line, ONDCP reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-leaders-former-soviet-union-briefing-points",
+      documentType: "Briefing Points",
+      category: "briefing-points",
+      disposition: "itemized-briefing-points",
+      title: "Points for briefing with congressional leaders re former Soviet Union assistance program",
+      documentDate: "1992-04-01",
+      pages: 6,
+      excerpt:
+        "The President's briefing points ask congressional leaders to support a comprehensive assistance program for Russia and other former Soviet states, including IMF, G-7, Freedom Support Act, CCC credit, exchange, demilitarization, and trade measures.",
+      evidence:
+        "Itemized from pages 4-9 of the NARA direct folder scan using the briefing-points heading, former Soviet Union assistance text, program headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "earth-summit-oval-office-briefing",
+      documentType: "Event Briefing",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Earth Summit Oval Office briefing",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The revised briefing sheet sets the purpose, background, participants, press plan, sequence, and no-remarks plan for an Oval Office Earth Summit briefing with Clayton Yeutter and senior officials.",
+      evidence:
+        "Itemized from page 10 of the NARA direct folder scan using the revised Earth Summit Briefing heading, Oval Office location line, participant list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "vermont-caucus-results-kaufman-memo",
+      documentType: "Political Memorandum",
+      category: "political-memorandum",
+      disposition: "itemized-political-memorandum",
+      title: "Ronald C. Kaufman memorandum re Vermont caucus results",
+      documentDate: "1992-04-01",
+      pages: 2,
+      excerpt:
+        "Ronald Kaufman reports the President's Vermont caucus victory, describes Buchanan's weak presence and Brown's Democratic result, and attaches Republican and Democratic caucus-result figures.",
+      evidence:
+        "Itemized from pages 11-12 of the NARA direct folder scan using the Kaufman memorandum, Vermont Caucus Results subject, attached results table, OCR, and rendered-page review.",
+    },
+    {
+      slug: "vermont-caucus-thank-you-letter-packet",
+      documentType: "Presidential Letter Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Vermont caucus thank-you letter packet",
+      documentDate: "1992-04-01",
+      pages: 8,
+      excerpt:
+        "The packet includes signed and duplicate presidential thank-you letters to John Lindley III, James H. Douglas, Jeffrey Amestoy, and Allen Martin for helping place the Vermont caucus in the win column.",
+      evidence:
+        "Itemized from pages 13-20 of the NARA direct folder scan using the George Bush letterhead pages, Vermont caucus text, named Vermont recipients, handwritten notes, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robin-higgins-citizens-medal-letter-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robin Higgins Presidential Citizens Medal correspondence packet",
+      documentDate: "1992-04-01",
+      pages: 3,
+      excerpt:
+        "The President replies to Robin L. Higgins after she thanked him and Mrs. Bush for the Presidential Citizens Medal awarded to her husband Rich and for remembering his sacrifice.",
+      evidence:
+        "Itemized from pages 21-23 of the NARA direct folder scan using the presidential reply, Robin L. Higgins incoming letter, George Bush desk note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dan-burton-kanjorski-television-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Dan Burton re Kanjorski and White House travel on television",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The President thanks Dan Burton for a television appearance that put Paul Kanjorski's moves into proper perspective and sends the note by courier.",
+      evidence:
+        "Itemized from page 24 of the NARA direct folder scan using the Dan Burton address block, presidential handwriting, Kanjorski reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "debby-graham-stamp-holder-thank-you-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Presidential thank-you letter to Debby Graham re handcrafted stamp holder",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The President thanks Debby Graham for a handcrafted stamp holder sent to him and Mrs. Bush and wishes her luck with future creative endeavors.",
+      evidence:
+        "Itemized from page 25 of the NARA direct folder scan using the presidential letter, Debby Graham address page, stamp-holder text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dan-jenkins-pounding-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Dan Jenkins correspondence packet re press pounding and campaign outlook",
+      documentDate: "1992-04-01",
+      pages: 3,
+      excerpt:
+        "The President replies to Dan Jenkins about the rough political pounding, the improving economy, golf, gratitude, family, and friendship, with Jenkins's March 24 incoming letter and a duplicate presidential copy.",
+      evidence:
+        "Itemized from pages 26-28 of the NARA direct folder scan using the self-typed presidential reply, Dan Jenkins incoming letter, duplicate reply page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "james-plowman-law-school-recommendations",
+      documentType: "Presidential Recommendation Letters",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "James E. Plowman law school recommendation letters",
+      documentDate: "1992-04-01",
+      pages: 2,
+      excerpt:
+        "The President writes recommendation letters for James E. Plowman to George Mason University School of Law dean Henry Manne and George Washington University president Stephen Trachtenberg.",
+      evidence:
+        "Itemized from pages 29-30 of the NARA direct folder scan using the George Bush letterhead pages, Plowman recommendation text, school addressees, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-czarnecki-thank-you-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Kitty and David Czarnecki re White House evening",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The President writes Kitty and David Czarnecki that he will send photos of their evening at the White House and thanks them for a note and a superb performance.",
+      evidence:
+        "Itemized from page 31 of the NARA direct folder scan using the David Czarnecki address block, presidential handwriting, White House evening reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chana-shwadlenak-cimarron-clipping-packet",
+      documentType: "Presidential Note and Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Chana Shwadlenak note and Cimarron presidential visit clipping packet",
+      documentDate: "1992-04-01",
+      pages: 6,
+      excerpt:
+        "The President sends Chana Shwadlenak a handwritten note, with routing to Andy Foster and Rose Zamaria, and the packet includes a Cimarron article on students enjoying the President's Oklahoma Christian University visit.",
+      evidence:
+        "Itemized from pages 32-34 and duplicate attachment pages 171-173 of the NARA direct folder scan using the Chana Shwadlenak address page, Andy Foster routing note, Cimarron clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jeb-bush-miami-photo-autograph-lapel-pin-packet",
+      documentType: "Photograph and Autograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Jeb Bush and Bush Klein Realty Miami supporter photograph autograph and lapel pin packet",
+      documentDate: "1992-04-01",
+      pages: 15,
+      excerpt:
+        "The packet routes signed presidential photographs and lapel pins through Jeb Bush and Bush Klein Realty for Miami supporters including Roberto Suarez, Ruben Mendiola, Jorge Luis Lopez, Constance Gubitosi, Carlos Salman, Gilberto Wong, Arthur Teele, Eliseo and Lucrecia Machado, Paul Douglas, Sherman Winn, and Paul and Carmen Foster.",
+      evidence:
+        "Itemized from pages 35-49 of the NARA direct folder scan using the photo inscription pages, John Ellis Bush routing pages, Arlene DiBenigno memorandum, Paul and Carmen Foster incoming letter, Bush Klein Realty page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "maryam-sachs-der-kuss-book-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Maryam Sachs Der Kuss book correspondence packet",
+      documentDate: "1992-04-01",
+      pages: 3,
+      excerpt:
+        "The President thanks Maryam Sachs for her letter and for Der Kuss, noting its photography and asking that the book be logged and sent to the Residence.",
+      evidence:
+        "Itemized from pages 50-52 of the NARA direct folder scan using the presidential reply, Maryam Sachs incoming letter, gift-unit notes, presidential draft note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings-april-1",
+      documentType: "Press Clipping Packet",
+      category: "mrs-bush-press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Mrs. Bush's Press Office Daily Press Clippings for Wednesday, April 1, 1992",
+      documentDate: "1992-04-01",
+      pages: 9,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet includes distribution cover and coverage of the First Lady, Bush travel and perks, Marilyn Quayle, Cuba, Laura Dern, and related public-life items.",
+      evidence:
+        "Itemized from pages 53-61 of the NARA direct folder scan using the Mrs. Bush's Press Office cover page, distribution list, clipping mastheads, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hjres-456-signing-statement",
+      documentType: "Presidential Statement",
+      category: "white-house-press-release",
+      disposition: "itemized-presidential-statement",
+      title: "Statement by the President on approving H.J. Res. 456",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The President announces approval of H.J. Res. 456, which funds economic and democratic development assistance for former Soviet republics, international agencies, disaster loans, and UN peacekeeping activities.",
+      evidence:
+        "Itemized from page 62 of the NARA direct folder scan using the Statement by the President heading, H.J. Res. 456 text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "joint-congressional-members-after-president-meeting-remarks",
+      documentType: "Press Release Transcript",
+      category: "press-release-transcript",
+      disposition: "itemized-press-release",
+      title: "Remarks by joint congressional members after meeting with the President re former Soviet Union assistance",
+      documentDate: "1992-04-01",
+      pages: 4,
+      excerpt:
+        "The internal transcript records Senators Mitchell, Pell, Helms, Dole and Representatives Gephardt and Fascell discussing the President's former Soviet Union assistance package after a White House meeting.",
+      evidence:
+        "Itemized from pages 63-66 of the NARA direct folder scan using the internal transcript title, North Portico event line, congressional-speaker sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alfred-covello-judicial-nomination-release",
+      documentType: "Judicial Nomination Press Release",
+      category: "judicial-nomination",
+      disposition: "itemized-judicial-nomination",
+      title: "Judicial nomination announcement for Alfred V. Covello",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Alfred V. Covello as United States District Judge for the District of Connecticut.",
+      evidence:
+        "Itemized from page 67 of the NARA direct folder scan using the Office of the Press Secretary heading, Alfred V. Covello nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hungary-czechoslovakia-mfn-message-congress",
+      documentType: "Presidential Message to Congress",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title: "Message to Congress re Hungary and Czechoslovakia emigration criteria and MFN status",
+      documentDate: "1992-03-31",
+      pages: 1,
+      excerpt:
+        "The President transmits an updated report on Hungary and Czechoslovakia emigration laws and policies and states that the administration is taking steps to terminate title IV Trade Act application to both countries.",
+      evidence:
+        "Itemized from page 68 of the NARA direct folder scan using the To the Congress heading, Hungary and Czechoslovakia MFN text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "irene-keeley-judicial-nomination-release",
+      documentType: "Judicial Nomination Press Release",
+      category: "judicial-nomination",
+      disposition: "itemized-judicial-nomination",
+      title: "Judicial nomination announcement for Irene M. Keeley",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Irene M. Keeley as United States District Judge for the Northern District of West Virginia.",
+      evidence:
+        "Itemized from page 69 of the NARA direct folder scan using the Office of the Press Secretary heading, Irene M. Keeley nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "carol-jackson-judicial-nomination-release",
+      documentType: "Judicial Nomination Press Release",
+      category: "judicial-nomination",
+      disposition: "itemized-judicial-nomination",
+      title: "Judicial nomination announcement for Carol E. Jackson",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Carol E. Jackson as United States District Judge for the Eastern District of Missouri.",
+      evidence:
+        "Itemized from page 70 of the NARA direct folder scan using the Office of the Press Secretary heading, Carol E. Jackson nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-banks-judicial-nomination-release",
+      documentType: "Judicial Nomination Press Release",
+      category: "judicial-nomination",
+      disposition: "itemized-judicial-nomination",
+      title: "Judicial nomination announcement for Charles A. Banks",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Charles A. Banks as United States District Judge for the Eastern District of Arkansas.",
+      evidence:
+        "Itemized from page 71 of the NARA direct folder scan using the Office of the Press Secretary heading, Charles A. Banks nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jerome-simandle-judicial-nomination-release",
+      documentType: "Judicial Nomination Press Release",
+      category: "judicial-nomination",
+      disposition: "itemized-judicial-nomination",
+      title: "Judicial nomination announcement for Jerome B. Simandle",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Jerome B. Simandle as United States District Judge for the District of New Jersey.",
+      evidence:
+        "Itemized from page 72 of the NARA direct folder scan using the Office of the Press Secretary heading, Jerome B. Simandle nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "agricultural-assistance-nis-release",
+      documentType: "Press Release",
+      category: "white-house-press-release",
+      disposition: "itemized-press-release",
+      title: "Agricultural Assistance for the NIS press release",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The release announces $1.1 billion in additional GSM-102 credit guarantees for U.S. agricultural commodity purchases by Russia, Ukraine, Armenia, and other independent states of the former Soviet Union.",
+      evidence:
+        "Itemized from page 73 of the NARA direct folder scan using the Agricultural Assistance for the NIS heading, GSM-102 and CCC credit-guarantee text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "st-marys-interfaith-dining-room-daily-point-of-light-734",
+      documentType: "Daily Point of Light Press Release",
+      category: "daily-point-of-light-release",
+      disposition: "itemized-daily-point-of-light-release",
+      title: "Daily Point of Light 734: St. Mary's Interfaith Dining Room of Stockton, California",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The White House recognizes volunteers of St. Mary's Interfaith Dining Room of Stockton, California, as the 734th Daily Point of Light for feeding the hungry and serving homeless and indigent people.",
+      evidence:
+        "Itemized from page 74 of the NARA direct folder scan using the Daily Point of Light release, St. Mary's Interfaith Dining Room title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "intelligence-community-program-organization-statement",
+      documentType: "Press Secretary Statement",
+      category: "press-secretary-statement",
+      disposition: "itemized-press-secretary-statement",
+      title: "Statement by the Press Secretary re intelligence community program and organization changes",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The statement says the President approved intelligence-community program, resource, structure, management, collection, and military-support changes after a comprehensive requirements review.",
+      evidence:
+        "Itemized from page 75 of the NARA direct folder scan using the Statement by the Press Secretary heading, intelligence community changes text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "multilateral-financial-assistance-russia-release",
+      documentType: "Press Release",
+      category: "white-house-press-release",
+      disposition: "itemized-press-release",
+      title: "Multilateral Financial Assistance Package for Russia press release",
+      documentDate: "1992-04-01",
+      pages: 2,
+      excerpt:
+        "The release describes U.S. support for roughly $18 billion in financial support for Russian reform, a $6 billion currency stabilization fund, and early IMF membership for Russia and other new states.",
+      evidence:
+        "Itemized from pages 76-77 of the NARA direct folder scan using the multilateral financial assistance heading, Russia assistance components, IMF and GAB text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nigeria-mutual-legal-assistance-treaty-senate-message",
+      documentType: "Presidential Message to the Senate",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title: "Message to the Senate transmitting Nigeria mutual legal assistance treaty",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The President transmits the U.S.-Nigeria Mutual Legal Assistance in Criminal Matters treaty to the Senate and recommends early favorable consideration and consent to ratification.",
+      evidence:
+        "Itemized from page 78 of the NARA direct folder scan using the To the Senate heading, Nigeria mutual legal assistance treaty text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "freedom-support-act-1992-fact-sheet",
+      documentType: "Fact Sheet",
+      category: "white-house-fact-sheet",
+      disposition: "itemized-fact-sheet",
+      title: "Freedom Support Act of 1992 fact sheet",
+      documentDate: "1992-04-01",
+      pages: 4,
+      excerpt:
+        "The fact sheet explains the Freedom Support Act's framework for humanitarian aid, nuclear safety, demilitarization, free markets, democracy, food credits, trade and investment, IMF support, stabilization funds, and people-to-people contacts.",
+      evidence:
+        "Itemized from pages 79-82 of the NARA direct folder scan using the Freedom Support Act of 1992 fact-sheet heading, numbered component sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "former-soviet-union-assistance-press-conference-duplicate-copies",
+      documentType: "Press Conference Transcript",
+      category: "presidential-remarks",
+      disposition: "itemized-press-release",
+      title: "Press conference by the President and Secretaries Baker, Brady, and Madigan re former Soviet Union assistance, duplicate copies",
+      documentDate: "1992-04-01",
+      pages: 34,
+      excerpt:
+        "Duplicate transcript copies record the President, James Baker, Nicholas Brady, and Edward Madigan discussing the Russia and former Soviet Union assistance package, Freedom Support Act, agricultural credits, IMF support, G-7 funding, and questions about cost.",
+      evidence:
+        "Itemized from duplicate transcript copies on pages 83-99 and 100-116 of the NARA direct folder scan using the Press Conference by the President heading, Briefing Room event line, speaker sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-news-clips-april-1-1992-campaign-russia-perks",
+      documentType: "Press Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Daily News Clips packet re Russia aid, Clinton, Brown, Perot, House perks, courts, and April 1 coverage",
+      documentDate: "1992-04-01",
+      pages: 54,
+      excerpt:
+        "The Office of Media Affairs Daily News Clips packet collects April 1 coverage from USA Today, the Wall Street Journal, the New York Times, the Washington Post, the Washington Times, and other outlets on Russia aid, the campaign, House perks, women voters, defense, courts, Iran-Contra, and Earth Summit politics.",
+      evidence:
+        "Itemized from pages 117-170 of the NARA direct folder scan using the Daily News Clips cover page, newspaper mastheads, clipping sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-wessel-50th-anniversary-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Presidential 50th anniversary letter to George and Mrs. Wessel",
+      documentDate: "1992-04-01",
+      pages: 1,
+      excerpt:
+        "The President and Mrs. Bush congratulate George Wessel Jr. and Mrs. Wessel on their 50th wedding anniversary, with a handwritten instruction asking Patty to place the original.",
+      evidence:
+        "Itemized from page 174 of the NARA direct folder scan using the signed presidential anniversary letter, George Wessel address block, handwritten placement note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "april-1-photograph-packet-bipartisan-leadership-yeltsin-call",
+      documentType: "Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "April 1 photograph packet re bipartisan congressional leadership, phone call, and Oval Office meetings",
+      documentDate: "1992-04-01",
+      pages: 14,
+      excerpt:
+        "A color photograph packet includes Oval Office and meeting photographs, sticky-note labels for bipartisan congressional leadership and a phone call, and official White House photograph identifiers.",
+      evidence:
+        "Itemized from pages 175-188 of the NARA direct folder scan using rendered-page review of color photographs, document-originally-attached pages, sticky-note labels, and official White House photograph identifiers.",
+    },
+  ],
   470417713: [
     {
       slug: "billy-graham-convention-note",
@@ -12821,6 +13265,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417658",
   "470417663",
   "470417674",
+  "470417679",
   "470418083",
 ]);
 
