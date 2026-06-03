@@ -3532,6 +3532,182 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from rendered-page review of color photo pages and blank/backing transfer pages at the end of the NARA direct folder scan.",
     },
   ],
+  470418028: [
+    {
+      slug: "richard-vigilante-bush-economic-record-column",
+      documentType: "Press Column",
+      category: "campaign-press-article",
+      disposition: "itemized-campaign-press-article",
+      title:
+        "Richard Vigilante column: Bush's economic record among century's best",
+      documentDate: "1992-08-28",
+      pages: 1,
+      excerpt:
+        "A Houston Chronicle column by Richard Vigilante argues that President Bush should run on his domestic economic record, including inflation, trade, and post-Cold War markets.",
+      evidence:
+        "Itemized from the clipped Houston Chronicle column attached to the John B. Ashmun correspondence in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "william-prescott-bush-whataburger-poll-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William Prescott Bush Whataburger poll correspondence",
+      documentDate: "1992-09-02",
+      pages: 2,
+      excerpt:
+        "The packet includes the President's response to William Prescott Bush, thanking him for Whataburger poll results, and the H&Q Asia Pacific letter reporting informal consumer confidence in George Bush after the convention speech.",
+      evidence:
+        "Itemized from the White House outgoing letter and H&Q Asia Pacific incoming letter found after the catalog OCR cutoff in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "pool-reports-humbolt-lubbock-fort-worth",
+      documentType: "Pool Reports",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report-packet",
+      title: "Pool reports: Humbolt to Lubbock and Lubbock to Fort Worth, September 2, 1992",
+      documentDate: "1992-09-02",
+      pages: 2,
+      excerpt:
+        "Two pool reports cover the President after the Humbolt speech, the arrival in Lubbock, remarks to military personnel, and the Lubbock-to-Fort Worth leg.",
+      evidence:
+        "Itemized from Pool Report headings and trip-leg pages found after the catalog OCR cutoff in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings-september-2-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings, September 2, 1992",
+      documentDate: "1992-09-02",
+      pages: 20,
+      excerpt:
+        "Mrs. Bush's Daily Press clipping packet covers Barbara Bush campaign appearances, New Mexico stops, first-lady commentary, Hurricane Andrew response, and related campaign coverage.",
+      evidence:
+        "Itemized from the Mrs. Bush Daily Press cover page and clipping sequence found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "hurricane-andrew-response-clippings-with-president-handwriting",
+      documentType: "Press Clipping Packet with President Bush Handwriting",
+      category: "hurricane-andrew-clippings",
+      disposition: "itemized-hurricane-andrew-clippings",
+      title: "Hurricane Andrew response clippings with President Bush handwriting",
+      documentDate: "1992-09-02",
+      pages: 6,
+      excerpt:
+        "A clipping packet marked with President Bush handwriting collects coverage of Bush touring areas hit by Hurricane Andrew, federal aid, reconstruction, and storm-response problems.",
+      evidence:
+        "Itemized from a Document Originally Attached marker, Bush handwriting markers, and Washington Times and Los Angeles Times Hurricane Andrew clippings in rendered-page review.",
+    },
+    {
+      slug: "raymond-price-florida-fax-packet",
+      documentType: "Presidential Fax and Note Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Raymond K. Price fax packet on Florida storm response",
+      documentDate: "1992-08-31",
+      pages: 4,
+      excerpt:
+        "The packet includes a September 2 note to the President about a call from Blitz Robinson and a Ray Price fax on Florida after a damage-assessment trip to Miami.",
+      evidence:
+        "Itemized from the typed note, Raymond K. Price transmittal page, fax memorandum, and fax cover sheet found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "secret-service-magaw-peake-air-force-one-correspondence",
+      documentType: "Correspondence and Handwriting Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Secret Service, John W. Magaw, David W. Peake, and Air Force One correspondence packet",
+      documentDate: "1992-09-02",
+      pages: 8,
+      excerpt:
+        "A low-confidence correspondence packet includes pages addressed to Secret Service Director John W. Magaw, a Treasury Secret Service envelope page, David W. Peake correspondence, Aboard Air Force One notes, and President Bush handwriting asking for media-study summaries.",
+      evidence:
+        "Itemized from rendered-page review and partial OCR of White House transmittal pages, Secret Service material, Air Force One notes, and Bush Library handwriting markers.",
+    },
+    {
+      slug: "christen-smith-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Christen Smith correspondence packet",
+      documentDate: "1992-09-02",
+      pages: 2,
+      excerpt:
+        "A White House correspondence packet is addressed to Christen Smith of Idalou, Texas, with a low-OCR attached page or drawing.",
+      evidence:
+        "Itemized from the White House address page and attached low-confidence visual page found in rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "daily-news-clips-office-media-affairs-september-2-1992",
+      documentType: "Daily News Clips",
+      category: "daily-news-clips",
+      disposition: "itemized-daily-news-clips",
+      title: "Office of Media Affairs Daily News Clips, September 2, 1992",
+      documentDate: "1992-09-02",
+      pages: 19,
+      excerpt:
+        "The Office of Media Affairs daily clips packet opens with Washington Post coverage and columns on the Shultz memorandum, candidates' road shows, media coverage, capital gains, F-16 sales to Taiwan, peace talks, Gulf press rules, federal spending, Russia uranium, and television coverage.",
+      evidence:
+        "Itemized from the Daily News Clips cover page, Washington Post mastheads, and article starts found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-articles-september-2-1992",
+      documentType: "Press Articles",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Wall Street Journal articles on grain exports, F-16s, stock exchanges, agriculture, the ABA, scandal, and Kimba Wood",
+      documentDate: "1992-09-02",
+      pages: 7,
+      excerpt:
+        "The Wall Street Journal packet covers a possible grain-export program, F-16 sales to Taiwan, stock-exchange rules, farm regulation, the ABA, corruption and scandal, and Judge Kimba Wood.",
+      evidence:
+        "Itemized from Wall Street Journal mastheads and article starts found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-clippings-september-2-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "New York Times clippings on Russian uranium, South Florida, China, Bosnia, Hurricane Andrew, and Al Gore",
+      documentDate: "1992-09-02",
+      pages: 10,
+      excerpt:
+        "The New York Times clipping packet covers Russian bomb uranium, post-hurricane South Florida, Chinese prisoners, Bosnia, Hurricane Andrew and incumbency, rebuilding in South Florida, an unannounced Bush visit, and Al Gore.",
+      evidence:
+        "Itemized from New York Times mastheads, article starts, and continuation pages found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "washington-times-clippings-september-2-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Washington Times clippings on campaigns, social policy, flood insurance, taxes, environment, veterans, arms cuts, and global peace",
+      documentDate: "1992-09-02",
+      pages: 18,
+      excerpt:
+        "The Washington Times clipping packet includes columns and articles on Clarence Page, social policy, nuclear power, hurricanes and flood insurance, clear contrasts between parties, environment, veterans, Florida cleanup, arms cuts and jobs, and global peace.",
+      evidence:
+        "Itemized from Washington Times mastheads, column starts, and continuation pages found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-clippings-september-2-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Los Angeles Times clippings on Hurricane Andrew, Clinton draft issues, Iraq loans, Quayle, taxes, Gore, Woody Allen, the Middle East, and chemical weapons",
+      documentDate: "1992-09-02",
+      pages: 17,
+      excerpt:
+        "The Los Angeles Times clipping packet covers Hurricane Andrew aid and troop relief, Clinton draft issues, Iraq loan investigations, Quayle on Clinton's jobs plan, Bush tax-loophole attacks, Gore and state budgets, Woody Allen commentary, Palestinian negotiations, culture, economic expertise, chemical weapons, and air power.",
+      evidence:
+        "Itemized from Los Angeles Times mastheads, article starts, and continuation pages found in full-PDF OCR and rendered-page review.",
+    },
+  ],
   470418070: [
     {
       slug: "charles-bartlett-massager-lincoln-anecdote",
