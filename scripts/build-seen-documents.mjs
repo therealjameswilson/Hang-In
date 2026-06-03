@@ -8576,6 +8576,190 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 143-154 of the NARA direct folder scan using the Grosvenor acceptance letters and draft, Alexander Graham Bell invitation, White House counsel and scheduling memoranda, recommendation forms, OCR, and rendered-page review.",
     },
   ],
+  470417735: [
+    {
+      slug: "barry-williamson-texas-fundraiser-drop-by-packet",
+      documentType: "Correspondence and Memorandum Packet",
+      category: "correspondence-memorandum-packet",
+      disposition: "itemized-correspondence-memorandum",
+      title: "Barry Williamson Texas drop-by and state fundraiser packet",
+      documentDate: "1992-04-27",
+      pages: 4,
+      excerpt:
+        "The President replies to Barry Williamson about the possibility of a drop-by in Texas; attached Williamson, Bob Teeter, and Bobby Burchfield material discusses a state-candidate fundraiser and related campaign ramifications.",
+      evidence:
+        "Itemized from pages 2-5 of the NARA direct folder scan using the George Bush letter to Barry Williamson, Williamson's April 21 letter, Bob Teeter memorandum, Bobby Burchfield Bush-Quayle memorandum, OCR, and rendered-page review.",
+    },
+    {
+      slug: "richard-jackman-handwritten-letter-note-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Handwritten letter to Richard Jackman and Dick Jackman note packet",
+      documentDate: "1992-04-27",
+      pages: 4,
+      excerpt:
+        "The President writes Richard Jackman from aboard Air Force One about the campaign, the economy, Clinton, and Ross Perot; attached material includes Jackman's note about Dick Cheney at Valley Forge Military Academy and campaign-style talking points.",
+      evidence:
+        "Itemized from pages 6-9 of the NARA direct folder scan using the Aboard Air Force One handwritten letter, Richard Jackman address block, Note from Dick Jackman heading, attached numbered message points, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fiu-commencement-address-press-release",
+      documentType: "Press Release",
+      category: "press-release-remarks",
+      disposition: "itemized-press-release",
+      title: "Press release: commencement address to Florida International University",
+      documentDate: "1992-04-27",
+      pages: 5,
+      excerpt:
+        "The Office of the Press Secretary release transmits President Bush's Florida International University commencement remarks at the Miami Beach Convention Center, covering service, freedom, education, and Michael Yelovich.",
+      evidence:
+        "Itemized from pages 10-14 of the NARA direct folder scan using the Miami Press Office fax header, Remarks by the President heading, Florida International University title, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-w-prescott-beth-bush-visit-schedules",
+      documentType: "Family Schedule Packet",
+      category: "family-schedule-packet",
+      disposition: "itemized-family-schedule",
+      title: "George W. Bush, Prescott Bush, and Beth Bush visit schedules",
+      documentDate: "1992-04-27",
+      pages: 2,
+      excerpt:
+        "Schedule pages list George W. Bush's April 27 and April 29 travel and Prescott and Beth Bush's April 28-29 Washington visit plans.",
+      evidence:
+        "Itemized from pages 15-16 of the NARA direct folder scan using the Memorandum for the President and Mrs. Bush heading, Prescott and Beth Bush subject, George W. Bush schedule heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "muriel-siebert-barbara-bush-economic-advice-packet",
+      documentType: "Correspondence Packet",
+      category: "correspondence-memorandum-packet",
+      disposition: "itemized-correspondence-memorandum",
+      title: "Muriel Siebert, Barbara Bush, and economic advice correspondence packet",
+      documentDate: "1992-05-04",
+      pages: 10,
+      excerpt:
+        "The packet includes a George Bush reply to Muriel Siebert, presidential and staff notes to Phil Brady and Mrs. Bush, Siebert's cover note, and her letter to Barbara Bush on women in the Republican Party, bank capital rules, and economic conditions.",
+      evidence:
+        "Itemized from pages 17-26 of the NARA direct folder scan using the George Bush reply to Muriel Siebert, duplicate response, presidential note to Phil Brady, Anne note to Mrs. Bush, Muriel Siebert letterhead pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "prescott-beth-bush-visit-schedule-second-copy",
+      documentType: "Family Schedule",
+      category: "family-schedule-packet",
+      disposition: "itemized-family-schedule",
+      title: "Second copy of Prescott and Beth Bush Washington visit schedule",
+      documentDate: "1992-04-27",
+      pages: 1,
+      excerpt:
+        "A second copy of the April 27 memorandum lists Prescott and Beth Bush's April 28-29 Washington visit schedule.",
+      evidence:
+        "Itemized from page 27 of the NARA direct folder scan using the repeated Memorandum for the President and Mrs. Bush heading, Prescott and Beth Bush subject, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-heinz-prechter-vietnam-trade-embargo",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Heinz C. Prechter re Vietnam trade embargo",
+      documentDate: "1992-04-27",
+      pages: 1,
+      excerpt:
+        "The President thanks Heinz Prechter for suggestions on the Vietnam trade embargo, agrees on Southeast Asian market opportunities, and explains POW/MIA leverage and limits on easing the embargo.",
+      evidence:
+        "Itemized from page 28 of the NARA direct folder scan using the White House letterhead, Heinz C. Prechter address block, Vietnam trade embargo and POW/MIA text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-note-robert-blake-poll-perot-florida",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Handwritten note from the President to Robert W. Blake re poll, Perot, and Florida",
+      documentDate: "1992-04-27",
+      pages: 1,
+      excerpt:
+        "The President thanks Bob Blake for a poll, predicts Perot will eventually self-destruct, and notes he is rushing off to Florida.",
+      evidence:
+        "Itemized from page 29 of the NARA direct folder scan using the Robert W. Blake address block, handwritten note, April 27 date, Perot and Florida references, and rendered-page review.",
+    },
+    {
+      slug: "presidential-note-bill-gilbert-they-also-served",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Handwritten note from the President to Bill Gilbert re They Also Served",
+      documentDate: "1992-04-27",
+      pages: 1,
+      excerpt:
+        "The President tells Bill Gilbert that Fred Valentine and Carl Warwick brought him They Also Served and that he looks forward to reading it.",
+      evidence:
+        "Itemized from page 30 of the NARA direct folder scan using the Bill Gilbert address block, handwritten note, They Also Served text, Nikki Richnow cc, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-note-andre-brewster-caves-valley",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Handwritten note from the President to Andre W. Brewster re Caves Valley outing",
+      documentDate: "1992-04-27",
+      pages: 1,
+      excerpt:
+        "The President thanks Andre Brewster for Saturday's hospitality, the Caves Valley outing, and the club and golf course.",
+      evidence:
+        "Itemized from page 31 of the NARA direct folder scan using the Andre W. Brewster address block, Aboard Air Force One stationery, handwritten Caves Valley text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "richard-jackman-handwritten-letter-second-copy",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Second copy of handwritten letter to Richard Jackman re campaign and Perot",
+      documentDate: "1992-04-27",
+      pages: 2,
+      excerpt:
+        "A second copy of the President's Aboard Air Force One handwritten letter to Richard Jackman discusses ugly press coverage, the economy, Clinton, and Ross Perot.",
+      evidence:
+        "Itemized from pages 32-33 of the NARA direct folder scan using the repeated Richard Jackman address block, two-page handwritten letter, Jan Burmeister stamp, and rendered-page review.",
+    },
+    {
+      slug: "caves-valley-club-thank-you-notes",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Caves Valley Club thank-you notes to Leslie Disharoon, Dennis Satyshur, and Abe Resnick",
+      documentDate: "1992-04-27",
+      pages: 4,
+      excerpt:
+        "The packet includes Caves Valley Club thank-you notes and address material for Leslie Disharoon, golf pro Dennis Satyshur, and Commissioner Abe Resnick after the President's Saturday outing.",
+      evidence:
+        "Itemized from pages 34-37 of the NARA direct folder scan using the Leslie Disharoon, Dennis Satyshur, and Abe Resnick address blocks, Aboard Air Force One and White House note pages, Caves Valley references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-news-clips-april-27-1992",
+      documentType: "Daily News Clips",
+      category: "daily-news-clips-item",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips: April 27, 1992",
+      documentDate: "1992-04-27",
+      pages: 62,
+      excerpt:
+        "The daily news-clips packet compiles April 27 coverage and commentary from the Washington Post, Washington Times, Wall Street Journal, USA Today, and New York Times on Clinton, Perot, congressional scandals, the Earth Summit, crime, former Soviet republics, Afghanistan, abortion, campaign finance, and related political issues.",
+      evidence:
+        "Itemized from pages 38-99 of the NARA direct folder scan using the Daily News Clips cover, Office of Media Affairs source list, newspaper mastheads, article starts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "florida-international-university-commencement-photograph-packet",
+      documentType: "Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Florida International University commencement and April 27 trip photograph packet",
+      documentDate: "1992-04-27",
+      pages: 7,
+      excerpt:
+        "Color photographs and a White House photo-stamp page show President Bush at Florida International University commencement and related April 27 travel or event settings.",
+      evidence:
+        "Itemized from pages 100-106 of the NARA direct folder scan using the Florida International University and Miami sticky-note labels, official White House photograph stamp, color photograph pages, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -15248,6 +15432,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417714",
   "470417718",
   "470417723",
+  "470417735",
   "470418083",
 ]);
 
