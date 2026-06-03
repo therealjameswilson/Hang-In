@@ -17602,6 +17602,178 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 138-149 of the NARA direct folder scan using the August 5 1992 President Bush letter aboard Air Force One, Andrew Charles Untener III address block, Rose Zamaria Gift Unit note, official photo fronts and backs, OCR, and rendered-page review.",
     },
   ],
+  470417964: [
+    {
+      slug: "pat-robertson-cbn-interview-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Pat Robertson CBN interview correspondence packet",
+      documentDate: "1992-08-08",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Pat Robertson for the CBN interview opportunity and responds to Robertson's July 28 letter reporting uniformly positive audience reaction.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the Walker's Point August 8 1992 President Bush letter to Pat Robertson, Christian Broadcasting Network letterhead, July 28 1992 incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "henry-dormann-enquirer-environment-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Henry O. Dormann correspondence re National Enquirer articles and environmental conference proposal",
+      documentDate: "1992-08-08",
+      pages: 4,
+      excerpt:
+        "President Bush thanks Henry O. Dormann for work with Bob Teeter on National Enquirer articles and routes Dormann's environmental conference proposal to Mike Deland.",
+      evidence:
+        "Itemized from pages 4-7 of the NARA direct folder scan using the August 8 1992 President Bush letter to Henry, President Bush note to Mike Deland, Leaders letterhead, Henry O. Dormann signature, National Enquirer and environmental conference references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ted-stevens-wally-hickel-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ted Stevens letter and President Bush reply re Wally Hickel endorsement",
+      documentDate: "1992-08-08",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Senator Ted Stevens about Wally Hickel's possible endorsement and the Houston convention.",
+      evidence:
+        "Itemized from pages 8-9 of the NARA direct folder scan using the Walker's Point August 8 1992 President Bush letter to Ted Stevens, Stevens handwritten August 4 letter, Wally Hickel endorsement references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fife-symington-supportive-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Fife Symington supportive letter packet",
+      documentDate: "1992-08-08",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Arizona Governor Fife Symington for his supportive August 5 letter about media criticism, Clinton, the convention, and the campaign.",
+      evidence:
+        "Itemized from pages 10-11 of the NARA direct folder scan using the August 8 1992 President Bush letter to Governor Fife Symington, Arizona Executive Office faxed letter dated August 5 1992, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-sheridan-environment-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Thomas A. Sheridan environmental record correspondence packet",
+      documentDate: "1992-08-08",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Thomas A. Sheridan for his July 7 letter and says Shirley Green's material should help explain the administration's environmental record.",
+      evidence:
+        "Itemized from pages 12-13 of the NARA direct folder scan using the August 8 1992 President Bush letter to Thomas A. Sheridan, Sheridan incoming letter, Shirley M. Green and environmental record references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bruce-gelb-supportive-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Bruce S. Gelb supportive letter packet",
+      documentDate: "1992-08-08",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Bruce S. Gelb for a supportive letter about the campaign, Clinton, press criticism, and Bush's qualifications for another term.",
+      evidence:
+        "Itemized from pages 14-16 of the NARA direct folder scan using the August 8 1992 President Bush letter to Bruce Gelb, Bruce S. Gelb August 4 1992 incoming letter, Clinton and press references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-office-clippings-august-8-10-1992",
+      documentType: "Daily Press Clippings Packet",
+      category: "daily-news-clips",
+      disposition: "itemized-daily-news-clips",
+      title: "Mrs. Bush's Press Office Press Clippings: August 8-10, 1992",
+      documentDate: "1992-08-08",
+      pages: 50,
+      excerpt:
+        "The Mrs. Bush press office packet collects August 8-10 clippings on Barbara Bush's Florida campaign travel, Bush-Clinton campaign coverage, Hillary Clinton, Anita Hill, child welfare, abortion, Mary Fisher and AIDS, and related convention themes.",
+      evidence:
+        "Itemized from pages 17-66 of the NARA direct folder scan using the Mrs. Bush's Press Office Press Clippings cover page, Saturday-Sunday-Monday August 8-10 1992 date line, distribution list, Florida, Newsweek, Washington Post, New York Times, Washington Times, USA Today, Wall Street Journal, Los Angeles Times, and People clipping sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fred-latsko-sid-luckman-campaign-fax-packet",
+      documentType: "Fax with Presidential Note",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Fred Latsko fax re Sid Luckman campaign involvement",
+      documentDate: "1992-08-05",
+      pages: 2,
+      excerpt:
+        "Fred Latsko writes President Bush about arranging for Sid Luckman to become involved in the campaign, with President Bush handwriting asking Ron to close the loop.",
+      evidence:
+        "Itemized from pages 67-68 of the NARA direct folder scan using the Document Originally Attached marker, August 5 1992 Fred Latsko fax to President Bush, The President Has Seen stamp, President Bush handwritten note to Ron, Sid Luckman and Chicago references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "deland-follow-up-henry-dormann-environment-proposal",
+      documentType: "Follow-up Correspondence Packet",
+      category: "environmental-policy-correspondence",
+      disposition: "itemized-environmental-policy-correspondence",
+      title: "Michael R. Deland follow-up re Henry O. Dormann environmental conference proposal",
+      documentDate: "1992-09-08",
+      pages: 5,
+      excerpt:
+        "Michael R. Deland replies to Henry O. Dormann about the impracticality of a pre-election global business leaders conference and offers alternative environmental-policy channels.",
+      evidence:
+        "Itemized from pages 69-73 of the NARA direct folder scan using the August 8 1992 President Bush note to Mike Deland, September 8 1992 Council on Environmental Quality letter from Michael R. Deland to Henry O. Dorman, September 11 fax annotation, and duplicate President Bush/Dormann correspondence pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chi-chi-rodriguez-endorsement-follow-up-packet",
+      documentType: "Campaign Endorsement Follow-up Packet",
+      category: "campaign-endorsement",
+      disposition: "itemized-campaign-endorsement",
+      title: "Chi Chi Rodriguez endorsement follow-up packet",
+      documentDate: "1992-09-08",
+      pages: 2,
+      excerpt:
+        "President Bush asks James A. Baker III to have the campaign follow up on Chi Chi Rodriguez's offer to endorse him, with a later Mimi Dawson memo reporting progress.",
+      evidence:
+        "Itemized from pages 74-75 of the NARA direct folder scan using the September 8 1992 President note to JAB III, endorsement of Chi Chi Rodriguez subject line, September 11 1992 Mimi Dawson memorandum to Caron Jackson, Eric McCleneghan reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-grimes-bob-hope-media-suggestion-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to David C. Grimes re Bob Hope media suggestion",
+      documentDate: "1992-08-08",
+      pages: 1,
+      excerpt:
+        "President Bush thanks David C. Grimes for warm words and says Bob Hope might be willing to help with a media suggestion that Bush has passed along.",
+      evidence:
+        "Itemized from page 76 of the NARA direct folder scan using the Walker's Point August 8 1992 President Bush letter to David C. Grimes, Bob Hope and media people references, Rose Zamaria copy notation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "roger-ailes-leboutillier-pow-mia-letter",
+      documentType: "Presidential Letter",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "President Bush letter to Roger Ailes re John LeBoutillier and POW/MIA protesters",
+      documentDate: "1992-08-08",
+      pages: 1,
+      excerpt:
+        "President Bush warns Roger Ailes about John LeBoutillier, Ron Kaufman, and recent POW/MIA demonstrations.",
+      evidence:
+        "Itemized from page 77 of the NARA direct folder scan using the Walker's Point August 8 1992 President Bush letter to Roger Ailes, Ailes Communications address block, Ron Kaufman, LeBoutillier, and POW/MIA references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photos-kennebunkport-august-1992",
+      documentType: "Official White House Photograph Packet",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photographs from Kennebunkport, August 1992",
+      documentDate: "1992-08-08",
+      pages: 6,
+      excerpt:
+        "The packet contains three color Official White House photographs from Kennebunkport, including a Madeleine Restaurant image, media/crowd scene, and outdoor speaking image, with corresponding photo backs.",
+      evidence:
+        "Itemized from pages 78-83 of the NARA direct folder scan using the color photograph fronts, Madeleine Restaurant Kennebunkport note, Official White House Photo back pages, photo identifiers including P013434-02 and P013435, rendered-page review, and low-confidence OCR.",
+    },
+  ],
   470417970: [
     {
       slug: "treasury-forwarding-note-brady-houston-club-materials",
@@ -23463,6 +23635,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417910",
   "470417953",
   "470417957",
+  "470417964",
   "470418083",
 ]);
 
