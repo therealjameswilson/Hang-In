@@ -541,6 +541,36 @@ function directLetterStarts(lines) {
   return starts;
 }
 
+function hasDirectSalutationContext(line) {
+  return /^(the president|the presioent|the president of|george bush|walkers point|the white house|from the white house|washington|kennebunkport|date:?|\(?\d{1,4}\)?|[a-z]+day,?\s+[a-z]+|january|february|march|april|may|june|july|august|september|october|november|december|mr\.|mrs\.|ms\.|honorable|president george bush|bush library photocopy|document originally attached|cc:?|personal|\(personal\)|by courier|daily|aboard air force one|office of the president|united states senate|house of representatives|white house|fax|hand delivered)/i.test(
+    line
+  );
+}
+
+function isDirectSalutationLetterStart(lines, index) {
+  const line = lines[index] || "";
+  if (!/^(dear|pear)\b/i.test(line) || isSignatureContext(lines, index)) return false;
+  const nextLines = lines.slice(index + 1, index + 5);
+  if (!nextLines.some((nextLine) => /[a-z]{3,}/i.test(nextLine) && !/^(from|to|date|subject|re):?$/i.test(nextLine))) {
+    return false;
+  }
+  if (index < 8) return true;
+  return lines.slice(Math.max(0, index - 12), index).some(hasDirectSalutationContext);
+}
+
+function directCorrespondenceSupplementStarts(lines, primaryLetterStarts) {
+  const starts = primaryLetterStarts.length < 2 ? [...primaryLetterStarts] : [];
+
+  for (let index = 0; index < lines.length; index += 1) {
+    if (!isDirectSalutationLetterStart(lines, index)) continue;
+    if (primaryLetterStarts.some((start) => Math.abs(start - index) <= 7)) continue;
+    if (starts.some((start) => Math.abs(start - index) <= 7)) continue;
+    starts.push(index);
+  }
+
+  return sortedUniqueNumbers(starts);
+}
+
 function directPressReleaseStarts(lines) {
   const starts = [];
   for (let index = 0; index < lines.length; index += 1) {
@@ -1138,6 +1168,78 @@ function buildDirectLetterDocuments(contentLines, folder, packetDoc, starts, bou
     .filter(Boolean);
 }
 
+function buildDirectCorrespondenceSupplementDocuments(
+  contentLines,
+  folder,
+  packetDoc,
+  starts,
+  boundaryStarts
+) {
+  if (
+    !["packet-correspondence", "packet-memorandum-material", "packet-uncertain"].includes(
+      packetDoc.directScanDisposition
+    )
+  ) {
+    return [];
+  }
+
+  if (!starts.length) return [];
+
+  return starts
+    .map((start, index) => {
+      const end = nextBoundaryAfter(boundaryStarts, start, contentLines.length);
+      const segment = contentLines.slice(start, end);
+      if (segment.length < 4 || !hasSalutation(segment, 0, 8)) return null;
+      const itemNumber = index + 1;
+      const itemLabel = String(itemNumber).padStart(2, "0");
+      const salutation = salutationFromSegment(segment);
+      const seenDate = folder.date;
+      const dateWindow = contentLines.slice(Math.max(0, start - 8), end);
+      const documentDate = documentDateFromSegment(dateWindow, folder.date);
+      const title = `Letter: ${salutation}`;
+
+      return {
+        id: `${folder.id}-direct-correspondence-${itemLabel}`,
+        folderId: folder.id,
+        folderNaId: folder.naId,
+        folderTitle: folder.title,
+        folderDate: folder.date,
+        folderLocalId: folder.localId,
+        folderContainerId: folder.containerId,
+        catalogUrl: folder.catalogUrl,
+        pdfUrl: folder.pdfUrl || "",
+        chapterId: folder.chapterId,
+        chapter: folder.chapter,
+        themes: folder.themes,
+        searchTerms: folder.searchTerms,
+        documentNumber: `Direct-C${itemLabel}`,
+        documentType: "Letter",
+        directScanCategory: "letter-item",
+        directScanDisposition: "itemized-correspondence-letter",
+        directScanItemizationStatus: "itemized-document",
+        directScanItemizationNote:
+          "Itemized from a single letterhead/salutation or standalone salutation marker in a direct folder scan.",
+        parentPacketId: packetDoc.id,
+        title,
+        date: seenDate,
+        seenDate,
+        documentDate,
+        year: seenDate.slice(0, 4),
+        month: seenDate.slice(0, 7),
+        pages: null,
+        restriction: "",
+        classification: "",
+        excerpt: excerptFromLines(segment),
+        evidence:
+          "Itemized from NARA direct folder scan OCR using a single letterhead/salutation or standalone salutation marker.",
+        evidenceStatus: "direct-scan-itemized",
+        needsItemization: false,
+        citation: `George H. W. Bush Papers, Presidential Daily Files, ${folder.title}, direct scan correspondence supplement item ${itemLabel}, ${title}, National Archives Catalog NAID ${folder.naId}.`,
+      };
+    })
+    .filter(Boolean);
+}
+
 function buildDirectPressReleaseDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
   if (!starts.length) return [];
 
@@ -1475,6 +1577,9 @@ function buildDirectScanDocuments(text, folder) {
   const packetDoc = buildDirectScanDocument(text, folder);
   if (!packetDoc) return [];
   const letterStarts = packetDoc.needsItemization ? directLetterStarts(contentLines) : [];
+  const correspondenceSupplementStarts = packetDoc.needsItemization
+    ? directCorrespondenceSupplementStarts(contentLines, letterStarts)
+    : [];
   const pressReleaseStarts = packetDoc.needsItemization ? directPressReleaseStarts(contentLines) : [];
   const poolReportStarts = packetDoc.needsItemization ? directPoolReportStarts(contentLines) : [];
   const memoStarts = packetDoc.needsItemization ? directMemoStarts(contentLines) : [];
@@ -1482,6 +1587,7 @@ function buildDirectScanDocuments(text, folder) {
   const briefingStarts = packetDoc.needsItemization ? directBriefingStarts(contentLines) : [];
   const boundaryStarts = sortedUniqueNumbers([
     ...letterStarts,
+    ...correspondenceSupplementStarts,
     ...pressReleaseStarts,
     ...poolReportStarts,
     ...memoStarts,
@@ -1491,6 +1597,13 @@ function buildDirectScanDocuments(text, folder) {
   const itemizedDocs = packetDoc.needsItemization
     ? [
         ...buildDirectLetterDocuments(contentLines, folder, packetDoc, letterStarts, boundaryStarts),
+        ...buildDirectCorrespondenceSupplementDocuments(
+          contentLines,
+          folder,
+          packetDoc,
+          correspondenceSupplementStarts,
+          boundaryStarts
+        ),
         ...buildDirectMemoDocuments(contentLines, folder, packetDoc, memoStarts, boundaryStarts),
         ...buildDirectNewsDocuments(contentLines, folder, packetDoc, newsStarts, boundaryStarts),
         ...buildDirectBriefingDocuments(
