@@ -2200,6 +2200,398 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from a White House letter page found in full-PDF OCR of the NARA direct folder scan.",
     },
   ],
+  470417446: [
+    {
+      slug: "pool-report-one-going-to-kansas-city",
+      documentType: "Pool Report",
+      category: "travel-pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #1: Going to Kansas City",
+      documentDate: "1991-11-13",
+      pages: 1,
+      excerpt:
+        "The first pool report from the November 13 trip notes the Air Force One flight to Kansas City, Senators Christopher Bond and John Danforth aboard, and travel chatter before the FFA convention stop.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the Pool Report #1 heading, Going to Kansas City title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ffa-convention-kansas-city-remarks-draft",
+      documentType: "Speech/Remarks Draft",
+      category: "speech-remarks-draft",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Draft remarks for the FFA Convention in Kansas City, Missouri",
+      documentDate: "1991-11-13",
+      pages: 12,
+      excerpt:
+        "The draft FFA Convention remarks cover agricultural education, America 2000, rural leadership, competitiveness, capital gains, banking reform, trade, GATT, NAFTA, and post-Communist market openings.",
+      evidence:
+        "Itemized from pages 3-14 of the NARA direct folder scan using the FFA Convention heading, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-st-louis-to-andrews-cardinals-note",
+      documentType: "Pool Report and Presidential Handwriting",
+      category: "travel-pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool report from St. Louis to Andrews with President Bush's Cardinals response",
+      documentDate: "1991-11-13",
+      pages: 3,
+      excerpt:
+        "The return-flight pool report reproduces the pool's football note to the President, Bush's handwritten response about the Houston Oilers and St. Louis Cardinals, and a marked-up FFA speech page.",
+      evidence:
+        "Itemized from pages 15-17 of the NARA direct folder scan using the St. Louis to Andrews pool report, Bush Library handwriting photocopies, OCR, and rendered-page review.",
+    },
+    {
+      slug: "possible-questions-press-availability-november-13",
+      documentType: "Press Availability Q&A",
+      category: "press-availability-qa",
+      disposition: "itemized-press-availability-qa",
+      title: "Possible questions for press availability, November 13, 1991",
+      documentDate: "1991-11-13",
+      pages: 3,
+      excerpt:
+        "The press-availability Q&A anticipates questions on Soviet humanitarian aid, Prime Minister Shamir, Saudi Arabia blood donation, foreign policy, and domestic policy.",
+      evidence:
+        "Itemized from pages 18-20 of the NARA direct folder scan using the Possible Questions for Press Availability heading, dated Q&A pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "st-louis-affiliates-interview-questions-and-answers",
+      documentType: "Local Affiliate Interview Q&A",
+      category: "press-availability-qa",
+      disposition: "itemized-local-affiliate-qa",
+      title: "Possible questions and answers for St. Louis affiliates interviews",
+      documentDate: "1991-11-13",
+      pages: 4,
+      excerpt:
+        "The St. Louis affiliates Q&A prepares answers on McDonnell Douglas layoffs, Zenith production, tax deductions, violent crime, HUD matters, Cochran Gardens, and education reform.",
+      evidence:
+        "Itemized from pages 21-24 of the NARA direct folder scan using the Possible Questions and Answers for St. Louis Affiliates Interviews heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bond-fundraiser-st-louis-marked-remarks-draft",
+      documentType: "Speech/Remarks Draft with Handwriting",
+      category: "fundraiser-remarks-draft",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Marked draft remarks for Senator Kit Bond fundraiser in St. Louis",
+      documentDate: "1991-11-13",
+      pages: 15,
+      excerpt:
+        "The marked fundraiser draft introduces Missouri Republican figures, praises Kit Bond, attacks congressional inaction, argues for domestic and international leadership, and closes with Bond's campaign motto.",
+      evidence:
+        "Itemized from pages 25-39 of the NARA direct folder scan using the Bond Fundraiser St. Louis heading, Bush handwriting photocopies, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kit-bond-thank-you-note-and-presidential-reply",
+      documentType: "Incoming Note and Presidential Reply",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Kit Bond thank-you note and President Bush reply note after St. Louis fundraiser",
+      documentDate: "1991-11-14",
+      pages: 1,
+      excerpt:
+        "Kit Bond thanks the President for the St. Louis Celebrate America appearance, with a Bush handwritten reply thanking Bond and apologizing for missing Margaret Kelly.",
+      evidence:
+        "Itemized from page 40 of the NARA direct folder scan using the Kit Bond note, The President Has Seen stamp, Bush reply note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "press-release-remarks-kit-bond-fundraiser-st-louis",
+      documentType: "Presidential Remarks Release",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title: "Office of the Press Secretary release of President Bush's remarks at fundraiser for Senator Kit Bond",
+      documentDate: "1991-11-13",
+      pages: 6,
+      excerpt:
+        "The released remarks at Riverport Amphitheater praise Kit Bond, criticize congressional inaction, discuss capital gains, banking, crime, energy, education, transportation, trade, and foreign policy.",
+      evidence:
+        "Itemized from pages 41-46 of the NARA direct folder scan using the Office of the Press Secretary heading, St. Louis dateline, remarks title, transcript page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bert-walker-bond-event-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "George H. Walker III correspondence with President Bush re Bond event",
+      documentDate: "1991-11-20",
+      pages: 3,
+      excerpt:
+        "The packet includes President Bush's letter to Bert Walker after missing him at the Bond event, Walker's note praising the Riverport appearance, and a photocopied handwritten Bush note.",
+      evidence:
+        "Itemized from pages 47-49 of the NARA direct folder scan using the From the President stationery, Walker note, Bush handwriting photocopy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "magic-johnson-aids-commission-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Magic Johnson AIDS Commission correspondence packet",
+      documentDate: "1991-11-13",
+      pages: 5,
+      excerpt:
+        "The packet routes and transmits President Bush's letter urging Magic Johnson to join the National AIDS Commission and offering a White House announcement if he accepts.",
+      evidence:
+        "Itemized from pages 50-54 of the NARA direct folder scan using the Phillip Brady routing sheet, Patty Presock note, Magic Johnson letter pages, photocopy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ted-sanders-resignation-response-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ted Sanders resignation response packet",
+      documentDate: "1991-11-13",
+      pages: 3,
+      excerpt:
+        "The packet includes a handwritten presidential note, President Bush's formal letter accepting Ted Sanders's resignation as Deputy Secretary of Education, and Sanders's August 8 resignation letter.",
+      evidence:
+        "Itemized from pages 55-57 of the NARA direct folder scan using the presidential note, White House letter, Department of Education letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "domenici-letter-forwarded-to-frank-donatelli",
+      documentType: "Incoming Congressional Letter with Presidential Note",
+      category: "congressional-correspondence",
+      disposition: "itemized-congressional-correspondence",
+      title: "Pete Domenici letter forwarded by President Bush to Frank Donatelli",
+      documentDate: "1991-10-28",
+      pages: 2,
+      excerpt:
+        "President Bush forwards Senator Pete Domenici's letter on savings incentives and tax policy to Frank Donatelli, asking him to review Domenici's comments.",
+      evidence:
+        "Itemized from pages 58-59 of the NARA direct folder scan using the From the desk of George Bush note, United States Senate letterhead, handwritten annotations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bill-grant-call-note-florida-senate-race",
+      documentType: "Telephone Message Note",
+      category: "telephone-message",
+      disposition: "itemized-telephone-message",
+      title: "Bill Grant call note re Florida Senate race",
+      documentDate: "1991-11-13",
+      pages: 1,
+      excerpt:
+        "A White House note reports that former Congressman Bill Grant wanted to speak only to the President about the Florida Senate race, with handwritten routing to Ron Kaufman.",
+      evidence:
+        "Itemized from page 60 of the NARA direct folder scan using the White House note, Bill Grant text, handwritten routing, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tommy-thompson-economic-policy-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "economic-policy-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Tommy Thompson economic-policy correspondence packet",
+      documentDate: "1991-11-13",
+      pages: 6,
+      excerpt:
+        "The packet includes President Bush's note to Governor Tommy Thompson, Staff Secretary routing to Ede Holiday, a presidential instruction to share Thompson's letter with EPC members, and Thompson's economic-policy letter.",
+      evidence:
+        "Itemized from pages 61-66 of the NARA direct folder scan using White House notes, Tommy Thompson letterhead, handwritten photocopy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dorrance-smith-post-mortem-coverage-cbs-oo-interviews",
+      documentType: "Media Coverage Memorandum",
+      category: "media-coverage-memorandum",
+      disposition: "itemized-media-coverage-memorandum",
+      title: "Memorandum from Dorrance Smith to the President re post-mortem coverage of CBS O&O interviews",
+      documentDate: "1991-11-08",
+      pages: 1,
+      excerpt:
+        "Dorrance Smith reports how the President's October 17 interviews played on CBS owned-and-operated stations in New York, Philadelphia, Chicago, Detroit, Boston, and Miami.",
+      evidence:
+        "Itemized from page 67 of the NARA direct folder scan using the White House memorandum heading, Smith signature line, CBS O&O subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "boskin-note-october-cpi-retail-sales",
+      documentType: "Economic Briefing Note",
+      category: "economic-analysis-memorandum",
+      disposition: "itemized-economic-analysis-memorandum",
+      title: "Note from Michael Boskin to the President re October Consumer Price Index and retail sales",
+      documentDate: "1991-11-13",
+      pages: 1,
+      excerpt:
+        "Michael Boskin summarizes October CPI and retail sales, noting that inflation was about as expected while retail sales were slightly down.",
+      evidence:
+        "Itemized from page 68 of the NARA direct folder scan using the Council of Economic Advisers heading, Boskin signature line, handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "boskin-consumer-price-indexes-october",
+      documentType: "Economic Analysis Memorandum",
+      category: "economic-analysis-memorandum",
+      disposition: "itemized-economic-analysis-memorandum",
+      title: "Memorandum from Michael J. Boskin to the President re Consumer Price Indexes for October",
+      documentDate: "1991-11-13",
+      pages: 1,
+      excerpt:
+        "Boskin reports the October CPI increase, the lowest year-over-year consumer price inflation since June 1987, with a chart on consumer price inflation.",
+      evidence:
+        "Itemized from page 69 of the NARA direct folder scan using the Council of Economic Advisers memorandum heading, CPI subject line, chart, OCR, and rendered-page review.",
+    },
+    {
+      slug: "boskin-october-retail-sales",
+      documentType: "Economic Analysis Memorandum",
+      category: "economic-analysis-memorandum",
+      disposition: "itemized-economic-analysis-memorandum",
+      title: "Memorandum from Michael J. Boskin to the President re October retail sales",
+      documentDate: "1991-11-13",
+      pages: 1,
+      excerpt:
+        "Boskin reports that October retail sales fell 0.1 percent, with charts on total retail sales and real sales excluding autos.",
+      evidence:
+        "Itemized from page 70 of the NARA direct folder scan using the Council of Economic Advisers memorandum heading, retail sales subject line, charts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-silber-letter-vietnamese-repatriation",
+      documentType: "Incoming Letter with Presidential Handwriting",
+      category: "human-rights-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Letter from John Silber to President Bush re Vietnamese repatriation",
+      documentDate: "1991-11-09",
+      pages: 1,
+      excerpt:
+        "John Silber writes after the President's visit with the Pope to express concern about British and Hong Kong policy on forced Vietnamese repatriation.",
+      evidence:
+        "Itemized from page 71 of the NARA direct folder scan using the dated incoming letter, handwritten presidential annotations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cardinal-law-fax-vietnamese-repatriation",
+      documentType: "Incoming Faxed Letter",
+      category: "human-rights-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Faxed letter from Bernard Cardinal Law to President Bush re Vietnamese repatriation",
+      documentDate: "1991-11-09",
+      pages: 3,
+      excerpt:
+        "Cardinal Law faxes a handwritten letter thanking the President for his visit with the Pope and urging action on Vietnamese repatriation from Hong Kong camps.",
+      evidence:
+        "Itemized from pages 72-74 of the NARA direct folder scan using the Cardinal's Residence fax cover, handwritten letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sharon-bush-flight-of-the-avenger-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sharon Bush correspondence re Flight of the Avenger",
+      documentDate: "1991-11-13",
+      pages: 5,
+      excerpt:
+        "The packet includes President Bush's note to Sharon Bush about John R. Bruning's Flight of the Avenger, related envelope or backing pages, a Sharon Bush note, and the book cover photocopy.",
+      evidence:
+        "Itemized from pages 75-79 of the NARA direct folder scan using White House stationery, Bush handwriting photocopies, the Flight of the Avenger cover, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fred-zeder-addressed-envelope",
+      documentType: "Envelope",
+      category: "presidential-correspondence-envelope",
+      disposition: "itemized-envelope",
+      title: "Envelope addressed to Fred M. Zeder II at the Overseas Private Investment Corporation",
+      documentDate: "1991-11-13",
+      pages: 1,
+      excerpt:
+        "A White House envelope is addressed to Fred M. Zeder II, President and Chief Executive Officer of the Overseas Private Investment Corporation.",
+      evidence:
+        "Itemized from page 80 of the NARA direct folder scan using the White House envelope address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-heinz-prechter-commercial-issues",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from President Bush to Heinz Prechter re commercial issues in foreign contacts",
+      documentDate: "1991-11-13",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Heinz Prechter for appreciating the Administration's increased focus on commercial issues in official contacts with foreign countries.",
+      evidence:
+        "Itemized from page 81 of the NARA direct folder scan using White House letterhead, Heinz Prechter addressee block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-bebe-and-harold-point-mugu",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from President Bush to Bebe and Harold re Point Mugu greeting",
+      documentDate: "1991-11-13",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Bebe and Harold for coming to Point Mugu to greet the President and Mrs. Bush the previous week.",
+      evidence:
+        "Itemized from page 82 of the NARA direct folder scan using presidential stationery, Bebe and Harold salutation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-november-13-1115-update",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: Wednesday, November 13, 1991, 11:15 a.m. EST update",
+      documentDate: "1991-11-13",
+      pages: 2,
+      excerpt:
+        "The 11:15 a.m. update covers wholesale prices, General Motors, Judge Thomas, Middle East peace talks, savings and loan matters, and President Bush's schedule.",
+      evidence:
+        "Itemized from pages 83-84 of the NARA direct folder scan using the White House News Summary heading, update time, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-november-13-kansas-city-update",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: Wednesday, November 13, 1991, 3:00 p.m. EST/2:00 p.m. Kansas City update",
+      documentDate: "1991-11-13",
+      pages: 2,
+      excerpt:
+        "The Kansas City update covers jobless benefits, President Bush's trip, Thomas hearing stories, congressional activity, crime and drugs, Dan Quayle, FDA drug approval, and related items.",
+      evidence:
+        "Itemized from pages 85-86 of the NARA direct folder scan using the White House News Summary heading, Kansas City update time, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-november-13-445-update",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: Wednesday, November 13, 1991, 4:45 p.m. EST/3:45 p.m. CST update",
+      documentDate: "1991-11-13",
+      pages: 1,
+      excerpt:
+        "The late afternoon update summarizes wire coverage of President Bush's FFA speech, the Congress in print, Secretary Baker, Middle East peace talks, and other news items.",
+      evidence:
+        "Itemized from page 87 of the NARA direct folder scan using the White House News Summary heading, 4:45 p.m. update time, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-bulletin-todays-briefing-november-13",
+      documentType: "White House Bulletin",
+      category: "white-house-bulletin",
+      disposition: "itemized-white-house-bulletin",
+      title: "The White House Bulletin: Today's Briefing, November 13, 1991",
+      documentDate: "1991-11-13",
+      pages: 6,
+      excerpt:
+        "The White House Bulletin briefing covers morning papers, FDA drug-review policy, health care reform, Bush's congressional critique, campaign staffing, census data, polling, political analysis, schedules, and late jokes.",
+      evidence:
+        "Itemized from pages 88-93 of the NARA direct folder scan using The White House Bulletin heading, Today's Briefing subject line, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-november-13-1991",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Wednesday, November 13, 1991",
+      documentDate: "1991-11-13",
+      pages: 17,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet includes coverage of Barbara Bush's Read Aloud appearance, National Education Goals coverage, Oprah Winfrey child-abuse testimony, health stories, and related clippings.",
+      evidence:
+        "Itemized from pages 94-110 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover page, clipping sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "transferred-ffa-white-house-photograph",
+      documentType: "Transfer Sheet and Photograph",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title: "Transfer sheet and White House photograph from Future Farmers of America event",
+      documentDate: "1991-11-13",
+      pages: 2,
+      excerpt:
+        "The audiovisual transfer sheet describes a White House photograph from the Future Farmers of America event, followed by a photocopied photograph with attached note.",
+      evidence:
+        "Itemized from pages 111-112 of the NARA direct folder scan using the George Bush Presidential Library transfer sheet, photograph page, attached note, OCR, and rendered-page review.",
+    },
+  ],
   470417483: [
     {
       slug: "president-statement-new-advisers-economic-steps",
@@ -9697,6 +10089,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417305",
   "470417364",
   "470417389",
+  "470417446",
   "470418083",
 ]);
 
