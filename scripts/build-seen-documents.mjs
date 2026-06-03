@@ -3229,6 +3229,20 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470417565: [
     {
+      slug: "casse-memo-state-of-union-budget-background-material",
+      documentType: "Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title:
+        "Memorandum from Daniel Casse to Patty Presock re background material on the President's State of the Union message",
+      documentDate: "1992-01-30",
+      pages: 1,
+      excerpt:
+        "Daniel Casse forwards Patty Presock background material related to the President's State of the Union message and FY 1993 budget.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using OCR and rendered-page review of the cover memorandum.",
+    },
+    {
       slug: "state-of-union-fact-sheet",
       documentType: "Fact Sheet",
       category: "state-of-union-background-attachment",
@@ -3248,11 +3262,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-state-of-union-background-attachment",
       title: "Highlights of the President's Growth Agenda",
       documentDate: "1992-01-28",
-      pages: 1,
+      pages: 2,
       excerpt:
         "The President has a plan to address both the short-term and the long-term problems facing the economy.",
       evidence:
-        "Itemized from the cover memorandum attachment list in the NARA direct folder scan; the document start was confirmed in full-PDF OCR.",
+        "Itemized from pages 19-20 of the NARA direct folder scan using OCR and rendered-page review of the two-page highlights sheet.",
     },
     {
       slug: "growth-agenda-chart",
@@ -3274,11 +3288,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-state-of-union-background-attachment",
       title: "The President's Budget for FY 1993: Fact Sheets",
       documentDate: "1992-01-28",
-      pages: 55,
+      pages: 56,
       excerpt:
         "The attached materials present the highlights of the President's budget for Fiscal Year 1993.",
       evidence:
-        "Itemized from the cover memorandum attachment list in the NARA direct folder scan; the document start was confirmed in full-PDF OCR.",
+        "Itemized from pages 22-77 of the NARA direct folder scan using OCR and rendered-page review of the first FY 1993 budget fact-sheet packet.",
     },
     {
       slug: "state-of-union-talking-points",
@@ -10409,6 +10423,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417446",
   "470417483",
   "470417505",
+  "470417565",
   "470418083",
 ]);
 

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T09:15:18.573Z",
+  "generatedAt": "2026-06-03T09:20:43.399Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
@@ -10296,6 +10296,21 @@
     },
     {
       "date": "1992-01-30",
+      "documentDate": "1992-01-30",
+      "title": "Memorandum from Daniel Casse to Patty Presock re background material on the President's State of the Union message",
+      "parentPacketId": "nara-470417565-direct-scan",
+      "naId": "470417565",
+      "folderId": "90649-003",
+      "containerId": "90649",
+      "category": "memorandum-item",
+      "disposition": "itemized-memorandum",
+      "type": "Memorandum",
+      "catalogUrl": "https://catalog.archives.gov/id/470417565",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90649-003.pdf",
+      "excerpt": "Daniel Casse forwards Patty Presock background material related to the President's State of the Union message and FY 1993 budget."
+    },
+    {
+      "date": "1992-01-30",
       "documentDate": "1992-01-28",
       "title": "Fact Sheet: The President's State of the Union Address",
       "parentPacketId": "nara-470417565-direct-scan",
@@ -10578,21 +10593,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417566",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90649-004.pdf",
       "excerpt": "THE WHITE HOUSE WASHINGTON January 30, 1992 Dear John: Just a quick note before I head to Philadelphia and then on to the United Nations. I want to thank you for agreeing to chair the Commission on America's Urban Families. It is very, very important work and with your background and sensitivity, you're the guy to do it. I know the Mayors will be pleased to work with you. I am attaching the list of Mayors from the League of Cities who came in and suggested this Commission. They might be good to contact for ideas..."
-    },
-    {
-      "date": "1992-01-30",
-      "documentDate": "1992-01-30",
-      "title": "Memorandum for Patty Presock: Background Material on the President's State of the Union Message",
-      "parentPacketId": "nara-470417565-direct-scan",
-      "naId": "470417565",
-      "folderId": "90649-003",
-      "containerId": "90649",
-      "category": "memorandum-item",
-      "disposition": "itemized-memorandum",
-      "type": "Memorandum",
-      "catalogUrl": "https://catalog.archives.gov/id/470417565",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90649-003.pdf",
-      "excerpt": "MEMORANDUM FOR PATTY PRESOCK FROM: DANIEL CASSE Dac DEPUTY DIRECTOR OF CABINET LIAISON OFFICE OF CABINET AFFAIRS SUBJECT: Background Material on the President's State of the Union Message Attached are four documents of material related to the President's State of the Union message and his FY 1993 Budget: A State of the Union Fact Sheet (16 pages) Highlights of the President's Growth Agenda (1 page) A Chart on initiatives contained in the President's Growth Package (1 page) A compilation of facts sheets on the Pr..."
     },
     {
       "date": "1992-03-11",
