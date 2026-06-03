@@ -11715,6 +11715,268 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 112-137 of the NARA direct folder scan using The Hotline May 22 1992 masthead, issue-number line, White House '92 and Issues '92 sections, Senate Watch, House Race Briefings, California Cable, Poll Update, JV Monitor sections, OCR, and rendered-page review.",
     },
   ],
+  470417794: [
+    {
+      slug: "pool-report-bush-plays-golf-slowly",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #2: Bush plays golf, slowly",
+      documentDate: "1992-05-22",
+      pages: 1,
+      excerpt:
+        "Pool Report #2 describes President Bush's slow 18 holes at Cape Arundel, noting the pool's distance, companions, clothes, and lack of remarks to reporters.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the Pool Report #2 heading, Bush plays golf slowly title, 22 May date, Cape Arundel text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lionel-hampton-health-call-handwritten-note",
+      documentType: "President's Handwritten Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title:
+        "President's handwritten note re Lionel Hampton health call and finished tour",
+      documentDate: "1992-05-22",
+      pages: 3,
+      excerpt:
+        "A George Bush handwriting photocopy notes a May 22 phone call about Lionel Hampton being in the hospital, checking on his health, a finished tour, Washington the next week, and Kennedy.",
+      evidence:
+        "Itemized from pages 3-5 of the NARA direct folder scan using the George Bush Washington note page, Bush Library Photocopy handwriting labels, Lionel Hampton health-call text, rotated handwriting page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-new-york-times-clips-may-22",
+      documentType: "News Summary and Press Clipping Packet",
+      category: "white-house-news-summary",
+      disposition: "itemized-news-summary",
+      title:
+        "White House News Summary: Index to New York Times clips, May 22, 1992",
+      documentDate: "1992-05-22",
+      pages: 18,
+      excerpt:
+        "The White House News Summary compiles an index and New York Times clips on Quayle and family values, Clinton, California voters, urban aid, the economic outlook, Iraq, farm talks, China, military press rules, and foreign affairs columns.",
+      evidence:
+        "Itemized from pages 6-23 of the NARA direct folder scan using the White House News Summary index, Friday May 22 1992 date, New York Times mastheads, page-marked clippings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bobby-holt-sba-lending-dick-nicholas-followup-packet",
+      documentType: "Correspondence and Routing Packet",
+      category: "economic-policy-correspondence",
+      disposition: "itemized-economic-policy-correspondence",
+      title:
+        "Bobby Holt SBA lending expansion and Dick Nicholas Points of Light follow-up packet",
+      documentDate: "1992-05-18",
+      pages: 4,
+      excerpt:
+        "The packet includes an Ede Holiday reply to Bobby Holt about expanding SBA's New England Lending and Recovery Project, the President's note to Phil Brady, and Gregg Petersmeyer follow-up on whether Dick Nicholas might help Points of Light.",
+      evidence:
+        "Itemized from pages 24-27 of the NARA direct folder scan using the May 18 Dear Bobby letter, 5/19 feedback tickler note, From the President note to Phil Brady, March 17 Petersmeyer memorandum, February 23 President-to-Gregg Petersmeyer page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-mexico-public-lands-wilderness-act-legislative-packet",
+      documentType: "Legislative Transmittal Packet",
+      category: "environment-policy-packet",
+      disposition: "itemized-environment-policy",
+      title:
+        "New Mexico Public Lands Wilderness Act Interior and White House legislative packet",
+      documentDate: "1992-05-22",
+      pages: 7,
+      excerpt:
+        "The packet contains Manuel Lujan's wilderness study letter, presidential transmittal letters to congressional leaders, a Situation Room routing sheet, and duplicate letter pages for the New Mexico Public Lands Wilderness Act.",
+      evidence:
+        "Itemized from pages 28-34 of the NARA direct folder scan using the Secretary of the Interior letterhead, Manuel Lujan signature, New Mexico Public Lands Wilderness Act text, White House transmittal letters, Situation Room message sheet, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-president-may-22-faxed-to-kennebunkport",
+      documentType: "Forwarded Materials List",
+      category: "forwarded-materials-list",
+      disposition: "itemized-forwarded-materials-list",
+      title:
+        "Materials Forwarded to the President: May 22, 1992, faxed to Kennebunkport",
+      documentDate: "1992-05-22",
+      pages: 1,
+      excerpt:
+        "The May 22 forwarded-materials list identifies action items, information items, speech material, and other materials faxed to Kennebunkport.",
+      evidence:
+        "Itemized from page 35 of the NARA direct folder scan using the Material Forwarded to the President heading, May 22 date, Faxed to K'Port line, action and information lists, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wyly-jason-elliott-dot-internship-correspondence-packet",
+      documentType: "Correspondence and Resume Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Charles and Sam Wyly correspondence packet re Jason Elliott DOT internship",
+      documentDate: "1992-05-22",
+      pages: 11,
+      excerpt:
+        "The Wyly packet includes presidential replies to Sam and Charles Wyly, Rose Zamaria routing notes, Charles and Sam Wyly letters, and Jason Elliott resume pages about a summer internship at the Department of Transportation.",
+      evidence:
+        "Itemized from pages 36-46 of the NARA direct folder scan using the May 22 Dear Sam and Dear Charles letters, PPO/DOT routing notes, Document Originally Attached marker, Charles J. Wyly and Sam Wyly letters, Jason Elliott resume and references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-office-daily-clippings-may-22",
+      documentType: "Daily Press Clippings Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Mrs. Bush's Press Office daily press clippings, May 22, 1992",
+      documentDate: "1992-05-22",
+      pages: 14,
+      excerpt:
+        "The Mrs. Bush press-clipping packet covers Barbara Bush in Hobe Sound, Marilyn Quayle, national history curriculum, family and education commentary, violence affecting Los Angeles children, and women and minorities at Annapolis.",
+      evidence:
+        "Itemized from pages 47-60 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover sheet, Friday May 22 1992 date, Stuart News, Daily News, Newsday, Washington Times, USA Today, Los Angeles Times, Philadelphia Inquirer clippings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-brennan-budget-cap-notre-dame-speech-packet",
+      documentType: "Correspondence and Speech Enclosure Packet",
+      category: "economic-policy-correspondence",
+      disposition: "itemized-economic-policy-correspondence",
+      title:
+        "David L. Brennan budget-cap advice packet with Notre Dame speech enclosure",
+      documentDate: "1992-05-22",
+      pages: 8,
+      excerpt:
+        "The President replies to David Brennan's advice about spending caps and encloses the Notre Dame speech, which is included as the attached sheet referenced in the reply.",
+      evidence:
+        "Itemized from pages 61-68 of the NARA direct folder scan using the May 22 President-to-David letter, Brenlin Group May 20 letter, presidential handwriting on Brennan's advice, Notre Dame remarks enclosure pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "california-state-firefighters-association-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "California State Firefighters Association correspondence packet",
+      documentDate: "1992-05-22",
+      pages: 2,
+      excerpt:
+        "The President thanks California State Firefighters Association leaders for their May 13 letter and support, with the incoming association letter attached.",
+      evidence:
+        "Itemized from pages 69-70 of the NARA direct folder scan using the May 22 presidential reply, California State Firefighters Association letterhead, May 13 incoming letter, routing handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kennebunkport-notice-to-press-may-22",
+      documentType: "Notice to the Press",
+      category: "press-release-or-notice",
+      disposition: "itemized-press-release-or-notice",
+      title: "Notice to the Press: Kennebunkport, May 22, 1992",
+      documentDate: "1992-05-22",
+      pages: 1,
+      excerpt:
+        "The Office of the Press Secretary notice lays out the Kennebunkport press schedule for Friday, May 22, including photo opportunities and press-pool movements.",
+      evidence:
+        "Itemized from page 71 of the NARA direct folder scan using the Office of the Press Secretary Kennebunkport header, Notice to the Press title, May 22 1992 date, schedule entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-bush-plays-golf-slowly-second-copy",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Second copy of Pool Report #2: Bush plays golf, slowly",
+      documentDate: "1992-05-22",
+      pages: 1,
+      excerpt:
+        "A second copy repeats Pool Report #2 on President Bush playing golf slowly at Cape Arundel.",
+      evidence:
+        "Itemized from page 72 of the NARA direct folder scan using the repeated Pool Report #2 heading, Bush plays golf slowly title, 22 May date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tony-salinas-america-92-correspondence-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Tony Salinas America '92 correspondence packet",
+      documentDate: "1992-05-22",
+      pages: 3,
+      excerpt:
+        "The President replies to Tony Salinas about a clipping and America '92, with a Document Originally Attached marker and Salinas's May 21 letter attached.",
+      evidence:
+        "Itemized from pages 73-75 of the NARA direct folder scan using the May 22 Dear Tony letter, Document Originally Attached marker, Tony Salinas letterhead and May 21 letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "argentina-america-92-menem-reply-packet",
+      documentType: "Memorandum and Presidential Reply",
+      category: "foreign-policy-correspondence",
+      disposition: "itemized-foreign-policy-correspondence",
+      title:
+        "Argentina America '92 exposition memorandum and draft presidential reply to Carlos Menem",
+      documentDate: "1992-05-22",
+      pages: 2,
+      excerpt:
+        "A memorandum asks the President to sign a reply to Argentine President Carlos Menem about possible U.S. participation in the America '92 fair in Buenos Aires, with the draft reply attached.",
+      evidence:
+        "Itemized from pages 76-77 of the NARA direct folder scan using the confidential White House memorandum, America '92 in Buenos Aires subject, President Menem recommendation, draft reply to Carlos Menem, OCR, and rendered-page review.",
+    },
+    {
+      slug: "garment-torczyner-middle-east-correspondence-packet",
+      documentType: "Memorandum and Correspondence Packet",
+      category: "middle-east-policy-correspondence",
+      disposition: "itemized-middle-east-policy-correspondence",
+      title:
+        "Leonard Garment and Jacques Torczyner Middle East policy correspondence packet",
+      documentDate: "1992-05-22",
+      pages: 9,
+      excerpt:
+        "The packet includes the President's instruction to prepare a substantive reply to Jacques Torczyner, Brent Scowcroft's memorandum, the draft reply, Leonard Garment forwarding material, Torczyner's May 15 letter on Middle East policy and Jewish community politics, notes on Nixon's 1967 Israel trip, and a National Jewish Democratic Council press release.",
+      evidence:
+        "Itemized from pages 78-86 of the NARA direct folder scan using the From the desk of George Bush instruction, Scowcroft memorandum, Dear Jacques reply, Leonard Garment note, Jacques Torczyner letterhead, Candidate Richard M. Nixon's Visit to Israel attachment, National Jewish Democratic Council press release, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jaime-escalante-america-2000-math-education-packet",
+      documentType: "Correspondence and Education Packet",
+      category: "education-policy-correspondence",
+      disposition: "itemized-education-policy-correspondence",
+      title:
+        "Jaime Escalante America 2000 and math education correspondence packet",
+      documentDate: "1992-05-22",
+      pages: 7,
+      excerpt:
+        "The packet contains the President's reply to Jaime Escalante, draft and routing pages, Escalante's letter about math education and National Education Goals, and correspondence-system query pages tied to America 2000 and Math: Who Needs It?",
+      evidence:
+        "Itemized from pages 87-93 of the NARA direct folder scan using the May 22 Dear Jaime letter, autographed-photo note, draft reply, Math: Who Needs It? letterhead, Escalante May 5 letter, White House query pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alex-machaskee-mayor-white-trip-news-second-copy",
+      documentType: "Correspondence and Press Clipping Packet",
+      category: "trip-materials-packet",
+      disposition: "itemized-trip-materials",
+      title:
+        "Second copy of Alex Machaskee, Mayor Michael White, and Cleveland Trip News packet",
+      documentDate: "1992-05-22",
+      pages: 4,
+      excerpt:
+        "A second copy repeats the Alex Machaskee letter, attached Mayor Michael White letter, and Trip News clipping on Bush's Cleveland family-values appearance.",
+      evidence:
+        "Itemized from pages 94-97 of the NARA direct folder scan using the Document Originally Attached marker, repeated May 22 Dear Alex and Dear Mayor White letters, A Clash of Values Trip News clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-elliott-portland-horseshoe-tournament-memorandum",
+      documentType: "Memorandum and Fax Packet",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title:
+        "Bob Elliott Portland horseshoe tournament memorandum and Channel 6 fax",
+      documentDate: "1992-05-22",
+      pages: 2,
+      excerpt:
+        "Dale Jenkins briefs Robin MacLean on a Portland Channel 6 reporter's invitation for the President to participate in a Red Cross horseshoe tournament, with presidential handwriting about Memorial Day traffic and inviting winners to Walker's Point.",
+      evidence:
+        "Itemized from pages 98-99 of the NARA direct folder scan using the May 22 Dale Jenkins memorandum to Robin MacLean, horseshoe tournament subject, Channel 6 fax attachment, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michael-eisner-points-of-light-reply-second-copy",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Second copy of Michael Eisner Points of Light presidential reply",
+      documentDate: "1992-05-22",
+      pages: 1,
+      excerpt:
+        "A second copy of the President's May 22 letter reassures Michael Eisner about political preferences and thanks him for supporting Points of Light.",
+      evidence:
+        "Itemized from page 100 of the NARA direct folder scan using the repeated May 22 Dear Michael letter, Michael Eisner addressee, Points of Light text, OCR, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -18395,6 +18657,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417777",
   "470417782",
   "470417793",
+  "470417794",
   "470418083",
 ]);
 
