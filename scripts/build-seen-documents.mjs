@@ -3374,6 +3374,229 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from a second For Immediate Release fact-sheet cover page and repeated FY 1993 Budget headings found in full-PDF OCR of the NARA direct folder scan.",
     },
   ],
+  470417566: [
+    {
+      slug: "mary-jo-buck-bradley-state-of-union-reply",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Mary Jo and Buck Bradley re the State of the Union speech",
+      documentDate: "1992-01-30",
+      pages: 1,
+      excerpt:
+        "The President thanks Mary Jo and Buck Bradley for warm words about the State of the Union speech and says he is determined and optimistic about the challenging year ahead.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using OCR and rendered-page review of the signed presidential letter.",
+    },
+    {
+      slug: "paul-coverdell-state-of-union-reply",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Paul Coverdell re the State of the Union speech",
+      documentDate: "1992-01-30",
+      pages: 1,
+      excerpt:
+        "The President thanks Paul Coverdell for warm words about the State of the Union speech and sends best wishes to Coverdell and Nancy.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using OCR and rendered-page review of the signed presidential letter.",
+    },
+    {
+      slug: "fred-nahas-dexter-baker-east-asia-reply",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Fred Nahas re Dexter Baker and the East Asian trip",
+      documentDate: "1992-01-30",
+      pages: 1,
+      excerpt:
+        "The President thanks Fred Nahas for support and says Dexter Baker lent great prestige to the East Asian trip delegation.",
+      evidence:
+        "Itemized from page 4 of the NARA direct folder scan using OCR and rendered-page review of the presidential reply.",
+    },
+    {
+      slug: "max-fisher-state-of-union-reply",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Max Fisher re the post-State of the Union message",
+      documentDate: "1992-01-30",
+      pages: 1,
+      excerpt:
+        "The President thanks Max Fisher for an uplifting post-State of the Union message and sends best wishes to Fisher's family.",
+      evidence:
+        "Itemized from page 5 of the NARA direct folder scan using OCR and rendered-page review of the presidential letter.",
+    },
+    {
+      slug: "unemployment-benefits-senate-letters",
+      documentType: "Presidential Letters",
+      category: "congressional-correspondence",
+      disposition: "itemized-congressional-correspondence",
+      title: "Letters from the President to Bob Dole, Bob Packwood, and Lloyd Bentsen re Federal unemployment benefits",
+      documentDate: "1992-01-30",
+      pages: 3,
+      excerpt:
+        "The President urges Senate action on H.R. 4095, an amended bill extending Federal unemployment benefits through July 4, 1992.",
+      evidence:
+        "Itemized from pages 6-8 of the NARA direct folder scan using OCR and rendered-page review of the three Senate letters.",
+    },
+    {
+      slug: "john-ashcroft-urban-families-commission-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John Ashcroft Commission on America's Urban Families correspondence and attachments",
+      documentDate: "1992-01-30",
+      pages: 4,
+      excerpt:
+        "The President thanks John Ashcroft for agreeing to chair the Commission on America's Urban Families and attaches a League of Cities mayor list and related State of the Union language.",
+      evidence:
+        "Itemized from pages 9-12 of the NARA direct folder scan using OCR, the mayor-list attachment, the State of the Union excerpt, a marked draft, and rendered-page review.",
+    },
+    {
+      slug: "yukie-ebara-support-letter-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Yukie Ebara support letter and presidential reply",
+      documentDate: "1992-01-30",
+      pages: 4,
+      excerpt:
+        "The President replies to Yukie Ebara's support letter, notes her comments about Barbara Bush, and refers to the enclosed story of Dr. Eguro and his family as proof of American opportunity.",
+      evidence:
+        "Itemized from pages 13-16 of the NARA direct folder scan using the presidential reply, Ebara letterhead and handwriting, an enclosed family letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "annette-strauss-urban-families-commission-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Annette Strauss Commission on America's Urban Families correspondence and attachments",
+      documentDate: "1992-01-30",
+      pages: 7,
+      excerpt:
+        "The President thanks Annette Strauss for agreeing to co-chair the Commission on America's Urban Families and the packet includes a mayor list, telephone note, contact record, handwritten note, and State of the Union excerpt.",
+      evidence:
+        "Itemized from pages 17-23 of the NARA direct folder scan using OCR, rendered-page review, the signed Strauss letter, League of Cities mayor list, White House contact record, handwritten note, and State of the Union excerpt pages.",
+    },
+    {
+      slug: "dexter-baker-fred-nahas-east-asia-trip-packet",
+      documentType: "Correspondence and Clipping Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Dexter Baker and Fred Nahas East Asian trip correspondence and Rotary Club article",
+      documentDate: "1992-01-30",
+      pages: 6,
+      excerpt:
+        "A presidential handwritten note to Dexter Baker and related Fred Nahas correspondence concern Baker's description of the President's East Asian trip and include a Houston Rotary Club article about Baker.",
+      evidence:
+        "Itemized from pages 24-29 of the NARA direct folder scan using rendered-page review of the presidential note, Bush Library photocopy marker, Nahas correspondence, duplicate reply page, and Rotary Club article.",
+    },
+    {
+      slug: "daily-news-clips-state-of-union-budget-economy-campaign",
+      documentType: "Press Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Daily News Clips packet re the State of the Union, FY 1993 budget, economy, Yeltsin, and 1992 campaign coverage",
+      documentDate: "1992-01-30",
+      pages: 86,
+      excerpt:
+        "A Daily News Clips packet collects January 30 coverage from the Washington Post, Washington Times, Wall Street Journal, New York Times, USA Today, and other outlets on the President's budget, State of the Union, economy, Yeltsin, Clinton, and the 1992 campaign.",
+      evidence:
+        "Itemized from pages 30-115 of the NARA direct folder scan using the Daily News Clips cover and rendered-page/OCR review of the clipping sequence.",
+    },
+    {
+      slug: "philadelphia-chamber-remarks-release",
+      documentType: "Press Release",
+      category: "presidential-remarks",
+      disposition: "itemized-press-release",
+      title: "Remarks by the President to the Greater Philadelphia Chamber of Commerce",
+      documentDate: "1992-01-30",
+      pages: 5,
+      excerpt:
+        "White House press release transcript of the President's remarks to the Greater Philadelphia Chamber of Commerce in Philadelphia on economic growth, regulation, litigation, and the deficit.",
+      evidence:
+        "Itemized from pages 116-120 of the NARA direct folder scan using the White House Office of the Press Secretary heading and OCR-confirmed transcript sequence.",
+    },
+    {
+      slug: "interagency-arctic-research-report-transmittal",
+      documentType: "Press Release",
+      category: "white-house-press-release",
+      disposition: "itemized-press-release",
+      title: "White House press release re transmittal of the Fourth Biennial Report of the Interagency Arctic Research Policy Committee",
+      documentDate: "1992-01-30",
+      pages: 1,
+      excerpt:
+        "The White House announces that the President is transmitting to Congress the Fourth Biennial Report of the Interagency Arctic Research Policy Committee.",
+      evidence:
+        "Itemized from page 121 of the NARA direct folder scan using the White House Office of the Press Secretary heading and OCR.",
+    },
+    {
+      slug: "national-prayer-breakfast-remarks-release",
+      documentType: "Press Release",
+      category: "presidential-remarks",
+      disposition: "itemized-press-release",
+      title: "Remarks by the President in National Prayer Breakfast",
+      documentDate: "1992-01-30",
+      pages: 2,
+      excerpt:
+        "White House press release transcript of the President's remarks at the National Prayer Breakfast at the Washington Hilton.",
+      evidence:
+        "Itemized from pages 122-123 of the NARA direct folder scan using the White House press release heading and OCR-confirmed transcript pages.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings-january-30",
+      documentType: "Press Clipping Packet",
+      category: "mrs-bush-press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Mrs. Bush's Press Office Daily Press Clippings for Thursday, January 30, 1992",
+      documentDate: "1992-01-30",
+      pages: 13,
+      excerpt:
+        "Mrs. Bush's Press Office packet collects clippings on the President's State of the Union jokes about Barbara Bush, First Lady coverage, White House decorating, furniture shopping, and the President's Philadelphia visit.",
+      evidence:
+        "Itemized from pages 124-136 of the NARA direct folder scan using the Mrs. Bush's Press Office cover page and rendered-page/OCR review of the clipping sequence.",
+    },
+    {
+      slug: "philadelphia-new-york-un-pool-reports",
+      documentType: "Pool Reports",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report-packet",
+      title: "Pool reports from the President's Philadelphia trip and New York United Nations meetings",
+      documentDate: "1992-01-30",
+      pages: 8,
+      excerpt:
+        "Pool reports cover Andrews Air Force Base to Philadelphia, the President's reaction to the State of the Union, travel to New York, and United Nations photo opportunities with Cape Verde, Belgium, Austria, Japan, and Morocco.",
+      evidence:
+        "Itemized from pages 137-144 of the NARA direct folder scan using Pool Report #1-#4 headings, OCR, rendered-page review, and duplicate-copy confirmation.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings-january31-february3",
+      documentType: "Press Clipping Packet",
+      category: "mrs-bush-press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Mrs. Bush's Press Office Daily Press Clippings for January 31-February 3, 1992",
+      documentDate: "1992-01-31",
+      pages: 10,
+      excerpt:
+        "A second Mrs. Bush's Press Office clipping packet includes Anna Quindlen's column, coverage of Naina Yeltsin and Millie, governors at the White House, Reading Is Fundamental, and Marilyn Quayle coverage.",
+      evidence:
+        "Itemized from pages 145-154 of the NARA direct folder scan using the Mrs. Bush's Press Office cover page and rendered-page/OCR review of the clipping sequence.",
+    },
+    {
+      slug: "yoshiko-justin-dart-state-of-union-reply",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Yoshiko and Justin Dart re the State of the Union speech",
+      documentDate: "1992-01-30",
+      pages: 1,
+      excerpt:
+        "The President thanks Yoshiko and Justin Dart for warm words about the State of the Union speech and sends warm wishes from himself and Barbara Bush.",
+      evidence:
+        "Itemized from page 155 of the NARA direct folder scan using OCR and rendered-page review of the signed presidential letter.",
+    },
+  ],
   470417713: [
     {
       slug: "billy-graham-convention-note",
@@ -10424,6 +10647,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417483",
   "470417505",
   "470417565",
+  "470417566",
   "470418083",
 ]);
 
