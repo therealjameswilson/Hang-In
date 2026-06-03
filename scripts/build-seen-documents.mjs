@@ -968,6 +968,48 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 105-109 of the NARA direct folder scan using the White House News Summary update headings, OCR, and rendered-page review.",
     },
   ],
+  470417151: [
+    {
+      slug: "legislative-issues-update-cover-sheet",
+      documentType: "Cover Sheet",
+      category: "legislative-issues-update",
+      disposition: "itemized-legislative-issues-update",
+      title: "Legislative Issues Update cover sheet",
+      documentDate: "1990-05-10",
+      pages: 1,
+      excerpt:
+        "Cover sheet for the Office of Legislative Affairs Legislative Issues Update dated May 10, 1990.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using the Legislative Issues Update title block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mcclure-legislative-issues-update-transmittal-memo",
+      documentType: "Memorandum",
+      category: "legislative-issues-update",
+      disposition: "itemized-legislative-issues-update",
+      title:
+        "Frederick D. McClure memorandum to President Bush re Legislative Issues Update",
+      documentDate: "1990-05-10",
+      pages: 1,
+      excerpt:
+        "Frederick D. McClure transmits an updated legislative issues analysis to the President, noting that the Office of Legislative Affairs will continue to update the summary as issues develop.",
+      evidence:
+        "Itemized from page 4 of the NARA direct folder scan using the White House memorandum heading, McClure signature line, subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "office-legislative-affairs-legislative-issues-update",
+      documentType: "Legislative Issues Update",
+      category: "legislative-issues-update",
+      disposition: "itemized-legislative-issues-update",
+      title: "Office of Legislative Affairs Legislative Issues Update, May 10, 1990",
+      documentDate: "1990-05-10",
+      pages: 112,
+      excerpt:
+        "The Office of Legislative Affairs update surveys major issues before Congress, including abortion, ADA, Amtrak, appropriations, budget, campaign finance, capital gains, child care, China/MFN sanctions, civil rights, crime and drugs, Eastern Europe, education, environment, export controls, farm policy, flag burning, food safety, supplemental appropriations, Hatch Act, housing, labor, national service, OIRA, pocket veto, product liability, RTC, Soviet trade, and motor voter legislation.",
+      evidence:
+        "Itemized from pages 5-116 of the NARA direct folder scan using the report title page, index, issue-section headings, OCR, and rendered-page review.",
+    },
+  ],
   470417389: [
     {
       slug: "presidential-log-selected-congressional-mail",
@@ -8681,6 +8723,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
 const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417119",
   "470417135",
+  "470417151",
   "470418083",
 ]);
 
