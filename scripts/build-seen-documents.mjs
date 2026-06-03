@@ -16957,6 +16957,451 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from page 91 of the NARA direct folder scan using the White House address block for Thomas S. Kleppe, July 19 1992 President letter text, Jim Baker references, OCR, and rendered-page review.",
     },
   ],
+  470417953: [
+    {
+      slug: "state-department-briefing-poland-azerbaijan-zaire",
+      documentType: "State Department Briefing Memorandum",
+      category: "state-department-briefing",
+      disposition: "itemized-state-department-briefing",
+      title:
+        "Lawrence S. Eagleburger memorandum to President Bush re Poland, Azerbaijan, and Zaire",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "Acting Secretary Lawrence S. Eagleburger briefs President Bush on Poland's small constitution, Azerbaijan's political situation, and Mobutu's resistance in Zaire.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the Department of State heading, The President Has Seen stamp, Lawrence S. Eagleburger sender line, Poland, Azerbaijan, and Zaire numbered items, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-campaign-talking-points",
+      documentType: "Campaign Talking Points",
+      category: "campaign-talking-points",
+      disposition: "itemized-campaign-talking-points",
+      title: "Talking Points: USA Today interview",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "The talking points frame the USA Today campaign discussion around trust, education, housing, economic growth, family values, health care, and peace.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using the Talking Points -- USA Today heading, campaign trust language, numbered 21st Century challenge list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "unpublished-presidential-schedule-august-4-1992",
+      documentType: "Presidential Schedule",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title: "Unpublished schedule of the President: Tuesday, August 4, 1992",
+      documentDate: "1992-08-04",
+      pages: 3,
+      excerpt:
+        "Phillip D. Brady forwards President Bush's unpublished August 4 schedule, covering briefings, veterans, USA Today, Bush/Quayle leaders, Freedom Support Act, campaign officials, and administrative time.",
+      evidence:
+        "Itemized from pages 4-6 of the NARA direct folder scan using the Phillip D. Brady cover page, Schedule of the President heading, Tuesday August 4 1992 date, tabbed event sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pre-brief-veteran-service-organizations",
+      documentType: "Event Pre-Brief",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Pre-brief for meeting with veteran service organizations",
+      documentDate: "1992-08-04",
+      pages: 2,
+      excerpt:
+        "Leigh Ann Metzger prepares President Bush for issues that might arise before his Roosevelt Room roundtable with veterans service organization leaders.",
+      evidence:
+        "Itemized from pages 7-8 of the NARA direct folder scan using the Pre Brief for Meeting with Veteran Service Organizations heading, August 4 1992 date, participants list, sequence of events, OCR, and rendered-page review.",
+    },
+    {
+      slug: "meeting-leaders-veterans-service-organizations",
+      documentType: "Event Briefing",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Meeting with leaders of veterans service organizations briefing",
+      documentDate: "1992-08-04",
+      pages: 4,
+      excerpt:
+        "The briefing prepares President Bush to meet veterans service organization leaders, announce a White House working group on veterans health care, and discuss veterans issues.",
+      evidence:
+        "Itemized from pages 9-12 of the NARA direct folder scan using the Meeting with Leaders of Veterans Service Organizations heading, August 4 1992 event details, participant roster, seating diagram, OCR, and rendered-page review.",
+    },
+    {
+      slug: "senate-republican-conference-briefing",
+      documentType: "Congressional Meeting Briefing",
+      category: "congressional-meeting-briefing",
+      disposition: "itemized-congressional-meeting-briefing",
+      title: "Meeting with the Senate Republican Conference briefing",
+      documentDate: "1992-08-04",
+      pages: 2,
+      excerpt:
+        "Nicholas E. Calio prepares President Bush for an August 4 meeting with the Senate Republican Conference on the legislative agenda, economic growth package, health care initiatives, and campaign.",
+      evidence:
+        "Itemized from pages 13-14 of the NARA direct folder scan using the Meeting with the Senate Republican Conference heading, 230 Capitol location, Calio sender line, participant list, sequence of events, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pre-brief-usa-today-interview",
+      documentType: "Media Interview Pre-Brief",
+      category: "media-interview-briefing",
+      disposition: "itemized-media-interview-briefing",
+      title: "Pre-brief for interview with USA Today",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "Marlin Fitzwater prepares President Bush for possible questions before his interview with USA Today's editorial board members and reporters.",
+      evidence:
+        "Itemized from page 15 of the NARA direct folder scan using the Pre-Brief for Interview with USA Today heading, July 31 1992 memo date, August 4 interview details, participant list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-interview-briefing",
+      documentType: "Media Interview Briefing",
+      category: "media-interview-briefing",
+      disposition: "itemized-media-interview-briefing",
+      title: "Interview with USA Today briefing",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "Marlin Fitzwater briefs President Bush for the Map Room USA Today interview, including participants, press plan, sequence, and the option of an opening statement.",
+      evidence:
+        "Itemized from page 16 of the NARA direct folder scan using the Interview with USA Today heading, Map Room location, USA Today participant list, C-SPAN and WUSA press plan, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bush-quayle-leadership-council-briefing",
+      documentType: "Campaign Meeting Briefing and Talking Points",
+      category: "campaign-meeting-briefing",
+      disposition: "itemized-campaign-meeting-briefing",
+      title: "Meeting with Bush/Quayle '92 Campaign Leadership Council briefing",
+      documentDate: "1992-08-04",
+      pages: 8,
+      excerpt:
+        "The briefing packet prepares President Bush for the Bush/Quayle '92 Leadership Council meeting and includes a business leader participant list and leadership council remarks.",
+      evidence:
+        "Itemized from pages 17-24 of the NARA direct folder scan using the Meeting with Bush/Quayle '92 Campaign Leadership Council heading, participant list, Leadership Council Meeting talking points, OCR, and rendered-page review.",
+    },
+    {
+      slug: "freedom-support-act-bipartisan-house-meeting",
+      documentType: "Congressional Meeting Briefing and Talking Points",
+      category: "congressional-meeting-briefing",
+      disposition: "itemized-congressional-meeting-briefing",
+      title: "Bipartisan congressional meeting on the Freedom Support Act briefing",
+      documentDate: "1992-08-04",
+      pages: 6,
+      excerpt:
+        "Nicholas E. Calio briefs President Bush for a bipartisan House meeting on passing the Freedom Support Act before the August recess, with participant list and talking points.",
+      evidence:
+        "Itemized from pages 25-30 of the NARA direct folder scan using the Bipartisan Congressional Meeting on Freedom Support Act heading, Attachment A participant list, Points to Be Made talking points, OCR, and rendered-page review.",
+    },
+    {
+      slug: "weekly-campaign-meeting-briefing",
+      documentType: "Campaign Meeting Briefing",
+      category: "campaign-meeting-briefing",
+      disposition: "itemized-campaign-meeting-briefing",
+      title: "Weekly campaign meeting briefing",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "Sam Skinner prepares President Bush for the August 4 weekly campaign meeting with the Vice President, campaign officials, and senior White House staff.",
+      evidence:
+        "Itemized from page 31 of the NARA direct folder scan using the Weekly Campaign Meeting heading, August 4 1992 event details, participant list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chase-untermeyer-tiger-yang-phone-note",
+      documentType: "Phone Message with Presidential Note",
+      category: "telephone-note-packet",
+      disposition: "itemized-telephone-note-packet",
+      title: "Phone message re Chase Untermeyer, Tiger Yang, and Yang Jiechi",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "A White House phone message records Chase Untermeyer's note about Tiger Yang and Yang Jiechi, with President Bush handwriting directing follow-up.",
+      evidence:
+        "Itemized from page 32 of the NARA direct folder scan using the rotated Bush Library Photocopy page, Chase Untermeyer caller line, Tiger Yang and Yang Jiechi references, President Bush handwriting, rendered-page review, and low-confidence OCR.",
+    },
+    {
+      slug: "august-4-presidential-call-notes",
+      documentType: "Presidential Phone Call Notes",
+      category: "telephone-note-packet",
+      disposition: "itemized-telephone-note-packet",
+      title: "Presidential call notes for August 4, 1992",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "The call note lists messages for President Bush from Senator Slade Gorton, Nicholas Brady, Governor John Sununu, and James Baker.",
+      evidence:
+        "Itemized from page 33 of the NARA direct folder scan using the 8/4/92 date, Mr. President salutation, Slade Gorton, Nick Brady, Governor Sununu, Jim Baker, and Walkers Point references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-to-president-august-4-1992",
+      documentType: "Forwarded Materials List",
+      category: "forwarded-materials-list",
+      disposition: "itemized-forwarded-materials-list",
+      title: "Materials Forwarded to the President: August 4, 1992",
+      documentDate: "1992-08-04",
+      pages: 2,
+      excerpt:
+        "The forwarded-materials list identifies action items, classified information, remarks, and schedule material sent to President Bush on August 4.",
+      evidence:
+        "Itemized from pages 34-35 of the NARA direct folder scan using the Materials Forwarded to the President heading, action list, classified information entry, remarks and schedule sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michael-baina-anniversary-note",
+      documentType: "Presidential Handwritten Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "President Bush handwritten anniversary note to Michael and Baina",
+      documentDate: "1992-08-04",
+      pages: 2,
+      excerpt:
+        "President Bush sends a handwritten anniversary note to Michael and Baina, mentioning a 50th anniversary and a West Virginia getaway.",
+      evidence:
+        "Itemized from pages 36-37 of the NARA direct folder scan using the President stationery, August 4 1992 handwritten date, Michael and Baina salutation, 50th anniversary language, Bush signature, rendered-page review, and low-confidence OCR.",
+    },
+    {
+      slug: "presidential-determination-92-37-haitian-refugees",
+      documentType: "Presidential Determination",
+      category: "presidential-determination",
+      disposition: "itemized-presidential-determination",
+      title: "Presidential Determination No. 92-37 re Haitian refugee applicants",
+      documentDate: "1992-08-03",
+      pages: 1,
+      excerpt:
+        "The press release transmits Presidential Determination No. 92-37 designating Haitian refugee applicants as qualifying for assistance under the Migration and Refugee Assistance Act.",
+      evidence:
+        "Itemized from page 38 of the NARA direct folder scan using the Office of the Press Secretary heading, Presidential Determination No. 92-37 title, Secretary of State addressee, George Bush signature block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bill-signing-release-s2938-capitol-grounds",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press Release: President signs S. 2938 re U.S. Capitol Grounds",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's signing of S. 2938, authorizing the Architect of the Capitol to acquire two lots for the U.S. Capitol Grounds.",
+      evidence:
+        "Itemized from page 39 of the NARA direct folder scan using the Office of the Press Secretary heading, August 4 1992 release date, S. 2938 bill-signing text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bill-signing-release-s992-jane-denne",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press Release: President signs S. 992 re Jane E. Denne expenses",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's signing of S. 992, providing reimbursement for Jane E. Denne's travel and relocation expenses.",
+      evidence:
+        "Itemized from page 40 of the NARA direct folder scan using the Office of the Press Secretary heading, August 4 1992 release date, S. 992 and Jane E. Denne text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bill-signing-release-sjres295-national-dare-day",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press Release: President signs S.J. Res. 295 re National D.A.R.E. Day",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's signing of S.J. Res. 295, designating September 10, 1992, as National D.A.R.E. Day.",
+      evidence:
+        "Itemized from page 41 of the NARA direct folder scan using the Office of the Press Secretary heading, August 4 1992 release date, S.J. Res. 295 and National D.A.R.E. Day text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nomination-release-charles-felton-us-marshal",
+      documentType: "Press Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: Charles A. Felton for U.S. Marshal, Middle District of Florida",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intent to nominate Charles A. Felton to be U.S. Marshal for the Middle District of Florida.",
+      evidence:
+        "Itemized from page 42 of the NARA direct folder scan using the Office of the Press Secretary heading, Charles A. Felton nomination text, Middle District of Florida reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nomination-release-robert-wallace-labor-veterans",
+      documentType: "Press Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: Robert E. Wallace for Assistant Secretary of Labor",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intent to nominate Robert E. Wallace as Assistant Secretary of Labor for Veterans' Employment and Training.",
+      evidence:
+        "Itemized from page 43 of the NARA direct folder scan using the Office of the Press Secretary heading, Robert E. Wallace nomination text, Veterans' Employment and Training reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nomination-release-j-keith-gary-us-marshal",
+      documentType: "Press Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: J. Keith Gary for U.S. Marshal, Eastern District of Texas",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intent to renominate J. Keith Gary as U.S. Marshal for the Eastern District of Texas.",
+      evidence:
+        "Itemized from page 44 of the NARA direct folder scan using the Office of the Press Secretary heading, J. Keith Gary nomination text, Eastern District of Texas reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nomination-release-edward-walker-united-nations",
+      documentType: "Press Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: Edward S. Walker for deputy U.N. representative",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intent to nominate Edward S. Walker to be Deputy Representative of the United States to the United Nations with ambassadorial rank.",
+      evidence:
+        "Itemized from page 45 of the NARA direct folder scan using the Office of the Press Secretary heading, Edward S. Walker nomination text, United Nations rank and status language, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-president-child-care-rules",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement by the President re child care rules",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "President Bush states that new rules will let parents receiving Child Care and Development Block Grant funds choose the child care they believe best for their children.",
+      evidence:
+        "Itemized from page 46 of the NARA direct folder scan using the Office of the Press Secretary heading, Statement by the President title, child care rules and Earned Income Tax Credit text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nomination-release-roland-kuchel-haiti-ambassador",
+      documentType: "Press Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: Roland Karl Kuchel for Ambassador to Haiti",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intent to nominate Roland Karl Kuchel as U.S. Ambassador to Haiti.",
+      evidence:
+        "Itemized from page 47 of the NARA direct folder scan using the Office of the Press Secretary heading, Roland Karl Kuchel nomination text, Republic of Haiti reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bill-signing-release-hr479-national-trails",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press Release: President signs H.R. 479 re Pony Express and California trails",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's signing of H.R. 479, designating the Pony Express and California National Historic Trails as components of the National Trails System.",
+      evidence:
+        "Itemized from page 48 of the NARA direct folder scan using the Office of the Press Secretary heading, H.R. 479 bill-signing text, Pony Express and California National Historic Trail references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "health-care-plan-press-briefing-wilensky-moley",
+      documentType: "Press Briefing Transcript",
+      category: "press-briefing-transcript",
+      disposition: "itemized-press-briefing-transcript",
+      title: "Press briefing by Gail Wilensky and Kevin Moley re President Bush's health care plan",
+      documentDate: "1992-08-04",
+      pages: 9,
+      excerpt:
+        "The transcript records Gail Wilensky and Kevin Moley defending President Bush's health care plan, criticizing Clinton's plan, and answering questions about coverage, tax credits, small business, and Medicare and Medicaid funding.",
+      evidence:
+        "Itemized from pages 49-57 of the NARA direct folder scan using the Press Briefing heading, Gail Wilensky and Kevin Moley title block, 1:10 P.M. to 1:35 P.M. transcript sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fred-martha-zeder-anniversary-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Fred and Martha Zeder 50th wedding anniversary correspondence packet",
+      documentDate: "1992-08-04",
+      pages: 7,
+      excerpt:
+        "The packet includes President Bush's note to Fred and Martha Zeder, an anniversary invitation, a requested photograph page, a document-original marker, and related George Bush handwriting and routing notes.",
+      evidence:
+        "Itemized from pages 58-64 of the NARA direct folder scan using the Fred M. Zeder address block, 50th wedding anniversary invitation, Document Originally Attached marker, George Bush handwriting pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "calio-damato-reading-file-letter",
+      documentType: "Incoming Letter and Routing Memorandum",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Nicholas E. Calio memo and Alfonse D'Amato letter for President Bush's reading file",
+      documentDate: "1992-07-28",
+      pages: 3,
+      excerpt:
+        "Nicholas E. Calio forwards Senator Alfonse D'Amato's letter expressing regret over remarks that were interpreted as casting doubt on President Bush's leadership.",
+      evidence:
+        "Itemized from pages 65-67 of the NARA direct folder scan using the Nicholas E. Calio Letter for Your Reading File memorandum, Sen. Al D'Amato quotation, United States Senate letterhead, handwritten letter sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-teeter-bobby-burchfield-americans-for-change",
+      documentType: "Campaign Memorandum",
+      category: "campaign-memorandum",
+      disposition: "itemized-campaign-memorandum",
+      title: "Bob Teeter memo forwarding Bobby Burchfield material re Americans for Change",
+      documentDate: "1992-08-04",
+      pages: 2,
+      excerpt:
+        "Bob Teeter forwards President Bush material from Bobby Burchfield about Americans for Change, with President Bush and staff handwritten annotations.",
+      evidence:
+        "Itemized from pages 68-69 of the NARA direct folder scan using the Bob Teeter memorandum for the President, Americans for Change subject line, Bush Library handwriting stamp, fax header, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings-august-4-1992",
+      documentType: "Daily Press Clippings Packet",
+      category: "daily-news-clips",
+      disposition: "itemized-daily-news-clips",
+      title: "Mrs. Bush Daily Press Clippings: Tuesday, August 4, 1992",
+      documentDate: "1992-08-04",
+      pages: 28,
+      excerpt:
+        "The Mrs. Bush press office packet collects August 4 clippings on Barbara Bush, generational politics, Hillary Clinton, First Lady coverage, AIDS, family policy, health care rationing, Tipper Gore, and related campaign themes.",
+      evidence:
+        "Itemized from pages 70-97 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover page, Orlando Sentinel, Reuters, Washington Times, Glamour, Philadelphia Inquirer, U.S. News, USA Today, and Los Angeles Times clipping sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photo-president-discussion-august-3-1992",
+      documentType: "Official White House Photograph",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photograph of President Bush in discussion, August 3, 1992",
+      documentDate: "1992-08-03",
+      pages: 2,
+      excerpt:
+        "A color Official White House photograph shows President Bush seated in discussion, with the stamped photo back page attached.",
+      evidence:
+        "Itemized from pages 98-99 of the NARA direct folder scan using the color photograph page, Official White House Photo back page dated 03AUG92, photo identifier P012105-005, rendered-page review, and low-confidence OCR.",
+    },
+    {
+      slug: "official-white-house-photo-oval-office-august-4-1992",
+      documentType: "Official White House Photograph",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photograph of President Bush in the Oval Office, August 4, 1992",
+      documentDate: "1992-08-04",
+      pages: 2,
+      excerpt:
+        "A color Official White House photograph shows President Bush seated with two men in the Oval Office, with the stamped photo back page attached.",
+      evidence:
+        "Itemized from pages 100-101 of the NARA direct folder scan using the color Oval Office photograph page, Official White House Photo back page dated 04AUG92, photo identifier P012109-009A, rendered-page review, and low-confidence OCR.",
+    },
+    {
+      slug: "antonovich-illegal-aliens-followup-packet",
+      documentType: "Presidential Note and Follow-up Memorandum",
+      category: "domestic-policy-memo",
+      disposition: "itemized-domestic-policy-memo",
+      title: "President Bush note and Roger B. Porter follow-up re Michael Antonovich illegal aliens figures",
+      documentDate: "1992-08-04",
+      pages: 4,
+      excerpt:
+        "President Bush asks Sam Skinner to respond to Michael Antonovich's fax about illegal aliens in Los Angeles County, and Roger B. Porter later reports on his telephone call with Antonovich.",
+      evidence:
+        "Itemized from pages 102-105 of the NARA direct folder scan using the Document Originally Attached marker, President Bush August 4 1992 note to Sam Skinner, Roger B. Porter August 28 1992 memorandum, Antonovich and illegal aliens references, OCR, and rendered-page review.",
+    },
+  ],
   470417970: [
     {
       slug: "treasury-forwarding-note-brady-houston-club-materials",
@@ -22816,6 +23261,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417907",
   "470417908",
   "470417910",
+  "470417953",
   "470418083",
 ]);
 
