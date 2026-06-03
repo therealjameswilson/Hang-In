@@ -14229,6 +14229,528 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 198-200 of the NARA direct folder scan using the Document Originally Attached marker, sticky-note action history, Cardinal's Residence June 29 1992 letter page, fax cover page, OCR, and rendered-page review.",
     },
   ],
+  470417877: [
+    {
+      slug: "holiday-hills-miyazawa-trade-briefing",
+      documentType: "Memorandum and Briefing Material",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Ede Holiday memorandum forwarding Carla Hills trade briefing for Prime Minister Miyazawa meeting",
+      documentDate: "1992-06-26",
+      pages: 3,
+      excerpt:
+        "Ede Holiday forwards Ambassador Carla Hills's memorandum and talking points for the President's July 1 meeting with Japanese Prime Minister Kiichi Miyazawa on U.S.-Japan trade relations.",
+      evidence:
+        "Itemized from pages 2-4 of the NARA direct folder scan using the Ede Holiday memorandum, Carla A. Hills USTR memorandum, Talking Points on Trade page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jack-worthen-presidential-award-approval-packet",
+      documentType: "Presidential Award Approval Packet",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Jack B. Worthen presidential award approval packet",
+      documentDate: "1992-06-23",
+      pages: 3,
+      excerpt:
+        "The packet asks the President to approve a $35,000 award for Jack B. Worthen, Jr. of Hill Air Force Base and includes the Constance Berry Newman recommendation and presidential congratulations letter.",
+      evidence:
+        "Itemized from pages 5-7 of the NARA direct folder scan using the Ede Holiday forwarding memorandum, OPM Director Newman memorandum, White House letter to Worthen, OCR, and rendered-page review.",
+    },
+    {
+      slug: "scowcroft-indonesia-nuclear-cooperation-action-memo",
+      documentType: "Action Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Brent Scowcroft action memorandum re Indonesia peaceful nuclear cooperation agreement extension",
+      documentDate: "1992-06-27",
+      pages: 1,
+      excerpt:
+        "Brent Scowcroft asks the President to approve the exchange of diplomatic notes extending the U.S.-Indonesia peaceful nuclear cooperation agreement.",
+      evidence:
+        "Itemized from page 8 of the NARA direct folder scan using the White House memorandum heading, Executive Clerk routing line, NSC concurrence notation, agreement-extension subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "howard-walker-madagascar-resignation-packet",
+      documentType: "Resignation Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Howard K. Walker resignation acceptance packet for U.S. Ambassador to Madagascar",
+      documentDate: "1992-06-22",
+      pages: 3,
+      excerpt:
+        "Constance Horner forwards Howard K. Walker's resignation letter and a presidential acceptance letter for signature.",
+      evidence:
+        "Itemized from pages 9-11 of the NARA direct folder scan using the Horner memorandum, White House acceptance letter to the Ambassador, Embassy Antananarivo resignation letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "connecticut-rnc-congratulations-letters",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Recommended congratulatory letters to Connecticut Republican National Committee members",
+      documentDate: "1992-06-24",
+      pages: 3,
+      excerpt:
+        "Ronald C. Kaufman recommends letters congratulating Jo and John on reelection as Republican National Committeewoman and Committeeman for Connecticut.",
+      evidence:
+        "Itemized from pages 12-14 of the NARA direct folder scan using the Kaufman memorandum and the two George Bush Washington congratulatory letters, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ap-yugoslavia-urgent-wire-june-30-1992",
+      documentType: "Wire Story",
+      category: "wire-story-item",
+      disposition: "itemized-wire-story",
+      title: "AP urgent wire story re U.N. peacekeepers wounded at Sarajevo airport",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "An AP urgent wire reports that three U.N. peacekeepers were shot and slightly wounded on their first day guarding Sarajevo's airport.",
+      evidence:
+        "Itemized from page 15 of the NARA direct folder scan using the AP-Yugoslavia urgent heading, Sarajevo dateline, President Has Seen marking, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mara-letica-croatia-ambassador-candidacy",
+      documentType: "Personnel Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Constance Horner memorandum re Mara Letica's candidacy for U.S. Ambassador to Croatia",
+      documentDate: "1992-05-19",
+      pages: 1,
+      excerpt:
+        "Constance Horner reports on Mara Letica's interest in representing the United States as Ambassador to the Republic of Croatia.",
+      evidence:
+        "Itemized from page 16 of the NARA direct folder scan using the White House memorandum heading, President Has Seen stamp, Horner sender line, Croatia subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-martinez-transportation-personnel-selection",
+      documentType: "Personnel Selection Packet",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Personnel selection packet for Robert E. Martinez as Associate Deputy Secretary of Transportation",
+      documentDate: "1992-06-26",
+      pages: 3,
+      excerpt:
+        "Constance Horner and Secretary Skinner recommend Robert E. Martinez for possible nomination as Associate Deputy Secretary of Transportation and attach his resume.",
+      evidence:
+        "Itemized from pages 17-19 of the NARA direct folder scan using the Horner personnel-selection memorandum, Robert E. Martinez resume pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "otis-bowen-campaign-follow-up-case-file",
+      documentType: "Campaign Follow-up Case File",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Otis Bowen campaign follow-up case file",
+      documentDate: "1992-06-24",
+      pages: 13,
+      excerpt:
+        "The case file tracks Ronald C. Kaufman's follow-up on President Bush's request that campaign staff contact former Governor Otis Bowen, including campaign memoranda, Bush handwriting, a reply to Judy Bowen McGrew, routing material, and Embassy dispatch material.",
+      evidence:
+        "Itemized from pages 20-32 of the NARA direct folder scan using the Kaufman-to-Zamaria note, Jill Hanson memorandum, Kaufman-to-Malek memorandum, Bush handwritten note page, Judy Bowen McGrew correspondence, routing slip, Embassy envelope pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "urban-policy-briefing-paper-june-30-1992",
+      documentType: "Briefing Paper",
+      category: "briefing-paper-item",
+      disposition: "itemized-briefing-paper",
+      title: "Urban policy briefing paper",
+      documentDate: "1992-06-30",
+      pages: 2,
+      excerpt:
+        "A two-page urban policy paper frames public safety, jobs, opportunity, independence, Weed and Seed, Enterprise Zones, H.O.P.E., America 2000, welfare reform, and youth jobs.",
+      evidence:
+        "Itemized from pages 33-34 of the NARA direct folder scan using the June 30 1992 Urban Policy heading, policy-objectives section, six-point program list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tommy-thompson-train-to-convention-correspondence",
+      documentType: "Presidential Note and Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush note and Tommy Thompson letter re train trip to the Republican convention",
+      documentDate: "1992-06-26",
+      pages: 2,
+      excerpt:
+        "President Bush asks Bob Teeter and Sam Skinner to discuss Governor Tommy Thompson's idea of taking a train to the convention, with Thompson's June 25 letter attached.",
+      evidence:
+        "Itemized from pages 35-36 of the NARA direct folder scan using the President's June 26 note to Teeter and Skinner, George Bush handwriting marker, Tommy G. Thompson letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-to-president-june-30-1992",
+      documentType: "Forwarded Materials List",
+      category: "forwarded-materials-list",
+      disposition: "itemized-forwarded-materials-list",
+      title: "Materials Forwarded to the President: June 30, 1992",
+      documentDate: "1992-06-30",
+      pages: 2,
+      excerpt:
+        "The forwarded-materials list identifies action, classified, information, remarks, and schedule items sent to the President on June 30, 1992.",
+      evidence:
+        "Itemized from pages 37-38 of the NARA direct folder scan using the Material Forwarded to the President title, action/classified/information/remarks/schedule sections, Rose and Remarks handwritten annotations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-letter-to-brian-mulroney-summer-reading",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from President Bush to Brian Mulroney re summer reading books",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Brian and Mila Mulroney for a summer reading selection and two autographed first editions.",
+      evidence:
+        "Itemized from page 39 of the NARA direct folder scan using the White House letter to Brian Mulroney, NSC concurrence notation, daily 6/30 marking, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-handwritten-note-perot-desert-storm-statement",
+      documentType: "Presidential Handwritten Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "President Bush handwritten note re Ross Perot's January 1991 Desert Storm statement",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "A George Bush handwritten note asks for Ross Perot's January 1991 statement on the Desert Storm war and what Perot was actually saying.",
+      evidence:
+        "Itemized from page 40 of the NARA direct folder scan using the George Bush stationery, 6/30/1992 date, Desert Storm and Perot handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chuck-norris-kick-drugs-correspondence-opening-pages",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to Chuck Norris and incoming note re Kick Drugs Out of America",
+      documentDate: "1992-06-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Chuck Norris for his note and videotapes, says he looks forward to viewing them at Camp David, and praises the Kick Drugs Out of America program.",
+      evidence:
+        "Itemized from pages 41-42 of the NARA direct folder scan using the White House presidential letter page, incoming personal note about Chuck Norris's anti-drug program, handwritten annotations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-letter-to-robert-bryden-dea",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from President Bush to Robert A. Bryden re Drug Enforcement Agency dedication",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "President Bush sends a handwritten note to Robert A. Bryden of the New York Field Division of the Drug Enforcement Agency.",
+      evidence:
+        "Itemized from page 43 of the NARA direct folder scan using the White House address page to Robert A. Bryden, DEA New York Field Division address block, presidential handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-letter-to-joanne-voogd",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from President Bush to Joanne Voogd",
+      documentDate: "1992-06-29",
+      pages: 1,
+      excerpt:
+        "President Bush sends a handwritten presidential note to Joanne Voogd of Evergreen Holdings.",
+      evidence:
+        "Itemized from page 44 of the NARA direct folder scan using the White House address page to Joanne Voogd, Evergreen Holdings address block, presidential handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "volkwart-kufner-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Volkwart Kufner correspondence packet re unified Germany and visit with President Bush",
+      documentDate: "1992-06-30",
+      pages: 3,
+      excerpt:
+        "President Bush writes to Dean Volkwart Kufner about meeting him, his kind words about the United States, and his satisfaction that Germany is united.",
+      evidence:
+        "Itemized from pages 45-47 of the NARA direct folder scan using the White House address page to Volkwart Kufner, handwritten presidential reply, Kufner incoming handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "randall-brooks-democracy-initiative-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Randall Brooks correspondence re Bush address, Russia, and democracy initiative",
+      documentDate: "1992-06-05",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Randall Brooks for supportive words after an address, with Brooks's letters on Russia, democracy initiatives, and network coverage attached.",
+      evidence:
+        "Itemized from pages 48-50 of the NARA direct folder scan using the White House response page to Randall Brooks, Brooks address block, June 5 1992 letter to the President, letter to Patty, OCR, and rendered-page review.",
+    },
+    {
+      slug: "guatemala-nicholas-blake-griffith-davis-letter",
+      documentType: "Diplomatic Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Embassy Guatemala letter to President Bush re Nicholas Blake and Griffith Davis identification",
+      documentDate: "1992-06-29",
+      pages: 2,
+      excerpt:
+        "The U.S. Embassy in Guatemala reports that Nicholas Blake and Griffith Davis have been positively identified and comments on the Blake and Davis families and legal formalities.",
+      evidence:
+        "Itemized from pages 51-52 of the NARA direct folder scan using the Embassy of the United States of America letterhead, Guatemala date line, President Bush addressee, handwritten request for reply, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dan-gillcrist-scheduler-profile",
+      documentType: "Scheduler Profile",
+      category: "scheduler-profile",
+      disposition: "itemized-scheduler-profile",
+      title: "Scheduler profile for Dan and Barbara Gillcrist",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "A scheduler database sheet identifies Dan Gillcrist, his spouse Barbara, their relationship to the President, and contact details.",
+      evidence:
+        "Itemized from page 53 of the NARA direct folder scan using the Tuesday 6/30 scheduler sheet, Dan Gillcrist name line, spouse and description fields, OCR, and rendered-page review.",
+    },
+    {
+      slug: "stuart-bernstein-kennedy-center-board-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Stuart A. Bernstein correspondence packet re Kennedy Center Board interest",
+      documentDate: "1992-05-28",
+      pages: 3,
+      excerpt:
+        "President Bush asks Connie Horner where the administration stands on Stuart Bernstein's board interest, and Bernstein's letter on serving on the Kennedy Center Board is attached.",
+      evidence:
+        "Itemized from pages 54-56 of the NARA direct folder scan using the From the desk of George Bush note to Connie Horner, Document Originally Attached marker, White House response to Stuart Bernstein, Bernstein incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "campaign-agenda-june-30-1992",
+      documentType: "Campaign Agenda",
+      category: "campaign-agenda",
+      disposition: "itemized-campaign-agenda",
+      title: "Campaign agenda covering polls, press, abortion, campaign plans, coalitions, and prospecting",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "The June 30 agenda lists review items for polls, press and abortion, current activity, campaign plans, coalitions, and prospecting.",
+      evidence:
+        "Itemized from page 57 of the NARA direct folder scan using the June 30 1992 Agenda heading, Steeper/Fitzwater/Clarke/Teeter/Dawson/Malek names, OCR, and rendered-page review.",
+    },
+    {
+      slug: "historical-black-colleges-universities-event-clippings",
+      documentType: "Campaign Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Historical Black Colleges and Universities event clipping packet",
+      documentDate: "1992-06-30",
+      pages: 2,
+      excerpt:
+        "Sharon Mack sends Mimi Dawson newspaper clippings from the Historical Black Colleges and Universities event sponsored by the United Negro College Fund where the President was keynote speaker.",
+      evidence:
+        "Itemized from pages 58-59 of the NARA direct folder scan using the Sharon Mack memorandum, HBCU event subject line, United Negro College Fund reference, Black newspaper list page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "abortion-decision-q-and-a",
+      documentType: "Question and Answer Sheet",
+      category: "talking-points-item",
+      disposition: "itemized-talking-points",
+      title: "Q&A on the Supreme Court abortion decision",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "A Q&A sheet answers what the President thinks of the Supreme Court's abortion decision and frames Roe, Pennsylvania's requirements, and elected representatives.",
+      evidence:
+        "Itemized from page 60 of the NARA direct folder scan using the question line on the Supreme Court abortion decision, answer paragraphs, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chuck-norris-kick-drugs-attachments-and-working-copy",
+      documentType: "Correspondence Attachment Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Chuck Norris Kick Drugs Out of America address, promotional attachments, and marked working reply",
+      documentDate: "1992-06-30",
+      pages: 4,
+      excerpt:
+        "The attachment packet includes the Chuck Norris address page, Kick Drugs Out of America promotional material, and a marked working copy of the President's reply.",
+      evidence:
+        "Itemized from pages 61-64 of the NARA direct folder scan using the White House address page to Chuck Norris, image/promotional pages, marked presidential reply text, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lod-cook-la-raza-and-farish-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Lod Cook correspondence re National Council of La Raza conference and William Farish clipping",
+      documentDate: "1992-06-16",
+      pages: 3,
+      excerpt:
+        "President Bush writes to Lod Cook about a scheduling conflict with the National Council of La Raza conference and attaches Cook's ARCO letter and a clipping on William S. Farish becoming chairman of Churchill Downs.",
+      evidence:
+        "Itemized from pages 65-67 of the NARA direct folder scan using the White House letter to Lod, L. M. Cook ARCO letterhead, blue/Lod annotations, Lexington Herald-Leader Farish clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-note-paula-coughlin-story",
+      documentType: "Presidential Handwritten Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "President Bush note re story about meeting with Navy Lt. Paula Coughlin",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "The President asks how the story got out about his meeting with Navy Lt. Paula Coughlin, with a handwritten note that Skinner called and instructed release with a tougher line on Coughlin having to go.",
+      evidence:
+        "Itemized from page 68 of the NARA direct folder scan using the From the desk of George Bush note, Marion addressee, Paula Coughlin question, Skinner handwritten annotation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "joe-gibbs-daytona-flight-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Joe Gibbs correspondence and note re flight to Daytona",
+      documentDate: "1992-06-30",
+      pages: 4,
+      excerpt:
+        "The packet includes a George Bush note asking Rose Zamaria to discover who should fly with Joe Gibbs, the President's reply to Gibbs, a note that Gibbs and his son Coy would fly to Daytona with the President, and Gibbs's handwritten letter.",
+      evidence:
+        "Itemized from pages 69-72 of the NARA direct folder scan using the Document Originally Attached marker, George Bush handwriting, White House address page to Joe Gibbs, RZ note page, upside-down Gibbs handwritten letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-wood-burton-lee-medical-correspondence",
+      documentType: "Medical Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Charles E. Wood medical correspondence packet routed through Burton Lee",
+      documentDate: "1992-06-26",
+      pages: 3,
+      excerpt:
+        "Burton J. Lee writes Charles E. Wood about medical consultation after Wood's letter to the President, with oncology letterhead and Wood's incoming letter attached.",
+      evidence:
+        "Itemized from pages 73-75 of the NARA direct folder scan using the White House letter from Burton J. Lee, President Has Seen marking, DeKalb Hematology-Oncology page, Wood incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wirt-yerger-courage-and-foresight-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Wirt A. Yerger Jr. correspondence re courage and foresight",
+      documentDate: "1992-06-11",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Wirt Yerger for his comments about courage and fighting for his policies, with Yerger's June 11 letter attached.",
+      evidence:
+        "Itemized from pages 76-77 of the NARA direct folder scan using the White House response letter, Wirt A. Yerger Jr. letterhead, Courage and Foresight heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-letter-to-john-major-camp-david-gift",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from President Bush to John Major re Camp David visit and thornproof jacket",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "President Bush writes John Major that he and Barbara enjoyed their time at Camp David and thanks him for a thornproof jacket.",
+      evidence:
+        "Itemized from page 78 of the NARA direct folder scan using the White House letter to John Major, daily 6/30 marking, handwritten waterproof correction, OCR, and rendered-page review.",
+    },
+    {
+      slug: "larry-gatlin-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Larry Gatlin correspondence packet",
+      documentDate: "1992-06-30",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Larry Gatlin's heartfelt letter, with Gatlin's handwritten pages and Brentwood address material attached.",
+      evidence:
+        "Itemized from pages 79-81 of the NARA direct folder scan using the White House address page to Larry Gatlin, presidential reply, Gatlin handwritten letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "velma-childers-kentucky-senate-fax-packet",
+      documentType: "Faxed Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Velma Childers fax packet re Kentucky Senate race and Republican politics",
+      documentDate: "1992-06-26",
+      pages: 7,
+      excerpt:
+        "A Pike County Coal fax from Velma Childers to Rose Zamaria forwards Kentucky political clippings on Ellen Williams, the Ford race, and Republican organizing.",
+      evidence:
+        "Itemized from pages 82-88 of the NARA direct folder scan using the Pike County Coal fax headers, Velma Childers cover page, Kentucky newspaper clipping pages, handwritten annotations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "looking-ahead-june-22-july-5-1992",
+      documentType: "Calendar Briefing",
+      category: "calendar-briefing",
+      disposition: "itemized-calendar-briefing",
+      title: "Looking Ahead calendar: June 22-July 5, 1992",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "A Looking Ahead calendar tracks major international events, visits to the United States, visits abroad, and dates including Miyazawa in Washington and the UK assuming the EC presidency.",
+      evidence:
+        "Itemized from page 89 of the NARA direct folder scan using the Looking Ahead heading, June 22-July 5 date range, President Has Seen stamp, daily 6/30 marking, OCR, and rendered-page review.",
+    },
+    {
+      slug: "duplicate-kufner-presidential-letter-copy",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Duplicate copy of President Bush handwritten letter to Volkwart Kufner",
+      documentDate: "1992-06-30",
+      pages: 1,
+      excerpt:
+        "A duplicate in-and-out copy of the President's handwritten letter to Volkwart Kufner appears immediately before the news-summary packet.",
+      evidence:
+        "Itemized from page 90 of the NARA direct folder scan using the White House address page to Volkwart Kufner, handwritten presidential reply, copy and RZ annotations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-june-30-1992-6am",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary, June 30, 1992, 6:00 A.M. EDT edition",
+      documentDate: "1992-06-30",
+      pages: 20,
+      excerpt:
+        "The morning White House News Summary covers Bush's law-and-order remarks, the Supreme Court abortion decision, Clinton, Perot, the Fed, Sarajevo, Russia, Japan, Algeria, network news, and Yugoslavia editorials.",
+      evidence:
+        "Itemized from pages 91-110 of the NARA direct folder scan using the News Summary Office of the Press Secretary cover, Tuesday June 30 1992 6:00 A.M. EDT edition line, A-section, network-news, and editorial sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-june-30-1992",
+      documentType: "Congressional Monitor",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title: "Congressional Monitor: Tuesday, June 30, 1992",
+      documentDate: "1992-06-30",
+      pages: 20,
+      excerpt:
+        "Congressional Quarterly's Congressional Monitor covers congressional action, House and Senate committee schedules, news events, future listings, appropriations status, and House and Senate floor action.",
+      evidence:
+        "Itemized from pages 111-130 of the NARA direct folder scan using the Congressional Monitor cover, Tuesday June 30 1992 date, page sequence through page 19, back-cover mailing page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congress-in-print-june-30-1992",
+      documentType: "Congress In Print",
+      category: "congress-in-print",
+      disposition: "itemized-congress-in-print",
+      title: "Congress In Print: Tuesday, June 30, 1992",
+      documentDate: "1992-06-30",
+      pages: 6,
+      excerpt:
+        "Congress In Print lists recently released committee reports, hearings, arms-of-Congress publications, and public laws, with document-ordering information and a Congressional Quarterly mailing page.",
+      evidence:
+        "Itemized from pages 131-136 of the NARA direct folder scan using the Congress In Print cover, Tuesday June 30 1992 date, publication listings, public-laws section, back-cover mailing page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "apn-daily-briefing-june-30-1992",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing-item",
+      disposition: "itemized-daily-political-briefing",
+      title: "The Daily Briefing on American Politics: Tuesday, June 30, 1992",
+      documentDate: "1992-06-30",
+      pages: 22,
+      excerpt:
+        "The American Political Network daily briefing tracks the abortion decision as a campaign issue, Perot's ABC appearances and ballot access, Clinton vice-presidential speculation, Bush and Perot, Senate and House races, governors, polling, and television monitoring.",
+      evidence:
+        "Itemized from pages 137-158 of the NARA direct folder scan using The Daily Briefing on American Politics masthead, Tuesday June 30 1992 date, APN Bulletin Board, White House '92, Issues '92, House/Senate/Governors/Poll sections, TV Monitor ending page, OCR, and rendered-page review.",
+    },
+  ],
   470417970: [
     {
       slug: "treasury-forwarding-note-brady-houston-club-materials",
@@ -20080,6 +20602,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417856",
   "470417863",
   "470417874",
+  "470417877",
   "470418083",
 ]);
 
