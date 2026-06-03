@@ -805,6 +805,169 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 18-19 of the NARA direct folder scan using the White House memorandum heading, Bush Library handwriting marker, attached guest list, OCR, and rendered-page review.",
     },
   ],
+  470417135: [
+    {
+      slug: "nafta-administration-response-overview",
+      documentType: "Administration Report",
+      category: "nafta-fast-track-report",
+      disposition: "itemized-nafta-fast-track-report",
+      title:
+        "Response of the Administration to Issues Raised in Connection with the Negotiation of a North American Free Trade Agreement",
+      documentDate: "1991-05-01",
+      pages: 14,
+      excerpt:
+        "The President transmits the administration's response to congressional issues raised over fast-track authority for a North American free trade agreement with Mexico.",
+      evidence:
+        "Itemized from pages 2-15 of the NARA direct folder scan using the transmitted-report title page, overview heading sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nafta-economic-impact-tab",
+      documentType: "Report Tab",
+      category: "nafta-economic-impact",
+      disposition: "itemized-nafta-economic-impact",
+      title: "Tab 1: Free Trade Negotiation with Mexico, Economic Impact",
+      documentDate: "1991-05-01",
+      pages: 31,
+      excerpt:
+        "The economic-impact tab assesses trade with Mexico, sector and worker adjustment, U.S. competitiveness, environmental trade issues, and likely effects of a North American free trade agreement.",
+      evidence:
+        "Itemized from pages 16-46 of the NARA direct folder scan using the Tab 1 title page, internal section headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nafta-environmental-matters-tab",
+      documentType: "Report Tab",
+      category: "nafta-environmental-matters",
+      disposition: "itemized-nafta-environmental-matters",
+      title: "Tab 4: Free Trade Negotiations with Mexico, Environmental Matters",
+      documentDate: "1991-05-01",
+      pages: 10,
+      excerpt:
+        "The environmental-matters tab reviews Mexico's environmental law, U.S.-Mexico environmental cooperation, and environmental safeguards connected to NAFTA negotiations.",
+      evidence:
+        "Itemized from pages 47-56 of the NARA direct folder scan using the Tab 4 title page, environmental-law headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "us-mexico-labor-cooperation-mou",
+      documentType: "Memorandum of Understanding",
+      category: "us-mexico-labor-cooperation",
+      disposition: "itemized-us-mexico-labor-cooperation",
+      title: "Memorandum of Understanding re U.S.-Mexico labor cooperation",
+      documentDate: "1991",
+      pages: 5,
+      excerpt:
+        "A U.S.-Mexico labor cooperation memorandum of understanding sets out cooperation between the U.S. Department of Labor and Mexico's Secretariat of Labor and Social Welfare.",
+      evidence:
+        "Itemized from pages 57-61 of the NARA direct folder scan using the memorandum title page, party names, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nafta-labor-standards-worker-rights-tab",
+      documentType: "Report Tab",
+      category: "nafta-labor-standards",
+      disposition: "itemized-nafta-labor-standards",
+      title:
+        "Tab 3: Free Trade Negotiations with Mexico, Labor Standards, Worker Health and Safety, and Worker Rights",
+      documentDate: "1991-05-01",
+      pages: 12,
+      excerpt:
+        "The labor tab examines labor standards, worker health and safety, and worker rights issues raised by fast-track consideration of free trade negotiations with Mexico.",
+      evidence:
+        "Itemized from pages 62-73 of the NARA direct folder scan using the Tab 3 title page, labor-standards headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nafta-facilitating-adjustment-tab",
+      documentType: "Report Tab",
+      category: "nafta-adjustment",
+      disposition: "itemized-nafta-adjustment",
+      title: "Tab 2: Free Trade Negotiations with Mexico, Facilitating Adjustment",
+      documentDate: "1991-05-01",
+      pages: 7,
+      excerpt:
+        "The adjustment tab reviews how the administration proposed to facilitate worker and firm adjustment during negotiations toward a North American free trade agreement.",
+      evidence:
+        "Itemized from pages 74-80 of the NARA direct folder scan using the Tab 2 title page, adjustment-policy headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "may-1-1991-pool-reports-national-security-agency-workout-fast-track",
+      documentType: "Pool Reports",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report-packet",
+      title:
+        "Pool reports on National Security Agency visit, Great American Workout, Lee Sang-Ock photo op, and fast-track briefing",
+      documentDate: "1991-05-01",
+      pages: 6,
+      excerpt:
+        "The May 1 pool-report packet covers the President's National Security Agency visit, Great American Workout, Lee Sang-Ock photo opportunity, and fast-track briefing.",
+      evidence:
+        "Itemized from pages 81-86 of the NARA direct folder scan using pool-report headings, byline copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fast-track-coalition-supporters-remarks-release",
+      documentType: "Presidential Remarks Release",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title:
+        "Office of the Press Secretary release of remarks to fast-track coalition supporters",
+      documentDate: "1991-05-01",
+      pages: 3,
+      excerpt:
+        "The Office of the Press Secretary released the President's remarks to fast-track coalition supporters in Room 450 of the Old Executive Office Building.",
+      evidence:
+        "Itemized from pages 87-89 of the NARA direct folder scan using the press-release heading, room line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "farm-broadcasters-remarks-release",
+      documentType: "Presidential Remarks Release",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title: "Office of the Press Secretary release of remarks to farm broadcasters",
+      documentDate: "1991-04-29",
+      pages: 7,
+      excerpt:
+        "The Office of the Press Secretary released the President's April 29 remarks to farm broadcasters in the Roosevelt Room.",
+      evidence:
+        "Itemized from pages 90-96 of the NARA direct folder scan using the press-release heading, date line, Roosevelt Room line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nafta-administration-action-plan-fact-sheet",
+      documentType: "Fact Sheet",
+      category: "nafta-fast-track-fact-sheet",
+      disposition: "itemized-nafta-fast-track-fact-sheet",
+      title:
+        "Fact Sheet: The Administration's Action Plan in response to NAFTA negotiation issues",
+      documentDate: "1991-05-01",
+      pages: 6,
+      excerpt:
+        "The administration fact sheet summarizes its action plan responding to concerns raised in connection with negotiating a North American free trade agreement.",
+      evidence:
+        "Itemized from pages 97-102 of the NARA direct folder scan using the Office of the Press Secretary fact-sheet heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-april-30-1991-5pm-fast-track",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 5:00 p.m. news update, April 30, 1991",
+      documentDate: "1991-04-30",
+      pages: 2,
+      excerpt:
+        "The April 30 White House News Summary update tracks fast-track, Mexico trade, and related press coverage before the May 1 transmittal.",
+      evidence:
+        "Itemized from pages 103-104 of the NARA direct folder scan using the White House News Summary heading, 5:00 p.m. update marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-may-1-1991-updates",
+      documentType: "White House News Summary Updates",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary updates, May 1, 1991",
+      documentDate: "1991-05-01",
+      pages: 5,
+      excerpt:
+        "The May 1 White House News Summary pages include 9:30 a.m., 12:45 p.m., and 4:30 p.m. updates on fast-track and the day's press coverage.",
+      evidence:
+        "Itemized from pages 105-109 of the NARA direct folder scan using the White House News Summary update headings, OCR, and rendered-page review.",
+    },
+  ],
   470417389: [
     {
       slug: "presidential-log-selected-congressional-mail",
@@ -8515,7 +8678,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
 };
 
-const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set(["470417119", "470418083"]);
+const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
+  "470417119",
+  "470417135",
+  "470418083",
+]);
 
 function buildDirectSupplementalItemDocuments(folder, packetDoc) {
   const supplementalItems = DIRECT_SCAN_SUPPLEMENTAL_ITEMS[folder.naId] || [];
