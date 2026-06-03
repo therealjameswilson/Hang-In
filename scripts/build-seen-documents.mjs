@@ -4381,6 +4381,567 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 89-97 of the NARA direct folder scan using rendered-page review of color photographs, event labels, and official White House photograph backing pages.",
     },
   ],
+  470417658: [
+    {
+      slug: "ward-quaal-chicago-tribune-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ward L. Quaal correspondence re Chicago Tribune editorial and conservative politics",
+      documentDate: "1992-03-17",
+      pages: 2,
+      excerpt:
+        "Ward L. Quaal forwards an editorial item and comments on conservative politics, with a White House address cover page and handwritten routing note.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the White House address page, Ward L. Quaal letterhead, March 17 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-to-president-march-20-1992",
+      documentType: "Materials Forwarded List",
+      category: "materials-forwarded-list",
+      disposition: "itemized-materials-forwarded-list",
+      title: "Materials forwarded to the President, March 20, 1992",
+      documentDate: "1992-03-20",
+      pages: 2,
+      excerpt:
+        "The materials-forwarded list identifies action, classified, information, remarks, and schedule items sent to the President on March 20, including executive-order, nomination, veto, rescission, correspondence, trade, Armenia-call, and schedule material.",
+      evidence:
+        "Itemized from pages 4-5 of the NARA direct folder scan using the Materials Forwarded to the President heading, action/classified/information/remarks/schedule sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bohme-economy-response-packet",
+      documentType: "Presidential Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Dr. and Mrs. Richard Bohme economy letter response packet",
+      documentDate: "1992-03-20",
+      pages: 6,
+      excerpt:
+        "The President replies to Dr. and Mrs. Bohme about economic anxiety and hard times; the packet includes their incoming letter, photograph page, and resume attachments.",
+      evidence:
+        "Itemized from pages 6-11 of the NARA direct folder scan using the signed presidential reply, incoming March 2 correspondence, attachment pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-hommell-sportsman-convention-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "George Hommell World Wide Sportsman convention invitation correspondence",
+      documentDate: "1992-03-20",
+      pages: 2,
+      excerpt:
+        "The President sends George Hommell a handwritten reply declining a July 15 American Fishing Tackle Manufacturers Association convention invitation because of foreign travel and schedule constraints.",
+      evidence:
+        "Itemized from pages 12-13 of the NARA direct folder scan using the White House address page, presidential handwritten note, World Wide Sportsman letterhead, March 18 incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bruce-rounds-super-tuesday-note-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Bruce C. Rounds Super Tuesday note and presidential reply",
+      documentDate: "1992-03-20",
+      pages: 2,
+      excerpt:
+        "Bruce C. Rounds congratulates the President after Super Tuesday and offers a line for Rich Bond; the President responds with a handwritten note about Florida, the award, and a speech.",
+      evidence:
+        "Itemized from pages 14-15 of the NARA direct folder scan using the White House address page, presidential handwriting, Bruce C. Rounds signed note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ray-scott-pintlala-photo-distribution-packet",
+      documentType: "Photograph Address Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Ray Scott Pintlala bass-tournament photograph distribution packet",
+      documentDate: "1992-03-07",
+      pages: 21,
+      excerpt:
+        "A packet of official White House photograph address pages and routing notes covers the President's Pintlala fishing event participants, including Ray Scott, Tommy Martin, Kevin Van Dam, Forrest Wood, Roland Martin, Johnny Morris, and other fishermen.",
+      evidence:
+        "Itemized from pages 16-36 of the NARA direct folder scan using official White House photograph/address pages, handwritten recipient notes, March 7 Pintlala context, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ray-scott-presidential-thank-you-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Presidential thank-you letter to Ray Scott after Pintlala Day",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The President thanks Ray Scott for Pintlala Day and for the suggestion of fishermen's clinics, noting that campaign people will be contacted.",
+      evidence:
+        "Itemized from page 37 of the NARA direct folder scan using the signed presidential letter, Ray Scott addressee, March 20 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ray-scott-suggestion-memo-to-bob-teeter",
+      documentType: "From the President Memorandum",
+      category: "president-note-item",
+      disposition: "itemized-president-memorandum",
+      title: "From the President memorandum to Bob Teeter re Ray Scott suggestion",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The President forwards Ray Scott's suggestion to Bob Teeter, asking him to consider the political value of a bass-fishing road-show idea.",
+      evidence:
+        "Itemized from page 38 of the NARA direct folder scan using the From the President memorandum format, Bob Teeter addressee line, Ray Scott subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ray-scott-bass-boys-for-bush-handwritten-letter",
+      documentType: "Incoming Handwritten Letter",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Ray Scott handwritten letter proposing Bass Boys for Bush campaign work",
+      documentDate: "1992-03-08",
+      pages: 3,
+      excerpt:
+        "Ray Scott writes after the Pintlala fishing day about church, fundraising, the Bass Boys for Bush idea, fishing volunteers, and possible campaign appearances.",
+      evidence:
+        "Itemized from pages 39-41 of the NARA direct folder scan using Ray Scott's handwritten pages, March 8 date, Bass Boys for Bush language, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ray-scott-suggestion-memo-copy-to-bob-teeter",
+      documentType: "From the President Memorandum Copy",
+      category: "president-note-item",
+      disposition: "itemized-president-memorandum-copy",
+      title: "Typed copy of From the President memorandum to Bob Teeter re Ray Scott suggestion",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "A typed copy of the President's memorandum to Bob Teeter preserves the Ray Scott suggestion forwarding language.",
+      evidence:
+        "Itemized from page 42 of the NARA direct folder scan using the From the President heading, Bob Teeter addressee, Ray Scott subject, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ray-scott-presidential-reply-draft",
+      documentType: "Presidential Letter Draft",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence-draft",
+      title: "Draft presidential reply to Ray Scott re Pintlala Day and fishermen's clinics",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "A draft reply to Ray Scott thanks him for the Pintlala outing and acknowledges his suggestion about fishermen's clinics and campaign work.",
+      evidence:
+        "Itemized from page 43 of the NARA direct folder scan using the draft presidential letter format, March 20 date, Ray Scott addressee, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pintlala-fishing-cards-address-routing-packet",
+      documentType: "Routing Note and Address Packet",
+      category: "personal-background-packet",
+      disposition: "itemized-routing-note-packet",
+      title: "Pintlala fishing cards, address lists, and George W. Bush routing packet",
+      documentDate: "1992-03-08",
+      pages: 8,
+      excerpt:
+        "A routing packet collects Air Force One and Camp David notes, fishing cards, a letter to George W. Bush, and Ray Scott address lists for the President's Pintlala fishing partners and friends.",
+      evidence:
+        "Itemized from pages 44-51 of the NARA direct folder scan using Air Force One and Camp David note pages, George W. Bush letter, card pages, faxed address lists, OCR, and rendered-page review.",
+    },
+    {
+      slug: "raymond-siller-radio-tv-dinner-thank-you-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Presidential thank-you letter to Raymond Siller re Radio and TV Correspondents dinner material",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The President thanks Raymond Siller for material used at the Radio and TV Correspondents dinner and asks that a copy of the remarks be included in the records.",
+      evidence:
+        "Itemized from page 52 of the NARA direct folder scan using the signed presidential letter, Raymond Siller address block, note-to-records text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "radio-television-association-dinner-internal-transcript",
+      documentType: "Internal Transcript",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Internal transcript of President's remarks at Annual Radio and Television Association Dinner",
+      documentDate: "1992-03-19",
+      pages: 2,
+      excerpt:
+        "The internal transcript records the President's March 19 remarks at the Annual Radio and Television Association Dinner at the Washington Hilton.",
+      evidence:
+        "Itemized from pages 53-54 of the NARA direct folder scan using the Office of the Press Secretary internal transcript heading, event title, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "raymond-siller-radio-tv-dinner-joke-material-fax",
+      documentType: "Incoming Fax Packet",
+      category: "speech-material",
+      disposition: "itemized-incoming-speech-material",
+      title: "Raymond Siller faxed joke material for the Radio-TV Correspondents dinner",
+      documentDate: "1992-03-17",
+      pages: 8,
+      excerpt:
+        "Raymond Siller faxes suggested joke material for the Radio-TV Correspondents dinner, including a cover sheet, letter, top-ten idea, and marked-up joke pages.",
+      evidence:
+        "Itemized from pages 55-62 of the NARA direct folder scan using the Raymond Siller fax cover sheet, March 17 letter, page-numbered joke pages, handwritten check marks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings-march-20",
+      documentType: "Press Clipping Packet",
+      category: "mrs-bush-press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Mrs. Bush's Press Office Daily Press Clippings for Friday, March 20, 1992",
+      documentDate: "1992-03-20",
+      pages: 12,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet includes New York Newsday, Washington Post, Washington Times, and other coverage of Nixon and Russia, swing voters, Hillary Clinton, Nancy Reagan, the House bank, and related political stories.",
+      evidence:
+        "Itemized from pages 63-74 of the NARA direct folder scan using the Mrs. Bush's Press Office cover page, clipping mastheads, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hr-4210-tax-bill-veto-message-duplicate-copies",
+      documentType: "Veto Message",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title: "Message to the House returning H.R. 4210 without approval, duplicate copies",
+      documentDate: "1992-03-20",
+      pages: 2,
+      excerpt:
+        "Duplicate copies of the President's message to the House return H.R. 4210, the Tax Fairness and Economic Growth Acceleration Act of 1992, without approval.",
+      evidence:
+        "Itemized from pages 75 and 142 of the NARA direct folder scan using the Office of the Press Secretary heading, H.R. 4210 veto text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ncaa-division-i-football-teams-remarks-release",
+      documentType: "Press Release",
+      category: "presidential-remarks",
+      disposition: "itemized-press-release",
+      title: "Remarks by the President honoring two undefeated NCAA Division I football teams",
+      documentDate: "1992-03-20",
+      pages: 2,
+      excerpt:
+        "The White House press release transcript records the President's East Room remarks honoring two undefeated NCAA Division I football teams.",
+      evidence:
+        "Itemized from pages 76-77 of the NARA direct folder scan using the Office of the Press Secretary heading, remarks title, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-service-certificate-badge-executive-order",
+      documentType: "Executive Order",
+      category: "executive-order",
+      disposition: "itemized-executive-order",
+      title: "Executive order continuing the Presidential Service Certificate and Presidential Service Badge",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The executive order continues the Presidential Service Certificate and Presidential Service Badge for qualifying military personnel.",
+      evidence:
+        "Itemized from page 78 of the NARA direct folder scan using the Executive Order heading, service-certificate and badge title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "us-russia-pow-mia-commission-statement",
+      documentType: "Press Secretary Statement",
+      category: "white-house-press-release",
+      disposition: "itemized-press-release",
+      title: "Statement by the Press Secretary re U.S.-Russia POW/MIA commission",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The Press Secretary announces a U.S.-Russia joint commission to investigate unresolved prisoner-of-war and missing-in-action cases.",
+      evidence:
+        "Itemized from page 79 of the NARA direct folder scan using the Press Secretary statement heading, POW/MIA commission text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dennis-jacobs-judicial-nomination-release",
+      documentType: "Judicial Nomination Press Release",
+      category: "judicial-nomination",
+      disposition: "itemized-judicial-nomination",
+      title: "Judicial nomination announcement for Dennis G. Jacobs",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Dennis G. Jacobs to be United States Circuit Judge for the Second Circuit.",
+      evidence:
+        "Itemized from page 80 of the NARA direct folder scan using the Office of the Press Secretary heading, nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "national-safe-boating-week-proclamation",
+      documentType: "Proclamation",
+      category: "presidential-proclamation",
+      disposition: "itemized-presidential-proclamation",
+      title: "National Safe Boating Week, 1992 proclamation",
+      documentDate: "1992-03-20",
+      pages: 2,
+      excerpt:
+        "The proclamation designates National Safe Boating Week, 1992, and urges Americans and governors to observe the week and learn more about boating safety.",
+      evidence:
+        "Itemized from pages 81-82 of the NARA direct folder scan using the proclamation heading, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-heyburn-judicial-nomination-release",
+      documentType: "Judicial Nomination Press Release",
+      category: "judicial-nomination",
+      disposition: "itemized-judicial-nomination",
+      title: "Judicial nomination announcement for John G. Heyburn II",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate John G. Heyburn II to be United States District Judge for the Western District of Kentucky.",
+      evidence:
+        "Itemized from page 83 of the NARA direct folder scan using the Office of the Press Secretary heading, nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cleroy-hansen-judicial-nomination-release",
+      documentType: "Judicial Nomination Press Release",
+      category: "judicial-nomination",
+      disposition: "itemized-judicial-nomination",
+      title: "Judicial nomination announcement for C. LeRoy Hansen",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate C. LeRoy Hansen to be United States District Judge for the District of New Mexico.",
+      evidence:
+        "Itemized from page 84 of the NARA direct folder scan using the Office of the Press Secretary heading, nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "richard-kyle-judicial-nomination-release",
+      documentType: "Judicial Nomination Press Release",
+      category: "judicial-nomination",
+      disposition: "itemized-judicial-nomination",
+      title: "Judicial nomination announcement for Richard H. Kyle",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Richard H. Kyle to be United States District Judge for the District of Minnesota.",
+      evidence:
+        "Itemized from page 85 of the NARA direct folder scan using the Office of the Press Secretary heading, nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gordon-quist-judicial-nomination-release",
+      documentType: "Judicial Nomination Press Release",
+      category: "judicial-nomination",
+      disposition: "itemized-judicial-nomination",
+      title: "Judicial nomination announcement for Gordon T. Quist",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Gordon T. Quist to be United States District Judge for the Western District of Michigan.",
+      evidence:
+        "Itemized from page 86 of the NARA direct folder scan using the Office of the Press Secretary heading, nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michael-boudin-judicial-nomination-release",
+      documentType: "Judicial Nomination Press Release",
+      category: "judicial-nomination",
+      disposition: "itemized-judicial-nomination",
+      title: "Judicial nomination announcement for Michael Boudin",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Michael Boudin to be United States Circuit Judge for the First Circuit.",
+      evidence:
+        "Itemized from page 87 of the NARA direct folder scan using the Office of the Press Secretary heading, nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-determination-92-19-migration-refugee-assistance",
+      documentType: "Presidential Determination",
+      category: "presidential-determination",
+      disposition: "itemized-presidential-determination",
+      title: "Presidential Determination No. 92-19 re Migration and Refugee Assistance Act",
+      documentDate: "1992-03-16",
+      pages: 1,
+      excerpt:
+        "Presidential Determination No. 92-19 makes a determination under section 2(c)(1) of the Migration and Refugee Assistance Act of 1962, as amended.",
+      evidence:
+        "Itemized from page 88 of the NARA direct folder scan using the Presidential Determination No. 92-19 heading, March 16 memorandum date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-725-love-outreach",
+      documentType: "Daily Point of Light Press Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title: "Daily Point of Light 725: Love Outreach of Richmond, Virginia",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The White House recognizes the volunteers of Love Outreach of Richmond, Virginia, as the 725th Daily Point of Light.",
+      evidence:
+        "Itemized from page 89 of the NARA direct folder scan using the embargoed Daily Point of Light release, organization name, OCR, and rendered-page review.",
+    },
+    {
+      slug: "frank-johnson-ewing-kerr-federal-building-signing-release",
+      documentType: "Legislation Signing Press Release",
+      category: "white-house-press-release",
+      disposition: "itemized-legislation-signing-release",
+      title: "Press release re signing courthouse naming bills for Frank M. Johnson Jr. and Ewing T. Kerr",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's signing of S. 1467 and S. 1889, naming federal buildings and courthouses for Frank M. Johnson Jr. and Ewing T. Kerr.",
+      evidence:
+        "Itemized from page 90 of the NARA direct folder scan using the Office of the Press Secretary heading, signed-legislation text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "paul-shechtman-judicial-nomination-release",
+      documentType: "Judicial Nomination Press Release",
+      category: "judicial-nomination",
+      disposition: "itemized-judicial-nomination",
+      title: "Judicial nomination announcement for Paul L. Shechtman",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Paul L. Shechtman to be United States District Judge for the Southern District of New York.",
+      evidence:
+        "Itemized from page 91 of the NARA direct folder scan using the Office of the Press Secretary heading, nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "special-messages-proposed-rescissions-duplicate-copies",
+      documentType: "Press Release and Rescissions Packet",
+      category: "budget-rescissions",
+      disposition: "itemized-budget-rescissions-packet",
+      title: "Special messages transmitting 68 proposed rescissions, duplicate copies",
+      documentDate: "1992-03-20",
+      pages: 22,
+      excerpt:
+        "Duplicate copies of the White House release and proposed rescissions tables describe 67 special messages transmitting 68 rescission proposals totaling $3.6 billion in fiscal year 1992 budgetary resources.",
+      evidence:
+        "Itemized from pages 92-102 and 131-141 of the NARA direct folder scan using the special-messages release, proposed-rescissions tables, duplicate sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "texas-major-disaster-declaration-release",
+      documentType: "Disaster Declaration Press Release",
+      category: "disaster-declaration",
+      disposition: "itemized-disaster-declaration",
+      title: "White House press release re Texas major disaster declaration",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The White House announces that the President declared a major disaster in Texas and ordered federal aid for areas struck by severe storms and flooding since March 4, 1992.",
+      evidence:
+        "Itemized from page 103 of the NARA direct folder scan using the Office of the Press Secretary heading, Texas disaster declaration text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-724-my-guardian-angel",
+      documentType: "Daily Point of Light Press Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title: "Daily Point of Light 724: My Guardian Angel of Dallas, Texas",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The White House recognizes the volunteers of My Guardian Angel of Dallas, Texas, as the 724th Daily Point of Light for peer support groups for children experiencing loss or estrangement.",
+      evidence:
+        "Itemized from page 104 of the NARA direct folder scan using the Daily Point of Light release, organization name, OCR, and rendered-page review.",
+    },
+    {
+      slug: "justin-wilson-judicial-nomination-release",
+      documentType: "Judicial Nomination Press Release",
+      category: "judicial-nomination",
+      disposition: "itemized-judicial-nomination",
+      title: "Judicial nomination announcement for Justin P. Wilson",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Justin P. Wilson to be United States Circuit Judge for the Sixth Circuit.",
+      evidence:
+        "Itemized from page 105 of the NARA direct folder scan using the Office of the Press Secretary heading, nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "implementing-beck-decision-fact-sheet-duplicate-copies",
+      documentType: "Fact Sheet",
+      category: "white-house-fact-sheet",
+      disposition: "itemized-fact-sheet",
+      title: "Implementing the Beck Decision fact sheet, duplicate copies",
+      documentDate: "1992-03-20",
+      pages: 2,
+      excerpt:
+        "Duplicate copies of the fact sheet describe the President's steps to protect workers' rights recognized in Communications Workers of America v. Beck.",
+      evidence:
+        "Itemized from pages 106 and 130 of the NARA direct folder scan using the Implementing the Beck Decision fact-sheet heading, duplicate text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "greek-independence-day-signing-release",
+      documentType: "Legislation Signing Press Release",
+      category: "white-house-press-release",
+      disposition: "itemized-legislation-signing-release",
+      title: "Press release re signing S.J. Res. 240 for Greek Independence Day",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's signing of S.J. Res. 240, designating March 25, 1992, as Greek Independence Day.",
+      evidence:
+        "Itemized from page 107 of the NARA direct folder scan using the Office of the Press Secretary heading, S.J. Res. 240 signing text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hjres-446-enrollment-requirements-statement",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement by the President approving H.J. Res. 446 re enrollment requirements for H.R. 4210",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The President approves H.J. Res. 446, waiving printing requirements for H.R. 4210, while reserving his view of Congress's presentation and enrollment procedures.",
+      evidence:
+        "Itemized from page 108 of the NARA direct folder scan using the Statement by the President heading, H.J. Res. 446 text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "major-administration-legislative-initiatives-fact-sheet-duplicate-copies",
+      documentType: "Fact Sheet",
+      category: "white-house-fact-sheet",
+      disposition: "itemized-fact-sheet",
+      title: "Major Administration Legislative Initiatives fact sheet, duplicate copies",
+      documentDate: "1992-03-20",
+      pages: 10,
+      excerpt:
+        "Duplicate copies of the fact sheet summarize major Bush Administration legislative initiatives that had not received favorable congressional action, including economic growth, education, crime, energy, banking, health, trade, and community opportunity proposals.",
+      evidence:
+        "Itemized from pages 109-113 and 120-124 of the NARA direct folder scan using the fact-sheet heading, page sequence including rotated copy, duplicate sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michael-manley-private-dinner-statement",
+      documentType: "Press Secretary Statement",
+      category: "white-house-press-release",
+      disposition: "itemized-press-release",
+      title: "Statement by the Press Secretary re private dinner for Prime Minister Michael Manley",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The Press Secretary announces that the President invited Jamaican Prime Minister Michael Manley to the White House for a private dinner before Manley left office.",
+      evidence:
+        "Itemized from page 114 of the NARA direct folder scan using the Press Secretary statement heading, Michael Manley dinner text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tax-bill-veto-address-fact-sheet-duplicate-copies",
+      documentType: "Fact Sheet",
+      category: "white-house-fact-sheet",
+      disposition: "itemized-fact-sheet",
+      title: "President's Address Announcing Tax Bill Veto fact sheet, duplicate copies",
+      documentDate: "1992-03-20",
+      pages: 10,
+      excerpt:
+        "Duplicate copies of the fact sheet explain the President's tax-bill veto, seven-point economic-growth plan, Beck decision steps, regulatory reform, federal-laboratory partnerships, and global-economy strategy.",
+      evidence:
+        "Itemized from pages 115-119 and 125-129 of the NARA direct folder scan using the tax-bill veto fact-sheet heading, page sequence including rotated copy, duplicate sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gerald-ford-cy-laughter-response-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Presidential letter to Gerald R. Ford re Cy Laughter",
+      documentDate: "1992-03-20",
+      pages: 1,
+      excerpt:
+        "The President writes Gerald R. Ford about Cy Laughter, David Laughter, and Connie Horner's possible Presidential Personnel assistance.",
+      evidence:
+        "Itemized from page 143 of the NARA direct folder scan using the signed presidential letter, Gerald R. Ford address block, Cy Laughter text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "march-20-event-photograph-packet",
+      documentType: "Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Photographs from the President's March 20, 1992 events and Oval Office work",
+      documentDate: "1992-03-20",
+      pages: 13,
+      excerpt:
+        "A color photograph packet shows Oval Office work, a March 20 speech deadline-to-Congress scene, football-team recognition, and other presidential events and meetings from the March 20 materials packet.",
+      evidence:
+        "Itemized from pages 144-156 of the NARA direct folder scan using rendered-page review of color photographs, handwritten sticky notes, event scenes, and photograph sequence.",
+    },
+  ],
   470417713: [
     {
       slug: "billy-graham-convention-note",
@@ -11434,6 +11995,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417566",
   "470417640",
   "470417649",
+  "470417658",
   "470418083",
 ]);
 
