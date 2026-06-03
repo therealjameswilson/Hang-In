@@ -9765,6 +9765,541 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from page 120 of the NARA direct folder scan using the AP timestamp, Rodney King verdict headline, handwritten note to the President, OCR, and rendered-page review.",
     },
   ],
+  470417761: [
+    {
+      slug: "john-riggins-hall-of-fame-presenter-request-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John Riggins Football Hall of Fame presenter request packet",
+      documentDate: "1992-05-07",
+      pages: 4,
+      excerpt:
+        "A packet includes the outgoing response to John Riggins, a note to Kathy Super, Alan Simpson's forwarding letter, and Riggins's request that President Bush present him at the Pro Football Hall of Fame induction.",
+      evidence:
+        "Itemized from pages 2-5 of the NARA direct folder scan using the Dear John outgoing letter, Kathy Super note, Alan Simpson forwarding letter, John Riggins letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-may-7-1992",
+      documentType: "Congressional Monitor",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title: "Congressional Monitor: Thursday, May 7, 1992",
+      documentDate: "1992-05-07",
+      pages: 22,
+      excerpt:
+        "Congressional Quarterly's Congressional Monitor covers the Senate and House schedule, floor action, committee work, appropriations status, and congressional issues for May 7.",
+      evidence:
+        "Itemized from pages 6-27 of the NARA direct folder scan using the Congressional Monitor heading, May 7 date, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mount-zion-remarks-staffing-memo",
+      documentType: "White House Staffing Memorandum",
+      category: "staffing-memorandum",
+      disposition: "itemized-staffing-memorandum",
+      title: "White House staffing memorandum re presidential remarks at Mount Zion Missionary Baptist Church",
+      documentDate: "1992-05-07",
+      pages: 1,
+      excerpt:
+        "A White House staffing memorandum routes presidential remarks for the May 7 National Day of Prayer event at Mount Zion Missionary Baptist Church in Los Angeles.",
+      evidence:
+        "Itemized from page 28 of the NARA direct folder scan using the White House Staffing Memorandum heading, Mount Zion subject, action/FYI routing, OCR, and rendered-page review.",
+    },
+    {
+      slug: "grossman-mount-zion-church-memo",
+      documentType: "Memorandum",
+      category: "presidential-briefing-memorandum",
+      disposition: "itemized-memorandum",
+      title: "Jennifer Grossman memorandum to the President re Mount Zion Missionary Baptist Church",
+      documentDate: "1992-05-06",
+      pages: 1,
+      excerpt:
+        "Jennifer Grossman briefs the President for the National Day of Prayer appearance at Mount Zion Missionary Baptist Church following the Los Angeles riots.",
+      evidence:
+        "Itemized from page 29 of the NARA direct folder scan using the Memorandum for the President heading, Jennifer Grossman byline, Mount Zion subject, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mount-zion-church-draft-one-remarks",
+      documentType: "Speech/Remarks Draft",
+      category: "speech-remarks-draft",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Draft One presidential remarks for Mount Zion Missionary Baptist Church",
+      documentDate: "1992-05-06",
+      pages: 4,
+      excerpt:
+        "Draft One remarks for Mount Zion Church address prayer, rebuilding Los Angeles, law and justice, and the meaning of community after the riots.",
+      evidence:
+        "Itemized from pages 30-33 of the NARA direct folder scan using the Draft One heading, Mount Zion Church title, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-may-7-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: May 7, 1992",
+      documentDate: "1992-05-07",
+      pages: 18,
+      excerpt:
+        "The White House News Summary covers national, international, network, and political news for the morning of May 7.",
+      evidence:
+        "Itemized from pages 34-51 of the NARA direct folder scan using the White House News Summary heading, 6 A.M. EDT timestamp, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-briefing-american-politics-may-7-1992",
+      documentType: "Political Briefing",
+      category: "political-briefing",
+      disposition: "itemized-political-briefing",
+      title: "The Daily Briefing on American Politics: May 7, 1992",
+      documentDate: "1992-05-07",
+      pages: 22,
+      excerpt:
+        "The APN/Hotline daily briefing summarizes campaign, polling, party, congressional, gubernatorial, and media developments for May 7.",
+      evidence:
+        "Itemized from pages 52-73 of the NARA direct folder scan using The Daily Briefing on American Politics heading, APN/Hotline title, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidents-unpublished-schedule-may-7-1992",
+      documentType: "Daily Schedule",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title: "President's unpublished schedule: May 7, 1992",
+      documentDate: "1992-05-07",
+      pages: 2,
+      excerpt:
+        "A Phillip D. Brady cover page to Rose Zamaria forwards the President's unpublished schedule for May 7, including the Los Angeles trip, Mount Zion service, local meetings, and travel to Moline.",
+      evidence:
+        "Itemized from pages 74-75 of the NARA direct folder scan using the White House Washington cover page, Rose Zamaria addressee, Schedule of the President page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "crenshaw-slauson-walking-tour-briefing",
+      documentType: "Event Briefing",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Walking tour briefing for riot-damaged areas near Crenshaw and Slauson",
+      documentDate: "1992-05-07",
+      pages: 2,
+      excerpt:
+        "The briefing prepares the President for a walking tour of riot-damaged areas near Crenshaw and Slauson Streets in Los Angeles.",
+      evidence:
+        "Itemized from pages 76-77 of the NARA direct folder scan using the Walking Tour of Crenshaw and Slauson Riot Damaged Areas heading, schedule details, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mount-zion-national-day-prayer-briefing",
+      documentType: "Event Briefing",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Mount Zion Baptist Church National Day of Prayer service briefing",
+      documentDate: "1992-05-07",
+      pages: 2,
+      excerpt:
+        "The briefing prepares the President for the National Day of Prayer service at Mount Zion Baptist Church, including purpose, background, participants, remarks, and press plan.",
+      evidence:
+        "Itemized from pages 78-79 of the NARA direct folder scan using the National Day of Prayer Service heading, Mount Zion Baptist Church location, schedule details, OCR, and rendered-page review.",
+    },
+    {
+      slug: "neighborhood-community-leaders-meeting-briefing",
+      documentType: "Meeting Briefing",
+      category: "meeting-briefing",
+      disposition: "itemized-meeting-briefing",
+      title: "Meeting briefing with neighborhood community leaders",
+      documentDate: "1992-05-07",
+      pages: 4,
+      excerpt:
+        "The briefing lays out the President's May 7 meeting with Los Angeles neighborhood community leaders, including purpose, background, participants, press plan, and a participant list.",
+      evidence:
+        "Itemized from pages 80-83 of the NARA direct folder scan using the Meeting with Neighborhood Community Leaders heading, participant pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "neighborhood-community-leaders-talking-points",
+      documentType: "Talking Points",
+      category: "talking-points",
+      disposition: "itemized-talking-points",
+      title: "Talking points for meeting with neighborhood community leaders",
+      documentDate: "1992-05-07",
+      pages: 3,
+      excerpt:
+        "Talking points for the neighborhood community leaders meeting address listening to local concerns, disaster assistance, SBA loans, food aid, counseling, and rebuilding Los Angeles.",
+      evidence:
+        "Itemized from pages 84-86 of the NARA direct folder scan using the Talking Points for Meeting with Neighborhood Community Leaders heading, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-elected-officials-meeting-briefing",
+      documentType: "Meeting Briefing",
+      category: "meeting-briefing",
+      disposition: "itemized-meeting-briefing",
+      title: "Meeting briefing and talking points with elected officials from the Los Angeles area",
+      documentDate: "1992-05-07",
+      pages: 5,
+      excerpt:
+        "The briefing packet prepares the President for a meeting with Los Angeles-area elected officials and includes participants, press plan, talking points, and a seating chart.",
+      evidence:
+        "Itemized from pages 87-91 of the NARA direct folder scan using the Meeting with Group of Elected Officials from Los Angeles Area heading, talking-points pages, seating chart, OCR, and rendered-page review.",
+    },
+    {
+      slug: "korean-american-community-meeting-briefing",
+      documentType: "Meeting Briefing",
+      category: "meeting-briefing",
+      disposition: "itemized-meeting-briefing",
+      title: "Meeting briefing and talking points with members of the Korean-American community",
+      documentDate: "1992-05-07",
+      pages: 5,
+      excerpt:
+        "The briefing packet prepares the President for a Los Angeles meeting with Korean-American community leaders and includes participants, press plan, background, and talking points.",
+      evidence:
+        "Itemized from pages 92-96 of the NARA direct folder scan using the Meeting with Members of the Korean-American Community heading, participant list, talking-points pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "radio-korea-address-briefing",
+      documentType: "Event Briefing",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Radio Korea address briefing",
+      documentDate: "1992-05-07",
+      pages: 1,
+      excerpt:
+        "The briefing prepares the President to address the Korean-American community over the Radio Korea network.",
+      evidence:
+        "Itemized from page 97 of the NARA direct folder scan using the Radio Korea Address to the Korean-American Community heading, schedule fields, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hispanic-economic-development-meeting-briefing",
+      documentType: "Meeting Briefing",
+      category: "meeting-briefing",
+      disposition: "itemized-meeting-briefing",
+      title: "Meeting briefing and talking points on Hispanic economic development",
+      documentDate: "1992-05-07",
+      pages: 5,
+      excerpt:
+        "The briefing packet prepares the President for a meeting with Hispanic leaders on economic development in Los Angeles, including background, participants, press plan, and talking points.",
+      evidence:
+        "Itemized from pages 98-102 of the NARA direct folder scan using the Hispanic Economic Development Meeting heading, participant list, talking-points pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings-may-7-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's daily press clippings: May 7, 1992",
+      documentDate: "1992-05-07",
+      pages: 7,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet includes Doro Bush wedding coverage, White House and presidential-pet features, and related society and press clippings.",
+      evidence:
+        "Itemized from pages 103-109 of the NARA direct folder scan using the Mrs. Bush's Press Office cover, clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "telephone-memoranda-may-7-1992",
+      documentType: "Telephone Memoranda",
+      category: "telephone-memoranda",
+      disposition: "itemized-telephone-memoranda",
+      title: "Telephone memoranda: May 7, 1992",
+      documentDate: "1992-05-07",
+      pages: 3,
+      excerpt:
+        "Telephone memorandum pages record no presidential calls and Signal Switchboard calls involving Mrs. Barbara P. Bush on May 7.",
+      evidence:
+        "Itemized from pages 110-112 of the NARA direct folder scan using the White House Telephone Memorandum forms, May 7 date, Signal Switchboard entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-los-angeles-may-7-1992",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential movements: Los Angeles, May 7, 1992",
+      documentDate: "1992-05-07",
+      pages: 1,
+      excerpt:
+        "A Presidential Movements sheet lists the President's Los Angeles movements from the Beverly Wilshire Hotel through local stops and departure.",
+      evidence:
+        "Itemized from page 113 of the NARA direct folder scan using the Presidential Movements heading, Los Angeles location, May 7 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chicago-sun-times-minority-staff-rap-racism-bush-clipping",
+      documentType: "Press Clipping",
+      category: "press-clipping",
+      disposition: "itemized-press-clipping",
+      title: "Chicago Sun-Times clipping: Minority staff explains rap, racism to Bush",
+      documentDate: "1992-05-07",
+      pages: 1,
+      excerpt:
+        "A faxed Chicago Sun-Times clipping reports on young minority White House staff briefing President Bush about rap music, racism, and Los Angeles after the Rodney King verdict.",
+      evidence:
+        "Itemized from page 114 of the NARA direct folder scan using the Chicago Sun-Times masthead, May 7 date, headline, Xerox Telecopier line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bush-handwritten-phone-call-note-may-7-1992",
+      documentType: "President's Handwritten Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Bush handwritten phone-call note: May 7, 1992",
+      documentDate: "1992-05-07",
+      pages: 1,
+      excerpt:
+        "A photocopied Bush handwriting page records a May 7 phone-call note with names including Paul in McLean, Terry Brown, and Fred Bates, plus comments about a hospital and company matter.",
+      evidence:
+        "Itemized from page 115 of the NARA direct folder scan using the Phone Call May 7, 1992 heading, Bush Library photocopy label, handwritten names, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-3-motorcade-riot-areas",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #3: Motorcade and tour of riot-damaged areas",
+      documentDate: "1992-05-07",
+      pages: 2,
+      excerpt:
+        "Pool Report #3 describes President Bush's motorcade and inspection of Los Angeles riot-damaged areas before the Mount Zion service.",
+      evidence:
+        "Itemized from pages 116-117 of the NARA direct folder scan using the Pool Report #3 heading, Los Angeles event text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-5-local-state-leaders",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #5: Bush meets with local and state leaders",
+      documentDate: "1992-05-07",
+      pages: 2,
+      excerpt:
+        "Pool Report #5 describes President Bush's meeting with local and state leaders after the Mount Zion service.",
+      evidence:
+        "Itemized from pages 118-119 of the NARA direct folder scan using the Pool Report #5 heading, local and state leaders text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-6-radio-korea-koreatown-meeting",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #6: Radio Korea and Koreatown meeting",
+      documentDate: "1992-05-07",
+      pages: 2,
+      excerpt:
+        "Pool Report #6 describes the President's Radio Korea address and meeting with Korean-American leaders in Los Angeles.",
+      evidence:
+        "Itemized from pages 120-121 of the NARA direct folder scan using the Pool Report #6 heading, Radio Korea and Koreatown text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-7-hispanic-leaders",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #7: Bush meets with Hispanic leaders",
+      documentDate: "1992-05-07",
+      pages: 1,
+      excerpt:
+        "Pool Report #7 describes the President's meeting with Hispanic leaders in Los Angeles.",
+      evidence:
+        "Itemized from page 122 of the NARA direct folder scan using the Pool Report #7 heading, Hispanic leaders text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mount-zion-remarks-press-release",
+      documentType: "Remarks",
+      category: "press-release-remarks",
+      disposition: "itemized-press-release",
+      title: "Press release: remarks by the President at Mount Zion Missionary Baptist Church",
+      documentDate: "1992-05-07",
+      pages: 3,
+      excerpt:
+        "The Office of the Press Secretary releases President Bush's remarks at Mount Zion Missionary Baptist Church during the Los Angeles visit.",
+      evidence:
+        "Itemized from pages 123-125 of the NARA direct folder scan using the immediate-release heading, Mount Zion Missionary Baptist Church title, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jay-van-andel-ambassador-commissioner-general-press-release",
+      documentType: "Press Release",
+      category: "press-release-personnel",
+      disposition: "itemized-press-release",
+      title: "Press release: Jay Van Andel personal rank of Ambassador and Commissioner General",
+      documentDate: "1992-05-07",
+      pages: 1,
+      excerpt:
+        "The White House announces that Jay Van Andel will have the personal rank of Ambassador and serve as Commissioner General of the U.S. Pavilion at the international exhibition in Genoa, Italy.",
+      evidence:
+        "Itemized from page 126 of the NARA direct folder scan using the immediate-release heading, Jay Van Andel name, Genoa exhibition text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-henry-gerald-fitzgerald-ireland-nomination-press-release",
+      documentType: "Press Release",
+      category: "press-release-nomination",
+      disposition: "itemized-press-release",
+      title: "Press release: William Henry Gerald FitzGerald nomination as Ambassador to Ireland",
+      documentDate: "1992-05-07",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate William Henry Gerald FitzGerald as U.S. Ambassador to Ireland.",
+      evidence:
+        "Itemized from page 127 of the NARA direct folder scan using the immediate-release heading, William Henry Gerald FitzGerald name, Ireland nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-t-pryce-honduras-nomination-press-release",
+      documentType: "Press Release",
+      category: "press-release-nomination",
+      disposition: "itemized-press-release",
+      title: "Press release: William T. Pryce nomination as Ambassador to Honduras",
+      documentDate: "1992-05-07",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate William T. Pryce as U.S. Ambassador to Honduras.",
+      evidence:
+        "Itemized from page 128 of the NARA direct folder scan using the immediate-release heading, William T. Pryce name, Honduras nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "princeton-nathan-lyman-south-africa-nomination-press-release",
+      documentType: "Press Release",
+      category: "press-release-nomination",
+      disposition: "itemized-press-release",
+      title: "Press release: Princeton Nathan Lyman nomination as Ambassador to South Africa",
+      documentDate: "1992-05-07",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Princeton Nathan Lyman as U.S. Ambassador to South Africa.",
+      evidence:
+        "Itemized from page 129 of the NARA direct folder scan using the immediate-release heading, Princeton Nathan Lyman name, South Africa nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-c-fields-marshall-islands-nomination-press-release",
+      documentType: "Press Release",
+      category: "press-release-nomination",
+      disposition: "itemized-press-release",
+      title: "Press release: David C. Fields nomination as Ambassador to the Marshall Islands",
+      documentDate: "1992-05-07",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate David C. Fields as U.S. Ambassador to the Marshall Islands.",
+      evidence:
+        "Itemized from page 130 of the NARA direct folder scan using the immediate-release heading, David C. Fields name, Marshall Islands nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "teresita-currie-schaffer-sri-lanka-maldives-nomination-press-release",
+      documentType: "Press Release",
+      category: "press-release-nomination",
+      disposition: "itemized-press-release",
+      title: "Press release: Teresita Currie Schaffer nomination as Ambassador to Sri Lanka and the Maldives",
+      documentDate: "1992-05-07",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intention to nominate Teresita Currie Schaffer as U.S. Ambassador to Sri Lanka and the Maldives.",
+      evidence:
+        "Itemized from page 131 of the NARA direct folder scan using the immediate-release heading, Teresita Currie Schaffer name, Sri Lanka and Maldives nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-4-community-meeting-after-mount-zion",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #4: Community meeting after Mount Zion service",
+      documentDate: "1992-05-07",
+      pages: 2,
+      excerpt:
+        "Pool Report #4 describes President Bush's community meeting after the Mount Zion Missionary Baptist Church service.",
+      evidence:
+        "Itemized from pages 132-133 of the NARA direct folder scan using the Pool Report #4 heading, community meeting text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-7-hispanic-leaders-second-copy",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Second copy of Pool Report #7: Bush meets with Hispanic leaders",
+      documentDate: "1992-05-07",
+      pages: 1,
+      excerpt:
+        "A second copy of Pool Report #7 repeats coverage of President Bush's meeting with Hispanic leaders in Los Angeles.",
+      evidence:
+        "Itemized from page 134 of the NARA direct folder scan using the repeated Pool Report #7 heading, Hispanic leaders text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-6-radio-korea-koreatown-meeting-second-copy",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Second copy of Pool Report #6: Radio Korea and Koreatown meeting",
+      documentDate: "1992-05-07",
+      pages: 2,
+      excerpt:
+        "A second copy of Pool Report #6 repeats coverage of the President's Radio Korea address and Koreatown meeting.",
+      evidence:
+        "Itemized from pages 135-136 of the NARA direct folder scan using the repeated Pool Report #6 pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-5-local-state-leaders-second-copy",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Second copy of Pool Report #5: Bush meets with local and state leaders",
+      documentDate: "1992-05-07",
+      pages: 2,
+      excerpt:
+        "A second copy of Pool Report #5 repeats coverage of President Bush's meeting with local and state leaders.",
+      evidence:
+        "Itemized from pages 137-138 of the NARA direct folder scan using the repeated Pool Report #5 pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-3-motorcade-riot-areas-second-copy",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Second copy of Pool Report #3: Motorcade and tour of riot-damaged areas",
+      documentDate: "1992-05-07",
+      pages: 2,
+      excerpt:
+        "A second copy of Pool Report #3 repeats coverage of President Bush's motorcade and tour of riot-damaged areas in Los Angeles.",
+      evidence:
+        "Itemized from pages 139-140 of the NARA direct folder scan using the repeated Pool Report #3 pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-4-community-meeting-after-mount-zion-second-copy",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Second copy of Pool Report #4: Community meeting after Mount Zion service",
+      documentDate: "1992-05-07",
+      pages: 2,
+      excerpt:
+        "A second copy of Pool Report #4 repeats coverage of President Bush's community meeting after the Mount Zion service.",
+      evidence:
+        "Itemized from pages 141-142 of the NARA direct folder scan using the repeated Pool Report #4 pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "patty-presock-note-gifts-family-camp-david",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Patty Presock note to the President re gifts, family plans, Camp David visitors, and baseball tickets",
+      documentDate: "1992-05-07",
+      pages: 2,
+      excerpt:
+        "A two-page note to the President covers gifts, Reebok clothing, Neil and George W. Bush visits, Dr. Falwell and the Liberty Singers, Camp David visitors, baseball tickets, and a Dobson meeting, with Bush handwriting throughout.",
+      evidence:
+        "Itemized from pages 143-144 of the NARA direct folder scan using the May 7 note to Mr. President, CC Rose Zamaria line, Patty signature, Bush Library handwriting labels, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-meetings-events-photograph-packet",
+      documentType: "Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Los Angeles meetings and events photograph packet",
+      documentDate: "1992-05-07",
+      pages: 5,
+      excerpt:
+        "Color photograph pages show President Bush at Los Angeles meetings and events, with sticky-note labels for meetings with mayors, the Korean community, Mount Zion Baptist Church, and a Hispanic group meeting.",
+      evidence:
+        "Itemized from pages 145-149 of the NARA direct folder scan using the color photographs, sticky-note labels, Los Angeles event settings, and rendered-page review.",
+    },
+    {
+      slug: "daily-news-clips-may-7-1992",
+      documentType: "Daily News Clips",
+      category: "daily-news-clips",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips: May 7, 1992",
+      documentDate: "1992-05-07",
+      pages: 59,
+      excerpt:
+        "The Daily News Clips packet includes a cover page and clippings from the Wall Street Journal, Washington Post, New York Times, and other papers on politics, Los Angeles, Russia, the economy, and national security.",
+      evidence:
+        "Itemized from pages 150-208 of the NARA direct folder scan using the Daily News Clips cover page, newspaper mastheads, clipping continuation pages, OCR, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -16440,6 +16975,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417735",
   "470417739",
   "470417741",
+  "470417761",
   "470418083",
 ]);
 
