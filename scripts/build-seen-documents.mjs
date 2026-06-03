@@ -2441,6 +2441,281 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from fax and Debate Cont'd headings found in full-PDF OCR of the NARA direct folder scan.",
     },
   ],
+  470418164: [
+    {
+      slug: "manor-house-reception-acceptances",
+      documentType: "Acceptance List",
+      category: "election-night-event-material",
+      disposition: "itemized-election-night-event-material",
+      title: "Acceptances for Manor House Reception",
+      documentDate: "1992-11-03",
+      pages: 2,
+      excerpt:
+        "An acceptance list for the Manor House reception, updated as of 12:55 p.m. on election day, records family, staff, campaign, and supporter attendees.",
+      evidence:
+        "Itemized from the Acceptances for Manor House Reception heading and continuation page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "leroy-shaw-chad-photo-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "LeRoy B. Shaw correspondence re Chad photo and campaign support",
+      documentDate: "1992-11-03",
+      pages: 3,
+      excerpt:
+        "The President sends LeRoy B. Shaw a signed photo for Chad, wishes Chad well at Duke, and thanks the Shaws for encouragement and support.",
+      evidence:
+        "Itemized from presidential letter and attached low-confidence incoming pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "presidential-phone-calls-handwritten-note",
+      documentType: "Presidential Phone Calls Note",
+      category: "presidential-phone-call-note",
+      disposition: "itemized-presidential-phone-call-note",
+      title: "Presidential Phone Calls handwritten note",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A Presidential Phone Calls form appears with George Bush handwriting and brief subject/follow-up fields.",
+      evidence:
+        "Itemized from the Presidential Phone Calls form and Bush Library handwriting marker found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "concession-address-draft-handwriting",
+      documentType: "Speech Draft",
+      category: "concession-address",
+      disposition: "itemized-concession-address-draft",
+      title: "Concession Address draft with George Bush handwriting",
+      documentDate: "1992-11-03",
+      pages: 13,
+      excerpt:
+        "A draft of the Houston concession address includes the opening call to Governor Clinton, thanks to campaign and administration leaders, and extensive George Bush handwriting.",
+      evidence:
+        "Itemized from Concession Address heading, typed speech pages, and George Bush handwriting markers found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "hugh-liedtke-betty-memorial-correspondence",
+      documentType: "Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Hugh Liedtke correspondence re Betty Liedtke memorial service",
+      documentDate: "1992-10-29",
+      pages: 4,
+      excerpt:
+        "A President Has Seen incoming letter from Hugh Liedtke thanks George Bush for attending Betty Liedtke's memorial service, with related letterhead and envelope pages.",
+      evidence:
+        "Itemized from President Has Seen marker, Hugh Liedtke correspondence, and envelope pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "zamaria-secret-service-odonnell-arrival",
+      documentType: "Memorandum",
+      category: "election-night-event-material",
+      disposition: "itemized-election-night-event-material",
+      title: "Memorandum from Rose Zamaria to Secret Service re Peter and Edith O'Donnell",
+      documentDate: "1992-11-03",
+      pages: 1,
+      excerpt:
+        "Rose Zamaria alerts the Secret Service that Peter and Edith O'Donnell are expected that evening and asks that they not be detained.",
+      evidence:
+        "Itemized from Rose Zamaria memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-news-summary-130-update",
+      documentType: "News Update",
+      category: "news-summary-item",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: November 3, 1992 1:30 P.M. CST News Update",
+      documentDate: "1992-11-03",
+      pages: 1,
+      excerpt:
+        "The 1:30 p.m. CST White House News Summary update covers President Bush in Houston, Clinton voting, the abortion gag-rule decision, women in combat, Iraq/BNL, and Clinton Middle East comments.",
+      evidence:
+        "Itemized from White House News Summary update heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-news-summary-1000-update",
+      documentType: "News Update",
+      category: "news-summary-item",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: November 3, 1992 10:00 A.M. CST News Update",
+      documentDate: "1992-11-03",
+      pages: 1,
+      excerpt:
+        "The 10:00 a.m. CST White House News Summary update covers election-day voting in Houston, the CBS poll, economic indicators, Vice President Quayle, and the Villalpando inquiry.",
+      evidence:
+        "Itemized from White House News Summary update heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-news-summary-600-edition",
+      documentType: "News Summary",
+      category: "news-summary-item",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: Tuesday, November 3, 1992 6:00 A.M. EST Edition",
+      documentDate: "1992-11-03",
+      pages: 21,
+      excerpt:
+        "The 6:00 a.m. EST White House News Summary compiles election-day trip, national, international, and network news coverage on Bush, Clinton, Perot, voter turnout, and related issues.",
+      evidence:
+        "Itemized from News Summary heading and A/B-section continuation pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "negative-advertising-response-talking-points",
+      documentType: "Talking Points",
+      category: "campaign-talking-points",
+      disposition: "itemized-campaign-talking-points",
+      title: "Talking points re negative advertising and Clinton campaign charges",
+      documentDate: "1992-11-03",
+      pages: 1,
+      excerpt:
+        "Election-day talking points argue that Bush-Quayle advertisements are documented and accurate while Clinton campaign advertisements are false.",
+      evidence:
+        "Itemized from numbered advertising-response talking points found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "weinberger-additional-indictment-fact-paper",
+      documentType: "Fact Paper",
+      category: "iran-contra-material",
+      disposition: "itemized-iran-contra-material",
+      title: "Fact Paper: The Weinberger Additional Indictment",
+      documentDate: "",
+      pages: 8,
+      excerpt:
+        "A fact paper argues that the Weinberger note adds no new facts to the Iran-Contra record and is filed with Congressional Report excerpts and a chronology of Vice President Bush's exposure to the Shultz-Weinberger position.",
+      evidence:
+        "Itemized from Fact Paper heading, chapter excerpts, and chronology pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "washington-post-iran-contra-president-side-article",
+      documentType: "Article",
+      category: "iran-contra-material",
+      disposition: "itemized-iran-contra-material",
+      title: "Washington Post article clipping re the President's side of Iran-Contra",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A Washington Post clipping argues that Bush did not know of the Iran-Contra diversion until just before it was revealed and distinguishes the Iran initiative from the diversion.",
+      evidence:
+        "Itemized from Washington Post clipping text found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "boyden-gray-washington-post-iran-contra-letter",
+      documentType: "Letter",
+      category: "iran-contra-material",
+      disposition: "itemized-iran-contra-material",
+      title: "Letter from C. Boyden Gray to the Washington Post editor re Iran-Contra reporting",
+      documentDate: "1992-10-14",
+      pages: 1,
+      excerpt:
+        "C. Boyden Gray writes that the Post mischaracterized President Bush's comments to Katie Couric about Iran-Contra and the January 1986 meeting.",
+      evidence:
+        "Itemized from White House letter heading and signature block found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "iraqgate-key-facts-supporting-material",
+      documentType: "Fact Packet",
+      category: "iraqgate-material",
+      disposition: "itemized-iraqgate-material",
+      title: "Key Facts on Iraqgate with supporting CCC and Clinton quotables material",
+      documentDate: "",
+      pages: 3,
+      excerpt:
+        "A Key Facts on Iraqgate packet argues there was no cover-up of pre-war Iraq policy and includes supporting material on CCC guarantees and Clinton quotations.",
+      evidence:
+        "Itemized from Key Facts on Iraqgate heading and adjacent supporting pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "pool-report-27-louisville",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #27: Air Force One flight from Akron to Louisville",
+      documentDate: "1992-11-03",
+      pages: 1,
+      excerpt:
+        "Mike Kranish reports on the uneventful Air Force One flight from Akron to Louisville and the motorcade to the rally hangar.",
+      evidence:
+        "Itemized from Pool Report #27 heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "pool-report-29-president-jogs-votes-shops",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #29: The President jogs, votes, and shops",
+      documentDate: "1992-11-03",
+      pages: 2,
+      excerpt:
+        "Pool Report #29 describes President Bush jogging in Memorial Park, voting at St. Mary's Seminary, breakfasting at the Houstonian, shopping, and the planned Manor House reception.",
+      evidence:
+        "Itemized from Pool Report #29 heading and continuation page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "pool-report-30-houstonian-corridor",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #30: Bush in corridor of Houstonian Hotel",
+      documentDate: "1992-11-03",
+      pages: 1,
+      excerpt:
+        "Pool Report #30 records President Bush in a Houstonian Hotel corridor at about 6:00 p.m. and his brief comment on how he felt.",
+      evidence:
+        "Itemized from Pool Report #30 heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "hotline-election-day-reader",
+      documentType: "Political Briefing",
+      category: "political-briefing",
+      disposition: "itemized-political-briefing",
+      title: "The Hotline Daily Briefing on American Politics: Election Day Reader",
+      documentDate: "1992-11-03",
+      pages: 21,
+      excerpt:
+        "The Hotline election-day briefing compiles final presidential polls, an electoral scoreboard, campaign-final-lap coverage, Senate and House race notes, governors' races, and poll updates.",
+      evidence:
+        "Itemized from The Hotline Daily Briefing heading, index, and continuation pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "presidential-telephone-memorandum-packet",
+      documentType: "Telephone Memorandum Packet",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "Presidential telephone memorandum packet for November 3, 1992",
+      documentDate: "1992-11-03",
+      pages: 4,
+      excerpt:
+        "A telephone memorandum packet records election-day calls involving Nicholas Brady, Henry Kissinger, Dan Quayle, James Baker, Marlin Fitzwater, Robert Dole, Brian Mulroney, Bill Clinton, and others.",
+      evidence:
+        "Itemized from White House Signal Switchboard telephone memorandum pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "presidential-movements-houston",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: Houston, Texas, November 3, 1992",
+      documentDate: "1992-11-03",
+      pages: 1,
+      excerpt:
+        "The presidential movements sheet records President Bush's Houstonian Hotel, St. Mary's Seminary, shopping, and Westin Galleria movements on election day.",
+      evidence:
+        "Itemized from Presidential Movements heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "bush-quayle-campaign-materials-catalog",
+      documentType: "Campaign Materials Catalog",
+      category: "campaign-materials",
+      disposition: "itemized-campaign-materials",
+      title: "Bush-Quayle '92 campaign materials catalog and order form",
+      documentDate: "",
+      pages: 7,
+      excerpt:
+        "A Bush-Quayle '92 campaign materials catalog and order form lists lapel stickers, campaign buttons, bumper stickers, yard signs, apparel, and related merchandise.",
+      evidence:
+        "Itemized from campaign-materials catalog pages and order form found in full-PDF OCR of the NARA direct folder scan.",
+    },
+  ],
   470418165: [
     {
       slug: "bush-quayle-fax-family-friends-list",
