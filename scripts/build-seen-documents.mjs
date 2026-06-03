@@ -1925,6 +1925,153 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from Cardinal's Residence fax and letter pages found in full-PDF OCR of the NARA direct folder scan.",
     },
   ],
+  470417970: [
+    {
+      slug: "treasury-forwarding-note-brady-houston-club-materials",
+      documentType: "Forwarding Note",
+      category: "treasury-forwarding-note",
+      disposition: "itemized-treasury-forwarding-note",
+      title:
+        "Treasury forwarding note from Nicholas F. Brady re Houston Club remarks and Wall Street Journal articles",
+      documentDate: "1992-08-11",
+      pages: 1,
+      excerpt:
+        "Nicholas F. Brady forwards two Wall Street Journal articles and the Houston Club speech material, noting that the articles collect points the administration had been making.",
+      evidence:
+        "Itemized from the Treasury forwarding page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "wall-street-journal-small-business-debt-articles",
+      documentType: "Press Articles",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title: "Wall Street Journal articles on small business jobs and debt reduction",
+      documentDate: "1992-08-10",
+      pages: 2,
+      excerpt:
+        "The Wall Street Journal packet includes 'For New Jobs, Help Small Business' and a companion article on the end of the American borrowing binge and debt reduction.",
+      evidence:
+        "Itemized from Wall Street Journal article starts found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "bill-signing-release-zuni-catawba",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press Release: President signs H.R. 4026 and H.R. 5566",
+      documentDate: "1992-08-11",
+      pages: 1,
+      excerpt:
+        "The White House press release announces the President's signing of H.R. 4026, the Zuni River Watershed Act, and H.R. 5566, concerning Catawba Indian Tribe land claims.",
+      evidence:
+        "Itemized from an Office of the Press Secretary release heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "presidential-determination-zambia-defense-articles",
+      documentType: "Presidential Determination",
+      category: "presidential-determination",
+      disposition: "itemized-presidential-determination",
+      title: "Presidential Determination No. 92-38 re Zambia defense articles and services",
+      documentDate: "1992-08-11",
+      pages: 1,
+      excerpt:
+        "Presidential Determination No. 92-38 finds Zambia eligible to be furnished defense articles and services under the Foreign Assistance Act and Arms Export Control Act.",
+      evidence:
+        "Itemized from a Presidential Determination release heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "radiation-control-health-safety-message",
+      documentType: "Message to Congress",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title:
+        "Message to Congress transmitting HHS report on the Radiation Control for Health and Safety Act",
+      documentDate: "1992-08-11",
+      pages: 1,
+      excerpt:
+        "The message transmits the Department of Health and Human Services report pursuant to section 540 of the Federal Food, Drug, and Cosmetic Act regarding radiation control.",
+      evidence:
+        "Itemized from a White House message-to-Congress release found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "materials-forwarded-to-president-august-11-1992",
+      documentType: "Forwarded Materials List",
+      category: "forwarded-materials-list",
+      disposition: "itemized-forwarded-materials-list",
+      title: "Materials Forwarded to the President: August 11, 1992",
+      documentDate: "1992-08-11",
+      pages: 2,
+      excerpt:
+        "The forwarded-materials list identifies action items, classified information, and information items, including the Zuni and Catawba bills, a Derwinski certificate, a Jonathan Moore resignation acceptance, a Bolten Federal Implementation Plan memo, a Chernomyrdin item, campaign press material, procurement rules, the President's block schedule, and July producer-price numbers.",
+      evidence:
+        "Itemized from a Materials Forwarded to the President cover list found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "nafta-call-points-salinas-mulroney",
+      documentType: "Telephone Call Points",
+      category: "telephone-call-points",
+      disposition: "itemized-telephone-call-points",
+      title: "Points for calls to President Salinas and Prime Minister Mulroney re NAFTA agreement",
+      documentDate: "1992-08-11",
+      pages: 6,
+      excerpt:
+        "The call-points packet reports that negotiators had reached agreement on NAFTA and frames the agreement as a historic step toward a hemisphere-wide free trade area.",
+      evidence:
+        "Itemized from a telephone-call points packet and routing pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-august-11-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Tuesday, August 11, 1992",
+      documentDate: "1992-08-11",
+      pages: 21,
+      excerpt:
+        "The Mrs. Bush press-clippings packet includes GOP platform coverage, Clinton polling, New York Post Bush-affair stories, cartoons, and family-values and campaign coverage.",
+      evidence:
+        "Itemized from a Mrs. Bush's Press Office Daily Press Clippings cover and clipping run found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-september-12-14-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: September 12-14, 1992",
+      documentDate: "1992-09-12",
+      pages: 34,
+      excerpt:
+        "The September 12-14 Mrs. Bush press-clippings packet includes John Major campaign strategy, Al Gore and family leave, Barbara Bush on Social Security and literacy, Clinton coverage, and a Bob Teeter memorandum.",
+      evidence:
+        "Itemized from a second Mrs. Bush's Press Office Daily Press Clippings cover and clipping run found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "daily-news-clips-august-11-1992",
+      documentType: "Daily News Clips",
+      category: "daily-news-clips-item",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips: Tuesday, August 11, 1992",
+      documentDate: "1992-08-11",
+      pages: 100,
+      excerpt:
+        "Office of Media Affairs Daily News Clips for August 11, 1992, draw from the Los Angeles Times, USA Today, The Wall Street Journal, The Washington Post, The New York Times, and The Washington Times, with coverage of Bosnia, Iraq, health care, the GOP platform, James Baker, Israel, and the Clinton economic plan.",
+      evidence:
+        "Itemized from an Office of Media Affairs Daily News Clips cover and clipping sequence found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "official-white-house-photo-transfer-pages-august-1992",
+      documentType: "Official White House Photographs",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photo transfer pages, August 1992",
+      documentDate: "1992-08-11",
+      pages: 8,
+      excerpt:
+        "Official White House photograph pages and transfer placeholders appear at the end of the direct folder scan.",
+      evidence:
+        "Itemized from official White House photograph pages and transfer placeholders found in rendered page review of the NARA direct folder scan.",
+    },
+  ],
   470417978: [
     {
       slug: "materials-forwarded-to-president-august-14-1992",
