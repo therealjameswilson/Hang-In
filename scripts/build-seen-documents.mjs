@@ -5794,6 +5794,285 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from rendered-page review of the color photo pages, United Nations and Rush Limbaugh photo subjects, and official White House photo label pages.",
     },
   ],
+  470418078: [
+    {
+      slug: "springfield-service-organizations-remarks-release",
+      documentType: "Presidential Remarks Release",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Office of the Press Secretary release of remarks to Springfield service organizations",
+      documentDate: "1992-09-22",
+      pages: 8,
+      excerpt:
+        "The Springfield release reproduces President Bush's remarks to service organizations on the economy, taxes, crime, child welfare, the environment, health care, and Clinton's Arkansas record.",
+      evidence:
+        "Itemized from Office of the Press Secretary Springfield release pages, remarks heading, numbered continuation pages, and rendered-page review.",
+    },
+    {
+      slug: "tulsa-airport-welcome-remarks-release",
+      documentType: "Presidential Remarks Release",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Office of the Press Secretary release of remarks at Tulsa Airport welcome",
+      documentDate: "1992-09-22",
+      pages: 3,
+      excerpt:
+        "The Tulsa Airport welcome remarks address energy, small business, schools, civil rights, quotas, and the campaign comparison with Governor Clinton.",
+      evidence:
+        "Itemized from Office of the Press Secretary Tulsa release pages, remarks heading, continuation pages, and rendered-page review.",
+    },
+    {
+      slug: "longview-texas-citizens-remarks-release",
+      documentType: "Presidential Remarks Release",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Office of the Press Secretary release of remarks to citizens in Longview, Texas",
+      documentDate: "1992-09-22",
+      pages: 4,
+      excerpt:
+        "The Longview remarks cover domestic oil, small business, health care, Clinton's health plan, Bush's World War II service, and the campaign's honor-and-decency themes.",
+      evidence:
+        "Itemized from Office of the Press Secretary Longview release pages, remarks heading, continuation pages, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-suellen-fried",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title: "Daily Point of Light release: SuEllen Fried",
+      documentDate: "1992-09-22",
+      pages: 1,
+      excerpt:
+        "The White House release recognizes SuEllen Fried of Prairie Village, Kansas, as the 900th Daily Point of Light for her work on domestic violence, child abuse, and prisoner rehabilitation.",
+      evidence:
+        "Itemized from the Office of the Press Secretary Springfield release and rendered-page review.",
+    },
+    {
+      slug: "bradley-holmes-itu-delegation-release",
+      documentType: "Press Release",
+      category: "presidential-delegation",
+      disposition: "itemized-presidential-delegation",
+      title:
+        "Press release: Ambassador Bradley P. Holmes selected to head U.S. delegation to the ITU conference",
+      documentDate: "1992-09-22",
+      pages: 1,
+      excerpt:
+        "The White House release announces Ambassador Bradley P. Holmes as head of the U.S. delegation to the International Telecommunications Union Conference.",
+      evidence:
+        "Itemized from the Office of the Press Secretary Shreveport release and rendered-page review.",
+    },
+    {
+      slug: "peace-corps-national-advisory-council-nominations-release",
+      documentType: "Press Release",
+      category: "presidential-nomination",
+      disposition: "itemized-presidential-nomination",
+      title:
+        "Press release: nominations to the Peace Corps National Advisory Council",
+      documentDate: "1992-09-22",
+      pages: 1,
+      excerpt:
+        "The White House release announces President Bush's nominations of individuals to the Peace Corps National Advisory Council, including Frank B. Hower Jr.",
+      evidence:
+        "Itemized from the Office of the Press Secretary Springfield release and rendered-page review.",
+    },
+    {
+      slug: "holly-coors-american-woman-congress-special-representative-release",
+      documentType: "Press Release",
+      category: "presidential-appointment",
+      disposition: "itemized-presidential-appointment",
+      title:
+        "Press release: Ambassador Holly Coors as special representative to the Congress of the American Woman",
+      documentDate: "1992-09-22",
+      pages: 1,
+      excerpt:
+        "The White House release announces President Bush's intention to nominate Ambassador Holly Coors as his special representative to the Congress of the American Woman in the Dominican Republic.",
+      evidence:
+        "Itemized from the Office of the Press Secretary Shreveport release and rendered-page review.",
+    },
+    {
+      slug: "pool-reports-springfield-greenville-memphis-september-22-1992",
+      documentType: "Pool Reports",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report-packet",
+      title:
+        "Pool reports from Air Force One, Springfield, Greenville, and Memphis",
+      documentDate: "1992-09-22",
+      pages: 2,
+      excerpt:
+        "Pool Report #1 describes the Air Force One flight to Springfield, Missouri, while Pool Report #2 covers Greenville-to-Memphis campaign-trail developments and Baker's contact with Ross Perot.",
+      evidence:
+        "Itemized from Pool Report #1 and Pool Report #2 headings and rendered-page review.",
+    },
+    {
+      slug: "brady-schlesinger-g7-commodity-indicator-packet",
+      documentType: "President Bush Handwriting and Wire Story Packet",
+      category: "economic-policy-correspondence",
+      disposition: "itemized-economic-policy-correspondence",
+      title:
+        "President Bush note to Nicholas Brady with Reuters story on Schlesinger and the G-7 commodity indicator",
+      documentDate: "1992-09-22",
+      pages: 4,
+      excerpt:
+        "President Bush sends Nicholas Brady comments on German reaction to the commodity-indicator idea, with an attached Reuters story on Bundesbank president Helmut Schlesinger's criticism.",
+      evidence:
+        "Itemized from Bush handwriting photocopy pages, the President's note to Nicholas Brady, Reuters story page, and rendered-page review.",
+    },
+    {
+      slug: "joseph-hagin-east-texas-humor-correspondence-packet",
+      documentType: "President Bush Handwriting and Correspondence Packet",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "President Bush correspondence with Joseph W. Hagin II and East Texas humor attachment",
+      documentDate: "1992-09-22",
+      pages: 4,
+      excerpt:
+        "The packet includes President Bush handwriting to Joseph W. Hagin II, Hagin's handwritten reply, and a humorous 'native of East Texas' attachment.",
+      evidence:
+        "Itemized from White House address page, Bush Library handwriting photocopy pages, Hagin handwritten letter, humor attachment, and rendered-page review.",
+    },
+    {
+      slug: "rosey-grier-phone-message",
+      documentType: "Phone Message",
+      category: "telephone-message",
+      disposition: "itemized-telephone-message",
+      title: "Rosey Grier phone message for the President",
+      documentDate: "1992-09-22",
+      pages: 2,
+      excerpt:
+        "Two copies of a phone message report Rosey Grier's advice that the President focus on experience and leadership during changing times.",
+      evidence:
+        "Itemized from duplicate 'Phone Call for the President' pages and rendered-page review.",
+    },
+    {
+      slug: "abraham-foxman-bnai-brith-letter",
+      documentType: "Incoming Letter with President Bush Handwriting",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title:
+        "Abraham H. Foxman letter thanking President Bush for B'nai B'rith convention remarks",
+      documentDate: "1992-09-10",
+      pages: 2,
+      excerpt:
+        "Abraham H. Foxman of the Anti-Defamation League thanks President Bush for his B'nai B'rith convention remarks, with President Bush handwriting and a file-bill routing page.",
+      evidence:
+        "Itemized from Anti-Defamation League letterhead, President-has-seen marking, President Bush handwriting, routing page, and rendered-page review.",
+    },
+    {
+      slug: "alvah-chapman-knight-ridder-letter",
+      documentType: "Incoming Letter with President Bush Handwriting",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title:
+        "Alvah H. Chapman Jr. letter to President Bush with handwriting response",
+      documentDate: "1992-09-08",
+      pages: 2,
+      excerpt:
+        "Knight-Ridder's Alvah H. Chapman Jr. writes to President Bush, with President Bush handwriting noting thanks and comments on campaign momentum.",
+      evidence:
+        "Itemized from Knight-Ridder letterhead, President-has-seen marking, President Bush handwriting, and rendered-page review.",
+    },
+    {
+      slug: "burton-lee-personal-memorandum",
+      documentType: "Personal Memorandum",
+      category: "staff-correspondence",
+      disposition: "itemized-staff-correspondence",
+      title: "Dr. Burton Lee personal memorandum to the President",
+      documentDate: "1992-09-21",
+      pages: 2,
+      excerpt:
+        "Dr. Burton Lee sends the President a personal memorandum explaining a leg-muscle injury and his temporary inability to travel fully with the campaign.",
+      evidence:
+        "Itemized from two copies of the Dr. Burton Lee memorandum and rendered-page review.",
+    },
+    {
+      slug: "congressional-birthday-letter-packet-october-1992",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Congressional birthday letter packet for October 1992",
+      documentDate: "1992-09-21",
+      pages: 6,
+      excerpt:
+        "The packet includes President Bush birthday letters or drafts for members of Congress, including Jesse Helms and Gus Savage, plus a Nicholas Calio memorandum listing October congressional birthdays.",
+      evidence:
+        "Itemized from presidential birthday letter pages, Bush handwriting photocopy/routing pages, Nicholas Calio memorandum pages, and rendered-page review.",
+    },
+    {
+      slug: "air-force-one-phone-call-forms-first-set-september-22-1992",
+      documentType: "Presidential Phone Call Forms",
+      category: "telephone-call-forms",
+      disposition: "itemized-telephone-call-forms",
+      title:
+        "Air Force One presidential phone call forms, September 22, 1992, first set",
+      documentDate: "1992-09-22",
+      pages: 2,
+      excerpt:
+        "Two Air Force One presidential phone call forms record September 22 call notes and follow-up handwriting during the campaign travel day.",
+      evidence:
+        "Itemized from Presidential Phone Calls forms, handwriting, and rendered-page review.",
+    },
+    {
+      slug: "springfield-clinton-record-large-type-speech-draft",
+      documentType: "Speech Draft with President Bush Handwriting",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Large-type Springfield speech draft on Bill Clinton's Arkansas record",
+      documentDate: "1992-09-22",
+      pages: 22,
+      excerpt:
+        "The large-type draft develops President Bush's attack on Clinton's Arkansas record, covering civil rights, taxes, crime, child welfare, education, the environment, health care, and Clinton-Gore promises.",
+      evidence:
+        "Itemized from the Tuesday Springfield speech heading, large-type numbered pages, Bush Library handwriting marker, insert pages, and rendered-page review.",
+    },
+    {
+      slug: "air-force-one-phone-call-forms-second-set-september-22-1992",
+      documentType: "Presidential Phone Call Forms",
+      category: "telephone-call-forms",
+      disposition: "itemized-telephone-call-forms",
+      title:
+        "Air Force One presidential phone call forms, September 22, 1992, second set",
+      documentDate: "1992-09-22",
+      pages: 2,
+      excerpt:
+        "A second pair of Air Force One presidential phone call forms appears after the Springfield speech draft, with call notes and handwriting.",
+      evidence:
+        "Itemized from Presidential Phone Calls forms, handwriting, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-to-president-september-22-1992",
+      documentType: "Materials Forwarded List",
+      category: "materials-forwarded-list",
+      disposition: "itemized-materials-forwarded-list",
+      title:
+        "Materials forwarded to the President, September 22, 1992",
+      documentDate: "1992-09-22",
+      pages: 2,
+      excerpt:
+        "The materials-forwarded list records action items including Norway Title VII material, correspondence, a Victory '92 fundraiser letter, veto-message material, a tripbook, and a Goldline schedule.",
+      evidence:
+        "Itemized from 'Materials Forwarded to the President' action and schedule pages and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-6am-edition-september-22-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 6:00 a.m. EDT edition, September 22, 1992",
+      documentDate: "1992-09-22",
+      pages: 24,
+      excerpt:
+        "The morning News Summary covers trip news, Bush on Clinton's draft record, U.N. peacekeeping, foreign-affairs agency overhaul, polling, television coverage, Vietnam veterans, Clinton and business leaders, Quayle in Kentucky, fundraising, Europe, Israel, Nicaragua, network news, editorials, and debates.",
+      evidence:
+        "Itemized from the Office of the Press Secretary News Summary cover page, A/B/C section headings, page numbers, and rendered-page review.",
+    },
+  ],
   470418122: [
     {
       slug: "st-louis-railroad-ymca-history",
