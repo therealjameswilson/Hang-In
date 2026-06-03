@@ -12723,6 +12723,112 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 169-174 of the NARA direct folder scan using the repeated confidential briefing on U.N. Conference on Environment and Development, Points to be Made, agenda, participant list pages, OCR, and rendered-page review.",
     },
   ],
+  470417840: [
+    {
+      slug: "mrs-bush-press-office-daily-clippings-june-11-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings-item",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Thursday, June 11, 1992",
+      documentDate: "1992-06-11",
+      pages: 20,
+      excerpt:
+        "The Mrs. Bush press-clipping packet covers Clinton and MTV, a Millie cartoon, teenage gun violence, youth gambling, private school management, welfare experiments, work/family strain, women's finance, workplace bias, and family-values advertising.",
+      evidence:
+        "Itemized from pages 2-21 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover, June 11 1992 date line, USA Today, Washington Times, Boston Globe, Wall Street Journal, New York Times, Philadelphia Inquirer, and Los Angeles Times clippings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "june-11-telephone-schedule-movement-packet",
+      documentType: "Telephone, Schedule, and Movement Logs",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "June 11 telephone logs, presidential schedules, and movement sheets",
+      documentDate: "1992-06-11",
+      pages: 8,
+      excerpt:
+        "The packet combines Signal Switchboard call logs, June 11-13 schedule sheets, and presidential movement pages for the President's Rio de Janeiro, Panama City, and Washington travel.",
+      evidence:
+        "Itemized from pages 22-29 of the NARA direct folder scan using the telephone memorandum form, Signal Switchboard call logs, Schedule of the President sheets, Presidential Movements page, Rio de Janeiro and Panama City route details, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rio-summit-departure-statement-draft",
+      documentType: "Speech Draft",
+      category: "speech-materials-packet",
+      disposition: "itemized-speech-materials",
+      title: "Rio Summit departure statement draft for Andrews Air Force Base",
+      documentDate: "1992-06-11",
+      pages: 5,
+      excerpt:
+        "The Andrews Air Force Base departure-statement draft frames the Rio summit around environment, development, U.S. environmental work, forests, biodiversity, clean growth, and taxpayer limits.",
+      evidence:
+        "Itemized from pages 30-34 of the NARA direct folder scan using the Departure Statement Rio Summit heading, Andrews AFB place line, Thursday June 11 1992 date, 7:00 a.m. time, draft speech pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-june-11-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary, June 11, 1992",
+      documentDate: "1992-06-11",
+      pages: 21,
+      excerpt:
+        "The White House News Summary covers Rio, peacekeeping, Yugoslavia, Yeltsin arms talks, Clinton, Perot, balanced budget amendment politics, network news, editorials, and campaign commentary.",
+      evidence:
+        "Itemized from pages 35-55 of the NARA direct folder scan using the News Summary Office of the Press Secretary cover, Thursday June 11 1992 6:00 AM EDT edition, international, national, network, and editorial sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "remarks-president-upon-departure-andrews-june-11",
+      documentType: "Press Release and Remarks",
+      category: "press-release-or-notice",
+      disposition: "itemized-press-release-or-notice",
+      title: "Remarks by the President upon departure for Rio and Panama",
+      documentDate: "1992-06-11",
+      pages: 2,
+      excerpt:
+        "The June 11 press-release text gives the President's Andrews Air Force Base departure remarks on the Earth Summit, biodiversity, forests, sustainable growth, and the Panama stop.",
+      evidence:
+        "Itemized from pages 56-57 of the NARA direct folder scan using the Office of the Press Secretary immediate-release header, Remarks by the President upon departure title, Andrews Air Force Base location line, 7:50 A.M. EDT timestamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "june-11-rio-panama-trip-photograph-packet",
+      documentType: "Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "June 11 Rio and Panama trip photograph packet",
+      documentDate: "1992-06-11",
+      pages: 7,
+      excerpt:
+        "The packet contains White House travel photographs and photo backs tied to the President's June 11 Rio de Janeiro and Panama itinerary, including arrival, en route, meeting-room, and American Community scenes.",
+      evidence:
+        "Itemized from pages 58-64 of the NARA direct folder scan using the color photograph pages, sticky notes for arrival Panama City, enroute Rio de Janeiro, American Community Panama City, and President of Panama scenes, Official White House Photograph backing page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-news-clips-june-11-rio-panama-perot-arms-budget",
+      documentType: "Daily News Clips Packet",
+      category: "daily-news-clips",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips packet re Rio, Panama, Perot, arms talks, balanced budget, and June 11 coverage",
+      documentDate: "1992-06-11",
+      pages: 69,
+      excerpt:
+        "The Office of Media Affairs Daily News Clips packet collects June 11 coverage from the Washington Post, Washington Times, Wall Street Journal, New York Times, USA Today, and other outlets on Rio, Panama, Perot, FEMA, balanced budget amendment, Yugoslavia, Iraq, arms talks, Watergate/Nixon donor parallels, and campaign politics.",
+      evidence:
+        "Itemized from pages 65-133 of the NARA direct folder scan using the Office of Media Affairs Daily News Clips cover, 06/11/92 date, Washington Post, Washington Times, Wall Street Journal, USA Today, and New York Times source list, headline sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-martinez-birthday-note-panama-photographs",
+      documentType: "Presidential Correspondence and Photograph Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robert and Mary Jane Martinez birthday note and Panama trip photographs",
+      documentDate: "1992-06-11",
+      pages: 7,
+      excerpt:
+        "Aboard Air Force One to Rio, the President thanks Robert and Mary Jane Martinez for birthday wishes, with a small Panama trip photograph packet filed behind the note.",
+      evidence:
+        "Itemized from pages 134-140 of the NARA direct folder scan using the White House address page to Robert and Mrs. Martinez, Rio bound 6/11/92 handwritten note, birthday-wishes text, Rose Zamaria copy notation, Panama photograph pages, photo backs, OCR, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -19406,6 +19512,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417794",
   "470417809",
   "470417810",
+  "470417840",
   "470418083",
 ]);
 
