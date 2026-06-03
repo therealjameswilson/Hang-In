@@ -18229,6 +18229,22 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized as a Daily News Clips packet from the continuous newspaper-clipping run found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
     },
   ],
+  470417981: [
+    {
+      slug: "mrs-bush-press-office-clippings-august-15-17-1992",
+      documentType: "Daily Press Clippings Packet",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title:
+        "Mrs. Bush's Press Office Daily Press Clippings: August 15-17, 1992",
+      documentDate: "1992-08-15",
+      pages: 130,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet collects August 15-17 coverage on the Republican convention, Barbara Bush and abortion, George Bush and Dan Quayle campaign positioning, Houston convention coverage, Bush-family profiles, education, homelessness, and related political and social issues.",
+      evidence:
+        "Itemized from pages 2-131 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover page, Saturday-Sunday-Monday August 15-17 1992 date lines, distribution list, New York Post, Los Angeles Times, Washington Post, New York Times, Wall Street Journal, USA Today, Life, Time, Newsweek, U.S. News, Chicago Tribune, OCR, and rendered-page review.",
+    },
+  ],
   470417997: [
     {
       slug: "marked-branson-rally-remarks",
@@ -23787,6 +23803,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417970",
   "470417976",
   "470417978",
+  "470417981",
   "470418083",
 ]);
 
