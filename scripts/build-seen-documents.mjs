@@ -991,6 +991,19 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       evidence:
         "Itemized from a Treasury examples heading found in full-PDF OCR of the NARA direct folder scan after the cover-listed attachments.",
     },
+    {
+      slug: "fy1993-budget-fact-sheets-second-copy",
+      documentType: "Fact Sheets",
+      category: "state-of-union-background-attachment",
+      disposition: "itemized-state-of-union-background-attachment",
+      title: "Second copy of The President's Budget for FY 1993: Fact Sheets",
+      documentDate: "1992-01-28",
+      pages: 56,
+      excerpt:
+        "A second copy of the President's Budget for FY 1993 fact-sheet packet appears later in the scan, again covering the growth agenda, incentives, health, defense, education, children, job training, research and development, infrastructure, housing, crime and drugs, the environment, mandatory programs, pensions, block grants, and management improvement.",
+      evidence:
+        "Itemized from a second For Immediate Release fact-sheet cover page and repeated FY 1993 Budget headings found in full-PDF OCR of the NARA direct folder scan.",
+    },
   ],
   470417713: [
     {
@@ -1592,6 +1605,254 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Cardinal Bernard Law writes as chairman of the Commission on Legal Immigration requesting startup funding for initial staffing and meeting costs.",
       evidence:
         "Itemized from Cardinal's Residence fax and letter pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+  ],
+  470418070: [
+    {
+      slug: "charles-bartlett-massager-lincoln-anecdote",
+      documentType: "Personal Fax and Note",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "Personal fax from Charles L. Bartlett to the President re portable massager and Lincoln anecdote",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "Charles L. Bartlett sends the President a suggestion for a portable massaging instrument and a Lincoln anecdote about 'pegging away' for possible use in speeches.",
+      evidence:
+        "Itemized from Charles L. Bartlett letterhead and fax text found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "caspar-weinberger-reception-message-packet",
+      documentType: "Message Note and Invitation",
+      category: "social-correspondence-packet",
+      disposition: "itemized-social-correspondence",
+      title:
+        "Message note and Friends of Caspar Weinberger reception invitation packet",
+      documentDate: "1992-09-18",
+      pages: 5,
+      excerpt:
+        "A handwritten message notes Mrs. Bush's question about whether the President wanted to send a message for a Friends of Caspar Weinberger party, with faxed invitation and reply-card pages attached.",
+      evidence:
+        "Itemized from the Mrs. Bush message note, White House fax cover sheet, and Friends of Caspar Weinberger reception pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-hugh-fenwick-millicent-fenwick",
+      documentType: "Condolence Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Letter from the President to Hugh Fenwick re Millicent Fenwick",
+      documentDate: "1992-09-18",
+      pages: 1,
+      excerpt:
+        "The President and Mrs. Bush send condolences to Hugh Fenwick after the death of Millicent Fenwick, recalling her service in Congress and at the U.N. Food and Agriculture Organization.",
+      evidence:
+        "Itemized from a presidential condolence letter marked President to sign in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "james-apfelbaum-golf-etiquette-gift",
+      documentType: "Gift Correspondence Packet",
+      category: "gift-correspondence-packet",
+      disposition: "itemized-gift-correspondence",
+      title:
+        "James W. Apfelbaum Golf Etiquette gift correspondence packet",
+      documentDate: "1992-09-18",
+      pages: 4,
+      excerpt:
+        "The packet includes the President's thank-you letter for James W. Apfelbaum's book Golf Etiquette, Anna Matz's forwarding memorandum, and Apfelbaum's incoming letter about the gift.",
+      evidence:
+        "Itemized from the presidential thank-you letter, Anna Matz memorandum, and Apfelbaum letter found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "gene-dove-branson-correspondence-clipping",
+      documentType: "Correspondence and Clipping Packet",
+      category: "constituent-correspondence-packet",
+      disposition: "itemized-constituent-correspondence",
+      title:
+        "Gene Dove Baldknobbers Branson visit correspondence and clipping packet",
+      documentDate: "1992-09-18",
+      pages: 6,
+      excerpt:
+        "The President thanks Gene Dove of the Baldknobbers show for his letter and Branson newspaper article, with Dove's August 28 letter and Springfield News-Leader clipping attached.",
+      evidence:
+        "Itemized from the White House letter, Gene Dove letterhead, and Branson clipping pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "harry-whyel-campaign-check-correspondence",
+      documentType: "Correspondence and Check Packet",
+      category: "campaign-contribution-correspondence",
+      disposition: "itemized-campaign-contribution-correspondence",
+      title:
+        "Harry W. Whyel campaign contribution correspondence and check packet",
+      documentDate: "1992-09-14",
+      pages: 6,
+      excerpt:
+        "A staff note says James A. Baker thought the President might like to see Harry W. Whyel's letter; the packet includes Whyel's September 9 letter and four campaign contribution checks.",
+      evidence:
+        "Itemized from the staff routing note, Whyel letter, and check images found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "kelly-bass-presidential-trust-check-returns",
+      documentType: "Contribution Return Letters",
+      category: "campaign-contribution-correspondence",
+      disposition: "itemized-campaign-contribution-correspondence",
+      title:
+        "Shirley Green letters returning Dee Kelly and Bass family Presidential Trust checks",
+      documentDate: "1992-09-18",
+      pages: 3,
+      excerpt:
+        "Shirley M. Green returns Dee J. Kelly and Bass family checks for the RNC Presidential Trust, citing White House Counsel guidance on political contributions.",
+      evidence:
+        "Itemized from Shirley M. Green letters and attached check images found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-rudy-boschwitz-bnai-brith",
+      documentType: "Thank-You Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Letter from the President to Rudy Boschwitz re B'nai B'rith event introduction",
+      documentDate: "1992-09-18",
+      pages: 1,
+      excerpt:
+        "The President thanks Rudy Boschwitz for introducing him at a B'nai B'rith event and for his continued support.",
+      evidence:
+        "Itemized from a presidential thank-you letter start found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "ann-landers-family-leave-exchange",
+      documentType: "Correspondence Exchange",
+      category: "press-correspondence",
+      disposition: "itemized-press-correspondence",
+      title:
+        "President Bush and Ann Landers correspondence re family leave legislation",
+      documentDate: "1992-09-18",
+      pages: 3,
+      excerpt:
+        "The President writes Ann Landers defending his family-leave tax-credit alternative; Landers replies that her syndicated column schedule prevents publication before October 18.",
+      evidence:
+        "Itemized from the President's September 18 letter, Ann Landers's September 24 reply, and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "official-photo-margaret-thatcher-oval-office",
+      documentType: "Official White House Photo",
+      category: "white-house-photo",
+      disposition: "itemized-white-house-photo",
+      title:
+        "Official White House photo of President Bush with Margaret Thatcher in the Oval Office",
+      documentDate: "1992-09-16",
+      pages: 2,
+      excerpt:
+        "A color Official White House photo shows President Bush with Margaret Thatcher in the Oval Office, with a September 16, 1992 White House photo stamp on the reverse.",
+      evidence:
+        "Itemized from rendered page review of the color photo and Official White House Photo stamp in the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-hugo-parkman-finback",
+      documentType: "Letter with President Bush Handwriting",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Letter from the President to Hugo Parkman re September 2, 1944 and the USS Finback",
+      documentDate: "1992-09-18",
+      pages: 1,
+      excerpt:
+        "The President thanks Hugo Parkman for remembering September 2, 1944, recalls the USS Finback rescue, and adds handwritten thanks.",
+      evidence:
+        "Itemized from a White House letter page with visible President Bush handwriting confirmed by rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-victor-hancock-support-jo-ann",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Letter from the President to Victor J. Hancock re support and Jo Ann",
+      documentDate: "1992-09-18",
+      pages: 1,
+      excerpt:
+        "The President thanks Victor J. Hancock for encouragement and support, promises to pass along Hancock's suggestion, and sends prayers for Jo Ann.",
+      evidence:
+        "Itemized from a presidential letter page found in full-PDF OCR and confirmed by rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "new-york-times-clippings-september-18-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "New York Times clipping run: September 18, 1992",
+      documentDate: "1992-09-18",
+      pages: 12,
+      excerpt:
+        "The New York Times clipping run includes coverage of Bush calling Clinton a social engineer, study authors disputing Bush's use of their work, Clinton's draft record, Iran-Contra, cable television, and campaign strategy.",
+      evidence:
+        "Itemized from The New York Times mastheads and article starts found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "los-angeles-times-clippings-september-18-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Los Angeles Times clipping run: September 18, 1992",
+      documentDate: "1992-09-18",
+      pages: 3,
+      excerpt:
+        "The Los Angeles Times clipping run includes Douglas Jehl on Bush attacking Clinton over the draft and economy, plus a Weed and Seed program story.",
+      evidence:
+        "Itemized from Los Angeles Times byline and clipping starts found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "wall-street-journal-clippings-september-18-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Wall Street Journal clipping run: September 18, 1992",
+      documentDate: "1992-09-18",
+      pages: 10,
+      excerpt:
+        "The Wall Street Journal clipping run includes FHA mortgage-rate coverage, a Journal/NBC News poll, the Washington Wire, campaign advertising analysis, and poll-method tables.",
+      evidence:
+        "Itemized from Wall Street Journal mastheads, poll tables, and article starts found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "washington-times-clippings-september-18-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Washington Times clipping run: September 18, 1992",
+      documentDate: "1992-09-18",
+      pages: 9,
+      excerpt:
+        "The Washington Times clipping run covers Clinton attacking Bush's family-leave veto threat, Bush comparing Clinton plans to Soviet socialism, U.N. peacekeeping proposals, Marilyn Quayle, tort lawyers, and vouchers.",
+      evidence:
+        "Itemized from Washington Times mastheads and article starts found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "usa-today-clippings-september-18-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "USA Today clipping run: September 18, 1992",
+      documentDate: "1992-09-18",
+      pages: 4,
+      excerpt:
+        "The USA Today clipping run covers Bush edging closer to Clinton, difficulty holding the 1988 coalition, and voter views of the candidates and issues.",
+      evidence:
+        "Itemized from USA Today article starts and voter-summary pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "washington-post-clippings-september-18-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Washington Post clipping run: September 18, 1992",
+      documentDate: "1992-09-18",
+      pages: 18,
+      excerpt:
+        "The Washington Post clipping run covers gay-rights employment policy, Bush-Clinton defense positions, Clinton draft memos, family leave, Bush's Texas campaign, Rogich advertising, trade, television interviews, and western campaign coverage.",
+      evidence:
+        "Itemized from Washington Post mastheads, columns, and article starts found in full-PDF OCR of the NARA direct folder scan.",
     },
   ],
   470418122: [
