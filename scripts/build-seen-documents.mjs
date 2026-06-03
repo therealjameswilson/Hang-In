@@ -18245,6 +18245,463 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 2-131 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover page, Saturday-Sunday-Monday August 15-17 1992 date lines, distribution list, New York Post, Los Angeles Times, Washington Post, New York Times, Wall Street Journal, USA Today, Life, Time, Newsweek, U.S. News, Chicago Tribune, OCR, and rendered-page review.",
     },
   ],
+  470417985: [
+    {
+      slug: "martin-lawler-duggan-correspondence",
+      documentType: "Correspondence Packet with President Bush Handwriting",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Martin Lawler Duggan correspondence packet re Joe Duggan dismissal",
+      documentDate: "1992-08-17",
+      pages: 2,
+      excerpt:
+        "Rose Zamaria routes Martin Lawler Duggan's August 8 letter to Phil Brady; President Bush notes that he did not know of the matter and asks whether the White House can help Duggan.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using Zamaria routing text, Duggan's incoming letter, presidential handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alec-annual-meeting-memo-clippings",
+      documentType: "Memorandum and Press Clipping Packet",
+      category: "campaign-event-background",
+      disposition: "itemized-campaign-event-background",
+      title: "ALEC annual meeting memorandum and Colorado press clippings",
+      documentDate: "1992-08-10",
+      pages: 6,
+      excerpt:
+        "Bobbie Kilberg and Cliff Alderman brief the President on the American Legislative Exchange Council annual meeting, with attached Colorado and ALEC-related press coverage.",
+      evidence:
+        "Itemized from pages 4-9 of the NARA direct folder scan using the memorandum heading, through/from lines, ALEC subject line, clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "victor-hancock-lincoln-correspondence",
+      documentType: "Correspondence and Article Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Victor Hancock correspondence packet with Lincoln leadership materials",
+      documentDate: "1992-08-17",
+      pages: 7,
+      excerpt:
+        "President Bush thanks Victor Hancock for an article on Lincoln; the packet includes Hancock's letter, Lincoln leadership article pages, and a handwritten note about Lincoln and democracy.",
+      evidence:
+        "Itemized from pages 10-16 of the NARA direct folder scan using the presidential response, Hancock letter, Lincoln article title, handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kaufman-georgia-colorado-primary-memo",
+      documentType: "Political Affairs Memorandum",
+      category: "campaign-political-intelligence",
+      disposition: "itemized-campaign-political-intelligence",
+      title: "Ronald C. Kaufman memorandum on Georgia runoff and Colorado Senate primary",
+      documentDate: "1992-08-12",
+      pages: 2,
+      excerpt:
+        "Kaufman reports on Democratic and Republican primary results in Georgia and Colorado, including Sanford Bishop, Paul Coverdell, Bob Barr, and Ben Nighthorse Campbell.",
+      evidence:
+        "Itemized from pages 17-18 of the NARA direct folder scan using the White House memorandum heading, subject line, primary-results continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "madigan-agriculture-bullet-points",
+      documentType: "Presidential Note and Letter Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush note and Edward Madigan letter re agriculture accomplishments",
+      documentDate: "1992-08-15",
+      pages: 2,
+      excerpt:
+        "President Bush asks that Edward Madigan's agriculture bullet points be put on a small card and that the memo be returned to Madigan with his notes on it.",
+      evidence:
+        "Itemized from pages 19-20 of the NARA direct folder scan using the President's note, Madigan letter, agricultural bullet points, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jake-simmons-horner-correspondence",
+      documentType: "Internal Memorandum and Presidential Note",
+      category: "personnel-consideration",
+      disposition: "itemized-personnel-consideration",
+      title: "Constance Horner memorandum and President Bush note re Jake Simmons",
+      documentDate: "1992-08-14",
+      pages: 2,
+      excerpt:
+        "Constance Horner reports on meeting Jake Simmons about possible Interior or Energy service, following President Bush's July 22 note asking her to invite Simmons to see her.",
+      evidence:
+        "Itemized from pages 21-22 of the NARA direct folder scan using Horner's memorandum, President Bush's July 22 note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "looking-ahead-international-events-august-17-30",
+      documentType: "Calendar",
+      category: "international-events-calendar",
+      disposition: "itemized-international-events-calendar",
+      title: "Looking Ahead calendar of major international events, August 17-30, 1992",
+      documentDate: "1992-08-17",
+      pages: 1,
+      excerpt:
+        "A one-page Looking Ahead calendar lists international events, visits to the United States, and foreign travel for August 17-30, 1992.",
+      evidence:
+        "Itemized from page 23 of the NARA direct folder scan using the Looking Ahead date range, major international events grid, OCR, and rendered-page review.",
+    },
+    {
+      slug: "baker-cabinet-rank-memo-list",
+      documentType: "Internal Memorandum and List",
+      category: "chief-of-staff-transition",
+      disposition: "itemized-chief-of-staff-transition",
+      title: "Phillip Brady memorandum and list re Cabinet rank for James Baker",
+      documentDate: "1992-08-13",
+      pages: 2,
+      excerpt:
+        "Phillip Brady asks whether President Bush wants to give personal Cabinet rank to James Baker as Chief of Staff and Senior Counselor, attaching a list of people accorded Cabinet rank.",
+      evidence:
+        "Itemized from pages 24-25 of the NARA direct folder scan using Brady's memorandum, Cabinet-rank list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "convention-welcome-rally-proposed-remarks",
+      documentType: "Staffing Memorandum and Speech Draft",
+      category: "campaign-rally-remarks",
+      disposition: "itemized-campaign-rally-remarks",
+      title: "Convention welcome rally proposed remarks for Houston Astro Arena",
+      documentDate: "1992-08-17",
+      pages: 8,
+      excerpt:
+        "The packet forwards proposed remarks for the August 17 Houston Astro Arena convention welcome rally, including Steve Provost's memo and a teleprompter draft built around Texas roots, Dan Quayle, and the 'Karaoke Kids' line.",
+      evidence:
+        "Itemized from pages 26-33 of the NARA direct folder scan using the staffing memorandum, Steve Provost memorandum, Astro Arena Rally heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "howard-casey-campaign-poster-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Howard Casey campaign-poster correspondence packet",
+      documentDate: "1992-08-17",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Howard Casey for a campaign poster sent through Robert Blake and says he will pass it on to the campaign staff.",
+      evidence:
+        "Itemized from pages 34-35 of the NARA direct folder scan using the presidential response, Casey address block, related low-confidence enclosure page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pfau-flanagan-bush-clinton-analysis",
+      documentType: "Correspondence and Political Analysis Packet",
+      category: "campaign-political-intelligence",
+      disposition: "itemized-campaign-political-intelligence",
+      title: "George Pfau and Daniel Flanagan correspondence packet re Bush-Clinton campaign analysis",
+      documentDate: "1992-08-17",
+      pages: 6,
+      excerpt:
+        "President Bush thanks George H. Pfau Jr. for forwarding Daniel Flanagan's July 21 analysis of the Bush-Clinton situation, which discusses economic security, role of government, world harmony, and California.",
+      evidence:
+        "Itemized from pages 36-41 of the NARA direct folder scan using the presidential response, Pfau/Flanagan memo pages, analysis headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pat-boone-oval-office-interview-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Pat Boone correspondence packet re NBC Oval Office interview",
+      documentDate: "1992-08-17",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Pat Boone for support after Boone wrote that the President had handled an Oval Office NBC interview with decency and backbone.",
+      evidence:
+        "Itemized from pages 42-44 of the NARA direct folder scan using the presidential response, Patty Presock fax, Pat Boone letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-august-17-1992-6am",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 6:00 a.m. EDT edition, August 17, 1992",
+      documentDate: "1992-08-17",
+      pages: 33,
+      excerpt:
+        "The news summary covers Bush convention messaging, polls, Iraq, former Soviet contamination, abortion-platform fights, Buchanan, network news, Sunday talk shows, and morning political coverage.",
+      evidence:
+        "Itemized from pages 45-77 of the NARA direct folder scan using the White House News Summary masthead, 6:00 a.m. EDT edition line, section headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-coupon-time-cover-correspondence",
+      documentType: "Correspondence and Magazine Cover Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to William Coupon re Time cover photograph",
+      documentDate: "1992-08-17",
+      pages: 2,
+      excerpt:
+        "President Bush thanks photographer William Coupon for the Time cover and folded-hands portrait technique; the packet includes a photocopy of the 'Fight of His Life' cover.",
+      evidence:
+        "Itemized from pages 78-79 of the NARA direct folder scan using the presidential response, William Coupon address block, Time cover photocopy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "astro-arena-rally-speech-draft",
+      documentType: "Speech Draft",
+      category: "campaign-rally-remarks",
+      disposition: "itemized-campaign-rally-remarks",
+      title: "Astro Arena Rally speech draft, Houston, Texas, August 17, 1992",
+      documentDate: "1992-08-17",
+      pages: 9,
+      excerpt:
+        "A draft for the Houston Astro Arena rally thanks Barbara Bush and Dan Quayle, attacks Clinton and congressional Democrats, and frames Houston as the start of a Truman-style comeback.",
+      evidence:
+        "Itemized from pages 80-88 of the NARA direct folder scan using the Astro Arena Rally heading, numbered draft pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "vfw-convention-speech-draft",
+      documentType: "Speech Draft",
+      category: "vfw-convention-remarks",
+      disposition: "itemized-vfw-convention-remarks",
+      title: "VFW Convention speech draft, Indianapolis, August 17, 1992",
+      documentDate: "1992-08-17",
+      pages: 15,
+      excerpt:
+        "The VFW Convention draft praises veterans for winning the Cold War, addresses POW-MIAs and veterans' health care, and argues for a strong America at home and abroad.",
+      evidence:
+        "Itemized from pages 89-103 of the NARA direct folder scan using the VFW Convention heading, Indianapolis location, numbered draft pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "vfw-convention-proposed-remarks-packet",
+      documentType: "Staffing Memorandum and Proposed Remarks",
+      category: "vfw-convention-remarks",
+      disposition: "itemized-vfw-convention-remarks",
+      title: "Proposed remarks packet for Veterans of Foreign Wars convention",
+      documentDate: "1992-08-14",
+      pages: 10,
+      excerpt:
+        "The packet forwards proposed remarks for President Bush's August 17 address to the VFW convention, with a Brady staffing memorandum, Steve Provost discussion memo, and eight-page remarks text.",
+      evidence:
+        "Itemized from pages 104-113 of the NARA direct folder scan using the staffing memorandum, Provost memorandum, Presidential Remarks heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "denver-post-fiery-bush-wimp-clipping",
+      documentType: "Press Clipping",
+      category: "campaign-press-clipping",
+      disposition: "itemized-campaign-press-clipping",
+      title: "Denver Post clipping: Fiery Bush leaves 'Wimp' at home",
+      documentDate: "1992-08-17",
+      pages: 1,
+      excerpt:
+        "A Denver Post clipping by Peter Blake reports on President Bush's Colorado Springs campaign remarks and Republican reactions to a tougher campaign tone.",
+      evidence:
+        "Itemized from page 114 of the NARA direct folder scan using the clipping headline, Denver Post column layout, OCR, and rendered-page review.",
+    },
+    {
+      slug: "domenici-setting-record-straight-packet",
+      documentType: "Congressional Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Pete Domenici correspondence packet re Setting the Record Straight",
+      documentDate: "1992-08-06",
+      pages: 4,
+      excerpt:
+        "Nicholas Calio forwards Senator Pete Domenici's letter and Senate Budget Committee 'Setting the Record Straight' material, with a draft presidential response thanking Domenici for helping fight attempts to rewrite history.",
+      evidence:
+        "Itemized from pages 115-118 of the NARA direct folder scan using Calio's memorandum, presidential draft response, Domenici letter, Budget Committee cover page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "august-17-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title: "White House telephone memoranda for President Bush and Signal Switchboard, August 17, 1992",
+      documentDate: "1992-08-17",
+      pages: 2,
+      excerpt:
+        "Telephone memorandum pages list calls with Robert Teeter, Burton J. Lee III, Bruce Stephen, Samuel Skinner, Alan Simpson, Carla Hills, Rose Zamaria, Carroll Campbell, Alan Keyes, and Condoleezza Rice.",
+      evidence:
+        "Itemized from pages 119-120 of the NARA direct folder scan using the Telephone Memorandum forms, President Bush and Signal Switchboard labels, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-august-17-1992",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential movements: Washington, Indianapolis, and Houston, August 17, 1992",
+      documentDate: "1992-08-17",
+      pages: 1,
+      excerpt:
+        "The movement log tracks President Bush from the White House to Indianapolis and Houston, including Marine One, Air Force One, the Indianapolis Convention Center, Westin Hotel, Ellington Field, Astro Arena, and the Houstonian Hotel.",
+      evidence:
+        "Itemized from page 121 of the NARA direct folder scan using the Presidential Movements heading, location list, time entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bush-quayle-92-rally-transcript",
+      documentType: "Official Remarks Transcript",
+      category: "campaign-rally-remarks",
+      disposition: "itemized-campaign-rally-remarks",
+      title: "Remarks by the President at Bush-Quayle '92 Rally, Houston Astrodome",
+      documentDate: "1992-08-17",
+      pages: 4,
+      excerpt:
+        "The Houston press office transcript records President Bush's rally remarks at the Astrodome, including greetings to campaign officials, Dan Quayle, Texas roots, Clinton attacks, and the comeback theme.",
+      evidence:
+        "Itemized from pages 122-125 of the NARA direct folder scan using the Office of the Press Secretary transcript heading, Houston Astrodome location, fax header, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lebanon-air-cargo-presidential-determination",
+      documentType: "Presidential Determination Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Presidential Determination No. 92-41 on foreign air cargo service to Lebanon",
+      documentDate: "1992-08-17",
+      pages: 1,
+      excerpt:
+        "President Bush determines that the ban on transportation services to Lebanon should be amended to permit outward cargo carriage to Lebanon by foreign carriers.",
+      evidence:
+        "Itemized from page 126 of the NARA direct folder scan using the Office of the Press Secretary release heading, Presidential Determination No. 92-41, subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dean-mcgrath-deputy-staff-secretary-appointment",
+      documentType: "Appointment Press Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Appointment of C. Dean McGrath Jr. as Deputy Assistant and Deputy Staff Secretary",
+      documentDate: "1992-08-17",
+      pages: 1,
+      excerpt:
+        "The White House announces C. Dean McGrath Jr.'s appointment as Deputy Assistant to the President and Deputy Staff Secretary, summarizing his Peace Corps, Transportation, Defense, and White House service.",
+      evidence:
+        "Itemized from page 127 of the NARA direct folder scan using the White House press release heading, appointment announcement, biographical text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "indiana-major-disaster-declaration-release",
+      documentType: "Disaster Declaration Press Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Indiana major disaster declaration press release",
+      documentDate: "1992-08-17",
+      pages: 1,
+      excerpt:
+        "The White House announces a major disaster declaration for Indiana after severe weather, torrential rains, and flash flooding on August 8-9, making federal aid available to affected counties.",
+      evidence:
+        "Itemized from page 128 of the NARA direct folder scan using the Office of the Press Secretary heading, Indiana disaster declaration text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-jefferson-commemoration-statement",
+      documentType: "Statement by the President",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Statement by the President on the Thomas Jefferson Commemoration Commission Act",
+      documentDate: "1992-08-17",
+      pages: 1,
+      excerpt:
+        "President Bush signs S. 959, the Thomas Jefferson Commemoration Commission Act, and states his constitutional understanding of the Commission's executive functions.",
+      evidence:
+        "Itemized from page 129 of the NARA direct folder scan using the Statement by the President heading, bill title, signing statement text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "albania-export-import-bank-determination",
+      documentType: "Presidential Determination Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Presidential Determination No. 92-40 on Export-Import Bank financing for Albania",
+      documentDate: "1992-08-17",
+      pages: 1,
+      excerpt:
+        "President Bush determines that it is in the national interest for the Export-Import Bank to support credit connected with products or services for use in, or sale or lease to, Albania.",
+      evidence:
+        "Itemized from page 130 of the NARA direct folder scan using the Office of the Press Secretary heading, Presidential Determination No. 92-40, Export-Import Bank subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "angolan-refugees-migration-assistance-determination",
+      documentType: "Presidential Determination Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Presidential Determination No. 92-39 on emergency migration assistance for Angolan refugees",
+      documentDate: "1992-08-17",
+      pages: 1,
+      excerpt:
+        "President Bush determines that up to $14 million from the U.S. Emergency Refugee and Migration Assistance Fund should be made available for Angolan refugees and returnees.",
+      evidence:
+        "Itemized from page 131 of the NARA direct folder scan using the Office of the Press Secretary heading, Presidential Determination No. 92-39, Migration and Refugee Assistance Act subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "vfw-93rd-national-convention-transcript",
+      documentType: "Official Remarks Transcript",
+      category: "vfw-convention-remarks",
+      disposition: "itemized-vfw-convention-remarks",
+      title: "Remarks by the President to the VFW 93rd National Convention",
+      documentDate: "1992-08-17",
+      pages: 5,
+      excerpt:
+        "The Indianapolis press office transcript records President Bush's remarks to the VFW national convention, including comments on veterans, Vietnam, the Cold War, POW-MIAs, health care, and national renewal.",
+      evidence:
+        "Itemized from pages 132-136 of the NARA direct folder scan using the Office of the Press Secretary transcript heading, VFW 93rd National Convention title, Indianapolis location, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pelly-amendment-tuna-letter-release",
+      documentType: "Presidential Letter Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Text of President Bush letter on Pelly Amendment certification and yellowfin tuna imports",
+      documentDate: "1992-08-17",
+      pages: 1,
+      excerpt:
+        "President Bush notifies congressional leaders of a certification involving yellowfin tuna imports under the Fishermen's Protective Act and Marine Mammal Protection Act.",
+      evidence:
+        "Itemized from page 137 of the NARA direct folder scan using the Office of the Press Secretary heading, Pelly Amendment language, text-of-letter title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "security-arrangements-commitments-letter-release",
+      documentType: "Presidential Letter Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Text of President Bush letter transmitting reports on U.S. security arrangements and commitments",
+      documentDate: "1992-08-17",
+      pages: 1,
+      excerpt:
+        "President Bush transmits classified and unclassified reports on U.S. security arrangements with, and commitments to, other nations to armed-services and foreign-affairs committees.",
+      evidence:
+        "Itemized from page 138 of the NARA direct folder scan using the Office of the Press Secretary heading, Section 1457 letter title, committee-recipient text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "donald-haider-correspondence",
+      documentType: "Correspondence Packet with President Bush Handwriting",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Donald H. Haider correspondence packet re convention support",
+      documentDate: "1992-08-17",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Donald H. Haider for a thoughtful letter of support, says he has arrived in Houston for the convention, and is confident about November.",
+      evidence:
+        "Itemized from pages 139-140 of the NARA direct folder scan using the presidential response, Donald Haider address block, incoming letter page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "king-hussein-handwritten-note",
+      documentType: "Handwritten Presidential Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "President Bush handwritten note to King Hussein re Mayo Clinic and Dr. Burton Lee",
+      documentDate: "1992-08-17",
+      pages: 2,
+      excerpt:
+        "President Bush writes King Hussein from Houston, saying he has asked his physician and trusted friend Dr. Burton Lee to see whether anything can be done to make the King's stay at Mayo as pleasant as possible.",
+      evidence:
+        "Itemized from pages 141-142 of the NARA direct folder scan using high-resolution rendered-page review of President Bush handwriting, King Hussein address text, and OCR.",
+    },
+    {
+      slug: "kristina-rose-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Kristina C. Rose correspondence packet re 1992 campaign concerns",
+      documentDate: "1992-08-17",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Kristina C. Rose for her August 7 letter, says he understands her worries about the campaign, and predicts the convention will start turning things around.",
+      evidence:
+        "Itemized from pages 143-145 of the NARA direct folder scan using the presidential response, Kristina Rose address block, incoming fax pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "vfw-convention-speech-photocopy-handwriting",
+      documentType: "Speech Draft with President Bush Handwriting",
+      category: "vfw-convention-remarks",
+      disposition: "itemized-vfw-convention-remarks",
+      title: "VFW Convention speech photocopy with President Bush handwriting",
+      documentDate: "1992-08-17",
+      pages: 15,
+      excerpt:
+        "A Bush Library photocopy of the VFW Convention speech includes a cover page and fourteen pages of remarks with President Bush handwriting visible throughout the copy.",
+      evidence:
+        "Itemized from pages 146-160 of the NARA direct folder scan using the VFW Convention Speech cover page, Bush Library photocopy markers, handwritten revisions, OCR, and rendered-page review.",
+    },
+  ],
   470417997: [
     {
       slug: "marked-branson-rally-remarks",
@@ -23804,6 +24261,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417976",
   "470417978",
   "470417981",
+  "470417985",
   "470418083",
 ]);
 
