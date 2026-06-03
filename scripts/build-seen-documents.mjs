@@ -4149,6 +4149,346 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from fax and Debate Cont'd headings found in full-PDF OCR of the NARA direct folder scan.",
     },
   ],
+  470418144: [
+    {
+      slug: "linda-price-routing-and-correspondence",
+      documentType: "Routing Note and Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Rose Zamaria routing note and Linda A. Price correspondence",
+      documentDate: "1992-10-21",
+      pages: 1,
+      excerpt:
+        "Rose Zamaria asks that Linda A. Price be called regarding a note; the page includes Price's 24 Hour Wrecker Service contact information and handwritten routing marks.",
+      evidence:
+        "Itemized from the White House routing page and Price letterhead found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "apn-daily-briefing-october-21-1992",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing-item",
+      disposition: "itemized-daily-political-briefing",
+      title: "The Daily Briefing on American Politics: Wednesday, October 21, 1992",
+      documentDate: "1992-10-21",
+      pages: 24,
+      excerpt:
+        "The American Political Network daily briefing includes White House, Clinton, Perot, Iraq, debates, state polling, Senate, House, and television-monitor sections.",
+      evidence:
+        "Itemized from The Daily Briefing on American Politics heading, APN Bulletin Board, and Hotline sections found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "october-21-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title: "White House telephone memoranda and Signal Switchboard log: October 21, 1992",
+      documentDate: "1992-10-21",
+      pages: 2,
+      excerpt:
+        "White House telephone memoranda record October 21 calls including Richard Allen, Prime Minister Brian Mulroney, Barbara Bush, Michael Boskin, Roger Ailes, Robert Mosbacher, James Baker, Nicholas Brady, and others.",
+      evidence:
+        "Itemized from White House telephone memorandum and Signal Switchboard headings found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "october-21-presidential-movements",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-item",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: Raleigh and North Carolina campaign stops, October 21, 1992",
+      documentDate: "1992-10-21",
+      pages: 1,
+      excerpt:
+        "The movements log tracks the President through Raleigh, the Waffle House, North Carolina campaign stops, and State Fair events on October 21.",
+      evidence:
+        "Itemized from a Presidential Movements heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "huda-bingham-jones-presidential-scholars-appointment",
+      documentType: "Appointment Release",
+      category: "appointment-release",
+      disposition: "itemized-appointment-release",
+      title: "Appointment release: Huda Bingham Jones to the Commission on Presidential Scholars",
+      documentDate: "1992-10-21",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to appoint Huda Bingham Jones, of Kentucky, to be a member of the Commission on Presidential Scholars.",
+      evidence:
+        "Itemized from an Office of the Press Secretary appointment release found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "john-harriman-national-advisory-council-public-service",
+      documentType: "Appointment Release",
+      category: "appointment-release",
+      disposition: "itemized-appointment-release",
+      title: "Appointment release: John H. Harriman to the National Advisory Council on the Public Service",
+      documentDate: "1992-10-21",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to appoint John H. Harriman, of California, as a public member of the National Advisory Council on the Public Service.",
+      evidence:
+        "Itemized from an Office of the Press Secretary appointment release found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "genesis-womens-shelter-point-of-light",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press Release: Genesis Women's Shelter volunteers recognized as 929th Daily Point of Light",
+      documentDate: "1992-10-21",
+      pages: 1,
+      excerpt:
+        "The President recognizes the volunteers of Genesis Women's Shelter of Dallas, Texas, as the 929th Daily Point of Light.",
+      evidence:
+        "Itemized from an Office of the Press Secretary Daily Point of Light release found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "bill-signing-release-october-21-1992",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press Release: President signs H.R. 5237, H.R. 5739, and H.R. 3665",
+      documentDate: "1992-10-21",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's signing of H.R. 5237 on Rural Electrification Administration loan prepayment, H.R. 5739 on Export-Import Bank and export promotion programs, and H.R. 3665 creating Little River Canyon National Preserve.",
+      evidence:
+        "Itemized from an Office of the Press Secretary bill-signing release found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "memorandum-of-disapproval-jena-band-choctaws",
+      documentType: "Memorandum of Disapproval",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title: "Memorandum of Disapproval for S. 3095, Jena Band of Choctaws of Louisiana Restoration Act",
+      documentDate: "1992-10-21",
+      pages: 1,
+      excerpt:
+        "The President withholds approval of S. 3095, arguing that recognition of the Jena Band of Choctaws should proceed through the established Federal acknowledgement process.",
+      evidence:
+        "Itemized from the Memorandum of Disapproval heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "executive-order-iraqi-assets-domestic-banks",
+      documentType: "Executive Order",
+      category: "executive-order",
+      disposition: "itemized-executive-order",
+      title: "Executive Order: Transfer of Certain Iraqi Government Assets Held by Domestic Banks",
+      documentDate: "1992-10-21",
+      pages: 2,
+      excerpt:
+        "The executive order directs actions to transfer certain blocked Iraqi government funds and assets held by domestic banks under U.N. Security Council Resolution 778.",
+      evidence:
+        "Itemized from the Executive Order heading and continuation page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "alan-reynolds-worst-lies-economy-column",
+      documentType: "Press Column",
+      category: "campaign-press-article",
+      disposition: "itemized-campaign-press-article",
+      title: "Alan Reynolds column: The Worst Lies About the Economy in the Past 50 Years",
+      documentDate: "1992-10-21",
+      pages: 1,
+      excerpt:
+        "A clipped Alan Reynolds column argues that Bill Clinton's debate claims about the economy are inaccurate.",
+      evidence:
+        "Itemized from the clipped column page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "october-21-presidential-schedule",
+      documentType: "Presidential Schedule",
+      category: "presidential-schedule-item",
+      disposition: "itemized-presidential-schedule",
+      title: "Schedule of the President: Wednesday, October 21, 1992",
+      documentDate: "1992-10-21",
+      pages: 2,
+      excerpt:
+        "The schedule lists the President's October 21 whistlestop and North Carolina events, including Spartanburg, Gastonia, Kannapolis, Thomasville, Burlington, and Raleigh.",
+      evidence:
+        "Itemized from Schedule of the President pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "electronic-industries-association-recommended-call",
+      documentType: "Recommended Telephone Call",
+      category: "recommended-call-item",
+      disposition: "itemized-recommended-telephone-call",
+      title: "Recommended telephone call to Electronic Industries Association Board of Governors",
+      documentDate: "1992-10-21",
+      pages: 3,
+      excerpt:
+        "The recommended-call packet asks the President to call the Electronic Industries Association Board of Governors to thank the industry for support and discuss exports, R&D, tax policy, high-tech employment, and endorsements.",
+      evidence:
+        "Itemized from recommended-call pages and a Situation Room fax cover sheet found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "baker-choice-november-third-draft-remarks",
+      documentType: "Memorandum and Remarks Draft",
+      category: "campaign-remarks-draft",
+      disposition: "itemized-campaign-remarks-draft",
+      title: "James A. Baker III memorandum and draft remarks: The Choice on November Third",
+      documentDate: "1992-10-20",
+      pages: 15,
+      excerpt:
+        "James A. Baker III sends the President a draft speech titled 'The Choice on November Third: Philosophy, Policy, Character,' arguing for a final contrast with Clinton.",
+      evidence:
+        "Itemized from a Baker memorandum, attachment marker, and draft-remarks pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "margaret-tutwiler-handwritten-note",
+      documentType: "Handwritten Note",
+      category: "handwritten-note-item",
+      disposition: "itemized-handwritten-note",
+      title: "Handwritten note from Margaret Tutwiler to the President",
+      documentDate: "1992-10-21",
+      pages: 1,
+      excerpt:
+        "Margaret Tutwiler thanks the President for kind remarks and encouragement in a handwritten note.",
+      evidence:
+        "Itemized from the Margaret Tutwiler handwritten note found in rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "october-21-pool-reports-north-carolina",
+      documentType: "Pool Reports",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report-packet",
+      title: "Pool reports: Gastonia, State Fair, and Raleigh, October 21, 1992",
+      documentDate: "1992-10-21",
+      pages: 3,
+      excerpt:
+        "Pool reports cover the President at a Gastonia Waffle House, the North Carolina State Fair, and the Raleigh motorcade to the Radisson.",
+      evidence:
+        "Itemized from Pool Report headings and continuation pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-october-21-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Wednesday, October 21, 1992",
+      documentDate: "1992-10-21",
+      pages: 21,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet includes Republican events, ice-cream polling, Clinton flag-burning charges and apologies, Prescott Bush, Hillary Clinton, women in politics, and campaign-family stories.",
+      evidence:
+        "Itemized from a Mrs. Bush's Press Office Daily Press Clippings cover page and clipping run found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "alec-courtelis-campaign-correspondence",
+      documentType: "Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Alec P. Courtelis correspondence packet re final debate and Clinton character issues",
+      documentDate: "1992-10-21",
+      pages: 4,
+      excerpt:
+        "The packet includes the President's response to Alec Courtelis, Courtelis's October 19 personal fax, and advice on character arguments after the last debate.",
+      evidence:
+        "Itemized from George Bush letterhead, Courtelis fax pages, and related correspondence found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "lauren-campaign-train-correspondence",
+      documentType: "Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Lauren correspondence re campaign train and school campaign report",
+      documentDate: "1992-10-21",
+      pages: 2,
+      excerpt:
+        "The President writes Lauren about being on the train with her father, a television report, and Lauren's report on the campaign in school, with an incoming handwritten page attached.",
+      evidence:
+        "Itemized from George Bush letterhead and the attached handwritten page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "mortgage-discrimination-talking-points",
+      documentType: "Talking Points",
+      category: "campaign-talking-points",
+      disposition: "itemized-campaign-talking-points",
+      title: "Mortgage discrimination talking points",
+      documentDate: "1992-10-20",
+      pages: 1,
+      excerpt:
+        "Talking points marked as seen by the President address mortgage discrimination, OCC advisories, fair-lending enforcement, and Administration actions.",
+      evidence:
+        "Itemized from a faxed talking-points page with President Has Seen marking found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "loose-campaign-press-clippings-october-21-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Loose campaign press clippings on debates, Iraq, tax, Clinton, Perot, defense, and the campaign trail",
+      documentDate: "1992-10-21",
+      pages: 69,
+      excerpt:
+        "A loose clipping run draws from The Washington Post, The New York Times, Los Angeles Times, The Washington Times, Newsday, and other outlets on the presidential debates, voter anger, tax legislation, Iraq/Kuwait cables, Clinton and Perot, campaign strategy, and military and media issues.",
+      evidence:
+        "Itemized from a long sequence of newspaper clipping starts, mastheads, and continuation pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "us-news-campaign-iraqgate-article-packet",
+      documentType: "Magazine Article Packet",
+      category: "magazine-article-packet",
+      disposition: "itemized-magazine-article-packet",
+      title: "U.S. News and World Report campaign and Iraqgate article packet",
+      documentDate: "1992-10-21",
+      pages: 19,
+      excerpt:
+        "U.S. News and World Report pages include best-jobs cover material, debate spin, Washington Whispers, Clinton campaign analysis, Iraqgate reporting, and Mortimer Zuckerman's Arrogance of Power editorial.",
+      evidence:
+        "Itemized from U.S. News and World Report cover/article pages and continuation pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "wall-street-journal-october-21-campaign-economy-articles",
+      documentType: "Press Articles",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title: "Wall Street Journal articles on Clinton, markets, GATT, the Bush campaign, and the economy",
+      documentDate: "1992-10-21",
+      pages: 9,
+      excerpt:
+        "The Wall Street Journal packet covers Clinton's compensation-tax position, bond-market expectations, the presidential homestretch, GATT, Bush campaign missteps, and Alan Reynolds on the economy.",
+      evidence:
+        "Itemized from Wall Street Journal mastheads and article starts found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "education-media-and-broadcasting-clippings",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Loose education, media, and broadcasting clippings",
+      documentDate: "1992-10-21",
+      pages: 9,
+      excerpt:
+        "Loose clippings include USA Today education-policy arguments, taxes and deficit commentary, Time material, Broadcasting articles on television and FCC issues, and media-business pages.",
+      evidence:
+        "Itemized from USA Today, Time, Broadcasting, and related clipping pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "new-republic-baker-clinton-conservatism-articles",
+      documentType: "Magazine Article Packet",
+      category: "magazine-article-packet",
+      disposition: "itemized-magazine-article-packet",
+      title: "New Republic articles on James Baker, Clinton, and conservatism",
+      documentDate: "1992-10-21",
+      pages: 8,
+      excerpt:
+        "The New Republic packet includes Sidney Blumenthal on James Baker, Joshua Muravchik on supporting Bill Clinton, and articles on conservatism and the First Amendment.",
+      evidence:
+        "Itemized from New Republic masthead and article pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "official-white-house-photo-transfer-pages-october-1992",
+      documentType: "Official White House Photographs",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photo transfer pages, October 1992",
+      documentDate: "1992-10-21",
+      pages: 14,
+      excerpt:
+        "Official White House photo pages and transfer placeholders appear at the end of the direct folder scan, including campaign-event photographs with handwritten location notes.",
+      evidence:
+        "Itemized from official White House photograph pages and transfer placeholders found in rendered page review of the NARA direct folder scan.",
+    },
+  ],
   470418164: [
     {
       slug: "manor-house-reception-acceptances",
