@@ -11977,6 +11977,256 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from page 100 of the NARA direct folder scan using the repeated May 22 Dear Michael letter, Michael Eisner addressee, Points of Light text, OCR, and rendered-page review.",
     },
   ],
+  470417809: [
+    {
+      slug: "cities-in-schools-funding-packet",
+      documentType: "Correspondence and Funding Packet",
+      category: "education-policy-correspondence",
+      disposition: "itemized-education-policy-correspondence",
+      title: "Cities in Schools funding correspondence and follow-up packet",
+      documentDate: "1992-05-31",
+      pages: 6,
+      excerpt:
+        "The packet includes the President's May 31 note to Dick Darman, Jack Kemp, and Lamar Alexander about Cities in Schools funding, William Milliken's note and May 13 letter to Kemp, and Barbara Franklin's later Commerce Department follow-up.",
+      evidence:
+        "Itemized from pages 2-7 of the NARA direct folder scan using the President's May 31 note, Bill Milliken handwritten page, Cities In Schools letter to Jack Kemp, Secretary of Commerce response page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "may-31-camp-david-telephone-movement-logs",
+      documentType: "Telephone and Movement Logs",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "May 31 Camp David telephone, movement, and WHCA fax log packet",
+      documentDate: "1992-05-31",
+      pages: 7,
+      excerpt:
+        "The packet gathers Camp David telephone memoranda, presidential movement logs, a WHCA Voice Operations fax transmittal, and a Document Originally Attached marker from May 31.",
+      evidence:
+        "Itemized from pages 8-14 of the NARA direct folder scan using Signal Switchboard telephone memo forms, Presidential Movements pages, WHCA Voice Operations fax transmittal, Document Originally Attached marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "engler-dod-accounting-centers-urban-areas-packet",
+      documentType: "President's Note and Phone Call Packet",
+      category: "urban-policy-packet",
+      disposition: "itemized-urban-policy",
+      title:
+        "John Engler and DOD accounting centers for urban areas follow-up packet",
+      documentDate: "1992-05-31",
+      pages: 4,
+      excerpt:
+        "The President relays John Engler's suggestion that DOD accounting centers be placed in urban centers as an urban strategy and jobs measure, with follow-up copies to senior officials and related phone-call forms.",
+      evidence:
+        "Itemized from pages 15-18 of the NARA direct folder scan using the President-to-Dick Cheney note, continuation and cc page to Sam Skinner, Don Atwood, and Clayton Yeutter, presidential phone-call forms, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-truly-letter-and-camp-david-call-notes",
+      documentType: "President's Phone Call Notes",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Mrs. Truly letter query and Camp David phone-call note",
+      documentDate: "1992-05-31",
+      pages: 2,
+      excerpt:
+        "The President asks Rose Zamaria where the letter from Mrs. Truly is, followed by a Camp David presidential phone-call form with handwritten notes.",
+      evidence:
+        "Itemized from pages 19-20 of the NARA direct folder scan using the President-to-RZ handwritten query about Mrs. Truly, Camp David Presidential Phone Calls form, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-engler-campaign-anxiety-memo",
+      documentType: "Campaign Strategy Memorandum and Call Note",
+      category: "campaign-strategy-memorandum",
+      disposition: "itemized-campaign-strategy",
+      title: "John Engler campaign-anxiety memorandum and phone-call note",
+      documentDate: "1992-05-31",
+      pages: 2,
+      excerpt:
+        "The President briefs Sam Skinner and Bob Teeter on John Engler's worries about Michigan, Perot, discontent, the North Dallas fund-raiser, and press stories about campaign disarray.",
+      evidence:
+        "Itemized from pages 21-22 of the NARA direct folder scan using the typed President-to-Sam Skinner and Bob Teeter memorandum, John Engler call note, Bush Library photocopy label, OCR, and rendered-page review.",
+    },
+    {
+      slug: "clinton-literacy-charge-rebuttal-packet",
+      documentType: "Memorandum and Talking Points Packet",
+      category: "education-policy-packet",
+      disposition: "itemized-education-policy",
+      title: "Clinton literacy charge rebuttal packet",
+      documentDate: "1992-05-31",
+      pages: 5,
+      excerpt:
+        "The President sends Bob Teeter material rebutting Bill Clinton's charge that the administration had reduced literacy support, with OMB figures, education statistics, and Lamar Alexander's statement.",
+      evidence:
+        "Itemized from pages 23-27 of the NARA direct folder scan using the President-to-Bob Teeter note, Darman OMB memorandum, literacy statistics page, Ede Holiday transmittal, Lamar Alexander statement, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nicholas-brady-campaign-strategy-packet",
+      documentType: "Memorandum and Press Article Packet",
+      category: "campaign-strategy-memorandum",
+      disposition: "itemized-campaign-strategy",
+      title: "Nicholas Brady campaign strategy memorandum packet",
+      documentDate: "1992-05-31",
+      pages: 5,
+      excerpt:
+        "The President thanks Nicholas Brady for a campaign and economy memorandum addressing Perot, Brown, Buchanan voters, discontent, values, and economic framing, with a David Broder column attached.",
+      evidence:
+        "Itemized from pages 28-32 of the NARA direct folder scan using the President-to-Nick Brady note, From the President page, Brady campaign strategy memorandum, Washington Post David Broder Bob Michel column, OCR, and rendered-page review.",
+    },
+    {
+      slug: "iraq-policy-boston-globe-editorial-packet",
+      documentType: "President's Note and Press Clipping",
+      category: "foreign-policy-press-clipping",
+      disposition: "itemized-foreign-policy",
+      title: "Iraq policy Boston Globe editorial packet",
+      documentDate: "1992-05-31",
+      pages: 2,
+      excerpt:
+        "The President sends Brent Scowcroft, Dorrance Smith, and Tony Snow a Boston Sunday Globe editorial he calls good, with a headline he likes and a piece he judges acceptable.",
+      evidence:
+        "Itemized from pages 33-34 of the NARA direct folder scan using the President's note to Brent, Dorrance, and Tony, Boston Sunday Globe clipping on Iraq policy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "camp-david-handwritten-phone-call-notes",
+      documentType: "President's Phone Call Notes",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Camp David handwritten presidential phone-call notes",
+      documentDate: "1992-05-31",
+      pages: 3,
+      excerpt:
+        "Three Camp David Presidential Phone Calls forms preserve the President's handwritten notes on separate calls and follow-up matters.",
+      evidence:
+        "Itemized from pages 35-37 of the NARA direct folder scan using three Presidential Phone Calls forms, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cleveland-inner-cities-speech-outline-packet",
+      documentType: "Speech Outline and Draft Packet",
+      category: "speech-materials-packet",
+      disposition: "itemized-speech-materials",
+      title: "Cleveland and inner-cities speech outline packet",
+      documentDate: "1992-05-31",
+      pages: 6,
+      excerpt:
+        "The packet contains Bush's handwritten Cleveland outline and typed inner-city speech material built around a six-point plan covering Weed and Seed, HOPE, welfare reform, jobs, job training, education reform, and neighborhood revival.",
+      evidence:
+        "Itemized from pages 38-43 of the NARA direct folder scan using the From the desk of George Bush marker, Cleveland Outline pages, six-point plan text, repeated typed paragraph, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hudnut-beppie-huidekoper-voices-packet",
+      documentType: "Correspondence and Article Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William H. Hudnut, Beppie Huidekoper, and Voices article packet",
+      documentDate: "1992-05-31",
+      pages: 5,
+      excerpt:
+        "The President replies to William H. Hudnut, asks about Beppie Huidekoper and Jane's whereabouts, and reviews an attached Voices article or interview excerpt.",
+      evidence:
+        "Itemized from pages 44-48 of the NARA direct folder scan using the annotated incoming page, President-to-John note, Harvard Kennedy School and Institute of Politics letterhead, Voices article pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "iraq-policy-boston-globe-editorial-second-copy",
+      documentType: "President's Note and Press Clipping",
+      category: "foreign-policy-press-clipping",
+      disposition: "itemized-foreign-policy",
+      title: "Second copy of Iraq policy Boston Globe editorial packet",
+      documentDate: "1992-05-31",
+      pages: 2,
+      excerpt:
+        "A second copy repeats the President's note to Brent Scowcroft, Dorrance Smith, and Tony Snow and the Boston Globe Iraq policy editorial.",
+      evidence:
+        "Itemized from pages 49-50 of the NARA direct folder scan using the repeated President's note to Brent, Dorrance, and Tony, Boston Globe clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "camp-david-air-force-one-phone-call-note-packet",
+      documentType: "Phone Call Note Packet",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Camp David and Air Force One phone-call note packet",
+      documentDate: "1992-05-31",
+      pages: 4,
+      excerpt:
+        "The packet includes Camp David and Air Force One presidential phone-call forms, a handwritten call note, and a Camp David switchboard message about a call from Mr. Ashley.",
+      evidence:
+        "Itemized from pages 51-54 of the NARA direct folder scan using Camp David and Aboard Air Force One Presidential Phone Calls forms, Beth Walker handwritten note, Mr. Ashley message page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "curtis-hamilton-books-correspondence",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Curtis Hamilton books correspondence",
+      documentDate: "1992-05-31",
+      pages: 2,
+      excerpt:
+        "The President thanks Curtis Hamilton for books sent to him and Mrs. Bush and jokes that Millie may go into space after reading the booklet.",
+      evidence:
+        "Itemized from pages 55-56 of the NARA direct folder scan using the May 31 Dear Curtis letter, duplicate photocopy, Millie space booklet line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bradford-freeman-golf-driver-correspondence",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Bradford M. Freeman tennis and golf-driver correspondence",
+      documentDate: "1992-05-31",
+      pages: 2,
+      excerpt:
+        "The President replies to Bradford Freeman about tennis, an ugly political climate, and the new golf driver Freeman enclosed after their match.",
+      evidence:
+        "Itemized from pages 57-58 of the NARA direct folder scan using the May 31 Dear Brad reply, May 21 Bradford Freeman letter, Big Head driver reference, tennis note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gop-women-press-clippings",
+      documentType: "Press Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "GOP women press clipping packet",
+      documentDate: "1992-05-31",
+      pages: 4,
+      excerpt:
+        "The clipping packet collects press commentary on Republican women, backlash politics, Naomi Wolf, Lynn Yeakel, and women in public life.",
+      evidence:
+        "Itemized from pages 59-62 of the NARA direct folder scan using Bob Dole's Is America Ignoring GOP Women clipping, Naomi Wolf commencement/backlash clipping, Anna Quindlen column, OCR, and rendered-page review.",
+    },
+    {
+      slug: "education-whittle-edison-project-clippings",
+      documentType: "Press Clipping Packet",
+      category: "education-policy-clippings",
+      disposition: "itemized-education-policy-clippings",
+      title: "Education, Christopher Whittle, and Edison Project clipping packet",
+      documentDate: "1992-05-31",
+      pages: 6,
+      excerpt:
+        "The packet gathers education clippings on Christopher Whittle, Benno Schmidt, the Edison Project, reading lists, Channel One, America 2000, and efforts to reinvent education.",
+      evidence:
+        "Itemized from pages 63-68 of the NARA direct folder scan using Christopher Whittle and Edison Project clippings, assigned reading lists article, William Murchison education column, Time article pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cities-in-schools-funding-packet-second-copy",
+      documentType: "Correspondence and Funding Packet",
+      category: "education-policy-correspondence",
+      disposition: "itemized-education-policy-correspondence",
+      title: "Second copy of Cities in Schools funding correspondence packet",
+      documentDate: "1992-05-31",
+      pages: 5,
+      excerpt:
+        "A second copy repeats the President's Cities in Schools funding note, William Milliken's May 13 letter to Jack Kemp, and Milliken's personal note to the President.",
+      evidence:
+        "Itemized from pages 69-73 of the NARA direct folder scan using the repeated President-to-Darman/Kemp/Alexander note, Cities In Schools letter pages, Milliken personal note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bradford-freeman-golf-driver-reply-second-copy",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Second copy of Bradford M. Freeman golf-driver reply",
+      documentDate: "1992-05-31",
+      pages: 1,
+      excerpt:
+        "A second copy repeats the President's May 31 reply to Bradford Freeman thanking him for the new driver and reflecting on tennis and politics.",
+      evidence:
+        "Itemized from page 74 of the NARA direct folder scan using the repeated Dear Brad reply, golf-driver note, OCR, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -18658,6 +18908,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417782",
   "470417793",
   "470417794",
+  "470417809",
   "470418083",
 ]);
 
