@@ -649,6 +649,229 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from Reuters Gulf-Bush fourth-lead wire headings and rendered page review of the NARA direct folder scan.",
     },
   ],
+  470417389: [
+    {
+      slug: "presidential-log-selected-congressional-mail",
+      documentType: "Congressional Mail Log",
+      category: "congressional-correspondence-log",
+      disposition: "itemized-congressional-correspondence-log",
+      title: "Presidential Log of Selected Congressional Mail: Week of October 4-10, 1991",
+      documentDate: "1991-10-10",
+      pages: 2,
+      excerpt:
+        "The congressional mail log summarizes selected correspondence from John Kerry, Hank Brown, Vin Weber, Claiborne Pell, Edward Feighan, Kit Bond, and Christopher Dodd.",
+      evidence:
+        "Itemized from a Presidential Log of Selected Congressional Mail heading and continuation page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "cabinet-report-highlights-october-13-19",
+      documentType: "Cabinet Report Highlights",
+      category: "cabinet-affairs-report",
+      disposition: "itemized-cabinet-affairs-report",
+      title: "Memorandum from Ede Holiday to the President re Cabinet Report Highlights, October 13-19, 1991",
+      documentDate: "1991-10-11",
+      pages: 2,
+      excerpt:
+        "Ede Holiday highlights the week ahead for the Cabinet, including Baker travel, Sullivan travel, economic releases, wetlands testimony, and education testimony.",
+      evidence:
+        "Itemized from the Cabinet Affairs cover page and Cabinet Report Highlights memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "cabinet-report-october-13-19",
+      documentType: "Cabinet Report",
+      category: "cabinet-affairs-report",
+      disposition: "itemized-cabinet-affairs-report",
+      title: "Memorandum from Ede Holiday to the President re Cabinet Report, October 13-19, 1991",
+      documentDate: "1991-10-11",
+      pages: 8,
+      excerpt:
+        "Ede Holiday's Cabinet Report previews agency travel, meetings, releases, testimony, and horizon items for the week of October 13-19, 1991.",
+      evidence:
+        "Itemized from the Cabinet Report memorandum heading and eight-page report sequence found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "cabinet-schedule-october-13-19",
+      documentType: "Cabinet Schedule",
+      category: "cabinet-affairs-schedule",
+      disposition: "itemized-cabinet-affairs-schedule",
+      title: "Cabinet Schedule for the Week of October 13-19, 1991",
+      documentDate: "1991-10-11",
+      pages: 3,
+      excerpt:
+        "Office of Cabinet Affairs schedule tables list Cabinet travel, meetings, testimony, fundraisers, and public appearances for October 13-19, 1991.",
+      evidence:
+        "Itemized from a three-page Cabinet Schedule table found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-sally-and-eddy-country-music-awards",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Sally and Eddy re Country Music Awards",
+      documentDate: "1991-10-11",
+      pages: 1,
+      excerpt:
+        "The President and Mrs. Bush thank Sally and Eddy for the Country Music Awards evening in Nashville.",
+      evidence:
+        "Itemized from a White House letter page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-mark-country-music-awards",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Mark re Country Music Awards",
+      documentDate: "1991-10-11",
+      pages: 1,
+      excerpt:
+        "The President and Mrs. Bush thank Mark for the Country Music Awards evening and add a fishing wish.",
+      evidence:
+        "Itemized from a White House letter page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-naomi-and-wynonna-judd",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Naomi Judd and Wynonna Judd re Country Music Awards",
+      documentDate: "1991-10-11",
+      pages: 1,
+      excerpt:
+        "The President and Mrs. Bush thank Naomi and Wynonna Judd for the Country Music Awards evening and send prayers to Naomi.",
+      evidence:
+        "Itemized from a White House letter page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-david-mcconnell-school-of-excellence-pins",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to David M. McConnell re Kennebunk High School School of Excellence pins",
+      documentDate: "1991-10-11",
+      pages: 1,
+      excerpt:
+        "The President and Mrs. Bush thank David McConnell for School of Excellence pins from Kennebunk High School.",
+      evidence:
+        "Itemized from a presidential letter page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-victor-supportive-letter",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Victor re supportive words",
+      documentDate: "1991-10-11",
+      pages: 1,
+      excerpt:
+        "The President thanks Victor for kind and supportive words and for staying in touch.",
+      evidence:
+        "Itemized from a presidential letter page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-news-summary-october-11-update",
+      documentType: "News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: Friday, October 11, 1991, 1:15 P.M. EDT Update",
+      documentDate: "1991-10-11",
+      pages: 2,
+      excerpt:
+        "The White House News Summary update covers Anita Hill and Clarence Thomas testimony, Bush reelection steps, economic confidence, and news headlines.",
+      evidence:
+        "Itemized from a White House News Summary heading and continuation page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "point-of-light-youth-development-incorporated",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press Release: Youth Development, Incorporated named the 585th Daily Point of Light",
+      documentDate: "1991-10-11",
+      pages: 1,
+      excerpt:
+        "The White House announces Youth Development, Incorporated of Albuquerque, New Mexico, as the 585th Daily Point of Light.",
+      evidence:
+        "Itemized from an Office of the Press Secretary release heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "veto-message-s1722-emergency-unemployment-compensation",
+      documentType: "Veto Message",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title: "Message to the Senate returning S. 1722, Emergency Unemployment Compensation Act of 1991, without approval",
+      documentDate: "1991-10-11",
+      pages: 2,
+      excerpt:
+        "President Bush returns S. 1722 without approval, arguing that the emergency unemployment compensation bill would breach the budget agreement and threaten recovery.",
+      evidence:
+        "Itemized from an Office of the Press Secretary message heading and signed continuation page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "fitzwater-press-briefing-october-11-1991",
+      documentType: "Press Briefing Transcript",
+      category: "press-briefing-transcript",
+      disposition: "itemized-press-briefing-transcript",
+      title: "Press Briefing by Marlin Fitzwater, October 11, 1991",
+      documentDate: "1991-10-11",
+      pages: 10,
+      excerpt:
+        "The Marlin Fitzwater press briefing covers the unemployment-compensation veto, the President's schedule, the Bush-Quayle campaign committee, Judge Thomas hearings, retail prices, and the Middle East peace process.",
+      evidence:
+        "Itemized from the press-briefing index and transcript pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "apn-daily-briefing-american-politics-october-11-1991",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing-item",
+      disposition: "itemized-daily-political-briefing",
+      title: "The Daily Briefing on American Politics: Friday, October 11, 1991",
+      documentDate: "1991-10-11",
+      pages: 20,
+      excerpt:
+        "The American Political Network Daily Briefing covers White House '92, Democratic candidates, Clarence Thomas, Casolaro, state campaigns, Senate watch, polling, and television monitoring.",
+      evidence:
+        "Itemized from The Daily Briefing on American Politics heading and continuation pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-october-11-1991",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Friday, October 11, 1991",
+      documentDate: "1991-10-11",
+      pages: 10,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet includes coverage of Barbara Bush, Governor Sununu, Marlin Fitzwater, and related First Lady press material.",
+      evidence:
+        "Itemized from a Mrs. Bush's Press Office Daily Press Clippings cover page and clipping run found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-ricky-country-music-awards",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Ricky re Country Music Awards",
+      documentDate: "1991-10-11",
+      pages: 1,
+      excerpt:
+        "The President and Mrs. Bush thank Ricky for the Country Music Awards evening and for keeping the President in his prayers.",
+      evidence:
+        "Itemized from a White House letter page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-trisha-yearwood-country-music-awards",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Trisha Yearwood re Country Music Awards",
+      documentDate: "1991-10-11",
+      pages: 1,
+      excerpt:
+        "The President and Mrs. Bush thank Trisha Yearwood for the Country Music Awards evening and note that country and western music will continue to play in the White House.",
+      evidence:
+        "Itemized from a White House letter page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+  ],
   470417565: [
     {
       slug: "state-of-union-fact-sheet",
