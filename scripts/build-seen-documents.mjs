@@ -13469,6 +13469,281 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from a second Mrs. Bush's Press Office Daily Press Clippings cover page and clipping sequence found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
     },
   ],
+  470417856: [
+    {
+      slug: "white-house-news-summary-june-19-1992-6am",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary, June 19, 1992, 6:00 A.M. EDT edition",
+      documentDate: "1992-06-19",
+      pages: 19,
+      excerpt:
+        "The morning White House News Summary covers the California trip, Perot, Orange County Republicans, Tailhook, federal perks, urban aid, Russian aid, Supreme Court nominations, U.S.-Russian issues, trade, network news, and loan delinquencies.",
+      evidence:
+        "Itemized from pages 2-20 of the NARA direct folder scan using the News Summary Office of the Press Secretary cover, Friday June 19 1992 6:00 A.M. EDT edition line, trip/national/international/network sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "friday-follies-political-cartoon-packet-june-19-1992",
+      documentType: "Political Cartoon Packet",
+      category: "political-cartoon-packet",
+      disposition: "itemized-political-cartoon-packet",
+      title: "Friday Follies political cartoon packet, June 19, 1992",
+      documentDate: "1992-06-19",
+      pages: 19,
+      excerpt:
+        "The White House News Summary Special Edition Friday Follies packet collects political cartoons on Clinton, Perot, Yeltsin, the nuclear family, Congress, education, guns, and the 1992 campaign.",
+      evidence:
+        "Itemized from pages 21-39 of the NARA direct folder scan using the Friday Follies cover, White House News Summary Special Edition Volume IV Issue 24 date line, cartoon sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-june-19-1992-noon-update",
+      documentType: "White House News Summary Update",
+      category: "white-house-news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary, June 19, 1992, 12 P.M. EDT / 9 A.M. PDT update",
+      documentDate: "1992-06-19",
+      pages: 1,
+      excerpt:
+        "The noon White House News Summary update covers unemployment benefits, Clinton financing, Russia and POW searches, the Russia embassy dispute, China trade, and Yugoslavia/GATT.",
+      evidence:
+        "Itemized from page 40 of the NARA direct folder scan using the White House News Summary header, Friday June 19 1992 date, 12 P.M. EDT / 9 A.M. PDT News Update line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-june-19-1992-430pm-update",
+      documentType: "White House News Summary Update",
+      category: "white-house-news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary, June 19, 1992, 4:30 P.M. EDT / 1:30 P.M. PDT update",
+      documentDate: "1992-06-19",
+      pages: 2,
+      excerpt:
+        "The 4:30 p.m. White House News Summary update covers the President's Newport Beach trip, Mexico kidnapping concerns, U.N. armed forces, and late-day wire coverage.",
+      evidence:
+        "Itemized from pages 41-42 of the NARA direct folder scan using the White House News Summary header, Friday June 19 1992 date, 4:30 P.M. EDT / 1:30 P.M. PDT News Update line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-june-19-1992",
+      documentType: "Congressional Monitor",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title: "Congressional Monitor: Friday, June 19, 1992",
+      documentDate: "1992-06-19",
+      pages: 22,
+      excerpt:
+        "Congressional Quarterly's Congressional Monitor covers urban aid, congressional review, unemployment benefits, foreign aid, committee schedules, campaign events, appropriations status, and House and Senate floor action.",
+      evidence:
+        "Itemized from pages 43-64 of the NARA direct folder scan using the Congressional Monitor cover, Friday June 19 1992 date, Volume 28 Number 99, back-cover mailing page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "apn-daily-briefing-june-19-1992",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing-item",
+      disposition: "itemized-daily-political-briefing",
+      title: "The Daily Briefing on American Politics: Friday, June 19, 1992",
+      documentDate: "1992-06-19",
+      pages: 19,
+      excerpt:
+        "The American Political Network daily briefing tracks Perot, Clinton, Sister Souljah, Quayle, ballot mechanics, Bush's California trip, Senate and House races, redistricting, governors, and television monitoring.",
+      evidence:
+        "Itemized from pages 65-83 of the NARA direct folder scan using The Daily Briefing on American Politics masthead, Friday June 19 1992 date, APN Bulletin Board, Hotline index, White House '92, Senate Watch, On the House, Governor, and TV Monitor sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-mexico-disaster-declaration-release",
+      documentType: "Press Release",
+      category: "press-release-or-notice",
+      disposition: "itemized-press-release-or-notice",
+      title: "Press release declaring a major disaster in New Mexico",
+      documentDate: "1992-06-19",
+      pages: 1,
+      excerpt:
+        "The President declares a major disaster in New Mexico and orders federal aid after severe thunderstorms, hail, and flooding in Lea County.",
+      evidence:
+        "Itemized from page 84 of the NARA direct folder scan using the White House Office of the Press Secretary Newport Beach header, For Immediate Release June 19 1992 line, New Mexico disaster declaration text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dc-superior-court-associate-judges-nominations",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release for Associate Judges of the Superior Court of the District of Columbia",
+      documentDate: "1992-06-19",
+      pages: 1,
+      excerpt:
+        "The President announces nominees for Associate Judges of the Superior Court of the District of Columbia.",
+      evidence:
+        "Itemized from page 85 of the NARA direct folder scan using the Office of the Press Secretary Newport Beach header, For Immediate Release June 19 1992 line, Associate Judges of the Superior Court of the District of Columbia nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "raymond-finch-virgin-islands-judge-nomination",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: Raymond L. Finch to be Judge for the District Court of the Virgin Islands",
+      documentDate: "1992-06-18",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate Raymond L. Finch to be a Judge for the District Court of the Virgin Islands.",
+      evidence:
+        "Itemized from page 86 of the NARA direct folder scan using the Office of the Press Secretary Newark California header, For Immediate Release June 18 1992 line, Raymond L. Finch nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "defense-procurement-reforms-fact-sheet",
+      documentType: "Fact Sheet",
+      category: "press-fact-sheet",
+      disposition: "itemized-press-fact-sheet",
+      title: "Fact Sheet on Defense Procurement Reforms",
+      documentDate: "1992-06-19",
+      pages: 2,
+      excerpt:
+        "The fact sheet explains defense procurement reforms intended to ease conversion of military technologies to civilian uses and reduce recoupment requirements for exports.",
+      evidence:
+        "Itemized from pages 87-88 of the NARA direct folder scan using the Office of the Press Secretary Newport Beach header, Fact Sheet on Defense Procurement Reforms title, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "malcolm-forbes-board-international-broadcasting-nomination",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: Malcolm S. Forbes, Jr. for the Board for International Broadcasting",
+      documentDate: "1992-06-19",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate Malcolm S. Forbes, Jr. to be a member of the Board for International Broadcasting.",
+      evidence:
+        "Itemized from page 89 of the NARA direct folder scan using the Office of the Press Secretary Newport Beach header, For Immediate Release June 19 1992 line, Malcolm S. Forbes Jr. nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-courtney-kazakhstan-ambassador-nomination",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: William Harrison Courtney to be Ambassador to Kazakhstan",
+      documentDate: "1992-06-19",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate William Harrison Courtney to be Ambassador to Kazakhstan.",
+      evidence:
+        "Itemized from page 90 of the NARA direct folder scan using the Office of the Press Secretary Newport Beach header, For Immediate Release June 19 1992 line, William Harrison Courtney nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "patricia-diaz-dennis-human-rights-nomination",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: Patricia Diaz Dennis to be Assistant Secretary of State for Human Rights and Humanitarian Affairs",
+      documentDate: "1992-06-19",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate Patricia Diaz Dennis to be Assistant Secretary of State for Human Rights and Humanitarian Affairs.",
+      evidence:
+        "Itemized from page 91 of the NARA direct folder scan using the Office of the Press Secretary Newport Beach header, For Immediate Release June 19 1992 line, Patricia Diaz Dennis nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-stern-wolf-malaysia-ambassador-nomination",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: John Stern Wolf to be Ambassador to Malaysia",
+      documentDate: "1992-06-19",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate John Stern Wolf to be Ambassador to Malaysia.",
+      evidence:
+        "Itemized from page 92 of the NARA direct folder scan using the Office of the Press Secretary Newport Beach header, For Immediate Release June 19 1992 line, John Stern Wolf nomination text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "edward-melanson-defense-and-space-talks-ambassador-rank",
+      documentType: "Appointment Release",
+      category: "appointment-release",
+      disposition: "itemized-appointment-release",
+      title: "Appointment release: Edward J. Melanson, Jr. accorded personal rank of Ambassador",
+      documentDate: "1992-06-19",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to appoint Edward J. Melanson, Jr. to the personal rank of Ambassador in connection with defense and space talks.",
+      evidence:
+        "Itemized from page 93 of the NARA direct folder scan using the Office of the Press Secretary Newport Beach header, For Immediate Release June 19 1992 line, Edward J. Melanson Jr. appointment text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-3-newport-beach-journalists-june-19",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #3: Newport Beach meetings with Hispanic-American and Asian-American journalists",
+      documentDate: "1992-06-19",
+      pages: 1,
+      excerpt:
+        "Pool Report #3 covers the President's Newport Beach sessions with Hispanic-American and Asian-American journalists, including Mexico kidnapping questions and Clinton campaign-finance discussion.",
+      evidence:
+        "Itemized from page 94 of the NARA direct folder scan using the Pool Report #3 heading, June 19 1992 Newport Beach California line, Judy Keen byline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-signing-los-padres-condor-range-act",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement by the President signing the Los Padres Condor Range and River Protection Act",
+      documentDate: "1992-06-19",
+      pages: 1,
+      excerpt:
+        "The President signs H.R. 2556, the Los Padres Condor Range and River Protection Act, and describes its wilderness and conservation provisions.",
+      evidence:
+        "Itemized from page 95 of the NARA direct folder scan using the Office of the Press Secretary For Immediate Release June 19 1992 header, Statement by the President title, H.R. 2556 text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "message-senate-start-protocol",
+      documentType: "Message to the Senate",
+      category: "message-to-senate",
+      disposition: "itemized-message-to-senate",
+      title: "Message to the Senate transmitting the START Treaty Protocol",
+      documentDate: "1992-06-19",
+      pages: 2,
+      excerpt:
+        "The President transmits to the Senate the protocol to the START Treaty to address successor states after the dissolution of the Soviet Union.",
+      evidence:
+        "Itemized from pages 96-97 of the NARA direct folder scan using the Office of the Press Secretary Newport Beach header, To the Senate of the United States salutation, START protocol text, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-news-clips-june-19-russia-perot-urban-aid-defense",
+      documentType: "Daily News Clips Packet",
+      category: "daily-news-clips",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips packet re Russia, Perot, urban aid, defense conversion, and June 19 coverage",
+      documentDate: "1992-06-19",
+      pages: 64,
+      excerpt:
+        "The Office of Media Affairs Daily News Clips packet collects June 19 coverage from USA Today, the Wall Street Journal, Washington Times, Washington Post, New York Times, and other outlets on Russia, Perot, urban aid, defense conversion, Iran-contra, trade, Somalia, Cambodia, Haitians, and campaign politics.",
+      evidence:
+        "Itemized from pages 98-161 of the NARA direct folder scan using the Office of Media Affairs Daily News Clips cover dated June 19 1992, source list, newspaper mastheads, clipping sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-david-laughter-rea-note",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to David C. Laughter re Rural Electrification Administration",
+      documentDate: "1992-06-19",
+      pages: 1,
+      excerpt:
+        "The President writes David C. Laughter from California, mentioning Cy, congratulating him on being at REA, and thanking him for his note.",
+      evidence:
+        "Itemized from page 162 of the NARA direct folder scan using The President letterhead, June 19 1992 California date, Dear David salutation, David C. Laughter address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-june-19-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Friday, June 19, 1992",
+      documentDate: "1992-06-19",
+      pages: 12,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet covers Barbara Bush, Naina Yeltsin, Martha's Table, First Lady coverage, Marilyn Quayle, Habitat for Humanity, and related June 1992 stories.",
+      evidence:
+        "Itemized from pages 163-174 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover, Friday June 19 1992 date line, clipping sequence, OCR, and rendered-page review.",
+    },
+  ],
   470417874: [
     {
       slug: "white-house-news-summary-june-29-1992",
@@ -19527,6 +19802,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417810",
   "470417840",
   "470417851",
+  "470417856",
   "470418083",
 ]);
 
