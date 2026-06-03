@@ -17402,6 +17402,206 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 102-105 of the NARA direct folder scan using the Document Originally Attached marker, President Bush August 4 1992 note to Sam Skinner, Roger B. Porter August 28 1992 memorandum, Antonovich and illegal aliens references, OCR, and rendered-page review.",
     },
   ],
+  470417957: [
+    {
+      slug: "pool-report-bush-goes-truckin-reno",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #2: Bush Goes Truckin'",
+      documentDate: "1992-08-05",
+      pages: 1,
+      excerpt:
+        "The pool report describes President Bush's Reno-area truck encounter and campaign-travel color during the August 5 trip.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the Pool Report #2 heading, Bush Goes Truckin' title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-gillespie-nsc-appointment-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title:
+        "Press Release: Charles A. Gillespie Jr. appointed Special Assistant for National Security Affairs",
+      documentDate: "1992-08-05",
+      pages: 1,
+      excerpt:
+        "The White House announces Charles A. Gillespie Jr.'s appointment as Special Assistant to the President for National Security Affairs and Senior Director for Latin America and Caribbean Affairs at the NSC.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using the Office of the Press Secretary release heading, Charles A. Gillespie Jr. appointment text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-kostelka-judicial-nomination-release",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: Robert W. Kostelka for U.S. District Judge",
+      documentDate: "1992-08-05",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intent to nominate Robert W. Kostelka as U.S. District Judge for the Western District of Louisiana.",
+      evidence:
+        "Itemized from page 4 of the NARA direct folder scan using the Office of the Press Secretary heading, Robert W. Kostelka nomination text, Western District of Louisiana reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "trevor-henderson-s249-bill-signing-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press Release: President signs S. 249 re Trevor Henderson reimbursement",
+      documentDate: "1992-08-05",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's signing of S. 249, reimbursing Trevor Henderson for a six-and-one-half-year period during which he was detailed overseas.",
+      evidence:
+        "Itemized from page 5 of the NARA direct folder scan using the Office of the Press Secretary heading, S. 249 bill-signing text, Trevor Henderson reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "saint-vincents-center-point-of-light-release",
+      documentType: "Press Release",
+      category: "point-of-light-release",
+      disposition: "itemized-point-of-light-release",
+      title: "Point of Light release: Saint Vincent's Center of Timonium, Maryland",
+      documentDate: "1992-08-05",
+      pages: 1,
+      excerpt:
+        "The White House recognizes Saint Vincent's Center of Timonium, Maryland, as the 852nd Daily Point of Light for the Nation.",
+      evidence:
+        "Itemized from page 6 of the NARA direct folder scan using the Office of the Press Secretary heading, 852nd Daily Point of Light language, Saint Vincent's Center reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "disabled-american-veterans-convention-remarks",
+      documentType: "Remarks Transcript",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Remarks by President Bush to the Disabled American Veterans Convention",
+      documentDate: "1992-08-05",
+      pages: 5,
+      excerpt:
+        "The transcript records President Bush's remarks to the Disabled American Veterans Convention at the Reno Hilton Hotel in Reno, Nevada.",
+      evidence:
+        "Itemized from pages 7-11 of the NARA direct folder scan using the remarks heading, Reno Hilton Hotel location, August 5 1992 dateline, end time, OCR, and rendered-page review.",
+    },
+    {
+      slug: "knights-of-columbus-convention-remarks",
+      documentType: "Remarks Transcript",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title:
+        "Remarks by President Bush to the Knights of Columbus Annual Supreme Council Convention",
+      documentDate: "1992-08-05",
+      pages: 5,
+      excerpt:
+        "The transcript records President Bush's remarks to the Knights of Columbus Annual Supreme Council Convention at the Marriott Marquis Hotel in New York.",
+      evidence:
+        "Itemized from pages 12-16 of the NARA direct folder scan using the remarks heading, Knights of Columbus Annual Supreme Council Convention title, Marriott Marquis Hotel location, OCR, and rendered-page review.",
+    },
+    {
+      slug: "aid-programs-management-commission-executive-order",
+      documentType: "Executive Order",
+      category: "executive-order",
+      disposition: "itemized-executive-order",
+      title:
+        "Executive Order establishing the President's Commission on Management of AID Programs",
+      documentDate: "1992-08-05",
+      pages: 2,
+      excerpt:
+        "The executive order establishes the President's Commission on Management of the Agency for International Development (AID) Programs.",
+      evidence:
+        "Itemized from pages 17-18 of the NARA direct folder scan using the Executive Order heading, Office of the Press Secretary New York release page, August 5 1992 date, AID Commission title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-edwards-tailhook-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William E. Edwards Tailhook correspondence packet",
+      documentDate: "1992-08-05",
+      pages: 7,
+      excerpt:
+        "The packet includes President Bush's reply to Commander William E. Edwards and Edwards's letter and Tailhook Association material about Tailhook investigations and naval service.",
+      evidence:
+        "Itemized from pages 19-25 of the NARA direct folder scan using the August 5 1992 President Bush reply aboard Air Force One, William E. Edwards July 31 letter, Tailhook 91 references, Tailhook Association open letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "archbishop-mccarrick-yugoslavia-packet",
+      documentType: "Correspondence and Report Packet",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Archbishop Theodore E. McCarrick letter and report re former Yugoslavia",
+      documentDate: "1992-08-03",
+      pages: 3,
+      excerpt:
+        "Archbishop Theodore E. McCarrick writes President Bush after a mission to the former Yugoslavia and encloses a report on refugees, politics, and human rights conditions.",
+      evidence:
+        "Itemized from pages 26-28 of the NARA direct folder scan using the White House routing page, Archbishop of Newark letter dated August 3 1992, former Yugoslavia references, Situation in the Former Yugoslavia Today enclosure, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-gavin-bohemian-grove-note",
+      documentType: "Presidential Handwritten Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "President Bush handwritten note to John A. Gavin re Bohemian Grove",
+      documentDate: "1992-08-05",
+      pages: 1,
+      excerpt:
+        "President Bush sends a handwritten note to John A. Gavin about a note from the Grove and future contact.",
+      evidence:
+        "Itemized from page 29 of the NARA direct folder scan using the President stationery, August 5 1992 handwritten date, John A. Gavin address block, Bohemian Grove context, rendered-page review, and low-confidence OCR.",
+    },
+    {
+      slug: "jack-kramer-bohemian-grove-note",
+      documentType: "Incoming Correspondence",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Jack Kramer Bohemian Grove note to President Bush",
+      documentDate: "1992-08-04",
+      pages: 1,
+      excerpt:
+        "Jack Kramer writes President Bush on Bohemian Grove stationery before the Houston convention.",
+      evidence:
+        "Itemized from page 30 of the NARA direct folder scan using the Bohemian Grove letterhead, August 4 1992 handwritten date, Jack Kramer signature, Houston convention context, rendered-page review, and low-confidence OCR.",
+    },
+    {
+      slug: "thomas-stroock-convention-fax-packet",
+      documentType: "Presidential Note and Fax Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Thomas F. Stroock Houston convention fax packet",
+      documentDate: "1992-08-05",
+      pages: 8,
+      excerpt:
+        "The packet includes President Bush notes to Thomas F. Stroock, White House and Embassy fax cover sheets, and Stroock letters about seeing the President at the Houston convention.",
+      evidence:
+        "Itemized from pages 31-38 of the NARA direct folder scan using the President Bush notes to Tom, Rose Zamaria and Houstonian references, Office of the President fax cover, Embassy Guatemala correspondence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-news-clips-august-5-1992",
+      documentType: "Daily News Clips Packet",
+      category: "daily-news-clips",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips: Wednesday, August 5, 1992",
+      documentDate: "1992-08-05",
+      pages: 99,
+      excerpt:
+        "The daily news clips packet collects August 5 coverage and commentary from the Los Angeles Times, USA Today, Washington Post, Wall Street Journal, New York Times, Washington Times, and related sources.",
+      evidence:
+        "Itemized from pages 39-137 of the NARA direct folder scan using the Daily News Clips cover sequence, newspaper mastheads, article starts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "andrew-untener-gift-photo-packet",
+      documentType: "Presidential Correspondence and Photo Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Andrew Charles Untener III correspondence, gift, and official photo packet",
+      documentDate: "1992-08-05",
+      pages: 12,
+      excerpt:
+        "President Bush replies to Andrew Charles Untener III about campaign support in Georgia, a bronze artwork gift, Barbara Bush, and the Houston convention; the packet also includes attached official photo pages.",
+      evidence:
+        "Itemized from pages 138-149 of the NARA direct folder scan using the August 5 1992 President Bush letter aboard Air Force One, Andrew Charles Untener III address block, Rose Zamaria Gift Unit note, official photo fronts and backs, OCR, and rendered-page review.",
+    },
+  ],
   470417970: [
     {
       slug: "treasury-forwarding-note-brady-houston-club-materials",
@@ -23262,6 +23462,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417908",
   "470417910",
   "470417953",
+  "470417957",
   "470418083",
 ]);
 
