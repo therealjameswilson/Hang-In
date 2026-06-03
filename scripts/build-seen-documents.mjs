@@ -501,6 +501,32 @@ function excerptFromLines(lines) {
 const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   470417059: [
     {
+      slug: "front-folder-flap-handwritten-dilemma-note",
+      documentType: "Folder-Flap Handwritten Note",
+      category: "folder-flap-note",
+      disposition: "itemized-folder-flap-note",
+      title: "Front-folder-flap handwritten note: Dilemma",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A post-it note originally located on the front folder flap carries a brief handwritten Dilemma notation.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the post-it note, handwritten folder-flap location note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "upi-helen-thomas-bush-aggression-defeated-war-over",
+      documentType: "Wire Story",
+      category: "joint-session-address-wire-story",
+      disposition: "itemized-wire-story",
+      title: "UPI Wire Story by Helen Thomas: Bush says aggression is defeated; the war is over",
+      documentDate: "1991-03-06",
+      pages: 1,
+      excerpt:
+        "Helen Thomas reports for UPI on President Bush declaring allied victory and the end of the Persian Gulf War in his joint-session address.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using the UPI complete writethru heading, Helen Thomas byline, OCR, and rendered-page review.",
+    },
+    {
       slug: "upi-thomas-ferraro-bush-speech-pows-abused",
       documentType: "Wire Story",
       category: "joint-session-address-wire-story",
@@ -526,6 +552,19 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "A UPI Gulf wrapup first-add page reports on Saddam Hussein's postwar troubles, unrest in Iraq, missing journalists, Arab postwar cooperation, and regional security issues.",
       evidence:
         "Itemized from a UPI gulf-wrapup first-add heading and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "george-bush-review-highlights-records-note",
+      documentType: "Handwritten Presidential Note",
+      category: "joint-session-address-draft-note",
+      disposition: "itemized-presidential-handwriting",
+      title: "George Bush handwritten note re review highlights and records return",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A From the desk of George Bush note asks for review of highlights on the second draft and says to hold and return the material for records.",
+      evidence:
+        "Itemized from page 6 of the NARA direct folder scan using the From the desk of George Bush note, Bush Library handwriting marker, OCR, and rendered-page review.",
     },
     {
       slug: "march-4-8am-joint-session-address-draft",
@@ -9207,6 +9246,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
 };
 
 const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
+  "470417059",
   "470417119",
   "470417135",
   "470417151",

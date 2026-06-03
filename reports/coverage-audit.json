@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-03T08:13:19.081Z",
+  "generatedAt": "2026-06-03T08:20:29.993Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
-    "documentCount": 6885,
+    "documentCount": 6887,
     "redactionSheetDocumentCount": 5531,
     "directFolderScanCount": 240,
     "directSingleDocumentScanCount": 113,
     "directPacketScanCount": 127,
-    "directItemizedDocumentCount": 1114,
+    "directItemizedDocumentCount": 1116,
     "directItemizedFolderCount": 127,
     "foldersWithoutParsedRows": 240,
     "foldersStillUnrepresented": 0
@@ -36,7 +36,9 @@
     "single-presidential-schedule": 8
   },
   "directScanItemizedDispositionCounts": {
+    "itemized-folder-flap-note": 1,
     "itemized-wire-story": 9,
+    "itemized-presidential-handwriting": 1,
     "itemized-speech-draft": 5,
     "itemized-white-house-news-summary": 39,
     "itemized-camp-david-event-planning": 6,
@@ -7203,6 +7205,36 @@
   "directScanItemizedRecords": [
     {
       "date": "1991-03-06",
+      "documentDate": "",
+      "title": "Front-folder-flap handwritten note: Dilemma",
+      "parentPacketId": "nara-470417059-direct-scan",
+      "naId": "470417059",
+      "folderId": "90587-002",
+      "containerId": "90587",
+      "category": "folder-flap-note",
+      "disposition": "itemized-folder-flap-note",
+      "type": "Folder-Flap Handwritten Note",
+      "catalogUrl": "https://catalog.archives.gov/id/470417059",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90587-002.pdf",
+      "excerpt": "A post-it note originally located on the front folder flap carries a brief handwritten Dilemma notation."
+    },
+    {
+      "date": "1991-03-06",
+      "documentDate": "1991-03-06",
+      "title": "UPI Wire Story by Helen Thomas: Bush says aggression is defeated; the war is over",
+      "parentPacketId": "nara-470417059-direct-scan",
+      "naId": "470417059",
+      "folderId": "90587-002",
+      "containerId": "90587",
+      "category": "joint-session-address-wire-story",
+      "disposition": "itemized-wire-story",
+      "type": "Wire Story",
+      "catalogUrl": "https://catalog.archives.gov/id/470417059",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90587-002.pdf",
+      "excerpt": "Helen Thomas reports for UPI on President Bush declaring allied victory and the end of the Persian Gulf War in his joint-session address."
+    },
+    {
+      "date": "1991-03-06",
       "documentDate": "1991-03-06",
       "title": "UPI Wire Story by Thomas Ferraro: Bush speech; doctors say some POWs abused by Iraqis",
       "parentPacketId": "nara-470417059-direct-scan",
@@ -7230,6 +7262,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417059",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90587-002.pdf",
       "excerpt": "A UPI Gulf wrapup first-add page reports on Saddam Hussein's postwar troubles, unrest in Iraq, missing journalists, Arab postwar cooperation, and regional security issues."
+    },
+    {
+      "date": "1991-03-06",
+      "documentDate": "",
+      "title": "George Bush handwritten note re review highlights and records return",
+      "parentPacketId": "nara-470417059-direct-scan",
+      "naId": "470417059",
+      "folderId": "90587-002",
+      "containerId": "90587",
+      "category": "joint-session-address-draft-note",
+      "disposition": "itemized-presidential-handwriting",
+      "type": "Handwritten Presidential Note",
+      "catalogUrl": "https://catalog.archives.gov/id/470417059",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90587-002.pdf",
+      "excerpt": "A From the desk of George Bush note asks for review of highlights on the second draft and says to hold and return the material for records."
     },
     {
       "date": "1991-03-06",
@@ -7365,21 +7412,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417059",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90587-002.pdf",
       "excerpt": "Reuters copy by Laurance McQuillan reports on Bush saying the first U.S. troops would come home within hours and outlining a postwar Middle East agenda."
-    },
-    {
-      "date": "1991-03-06",
-      "documentDate": "1991-03-06",
-      "title": "Wire Story: Bush says aggression is defeated; the war is over' By HELEN THOMAS",
-      "parentPacketId": "nara-470417059-direct-scan",
-      "naId": "470417059",
-      "folderId": "90587-002",
-      "containerId": "90587",
-      "category": "wire-story-item",
-      "disposition": "itemized-wire-story",
-      "type": "Wire Story",
-      "catalogUrl": "https://catalog.archives.gov/id/470417059",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90587-002.pdf",
-      "excerpt": "Bush says aggression is defeated; the war is over' By HELEN THOMAS UPI White House Reporter WASHINGTON (UPI) President Bush, in a/speech to Congress Wednesday night in which he declared an allied victory and an end to the Persian Gulf War, disclosed that the first wave of Amerian troops had been ordered home As commander in-chief, Indan report to you: Our armed forces fought with honor and valor As President I can report to the Nation aggression is defeated. The wan is over, Bush told a joint session in the Hous..."
     },
     {
       "date": "1991-04-20",
