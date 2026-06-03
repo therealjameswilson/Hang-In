@@ -1966,6 +1966,19 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470417389: [
     {
+      slug: "mcclure-weekly-legislative-report-october-7-11",
+      documentType: "Weekly Legislative Report",
+      category: "legislative-affairs-report",
+      disposition: "itemized-legislative-affairs-report",
+      title: "Memorandum from Frederick D. McClure to the President re Weekly Legislative Report, October 7-11, 1991",
+      documentDate: "1991-10-11",
+      pages: 5,
+      excerpt:
+        "Frederick D. McClure briefs the President on House and Senate floor action, committee activity, appropriations, the foreign aid authorization veto threat, upcoming crime and transportation bills, and pending congressional correspondence.",
+      evidence:
+        "Itemized from pages 2-6 of the NARA direct folder scan using the White House memorandum heading, McClure signature line, Weekly Legislative Report subject line, OCR, and rendered-page review.",
+    },
+    {
       slug: "presidential-log-selected-congressional-mail",
       documentType: "Congressional Mail Log",
       category: "congressional-correspondence-log",
@@ -9683,6 +9696,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417253",
   "470417305",
   "470417364",
+  "470417389",
   "470418083",
 ]);
 

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T08:39:43.896Z",
+  "generatedAt": "2026-06-03T08:45:31.296Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
@@ -76,6 +76,7 @@
     "itemized-budget-amendment-statement": 1,
     "itemized-presidential-address-release": 1,
     "itemized-background-briefing-transcript": 1,
+    "itemized-legislative-affairs-report": 1,
     "itemized-congressional-correspondence-log": 1,
     "itemized-cabinet-affairs-report": 2,
     "itemized-cabinet-affairs-schedule": 1,
@@ -83,10 +84,10 @@
     "itemized-presidential-message": 8,
     "itemized-daily-political-briefing": 12,
     "itemized-daily-press-clippings": 18,
-    "itemized-memorandum": 46,
     "itemized-speech-remarks-draft": 11,
     "itemized-presidential-statement": 1,
     "itemized-meeting-briefing-attachment": 6,
+    "itemized-memorandum": 45,
     "itemized-president-note": 8,
     "itemized-campaign-finance-summary": 1,
     "itemized-campaign-correspondence": 15,
@@ -8846,6 +8847,21 @@
     },
     {
       "date": "1991-10-11",
+      "documentDate": "1991-10-11",
+      "title": "Memorandum from Frederick D. McClure to the President re Weekly Legislative Report, October 7-11, 1991",
+      "parentPacketId": "nara-470417389-direct-scan",
+      "naId": "470417389",
+      "folderId": "90625-005",
+      "containerId": "90625",
+      "category": "legislative-affairs-report",
+      "disposition": "itemized-legislative-affairs-report",
+      "type": "Weekly Legislative Report",
+      "catalogUrl": "https://catalog.archives.gov/id/470417389",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90625-005.pdf",
+      "excerpt": "Frederick D. McClure briefs the President on House and Senate floor action, committee activity, appropriations, the foreign aid authorization veto threat, upcoming crime and transportation bills, and pending congressional correspondence."
+    },
+    {
+      "date": "1991-10-11",
       "documentDate": "1991-10-10",
       "title": "Presidential Log of Selected Congressional Mail: Week of October 4-10, 1991",
       "parentPacketId": "nara-470417389-direct-scan",
@@ -9098,21 +9114,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417389",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90625-005.pdf",
       "excerpt": "The President and Mrs. Bush thank Trisha Yearwood for the Country Music Awards evening and note that country and western music will continue to play in the White House."
-    },
-    {
-      "date": "1991-10-11",
-      "documentDate": "1991-10-11",
-      "title": "Memorandum for the President: Weekly Legislative Report",
-      "parentPacketId": "nara-470417389-direct-scan",
-      "naId": "470417389",
-      "folderId": "90625-005",
-      "containerId": "90625",
-      "category": "memorandum-item",
-      "disposition": "itemized-memorandum",
-      "type": "Memorandum",
-      "catalogUrl": "https://catalog.archives.gov/id/470417389",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90625-005.pdf",
-      "excerpt": "MEMORANDUM FOR THE PRESIDENT FROM: FREDERICK D. McCLURE fun SUBJECT: Weekly Legislative Report by THE WEEK OF OCTOBER 7 - OCTOBER 11 HOUSE AND SENATE FLOORS HOUSE On Tuesday the House passed the following legislation by voice vote: H.R. 2698, the FY 1992 Department of Agriculture Appropriations bill; H.R. 2426, the FY 1992 Military Construction Appropriations bill; H.R. 1724, a bill lifting restrictions on the importation of goods from Czechoslovakia and Hungary; and H.R. 2629, the Women's Business Development A..."
     },
     {
       "date": "1991-11-13",
