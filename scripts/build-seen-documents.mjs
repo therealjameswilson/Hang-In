@@ -837,6 +837,121 @@ function directSpeechSupplementStarts(lines, primaryBriefingStarts) {
   return starts;
 }
 
+function isForwardingNoteStart(lines, index) {
+  const lead = lines.slice(index, index + 12).join("\n");
+  return (
+    /^(walker's point|the white house|aboard air force one)$/i.test(lines[index] || "") &&
+    lines.slice(index, index + 12).some((line) => normalizeAnyDate(line, "1992-01-01")) &&
+    /^to:/im.test(lead)
+  );
+}
+
+function isWireStoryStart(lines, index) {
+  return (
+    Boolean(lines[index]) &&
+    /^by\s+[A-Z][A-Z .'-]+$/i.test(lines[index + 1] || "") &&
+    /\b(upi|associated press|reuters|white house reporter)\b/i.test(
+      lines.slice(index + 2, index + 5).join(" ")
+    )
+  );
+}
+
+function isPresidentialDocumentsReprintStart(lines, index) {
+  return (
+    /^administration of jimmy carter$/i.test(lines[index] || "") &&
+    /^presidential documents$/i.test(lines[index + 1] || "") &&
+    lines.slice(index + 2, index + 10).some((line) => /^address to the nation\b/i.test(line))
+  );
+}
+
+function isCongressionalMonitorStart(lines, index) {
+  const lead = lines.slice(index, index + 16).join(" ");
+  return (
+    index <= 8 &&
+    /\bcongressional\b/i.test(lead) &&
+    /\bmonitor\b/i.test(lead) &&
+    /volume\s+\d+,\s+number\s+\d+/i.test(lead)
+  );
+}
+
+function isHumanitarianBriefingStart(lines, index) {
+  return (
+    index <= 8 &&
+    /^global humanitarian$/i.test(lines[index] || "") &&
+    lines.slice(index, index + 12).some((line) => /^global humanitarian$/i.test(line)) &&
+    lines.slice(index, index + 16).some((line) => /^relief efforts$/i.test(line))
+  );
+}
+
+function isPresidentialDebateMapStart(lines, index) {
+  const lead = lines.slice(index, index + 18).join(" ");
+  return index <= 8 && /^welcome to$/i.test(lines[index] || "") && /st\.?\s*louis/i.test(lead) && /presidential debate/i.test(lead);
+}
+
+function isLetterToEditorStart(lines, index) {
+  return Boolean(lines[index]) && /^to the editor:?$/i.test(lines[index + 1] || "");
+}
+
+function isHandwrittenNotesStart(lines, index) {
+  return (
+    /^bush library photocopy - (?:george bush|miscellaneous) handwriting$/i.test(lines[index] || "") &&
+    lines.slice(index + 1, index + 8).some((line) => /^rose said$/i.test(line))
+  );
+}
+
+function isHandwrittenLetterStart(lines, index) {
+  const lead = lines.slice(index, index + 12).join("\n");
+  return (
+    /^bush library photocopy - miscellaneous handwriting$/i.test(lines[index] || "") &&
+    /richard nixon/i.test(lead) &&
+    /(dear|dan)\s+george/i.test(lead)
+  );
+}
+
+function isCampaignTalkingPointsStart(lines, index) {
+  return (
+    index <= 8 &&
+    /^statistics:?$/i.test(lines[index] || "") &&
+    lines.slice(index, index + 90).some((line) => /^domestic accomplishments$/i.test(line))
+  );
+}
+
+function isElectionNoticeStart(lines, index) {
+  return (
+    /^lowville,\s*n\.?y\.?,\s*november\s+3,\s+1992$/i.test(lines[index] || "") &&
+    lines.slice(index, index + 10).some((line) => /recanvass of the voting machines/i.test(line))
+  );
+}
+
+function directStandaloneSourceKind(lines, index) {
+  if (isForwardingNoteStart(lines, index)) return "forwarding-note";
+  if (isWireStoryStart(lines, index)) return "wire-story";
+  if (isPresidentialDocumentsReprintStart(lines, index)) return "presidential-documents-reprint";
+  if (isCongressionalMonitorStart(lines, index)) return "newsletter-issue";
+  if (isHumanitarianBriefingStart(lines, index)) return "briefing-binder";
+  if (isPresidentialDebateMapStart(lines, index)) return "map";
+  if (isLetterToEditorStart(lines, index)) return "letter-to-editor";
+  if (isHandwrittenLetterStart(lines, index)) return "handwritten-letter";
+  if (isHandwrittenNotesStart(lines, index)) return "handwritten-notes";
+  if (isCampaignTalkingPointsStart(lines, index)) return "campaign-talking-points";
+  if (isElectionNoticeStart(lines, index)) return "election-notice";
+  return "";
+}
+
+function directStandaloneSourceStarts(lines, packetDoc, usedStarts) {
+  if (packetDoc.directScanDisposition !== "packet-uncertain") return [];
+
+  const starts = [];
+  for (let index = 0; index < lines.length; index += 1) {
+    const kind = directStandaloneSourceKind(lines, index);
+    if (!kind) continue;
+    if (usedStarts.some((start) => Math.abs(start - index) <= 6)) continue;
+    if (starts.some(({ start }) => Math.abs(start - index) <= 6)) continue;
+    starts.push({ start: index, kind });
+  }
+  return starts;
+}
+
 function isDirectAdministrationReportStart(lines, index) {
   return (
     /^response of the administration$/i.test(lines[index] || "") &&
@@ -1420,6 +1535,142 @@ function speechSupplementDisposition(kind) {
 function speechSupplementTitle(segment, typeLabel) {
   const heading = speechSupplementHeading(segment);
   return `${typeLabel}: ${compactTitle(heading.join(" "), typeLabel)}`;
+}
+
+function standaloneSourceType(kind) {
+  const types = {
+    "forwarding-note": "Forwarding Note",
+    "wire-story": "Wire Story",
+    "presidential-documents-reprint": "Presidential Documents Reprint",
+    "newsletter-issue": "Newsletter Issue",
+    "briefing-binder": "Briefing Binder",
+    map: "Map",
+    "letter-to-editor": "Letter to the Editor",
+    "handwritten-letter": "Letter",
+    "handwritten-notes": "Handwritten Notes",
+    "campaign-talking-points": "Campaign Talking Points",
+    "election-notice": "Election Notice",
+  };
+  return types[kind] || "Document";
+}
+
+function standaloneSourceCategory(kind) {
+  const categories = {
+    "forwarding-note": "forwarding-note-item",
+    "wire-story": "wire-story-item",
+    "presidential-documents-reprint": "presidential-documents-reprint-item",
+    "newsletter-issue": "newsletter-issue-item",
+    "briefing-binder": "briefing-binder-item",
+    map: "map-item",
+    "letter-to-editor": "letter-to-editor-item",
+    "handwritten-letter": "letter-item",
+    "handwritten-notes": "handwritten-notes-item",
+    "campaign-talking-points": "campaign-talking-points-item",
+    "election-notice": "election-notice-item",
+  };
+  return categories[kind] || "document-item";
+}
+
+function standaloneSourceDisposition(kind) {
+  const dispositions = {
+    "forwarding-note": "itemized-forwarding-note",
+    "wire-story": "itemized-wire-story",
+    "presidential-documents-reprint": "itemized-presidential-documents-reprint",
+    "newsletter-issue": "itemized-newsletter-issue",
+    "briefing-binder": "itemized-briefing-binder",
+    map: "itemized-map",
+    "letter-to-editor": "itemized-letter-to-editor",
+    "handwritten-letter": "itemized-correspondence-letter",
+    "handwritten-notes": "itemized-handwritten-notes",
+    "campaign-talking-points": "itemized-campaign-talking-points",
+    "election-notice": "itemized-election-notice",
+  };
+  return dispositions[kind] || "itemized-document";
+}
+
+function forwardingNoteTitle(segment, typeLabel) {
+  const dateLine = segment.slice(0, 8).find((line) => normalizeAnyDate(line, "1992-01-01")) || "";
+  const recipient = linesAfterLabel(segment, "to").join(" ");
+  const title = [dateLine, recipient ? `to ${recipient}` : ""].filter(Boolean).join(" ");
+  return `${typeLabel}: ${compactTitle(title, typeLabel)}`;
+}
+
+function wireStoryTitle(segment, typeLabel) {
+  const titleLine = segment[0] || "";
+  const byline = /^by\b/i.test(segment[1] || "") ? segment[1] : "";
+  return `${typeLabel}: ${compactTitle([titleLine, byline].filter(Boolean).join(" "), typeLabel)}`;
+}
+
+function presidentialDocumentsReprintTitle(segment, typeLabel) {
+  const subject =
+    segment.find((line) => /^energy and national goals$/i.test(line)) ||
+    segment.find((line) => /^address to the nation\b/i.test(line)) ||
+    segment[0];
+  const dateLine = segment.find((line) => /^address to the nation\.\s+/i.test(line)) || "";
+  return `${typeLabel}: ${compactTitle([subject, dateLine].filter(Boolean).join(" "), typeLabel)}`;
+}
+
+function newsletterIssueTitle(segment, typeLabel) {
+  const volumeLine = segment.find((line) => /volume\s+\d+,\s+number\s+\d+/i.test(line)) || "";
+  return `${typeLabel}: ${compactTitle(["Congressional Monitor", volumeLine].filter(Boolean).join(" "), typeLabel)}`;
+}
+
+function briefingBinderTitle(segment, typeLabel) {
+  const titleLines = [];
+  for (const line of segment.slice(0, 14)) {
+    if (/^(department|dep of defense|fema|united states of america)$/i.test(line)) continue;
+    if (/^(global humanitarian|relief efforts|dod humanitarian operations)$/i.test(line)) {
+      titleLines.push(line);
+    }
+  }
+  return `${typeLabel}: ${compactTitle(titleLines.join(" "), typeLabel)}`;
+}
+
+function mapTitle(segment, typeLabel) {
+  const titleLines = segment
+    .slice(0, 18)
+    .filter((line) => /welcome to|st\.?\s*louis|presidential debate/i.test(line));
+  return `${typeLabel}: ${compactTitle(titleLines.join(" "), typeLabel)}`;
+}
+
+function handwrittenLetterTitle(segment, typeLabel) {
+  const sender = segment.find((line) => /^richard nixon$/i.test(line)) || "";
+  const dateLine = segment.find((line) => normalizeAnyDate(line, "1993-01-01")) || "";
+  const salutation = segment.find((line) => /^(dear|dan)\s+george/i.test(line)) || "";
+  return `${typeLabel}: ${compactTitle([sender, dateLine, salutation].filter(Boolean).join(" "), typeLabel)}`;
+}
+
+function handwrittenNotesTitle(segment, typeLabel) {
+  const firstLine = firstMemoBodyLine(segment, 1);
+  return `${typeLabel}: ${compactTitle(firstLine, typeLabel)}`;
+}
+
+function campaignTalkingPointsTitle(segment, typeLabel) {
+  const headings = segment
+    .slice(0, 120)
+    .filter((line) => /^(statistics:?|domestic accomplishments|agenda for american renewal)$/i.test(line));
+  return `${typeLabel}: ${compactTitle(headings.join(" / "), typeLabel)}`;
+}
+
+function electionNoticeTitle(segment, typeLabel) {
+  const placeDate = segment[0] || "";
+  const board = segment.find((line) => /board of elections/i.test(line)) || "";
+  return `${typeLabel}: ${compactTitle([placeDate, board].filter(Boolean).join(" "), typeLabel)}`;
+}
+
+function standaloneSourceTitle(segment, kind, typeLabel) {
+  if (kind === "forwarding-note") return forwardingNoteTitle(segment, typeLabel);
+  if (kind === "wire-story") return wireStoryTitle(segment, typeLabel);
+  if (kind === "presidential-documents-reprint") return presidentialDocumentsReprintTitle(segment, typeLabel);
+  if (kind === "newsletter-issue") return newsletterIssueTitle(segment, typeLabel);
+  if (kind === "briefing-binder") return briefingBinderTitle(segment, typeLabel);
+  if (kind === "map") return mapTitle(segment, typeLabel);
+  if (kind === "letter-to-editor") return `${typeLabel}: ${compactTitle(segment[0], typeLabel)}`;
+  if (kind === "handwritten-letter") return handwrittenLetterTitle(segment, typeLabel);
+  if (kind === "handwritten-notes") return handwrittenNotesTitle(segment, typeLabel);
+  if (kind === "campaign-talking-points") return campaignTalkingPointsTitle(segment, typeLabel);
+  if (kind === "election-notice") return electionNoticeTitle(segment, typeLabel);
+  return `${typeLabel}: ${compactTitle(segment[0], typeLabel)}`;
 }
 
 function buildDirectLetterDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
@@ -2022,6 +2273,63 @@ function buildDirectSpeechSupplementDocuments(contentLines, folder, packetDoc, s
     .filter(Boolean);
 }
 
+function buildDirectStandaloneSourceDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
+  if (!starts.length) return [];
+
+  return starts
+    .map(({ start, kind }, index) => {
+      const end = nextBoundaryAfter(boundaryStarts, start, contentLines.length);
+      const segment = contentLines.slice(start, end);
+      if (segment.length < 2) return null;
+      const itemNumber = index + 1;
+      const itemLabel = String(itemNumber).padStart(2, "0");
+      const seenDate = folder.date;
+      const documentDate = documentDateFromSegment(segment, folder.date);
+      const typeLabel = standaloneSourceType(kind);
+      const title = standaloneSourceTitle(segment, kind, typeLabel);
+
+      return {
+        id: `${folder.id}-direct-source-${itemLabel}`,
+        folderId: folder.id,
+        folderNaId: folder.naId,
+        folderTitle: folder.title,
+        folderDate: folder.date,
+        folderLocalId: folder.localId,
+        folderContainerId: folder.containerId,
+        catalogUrl: folder.catalogUrl,
+        pdfUrl: folder.pdfUrl || "",
+        chapterId: folder.chapterId,
+        chapter: folder.chapter,
+        themes: folder.themes,
+        searchTerms: folder.searchTerms,
+        documentNumber: `Direct-X${itemLabel}`,
+        documentType: typeLabel,
+        directScanCategory: standaloneSourceCategory(kind),
+        directScanDisposition: standaloneSourceDisposition(kind),
+        directScanItemizationStatus: "itemized-document",
+        directScanItemizationNote:
+          "Itemized from a standalone source marker in an uncertain direct folder scan.",
+        parentPacketId: packetDoc.id,
+        title,
+        date: seenDate,
+        seenDate,
+        documentDate,
+        year: seenDate.slice(0, 4),
+        month: seenDate.slice(0, 7),
+        pages: null,
+        restriction: "",
+        classification: "",
+        excerpt: excerptFromLines(segment),
+        evidence:
+          "Itemized from NARA direct folder scan OCR using a standalone source marker such as a wire-story, binder, map, letter, or issue heading.",
+        evidenceStatus: "direct-scan-itemized",
+        needsItemization: false,
+        citation: `George H. W. Bush Papers, Presidential Daily Files, ${folder.title}, direct scan standalone source item ${itemLabel}, ${title}, National Archives Catalog NAID ${folder.naId}.`,
+      };
+    })
+    .filter(Boolean);
+}
+
 function buildDirectPoolReportDocuments(contentLines, folder, packetDoc, starts, boundaryStarts) {
   if (!starts.length) return [];
 
@@ -2150,7 +2458,7 @@ function buildDirectScanDocuments(text, folder) {
   const speechSupplementStarts = packetDoc.needsItemization
     ? directSpeechSupplementStarts(contentLines, briefingStarts)
     : [];
-  const boundaryStarts = sortedUniqueNumbers([
+  const usedStartsBeforeStandalone = sortedUniqueNumbers([
     ...letterStarts,
     ...correspondenceSupplementStarts,
     ...myDearSupplementStarts,
@@ -2162,6 +2470,13 @@ function buildDirectScanDocuments(text, folder) {
     ...newsSupplementStarts.map(({ start }) => start),
     ...briefingStarts.map(({ start }) => start),
     ...speechSupplementStarts,
+  ]);
+  const standaloneSourceStarts = packetDoc.needsItemization
+    ? directStandaloneSourceStarts(contentLines, packetDoc, usedStartsBeforeStandalone)
+    : [];
+  const boundaryStarts = sortedUniqueNumbers([
+    ...usedStartsBeforeStandalone,
+    ...standaloneSourceStarts.map(({ start }) => start),
   ]);
   const speechSupplementStartSet = new Set(speechSupplementStarts);
   const memoBoundaryStarts = boundaryStarts.filter((start) => !speechSupplementStartSet.has(start));
@@ -2210,6 +2525,13 @@ function buildDirectScanDocuments(text, folder) {
           folder,
           packetDoc,
           speechSupplementStarts,
+          boundaryStarts
+        ),
+        ...buildDirectStandaloneSourceDocuments(
+          contentLines,
+          folder,
+          packetDoc,
+          standaloneSourceStarts,
           boundaryStarts
         ),
         ...buildDirectPressReleaseDocuments(
