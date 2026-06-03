@@ -16142,6 +16142,333 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from page 216 of the NARA direct folder scan using the White House letter to Elsie Walker Kilborne, June 15 1992 date, Tibet text, Bush signature and handwriting, OCR, and rendered-page review.",
     },
   ],
+  470417907: [
+    {
+      slug: "ask-george-bush-outdoor-groups-briefing",
+      documentType: "Event Briefing",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Event briefing: Ask George Bush with Outdoor Groups",
+      documentDate: "1992-07-17",
+      pages: 2,
+      excerpt:
+        "The White House event briefing prepares President Bush for Ask George Bush with outdoor groups at Red Butte Gardens and Jackson Hole, listing the participating outdoorsmen organizations and staff handling.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the Event Briefing heading, Ask George Bush with Outdoor Groups title, Red Butte Gardens and Jackson Hole location lines, participant list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-9-salt-lake-city-july-17-1992",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #9: Jackson to Salt Lake City, July 17, 1992",
+      documentDate: "1992-07-17",
+      pages: 1,
+      excerpt:
+        "Pool Report #9 covers President Bush's travel from Jackson to Salt Lake City, the C-130 pool movement, Mormon leadership context, and the day's Wyoming-Utah press observations.",
+      evidence:
+        "Itemized from page 4 of the NARA direct folder scan using the Pool Report #9 heading, Jackson and Salt Lake City travel text, C-130 reference, Mormon leaders reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "remarks-jackson-community-jackson-hole-airport",
+      documentType: "Remarks Transcript",
+      category: "remarks-transcript",
+      disposition: "itemized-remarks-transcript",
+      title: "Remarks by President Bush to the Jackson community at Jackson Hole Airport",
+      documentDate: "1992-07-17",
+      pages: 2,
+      excerpt:
+        "The Office of the Press Secretary transcript records President Bush's remarks to the Jackson community at Jackson Hole Airport at 12:20 p.m. MDT.",
+      evidence:
+        "Itemized from pages 5-6 of the NARA direct folder scan using the Office of the Press Secretary release heading, Remarks by the President to the Jackson Community title, Jackson Hole Airport location, time stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-light-joseph-thompson",
+      documentType: "Daily Point of Light Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Daily Point of Light release: Joseph Thompson",
+      documentDate: "1992-07-17",
+      pages: 1,
+      excerpt:
+        "The White House release, embargoed until July 19, names Joseph Thompson of Topeka, Kansas, as a Daily Point of Light.",
+      evidence:
+        "Itemized from page 7 of the NARA direct folder scan using the embargoed Office of the Press Secretary release, Joseph Thompson name line, Topeka Kansas reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "harriet-winsar-isom-cameroon-nomination-release",
+      documentType: "Nomination Press Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Nomination release: Harriet Winsar Isom to be Ambassador to Cameroon",
+      documentDate: "1992-07-17",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intention to nominate Harriet Winsar Isom, a career member of the Senior Foreign Service, to be Ambassador to Cameroon.",
+      evidence:
+        "Itemized from page 8 of the NARA direct folder scan using the Office of the Press Secretary nomination release, Harriet Winsar Isom name line, Cameroon ambassador text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-light-urban-concern",
+      documentType: "Daily Point of Light Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Daily Point of Light release: Urban Concern Inc.",
+      documentDate: "1992-07-17",
+      pages: 1,
+      excerpt:
+        "The White House recognizes the volunteers of Urban Concern Inc. of Columbus, Ohio, as the 833rd Daily Point of Light for the Nation.",
+      evidence:
+        "Itemized from page 9 of the NARA direct folder scan using the Office of the Press Secretary release heading, Urban Concern Inc. name line, Columbus Ohio reference, 833rd Point of Light text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "material-forwarded-president-july-17-1992",
+      documentType: "Material Forwarded to the President",
+      category: "daily-file-routing-list",
+      disposition: "itemized-routing-list",
+      title: "Material Forwarded to the President, July 17, 1992",
+      documentDate: "1992-07-17",
+      pages: 1,
+      excerpt:
+        "The daily material-forwarded sheet lists action, classified, and information items sent to President Bush, including responses, resignation letters, Bromley science materials, Teeter campaign memoranda, and news items.",
+      evidence:
+        "Itemized from page 10 of the NARA direct folder scan using the Material Forwarded to the President heading, July 17 1992 date, action/classified/information sections, Teeter and Bromley references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "skinner-super-economic-briefings-bush-note",
+      documentType: "Memorandum with Presidential Note",
+      category: "presidential-note-packet",
+      disposition: "itemized-presidential-note-packet",
+      title: "Samuel K. Skinner memo to Kathy Super re economic briefings and President Bush note",
+      documentDate: "1992-07-17",
+      pages: 2,
+      excerpt:
+        "Samuel K. Skinner forwards Kathy Super the President's handwritten June 27 note asking Skinner to get Brady and Boskin together on the economy and brief the President on anything new.",
+      evidence:
+        "Itemized from pages 11-12 of the NARA direct folder scan using the Samuel K. Skinner memorandum to Kathy Super, attached June 27 President note, Brady and Boskin references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "floyd-brown-citizens-for-bush-cbs-news-packet",
+      documentType: "Campaign Correspondence Packet",
+      category: "campaign-document",
+      disposition: "itemized-campaign-document",
+      title: "Floyd Brown, Citizens for Bush, and CBS News correspondence packet",
+      documentDate: "1992-07-17",
+      pages: 13,
+      excerpt:
+        "Robert Teeter and Bush-Quayle '92 materials brief President Bush on Floyd Brown, Citizens for Bush, the Presidential Victory Committee, and correspondence with CBS News about campaign activity and contributor communications.",
+      evidence:
+        "Itemized from pages 13-25 of the NARA direct folder scan using Robert Teeter memoranda, Bobby Burchfield letters, Floyd Brown and Citizens for Bush references, CBS News facsimile page, contributor letter materials, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-teeter-jerry-falwell-memo",
+      documentType: "Campaign Memorandum",
+      category: "campaign-document",
+      disposition: "itemized-campaign-document",
+      title: "Robert Teeter memo to President Bush re note and conversation with Jerry Falwell",
+      documentDate: "1992-07-10",
+      pages: 1,
+      excerpt:
+        "Robert Teeter responds to President Bush's note and conversation with Jerry Falwell in a campaign memorandum sent to the President.",
+      evidence:
+        "Itemized from page 26 of the NARA direct folder scan using the Robert Teeter memorandum heading, President addressee, Your Note and Conversation with Jerry Falwell subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bromley-science-technology-report-memo",
+      documentType: "Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "D. Allan Bromley memo to President Bush re science and technology report",
+      documentDate: "1992-07-14",
+      pages: 2,
+      excerpt:
+        "D. Allan Bromley sends President Bush his science and technology report and related material, highlighting accomplishments in science, technology, and OSTP communication.",
+      evidence:
+        "Itemized from pages 27-28 of the NARA direct folder scan using the D. Allan Bromley memorandum heading, Your Science and Technology Report subject line, OSTP references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "don-kendall-campaign-article-packet",
+      documentType: "Presidential Note and Press Articles",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "President Bush handwritten Don Kendall note and campaign-finance article packet",
+      documentDate: "1992-07-17",
+      pages: 3,
+      excerpt:
+        "President Bush forwards a Don Kendall item with a tongue-in-cheek note, followed by AP and campaign-finance article material concerning Bush campaign strategy and corporate contributors.",
+      evidence:
+        "Itemized from pages 29-31 of the NARA direct folder scan using the President's handwritten Don Kendall note, AP story page, campaign-finance article page, Phil Swink and Dave Wright routing marks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ray-price-ruminations-one-strategy-memo",
+      documentType: "Strategy Memorandum with Presidential Notes",
+      category: "campaign-strategy-memo",
+      disposition: "itemized-campaign-strategy-memo",
+      title: "Ray Price strategy memo to President Bush: Ruminations #1",
+      documentDate: "1992-07-01",
+      pages: 14,
+      excerpt:
+        "President Bush forwards Ray Price's twelve-page Ruminations #1 strategy memorandum with handwritten routing notes, asking that Jim receive it and marking it for close handling.",
+      evidence:
+        "Itemized from pages 32-45 of the NARA direct folder scan using the From the desk of George Bush routing pages, Bush handwritten notes, Ray Price facsimile memorandum to President Bush, Ruminations #1 subject line, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ron-kaufman-rose-zamaria-fyi-cover",
+      documentType: "Routing Note",
+      category: "staff-note",
+      disposition: "itemized-staff-note",
+      title: "Ron Kaufman FYI cover sheet to Rose Zamaria",
+      documentDate: "1992-07-17",
+      pages: 1,
+      excerpt:
+        "Ron Kaufman sends Rose Zamaria an FYI cover sheet on July 17, 1992.",
+      evidence:
+        "Itemized from page 46 of the NARA direct folder scan using the Ron Kaufman to Rose Zamaria FYI cover sheet, July 17 1992 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jean-pipes-congratulatory-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush congratulatory letter to Mrs. Jean Pipes",
+      documentDate: "1992-07-02",
+      pages: 1,
+      excerpt:
+        "President Bush sends Mrs. Jean Pipes a congratulatory letter connected to the Palm Beach County Political Action Committee.",
+      evidence:
+        "Itemized from page 47 of the NARA direct folder scan using the White House letter to Mrs. Jean Pipes, July 2 1992 date, Palm Beach County Political Action Committee reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-computer-stationery-note",
+      documentType: "Presidential Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "President Bush note on new computer stationery",
+      documentDate: "1992-07-17",
+      pages: 1,
+      excerpt:
+        "A short note to the President presents his new computer stationery and bears President Bush handling marks.",
+      evidence:
+        "Itemized from page 48 of the NARA direct folder scan using the Mr. President new Computer stationery text, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "susan-petersen-kendall-ranch-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Susan Petersen Kendall Ranch correspondence packet",
+      documentDate: "1992-07-17",
+      pages: 3,
+      excerpt:
+        "A Susan Petersen correspondence packet includes a From the desk of George Bush routing page, address page for Ms. Susan Petersen at Kendall Ranch in Cora, Wyoming, and handwritten incoming correspondence.",
+      evidence:
+        "Itemized from pages 49-51 of the NARA direct folder scan using the From the desk of George Bush marker, Susan Petersen address page, Kendall Ranch and Cora Wyoming references, handwritten letter page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-phone-call-john-sununu-wyoming-turn-note",
+      documentType: "Call Note with Presidential Handwriting",
+      category: "telephone-note-packet",
+      disposition: "itemized-telephone-note-packet",
+      title: "President Bush phone-call note re John Sununu and the Wyoming turn",
+      documentDate: "1992-07-17",
+      pages: 1,
+      excerpt:
+        "A presidential phone-call note records President Bush handling for a John Sununu-related call and a Wyoming turn reference.",
+      evidence:
+        "Itemized from page 52 of the NARA direct folder scan using the presidential phone-call note, John Sununu name, Wyoming turn reference, Bush handwriting, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "bush-handwritten-eli-tahoe-schedule-note",
+      documentType: "Presidential Handwritten Routing Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title: "President Bush handwritten routing note re Eli, Tahoe, and schedule handling",
+      documentDate: "1992-07-17",
+      pages: 1,
+      excerpt:
+        "A rotated From the desk of George Bush routing note records presidential handwriting about Eli, Tahoe, and schedule handling.",
+      evidence:
+        "Itemized from page 53 of the NARA direct folder scan using the rotated From the desk of George Bush page, Bush handwriting, Eli and Tahoe references, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "july-17-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "Telephone memoranda for President Bush, July 17, 1992",
+      documentDate: "1992-07-17",
+      pages: 4,
+      excerpt:
+        "A no-handwritten-notes marker and White House telephone memorandum pages record July 17 call handling for President Bush, Signal Switchboard entries, and calls involving senior officials and Premier John Swan.",
+      evidence:
+        "Itemized from pages 54-57 of the NARA direct folder scan using the document-attached marker, Patty Presock no-handwritten-notes annotation, Signal Switchboard call sheets, President Bush telephone memorandum page, July 17 date lines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "july-17-presidential-movements-boulder-jackson-salt-lake",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-log",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential movements log: Boulder, Jackson, and Salt Lake City, July 17, 1992",
+      documentDate: "1992-07-17",
+      pages: 1,
+      excerpt:
+        "The WHCA movements log records President Bush's July 17 movements from Boulder, Wyoming, through Jackson and Salt Lake City.",
+      evidence:
+        "Itemized from page 58 of the NARA direct folder scan using the Presidential Movements heading, July 17 1992 date, Boulder, Jackson, and Salt Lake City movement entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "utah-bush-quayle-leadership-meeting-participants",
+      documentType: "Participant List",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Utah Bush-Quayle Leadership Meeting participant list",
+      documentDate: "1992-07-17",
+      pages: 3,
+      excerpt:
+        "The packet lists participants for the Utah Bush-Quayle Leadership Meeting, providing names and affiliations for the Salt Lake City event.",
+      evidence:
+        "Itemized from pages 59-61 of the NARA direct folder scan using the Utah Bush/Quayle Leadership Meeting heading, participant names, affiliation lines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lds-church-leaders-meeting-points",
+      documentType: "Meeting Agenda and Talking Points",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Meeting with LDS Church leaders agenda and talking-point cards",
+      documentDate: "1992-07-17",
+      pages: 5,
+      excerpt:
+        "The briefing cards prepare President Bush for a meeting with LDS Church leaders, including an agenda/issues page and four talking-point cards.",
+      evidence:
+        "Itemized from pages 62-66 of the NARA direct folder scan using the Meeting with LDS Church Leaders heading, agenda and issues page, numbered talking-point cards, OCR, and rendered-page review.",
+    },
+    {
+      slug: "utah-bush-quayle-leadership-meeting-talking-points",
+      documentType: "Event Talking Points",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Utah Bush-Quayle Leadership Meeting talking points",
+      documentDate: "1992-07-17",
+      pages: 10,
+      excerpt:
+        "Two copies of five-card talking points prepare President Bush for the Utah Bush-Quayle Leadership Meeting.",
+      evidence:
+        "Itemized from pages 67-76 of the NARA direct folder scan using the Utah Bush/Quayle Leadership Meeting talking-point headings, numbered cards 1 through 5 repeated in duplicate, OCR, and rendered-page review.",
+    },
+    {
+      slug: "service-clubs-picnic-jackson-hole-speech-draft",
+      documentType: "Speech Draft",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title: "Service Clubs Picnic speech draft for Jackson Hole",
+      documentDate: "1992-07-17",
+      pages: 22,
+      excerpt:
+        "A twenty-two-page Service Clubs Picnic speech draft prepares President Bush for remarks at Jackson Hole, Wyoming, on Friday, July 17, 1992.",
+      evidence:
+        "Itemized from pages 77-98 of the NARA direct folder scan using the Service Clubs Picnic heading, Jackson Hole Wyoming location, Friday July 17 1992 date, continuous page numbering through page 22, OCR, and rendered-page review.",
+    },
+  ],
   470417970: [
     {
       slug: "treasury-forwarding-note-brady-houston-club-materials",
@@ -21998,6 +22325,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417888",
   "470417900",
   "470417904",
+  "470417907",
   "470418083",
 ]);
 
