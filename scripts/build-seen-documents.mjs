@@ -17947,6 +17947,114 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 179-186 of the NARA direct folder scan using color Official White House photograph fronts, Official White House Photo back pages, transfer placeholders, rendered-page review, and low-confidence OCR.",
     },
   ],
+  470417976: [
+    {
+      slug: "bush-quayle-commander-in-chief-or-clerk-release",
+      documentType: "Campaign Press Release",
+      category: "campaign-press-release",
+      disposition: "itemized-campaign-press-release",
+      title:
+        "Bush-Quayle 92 news release: Commander-in-Chief... Or Just a Clerk?",
+      documentDate: "1992-08-13",
+      pages: 1,
+      excerpt:
+        "The Bush-Quayle 92 press release attacks Bill Clinton's foreign-policy credentials and Senate Foreign Relations Committee claim under the headline Commander-in-Chief... Or Just a Clerk?",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the Bush-Quayle 92 news release header, August 13 1992 date, BQ'92 release number, Commander-in-Chief headline, Clinton foreign-policy credentials text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-bush-handwritten-note-roy-pfautch",
+      documentType: "Presidential Handwritten Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush handwritten note to Roy Pfautch",
+      documentDate: "1992-08-13",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Roy Pfautch, says he was in Maine in good spirits but that he knows it hurt a lot, and looks ahead to Houston and victory.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using the White House stationery, Roy Pfautch address block, August 13 1992 handwritten presidential note, Houston and victory references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-bush-handwritten-note-charlton-heston",
+      documentType: "Presidential Handwritten Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush handwritten note to Charlton Heston",
+      documentDate: "1992-08-13",
+      pages: 1,
+      excerpt:
+        "President Bush tells Charlton Heston that he got the message, acknowledges that they were getting clobbered out there, and says that would change with Heston's help.",
+      evidence:
+        "Itemized from page 4 of the NARA direct folder scan using the White House stationery, Charlton Heston address block, August 13 1992 handwritten presidential note, Rose Zamaria and Jan Burmeister copy notations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "office-media-affairs-daily-news-clips-august-13-1992",
+      documentType: "Daily News Clips Packet",
+      category: "daily-news-clips",
+      disposition: "itemized-daily-news-clips",
+      title: "Office of Media Affairs Daily News Clips: August 13, 1992",
+      documentDate: "1992-08-13",
+      pages: 119,
+      excerpt:
+        "The Office of Media Affairs daily news clips packet collects August 13 coverage from the Wall Street Journal, Los Angeles Times, USA Today, Washington Post, New York Times, and Washington Times on Baker's campaign role, Clinton and Gore, NAFTA, Israel, Bosnia, health care, taxes, and a Washington Times interview with President Bush.",
+      evidence:
+        "Itemized from pages 5-123 of the NARA direct folder scan using the Daily News Clips cover page, Office of Media Affairs heading, Thursday August 13 1992 date line, Wall Street Journal, Los Angeles Times, USA Today, Washington Post, New York Times, and Washington Times clipping sequence, President Bush interview text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photo-colonnade-august-13-1992",
+      documentType: "Official White House Photograph",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photograph: President Bush on the colonnade",
+      documentDate: "1992-08-13",
+      pages: 2,
+      excerpt:
+        "The color Official White House photograph shows President Bush walking along the White House colonnade with another man, followed by the photograph back page.",
+      evidence:
+        "Itemized from pages 124-125 of the NARA direct folder scan using the color photograph front, Official White House Photo back page, August 13 1992 photo identifier text, rendered-page review, and low-confidence OCR.",
+    },
+    {
+      slug: "official-white-house-photo-presidential-portrait-august-13-1992",
+      documentType: "Official White House Photograph",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photograph: President Bush portrait",
+      documentDate: "1992-08-13",
+      pages: 1,
+      excerpt:
+        "The color Official White House photograph is a portrait of President Bush in a dark suit and striped tie.",
+      evidence:
+        "Itemized from page 126 of the NARA direct folder scan using the color presidential portrait, rendered-page review, and low-confidence OCR.",
+    },
+    {
+      slug: "official-white-house-photo-press-announcement-secretary-baker",
+      documentType: "Official White House Photograph",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photograph: Press announcement on Secretary Baker",
+      documentDate: "1992-08-13",
+      pages: 2,
+      excerpt:
+        "The color Official White House photograph shows President Bush at a podium with press in attendance; the attached note identifies it as a press announcement on Secretary Baker.",
+      evidence:
+        "Itemized from pages 127-128 of the NARA direct folder scan using the color photograph front, handwritten press announcement on Sec. Baker note, Official White House Photo back page, August 13 1992 photo identifier text, rendered-page review, and low-confidence OCR.",
+    },
+    {
+      slug: "official-white-house-photo-president-talks-senior-staff-secretary-baker",
+      documentType: "Official White House Photograph",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title:
+        "Official White House photograph: President talks to senior staff about Secretary Baker",
+      documentDate: "1992-08-13",
+      pages: 2,
+      excerpt:
+        "The color Official White House photograph shows President Bush speaking with senior staff in the Cabinet Room about Secretary Baker, followed by the photograph back page.",
+      evidence:
+        "Itemized from pages 129-130 of the NARA direct folder scan using the color photograph front, handwritten President talks senior staff about Sec. Baker note, Official White House Photo back page, August 13 1992 photo identifier text, rendered-page review, and low-confidence OCR.",
+    },
+  ],
   470417978: [
     {
       slug: "materials-forwarded-to-president-august-14-1992",
@@ -23663,6 +23771,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417957",
   "470417964",
   "470417970",
+  "470417976",
   "470418083",
 ]);
 
