@@ -7010,6 +7010,32 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470417713: [
     {
+      slug: "carter-malaise-speech-forwarding-note",
+      documentType: "Forwarding Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Forwarding note from the President to Sam Skinner re Carter malaise speech",
+      documentDate: "1992-04-17",
+      pages: 1,
+      excerpt:
+        "From Walker's Point, the President forwards Jimmy Carter's 1979 energy and national goals address to Sam Skinner, with copies to James Watkins, Bob Teeter, and Dave Demarest, warning against the kind of handwringing Carter conveyed.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the Walker's Point forwarding note, Sam Skinner addressee, Carter malaise-speech references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "carter-energy-national-goals-address-reprint",
+      documentType: "Presidential Documents Reprint",
+      category: "presidential-documents-reprint",
+      disposition: "itemized-presidential-documents-reprint",
+      title: "Presidential Documents reprint of Jimmy Carter's Energy and National Goals address",
+      documentDate: "1979-07-15",
+      pages: 7,
+      excerpt:
+        "The reprint reproduces President Jimmy Carter's July 15, 1979 address on energy and national goals, including the confidence crisis, dependence on foreign oil, conservation, and his proposed energy program.",
+      evidence:
+        "Itemized from pages 3-9 of the NARA direct folder scan using the Presidential Documents masthead, Energy and National Goals heading, July 15, 1979 address line, OCR, and rendered-page review.",
+    },
+    {
       slug: "billy-graham-convention-note",
       documentType: "President's Note",
       category: "president-note-item",
@@ -7020,7 +7046,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The President tells Ron Kaufman, with copies to Craig Fuller and Bob Teeter, not to pressure Billy Graham about appearing at the convention.",
       evidence:
-        "Itemized from a Walker's Point presidential note heading found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from page 10 of the NARA direct folder scan using the Walker's Point presidential note heading, Ron Kaufman addressee, Billy Graham convention subject, OCR, and rendered-page review.",
     },
     {
       slug: "campaign-finance-reform-column",
@@ -7028,12 +7054,12 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       category: "press-column-item",
       disposition: "itemized-press-column",
       title: "Press column by George J. Mitchell on campaign-finance reform",
-      documentDate: "",
-      pages: 2,
+      documentDate: "1992-04-17",
+      pages: 3,
       excerpt:
         "A newspaper clipping by George J. Mitchell discusses House and Senate action on campaign-finance reform legislation.",
       evidence:
-        "Itemized from a press-column byline and campaign-finance reform text found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from pages 11-13 of the NARA direct folder scan using the Walker's Point presidential note to Sam Skinner and Bob Teeter, George Mitchell column reference, attached clipping pages, OCR, and rendered-page review.",
     },
     {
       slug: "jon-bush-damato-victory-92-note",
@@ -7046,7 +7072,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The President reports that Jon Bush called at Al D'Amato's behest in favor of a joint D'Amato-Victory '92 fundraiser and asks Kaufman to advise the campaign.",
       evidence:
-        "Itemized from a Walker's Point presidential note heading found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from page 14 of the NARA direct folder scan using the Walker's Point presidential note heading, Ron Kaufman addressee, Jon Bush and Al D'Amato references, OCR, and rendered-page review.",
     },
     {
       slug: "rosty-chicago-note",
@@ -7059,7 +7085,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The President thanks Sam Skinner for a prompt response to Chicago's troubles and notes Dan Rostenkowski's request to talk money for Chicago.",
       evidence:
-        "Itemized from a Walker's Point presidential note heading found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from page 15 of the NARA direct folder scan using the Walker's Point presidential note heading, Sam Skinner addressee, Rosty and Chicago references, OCR, and rendered-page review.",
     },
     {
       slug: "april-17-telephone-memoranda",
@@ -7072,7 +7098,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "White House telephone memoranda list calls with Billy Graham, Gordon Zacks, Max Fisher, Roger Ailes, George W. Bush, Brent Scowcroft, Sam Skinner, and others.",
       evidence:
-        "Itemized from White House telephone memorandum and Signal Switchboard headings found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from pages 16-17 of the NARA direct folder scan using White House telephone memorandum and Signal Switchboard headings, call lists, OCR, and rendered-page review.",
     },
     {
       slug: "april-17-presidential-movements",
@@ -7085,7 +7111,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The movement log records low-key motorcade movements between Walker's Point, North Street Congregational Church, and Kenneth Raynor's residence.",
       evidence:
-        "Itemized from a Presidential Movements heading found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from page 18 of the NARA direct folder scan using the Presidential Movements heading, Kennebunkport movement entries, OCR, and rendered-page review.",
     },
     {
       slug: "white-house-news-summary-april-17-1992",
@@ -7098,7 +7124,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The Office of the Press Secretary news summary opens with education-plan coverage, Clinton economic criticism, Perot ballot coverage, abortion counseling, Bosnia, Libya, Iraq, and network news.",
       evidence:
-        "Itemized from a White House News Summary heading and continuation pages found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from pages 19-35 of the NARA direct folder scan using the White House News Summary cover, A/B section pagination, OCR, and rendered-page review.",
     },
     {
       slug: "political-cartoon-packet-april-17-1992",
@@ -7107,11 +7133,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-political-cartoon-packet",
       title: "Political cartoon packet on the 1992 campaign and House Bank scandal",
       documentDate: "1992-04-17",
-      pages: 23,
+      pages: 24,
       excerpt:
         "A packet of clipped political cartoons covers Clinton, Perot, Iran, Boris Yeltsin, House Bank criticism, unemployment, and other campaign subjects.",
       evidence:
-        "Itemized from a run of political cartoon pages found in full-PDF OCR of the NARA direct folder scan after the White House News Summary.",
+        "Itemized from pages 36-59 of the NARA direct folder scan using the Friday Follies cover page, White House News Summary Special Edition label, cartoon sequence, OCR, and rendered-page review.",
     },
     {
       slug: "bud-walton-condolence-letter",
@@ -7120,11 +7146,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-presidential-correspondence",
       title: "Letter from the President to Bud Walton re Sam Walton",
       documentDate: "1992-04-17",
-      pages: 4,
+      pages: 5,
       excerpt:
         "The President sends condolences to Bud Walton after Sam Walton's death and recalls his Bentonville visit before Walton's passing.",
       evidence:
-        "Itemized from White House letter pages and duplicate/copy pages found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from pages 60-62, 196, and 198 of the NARA direct folder scan using the Bud Walton typed draft, signed copies, Bud Walton photograph label, color photograph page, OCR, and rendered-page review.",
     },
     {
       slug: "rob-walton-condolence-letter",
@@ -7133,11 +7159,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-presidential-correspondence",
       title: "Letter from the President to Rob Walton re Sam Walton",
       documentDate: "1992-04-17",
-      pages: 4,
+      pages: 5,
       excerpt:
         "The President thanks Rob Walton for his hospitality in Bentonville and sends condolences after Sam Walton's death.",
       evidence:
-        "Itemized from White House letter pages and duplicate/copy pages found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from pages 63-65, 197, and 199 of the NARA direct folder scan using the Rob Walton typed draft, signed copies, Rob Walton photograph label, color photograph page, OCR, and rendered-page review.",
     },
     {
       slug: "apn-daily-briefing-april-17-1992",
@@ -14068,6 +14094,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417692",
   "470417696",
   "470417703",
+  "470417713",
   "470418083",
 ]);
 
