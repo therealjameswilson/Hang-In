@@ -872,6 +872,324 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from a White House letter page found in full-PDF OCR of the NARA direct folder scan.",
     },
   ],
+  470417483: [
+    {
+      slug: "president-statement-new-advisers-economic-steps",
+      documentType: "Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title:
+        "Statement by the President re new White House and campaign advisers and economic acceleration steps",
+      documentDate: "1991-12-05",
+      pages: 10,
+      excerpt:
+        "President Bush introduces Sam Skinner as Chief of Staff, names senior campaign advisers, discusses John Sununu's transition, and previews economic growth proposals.",
+      evidence:
+        "Itemized from statement pages, handwriting pages, and a clean statement copy found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "nam-meeting-talking-points",
+      documentType: "Talking Points",
+      category: "meeting-briefing-attachment",
+      disposition: "itemized-meeting-briefing-attachment",
+      title: "Talking Points for meeting with National Association of Manufacturers",
+      documentDate: "1991-12-05",
+      pages: 3,
+      excerpt:
+        "Talking points for the President's Roosevelt Room meeting with NAM discuss the economy, manufacturing productivity, exports, regulatory relief, taxes, and the coming Asia trip.",
+      evidence:
+        "Itemized from the Meeting with National Association of Manufacturers attachment sequence found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "porter-memo-nam-executive-committee",
+      documentType: "Memorandum",
+      category: "meeting-briefing-attachment",
+      disposition: "itemized-meeting-briefing-attachment",
+      title:
+        "Memorandum from Roger B. Porter to the President re meeting with National Association of Manufacturers Executive Committee",
+      documentDate: "1991-12-04",
+      pages: 3,
+      excerpt:
+        "Roger Porter briefs the President on the NAM Executive Committee meeting and calls attention to letters sent on the President's behalf to NAM leaders.",
+      evidence:
+        "Itemized from the Porter memorandum and following handwritten-note pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "nam-executive-committee-attendees",
+      documentType: "Participant List",
+      category: "meeting-briefing-attachment",
+      disposition: "itemized-meeting-briefing-attachment",
+      title: "Attendees at NAM Executive Committee meeting, December 5, 1991",
+      documentDate: "1991-12-05",
+      pages: 3,
+      excerpt:
+        "The attendee list names administration participants and NAM Executive Committee members scheduled for the December 5 Roosevelt Room meeting.",
+      evidence:
+        "Itemized from the three-page attendee list in the NAM meeting materials found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-response-nam-team-b-japan",
+      documentType: "Letter",
+      category: "meeting-briefing-attachment",
+      disposition: "itemized-meeting-briefing-attachment",
+      title:
+        "White House response to Jerry Jasinowski re NAM proposal for a Team B on U.S. economic policy toward Japan",
+      documentDate: "1991-06-12",
+      pages: 3,
+      excerpt:
+        "The White House response thanks Jerry Jasinowski and NAM for trade-policy work and discusses Japan, market access, competitiveness, and U.S.-Japan relations.",
+      evidence:
+        "Itemized from the June 12, 1991 response letter attached to the NAM meeting materials in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "jasinowski-letter-economic-team-b-japan",
+      documentType: "Incoming Letter",
+      category: "meeting-briefing-attachment",
+      disposition: "itemized-meeting-briefing-attachment",
+      title:
+        "Letter from Jerry J. Jasinowski to the President re an economic Team B on U.S. international economic policy toward Japan",
+      documentDate: "1991-03-13",
+      pages: 3,
+      excerpt:
+        "Jerry Jasinowski urges the President to create a special task force to reassess U.S. international economic goals and objectives, especially as they relate to Japan.",
+      evidence:
+        "Itemized from the March 13, 1991 NAM letter attached to the meeting materials in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "porter-response-nam-economic-policy-letter",
+      documentType: "Letter",
+      category: "meeting-briefing-attachment",
+      disposition: "itemized-meeting-briefing-attachment",
+      title: "Letter from Roger B. Porter to Dexter Baker and Jerry Jasinowski re NAM economic policy views",
+      documentDate: "1991-11-12",
+      pages: 2,
+      excerpt:
+        "Roger Porter thanks Dexter Baker and Jerry Jasinowski for NAM's views on economic policy and discusses fiscal restraint and growth policy.",
+      evidence:
+        "Itemized from the November 12, 1991 Porter letter attached to the NAM meeting materials in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "rogich-memo-no-greater-love-hostages",
+      documentType: "Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Memorandum from Sig Rogich to Governor Sununu re unannounced stop at No Greater Love headquarters",
+      documentDate: "1991-12-04",
+      pages: 2,
+      excerpt:
+        "Sig Rogich proposes that the President make an unannounced stop at No Greater Love headquarters, with presidential handwriting discussing released hostages.",
+      evidence:
+        "Itemized from the Rogich memorandum and attached presidential note page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-note-brent-mosbacher-japan-trip",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Brent re Robert Mosbacher's Japan trip and Sam Skinner",
+      documentDate: "1991-12-06",
+      pages: 1,
+      excerpt:
+        "The President notes that Robert Mosbacher will continue with plans to travel to Japan, that the trip will emphasize jobs, and that Sam Skinner will not go.",
+      evidence:
+        "Itemized from a December 6, 1991 note headed 'FROM THE PRESIDENT' found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "hooks-minority-scholarships-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Correspondence packet re Benjamin Hooks and minority scholarships policy",
+      documentDate: "1991-12-04",
+      pages: 3,
+      excerpt:
+        "The packet includes a presidential reply to Benjamin Hooks, an Ede Holiday memorandum to the President, and Hooks's incoming letter on Education Department minority-scholarship policy.",
+      evidence:
+        "Itemized from the presidential reply, Ede Holiday memorandum, and Benjamin Hooks incoming letter found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "zamaria-combined-federal-campaign-memo",
+      documentType: "Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Memorandum from Rose Zamaria to White House staff re 1991 Combined Federal Campaign",
+      documentDate: "1991-12-05",
+      pages: 2,
+      excerpt:
+        "Rose Zamaria extends the White House Combined Federal Campaign deadline because the White House had not yet met its 1991 goal.",
+      evidence:
+        "Itemized from the December 5, 1991 Combined Federal Campaign memorandum and routing page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "bush-quayle-1992-fundraising-summary",
+      documentType: "Campaign Finance Summary",
+      category: "campaign-finance-item",
+      disposition: "itemized-campaign-finance-summary",
+      title: "Bush-Quayle '92 Fundraising Summary, December 5, 1991",
+      documentDate: "1991-12-05",
+      pages: 4,
+      excerpt:
+        "The fundraising summary compares 1984 and 1992 presidential primary funds raised, projects amounts to be raised, and lists fundraising by time period and solicitation type.",
+      evidence:
+        "Itemized from the Bush-Quayle '92 Fundraising Summary pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "clayton-yeutter-fundraiser-correspondence",
+      documentType: "Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Clayton Yeutter correspondence packet re offer to host a Bush-Quayle fundraiser",
+      documentDate: "1991-12-05",
+      pages: 5,
+      excerpt:
+        "The packet includes routing material, an incoming offer to host a fundraiser, and a presidential response to Clayton about the fundraising proposal.",
+      evidence:
+        "Itemized from the routing pages, incoming November 26 letter, and December 5 presidential response found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "republican-eagles-economic-issues-correspondence",
+      documentType: "Memorandum Packet",
+      category: "economic-policy-correspondence",
+      disposition: "itemized-economic-policy-correspondence",
+      title: "Republican Eagles Economic Issues Committee correspondence and analysis packet",
+      documentDate: "1991-12-04",
+      pages: 11,
+      excerpt:
+        "The packet includes a Roger Porter memorandum to the President, Yeutter and Laughery forwarding material, the Republican Eagles economic-growth letter, signatures, and a presidential reply to Clayton.",
+      evidence:
+        "Itemized from the Republican Eagles memorandum, forwarding notes, incoming committee letter, signature pages, and presidential response found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "torricelli-letter-to-president-december-1991",
+      documentType: "Incoming Letter",
+      category: "congressional-correspondence",
+      disposition: "itemized-congressional-correspondence",
+      title: "Letter from Representative Robert G. Torricelli to President Bush re Japan and World War II comments",
+      documentDate: "1991-12-05",
+      pages: 1,
+      excerpt:
+        "Representative Robert G. Torricelli thanks President Bush for recent comments concerning Japan and the historic events of World War II.",
+      evidence:
+        "Itemized from the congressional letterhead page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "warburg-memorial-program-letter",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Mr. and Mrs. Warburg re Max Warburg Memorial Program",
+      documentDate: "1991-12-04",
+      pages: 2,
+      excerpt:
+        "The President writes to Mr. and Mrs. Warburg about the Max Warburg Memorial Program for sixth graders in the Boston Public Schools, with a related routing note.",
+      evidence:
+        "Itemized from the presidential letter and related note page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-letter-betsy-walter-walkers-point",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Betsy and Walter re Walker's Point",
+      documentDate: "1991-12-05",
+      pages: 1,
+      excerpt:
+        "The President and Mrs. Bush thank Betsy and Walter for their note of concern about the Bush house in Kennebunkport after storm damage at Walker's Point.",
+      evidence:
+        "Itemized from a December 5, 1991 presidential letter page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "lake-superior-center-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Correspondence packet re Peter's project for the Lake Superior Center",
+      documentDate: "1991-12-05",
+      pages: 3,
+      excerpt:
+        "The packet includes a presidential reply about Peter's Lake Superior Center project, an incoming ARCO letter from L. M. Cook, and related handwritten routing material.",
+      evidence:
+        "Itemized from the presidential reply, ARCO incoming letter, and handwritten routing page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "daily-tally-comments-december-5-1991",
+      documentType: "Public Comment Tally",
+      category: "public-comment-tally",
+      disposition: "itemized-public-comment-tally",
+      title: "Daily Tally Sheet and comments for Thursday, December 5, 1991",
+      documentDate: "1991-12-05",
+      pages: 5,
+      excerpt:
+        "The tally sheet and continuation comments summarize public calls and comments to the White House on the President, Haiti, the Soviet Union, capital gains, health insurance, and other topics.",
+      evidence:
+        "Itemized from the Daily Tally Sheet and continuation comment pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "acceleration-project-fact-sheet",
+      documentType: "Fact Sheet",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Fact Sheet: Acceleration Project",
+      documentDate: "1991-12-05",
+      pages: 2,
+      excerpt:
+        "The Office of the Press Secretary fact sheet explains criteria and agency examples for accelerating already-appropriated funds for earliest possible expenditure.",
+      evidence:
+        "Itemized from the December 5, 1991 Office of the Press Secretary fact sheet found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-news-summary-updates-december-5-1991",
+      documentType: "News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary updates, Thursday, December 5, 1991",
+      documentDate: "1991-12-05",
+      pages: 4,
+      excerpt:
+        "White House News Summary updates at 10:30 a.m., 1:00 p.m., and 4:45 p.m. cover jobless claims, factory orders, the press conference, EPA pollution allowances, and Middle East talks.",
+      evidence:
+        "Itemized from the White House News Summary update pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "wire-clipping-packet-december-5-1991",
+      documentType: "Wire Clipping Packet",
+      category: "wire-clipping-packet",
+      disposition: "itemized-wire-clipping-packet",
+      title: "Wire service clipping packet, December 5, 1991",
+      documentDate: "1991-12-05",
+      pages: 24,
+      excerpt:
+        "The wire-clipping run includes AP, UPI, and Reuters stories on economic recovery planning, Bush and Mandela, Middle East talks, Libya, the campaign team, Japan, Kuwait, and Venezuela.",
+      evidence:
+        "Itemized as a packet from rendered page review of the low-confidence OCR wire-story run in the NARA direct folder scan.",
+    },
+    {
+      slug: "fitzwater-memo-bush-family-wsj-article",
+      documentType: "Memorandum and Press Statement",
+      category: "press-office-memorandum",
+      disposition: "itemized-press-office-memorandum",
+      title: "Memorandum from Marlin Fitzwater to the President's family re Wall Street Journal article",
+      documentDate: "1991-12-05",
+      pages: 3,
+      excerpt:
+        "Marlin Fitzwater briefs the President's family on a forthcoming Wall Street Journal article about Bush family business activities and attaches the White House statement.",
+      evidence:
+        "Itemized from the Fitzwater memorandum and attached December 4 press statement found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "mrs-bush-press-office-daily-clippings-december-5-1991",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Thursday, December 5, 1991",
+      documentDate: "1991-12-05",
+      pages: 13,
+      excerpt:
+        "The First Lady press-clipping packet includes White House holiday coverage, Bush family and shopping stories, Sununu coverage, Prescott Bush coverage, and absentee-voting stories.",
+      evidence:
+        "Itemized from the Mrs. Bush's Press Office Daily Press Clippings cover page and clipping run found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+  ],
   470417565: [
     {
       slug: "state-of-union-fact-sheet",
