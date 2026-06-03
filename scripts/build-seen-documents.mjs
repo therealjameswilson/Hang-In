@@ -498,7 +498,7 @@ function excerptFromLines(lines) {
   return excerpt.length > 520 ? `${excerpt.slice(0, 517).trim()}...` : excerpt;
 }
 
-const DIRECT_SCAN_SUPPLEMENTAL_ATTACHMENTS = {
+const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   470417565: [
     {
       slug: "state-of-union-fact-sheet",
@@ -619,18 +619,195 @@ const DIRECT_SCAN_SUPPLEMENTAL_ATTACHMENTS = {
         "Itemized from a Treasury examples heading found in full-PDF OCR of the NARA direct folder scan after the cover-listed attachments.",
     },
   ],
+  470418165: [
+    {
+      slug: "bush-quayle-fax-family-friends-list",
+      documentType: "Fax",
+      category: "election-night-event-material",
+      disposition: "itemized-election-night-event-material",
+      title: "Fax from Debbie Dunn to Bobbie Kilberg with Bush-Quayle family and friends contact list",
+      documentDate: "1992-10-21",
+      pages: 12,
+      excerpt:
+        "Bush Quayle '92 fax cover sheet from Debbie Dunn to Bobbie Kilberg, followed by a family and friends contact list for the November 3 file.",
+      evidence:
+        "Itemized from full-PDF OCR of an OCR-truncated NARA direct folder scan; the catalog OCR cuts off before later packet starts.",
+    },
+    {
+      slug: "zamaria-to-president-moss-party",
+      documentType: "Memorandum",
+      category: "election-night-event-material",
+      disposition: "itemized-election-night-event-material",
+      title: "Memorandum from Rose Zamaria to the President re Bill Moss election-night party",
+      documentDate: "1992-10-14",
+      pages: 1,
+      excerpt:
+        "Rose Zamaria reports that Bill Moss wanted to underwrite an election-night party, but appeared to lose interest when told the President would be there for only 20 or 30 minutes.",
+      evidence:
+        "Itemized from a White House memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "zamaria-to-jim-baker-moss-party",
+      documentType: "Memorandum",
+      category: "election-night-event-material",
+      disposition: "itemized-election-night-event-material",
+      title: "Memorandum from Rose Zamaria to Jim Baker re Bill Moss election-night party",
+      documentDate: "1992-10-13",
+      pages: 1,
+      excerpt:
+        "Rose Zamaria asks Jim Baker whether Bill Moss can go forward with an election-night party for family, old friends, and staff at the Houstonian.",
+      evidence:
+        "Itemized from a White House memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-handwritten-note-moss",
+      documentType: "Handwritten Note",
+      category: "election-night-event-material",
+      disposition: "itemized-election-night-event-material",
+      title: "Handwritten note from the President to Rose Zamaria re getting back to Moss",
+      documentDate: "1992-10-13",
+      pages: 1,
+      excerpt:
+        "The President asks Rose Zamaria to remind him to get back to Moss in a week or so.",
+      evidence:
+        "Itemized from a Bush Library photocopy handwriting marker found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-william-moss",
+      documentType: "Letter",
+      category: "election-night-event-material",
+      disposition: "itemized-election-night-event-material",
+      title: "Letter from the President to William P. Moss re election night at the Houstonian",
+      documentDate: "1992-10-05",
+      pages: 1,
+      excerpt:
+        "The President thanks William Moss for offering to give an election-night party at the Houstonian and says he will let Moss know very soon what the plans are.",
+      evidence:
+        "Itemized from a presidential letter start found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "william-moss-to-president",
+      documentType: "Letter",
+      category: "election-night-event-material",
+      disposition: "itemized-election-night-event-material",
+      title: "Letter from William P. Moss to the President re election-night party",
+      documentDate: "1992-10-01",
+      pages: 1,
+      excerpt:
+        "William P. Moss proposes an election-night party for the President and Barbara Bush with old friends, family, and past and present staff.",
+      evidence:
+        "Itemized from a William Moss letterhead and salutation found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "kilberg-to-zamaria-bush-brigade-update",
+      documentType: "Memorandum",
+      category: "election-night-event-material",
+      disposition: "itemized-election-night-event-material",
+      title: "Memorandum from Bobbie Kilberg to Rose Zamaria re update on the '80 Bush Brigade project",
+      documentDate: "1992-10-08",
+      pages: 2,
+      excerpt:
+        "Bobbie Kilberg describes the project to locate 1980 Bush supporters, enlist their help in getting out the vote, and invite the '80 Bush Brigade to Houston for election night.",
+      evidence:
+        "Itemized from a White House memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "groomes-to-bates-super-keller",
+      documentType: "Memorandum",
+      category: "election-night-event-material",
+      disposition: "itemized-election-night-event-material",
+      title: "Memorandum from Karen Groomes to David Bates, Kathy Super, and John Keller re Bobbie Kilberg memo",
+      documentDate: "1992-09-09",
+      pages: 1,
+      excerpt:
+        "Karen Groomes forwards Bobbie Kilberg's memo for action now that President Bush would be in Houston on election eve.",
+      evidence:
+        "Itemized from a memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "kilberg-to-tutwiler-early-supporters",
+      documentType: "Memorandum",
+      category: "election-night-event-material",
+      disposition: "itemized-election-night-event-material",
+      title: "Memorandum from Bobbie Kilberg to Margaret Tutwiler re early supporters of President Bush",
+      documentDate: "1992-09-02",
+      pages: 2,
+      excerpt:
+        "Bobbie Kilberg recommends identifying early supporters, contacting them about the campaign, and inviting them to Houston for election night.",
+      evidence:
+        "Itemized from a White House memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings",
+      documentType: "Daily Press Clippings",
+      category: "election-day-clippings",
+      disposition: "itemized-election-day-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Tuesday, November 3, 1992",
+      documentDate: "1992-11-03",
+      pages: 35,
+      excerpt:
+        "Mrs. Bush's Press Office daily press clippings for Tuesday, November 3, 1992, including election and First Family coverage.",
+      evidence:
+        "Itemized from a Daily Press Clippings heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-thomas-devine",
+      documentType: "Letter",
+      category: "constituent-correspondence",
+      disposition: "itemized-constituent-correspondence",
+      title: "Letter from the President to Thomas J. Devine re Devine's October 28 letter",
+      documentDate: "1992-11-03",
+      pages: 1,
+      excerpt:
+        "The President tells Thomas J. Devine that his October 28 letter caught up with him in Houston and that staff would look into it and give him a report.",
+      evidence:
+        "Itemized from a White House letter start found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "thomas-devine-to-president",
+      documentType: "Letter",
+      category: "constituent-correspondence",
+      disposition: "itemized-constituent-correspondence",
+      title: "Letter from Thomas J. Devine to the President re Soviet nuclear-powered submarines",
+      documentDate: "1992-10-28",
+      pages: 2,
+      excerpt:
+        "Thomas J. Devine urges presidential attention to nuclear weapons and reactors in lost Soviet submarines and the Woods Hole Oceanographic Institution's proposed conference.",
+      evidence:
+        "Itemized from Thomas J. Devine letterhead and salutation found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "media-affairs-election-day-news-clippings",
+      documentType: "News Clippings",
+      category: "election-day-clippings",
+      disposition: "itemized-election-day-clippings",
+      title: "Media Affairs Office News Clippings: Election Day, Tuesday, November 3, 1992",
+      documentDate: "1992-11-03",
+      pages: 90,
+      excerpt:
+        "Media Affairs Office election-day news clippings for Tuesday, November 3, 1992, beginning with a presidential candidate comparison and national newspaper coverage.",
+      evidence:
+        "Itemized from a Media Affairs Office News Clippings heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+  ],
 };
 
-function buildDirectSupplementalAttachmentDocuments(folder, packetDoc) {
-  const attachments = DIRECT_SCAN_SUPPLEMENTAL_ATTACHMENTS[folder.naId] || [];
-  if (!attachments.length || !packetDoc.needsItemization) return [];
+function buildDirectSupplementalItemDocuments(folder, packetDoc) {
+  const supplementalItems = DIRECT_SCAN_SUPPLEMENTAL_ITEMS[folder.naId] || [];
+  if (!supplementalItems.length || !packetDoc.needsItemization) return [];
 
-  return attachments.map((attachment, index) => {
+  return supplementalItems.map((item, index) => {
     const itemLabel = String(index + 1).padStart(2, "0");
     const seenDate = folder.date;
+    const idKind = folder.naId === "470417565" ? "attachment" : "supplement";
+    const citationKind = folder.naId === "470417565" ? "attachment" : "supplemental";
+    const itemizationNote =
+      folder.naId === "470417565"
+        ? "Itemized from an OCR-truncated direct packet using a cover-memo attachment list and full-PDF OCR confirmation."
+        : "Itemized from an OCR-truncated direct packet using cover-memo, heading, or full-PDF OCR evidence.";
 
     return {
-      id: `${folder.id}-direct-attachment-${attachment.slug}`,
+      id: `${folder.id}-direct-${idKind}-${item.slug}`,
       folderId: folder.id,
       folderNaId: folder.naId,
       folderTitle: folder.title,
@@ -644,27 +821,26 @@ function buildDirectSupplementalAttachmentDocuments(folder, packetDoc) {
       themes: folder.themes,
       searchTerms: folder.searchTerms,
       documentNumber: `Direct-A${itemLabel}`,
-      documentType: attachment.documentType,
-      directScanCategory: attachment.category,
-      directScanDisposition: attachment.disposition,
+      documentType: item.documentType,
+      directScanCategory: item.category,
+      directScanDisposition: item.disposition,
       directScanItemizationStatus: "itemized-document",
-      directScanItemizationNote:
-        "Itemized from an OCR-truncated direct packet using a cover-memo attachment list and full-PDF OCR confirmation.",
+      directScanItemizationNote: itemizationNote,
       parentPacketId: packetDoc.id,
-      title: attachment.title,
+      title: item.title,
       date: seenDate,
       seenDate,
-      documentDate: attachment.documentDate,
+      documentDate: item.documentDate,
       year: seenDate.slice(0, 4),
       month: seenDate.slice(0, 7),
-      pages: attachment.pages,
+      pages: item.pages,
       restriction: "",
       classification: "",
-      excerpt: attachment.excerpt,
-      evidence: attachment.evidence,
+      excerpt: item.excerpt,
+      evidence: item.evidence,
       evidenceStatus: "direct-scan-itemized",
       needsItemization: false,
-      citation: `George H. W. Bush Papers, Presidential Daily Files, ${folder.title}, direct scan attachment item ${itemLabel}, ${attachment.title}, National Archives Catalog NAID ${folder.naId}.`,
+      citation: `George H. W. Bush Papers, Presidential Daily Files, ${folder.title}, direct scan ${citationKind} item ${itemLabel}, ${item.title}, National Archives Catalog NAID ${folder.naId}.`,
     };
   });
 }
@@ -2705,7 +2881,7 @@ function buildDirectScanDocuments(text, folder) {
           standaloneSourceStarts,
           boundaryStarts
         ),
-        ...buildDirectSupplementalAttachmentDocuments(folder, packetDoc),
+        ...buildDirectSupplementalItemDocuments(folder, packetDoc),
         ...buildDirectPressReleaseDocuments(
           contentLines,
           folder,
