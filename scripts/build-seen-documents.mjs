@@ -6209,6 +6209,359 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 175-188 of the NARA direct folder scan using rendered-page review of color photographs, document-originally-attached pages, sticky-note labels, and official White House photograph identifiers.",
     },
   ],
+  470417692: [
+    {
+      slug: "cathy-turner-signed-olympic-photo-routing-packet",
+      documentType: "Signed Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Cathy Turner signed Olympic photograph and routing note packet",
+      documentDate: "1992-04-10",
+      pages: 2,
+      excerpt:
+        "The packet includes a photograph inscribed by the President to Olympic gold medalist Cathy Turner and a presidential note asking Dave Valdez and Susan Biddle for a hugging shot to sign and send.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using rendered-page review of the signed Cathy Turner photograph, April 10 routing note, Hilton, New York address, OCR, and presidential handwriting.",
+    },
+    {
+      slug: "governors-ethanol-coalition-response-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Governors' Ethanol Coalition response and incoming-letter packet",
+      documentDate: "1992-04-08",
+      pages: 7,
+      excerpt:
+        "The President replies to Governors' Ethanol Coalition chairman Ben Nelson about ethanol in reformulated gasoline, with clearance materials, a draft response, and Nelson's March 6 incoming letter on EPA implementation of the Clean Air Act.",
+      evidence:
+        "Itemized from pages 4-10 of the NARA direct folder scan using the final presidential reply, Steven Gunderson routing memorandum, marked draft response, Governors' Ethanol Coalition letterhead, fax cover data, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tennis-participants-clearance-note-april-8",
+      documentType: "Administrative Note",
+      category: "administrative-note",
+      disposition: "itemized-administrative-note",
+      title: "Tennis participants clearance note for April 8, 1992",
+      documentDate: "1992-04-08",
+      pages: 1,
+      excerpt:
+        "Bridget tells Rose Zamaria that the President, David Bates, Dorrance Smith, and Steve Caruthers have been cleared for tennis and parking.",
+      evidence:
+        "Itemized from page 11 of the NARA direct folder scan using the Wednesday, April 8, 1992 tennis note, named participant list, parking clearance line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "arthur-ashe-aids-presidential-phone-call-slip",
+      documentType: "Presidential Phone Call Slip",
+      category: "phone-call-slip",
+      disposition: "itemized-phone-call-slip",
+      title: "Presidential phone call slip with Arthur Ashe re AIDS",
+      documentDate: "1992-04-08",
+      pages: 1,
+      excerpt:
+        "A presidential phone-call slip records an April 8 call with Arthur Ashe concerning AIDS and the President's handwritten notes about a pleasant call after Ashe's announcement.",
+      evidence:
+        "Itemized from page 12 of the NARA direct folder scan using the rotated rendered page, Presidential Phone Calls form, Arthur Ashe name, AIDS subject line, 12:15 time, OCR, and rendered-page review of handwriting.",
+    },
+    {
+      slug: "rnc-eagles-reception-briefing-talking-points-sequence-packet",
+      documentType: "Event Briefing Packet",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "RNC Eagles reception briefing, talking points, and duplicate sequence pages",
+      documentDate: "1992-04-08",
+      pages: 6,
+      excerpt:
+        "The RNC Eagles packet includes the State Floor reception briefing, political talking points, and repeated Social Office sequence pages for the President and Mrs. Bush's April 8 reception with Republican National Committee Eagles.",
+      evidence:
+        "Itemized from pages 13, 64-67, and 97 of the NARA direct folder scan using the Reception for the RNC Eagles heading, Ronald Kaufman briefing, talking-points pages, repeated Laurie Firestone sequence pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "us-winter-olympics-rose-garden-final-card-remarks-duplicate-copies",
+      documentType: "Presidential Remarks Packet",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "U.S. Winter Olympics Rose Garden final card remarks, duplicate copies",
+      documentDate: "1992-04-08",
+      pages: 14,
+      excerpt:
+        "Duplicate card-format remarks for the South Lawn or Rose Garden event salute the 1992 U.S. Olympic Winter Team, including Kristi Yamaguchi, Bonnie Blair, Cathy Turner, Donna Weinbrecht, Hilary Lindh, Nancy Kerrigan, and other athletes.",
+      evidence:
+        "Itemized from duplicate final card-remarks copies on pages 14-20 and 138-144 of the NARA direct folder scan using the U.S. Winter Olympics/Rose Garden heading, athlete-name sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidents-unpublished-schedule-april-8-1992",
+      documentType: "Presidential Schedule",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title: "The President's unpublished schedule for April 8, 1992",
+      documentDate: "1992-04-08",
+      pages: 3,
+      excerpt:
+        "The schedule packet lists the President's April 8 schedule, including staff time, the Great American Read-Aloud Day event, meetings, a photo opportunity, the U.S. Olympic Winter Team ceremony, and the RNC Eagles reception.",
+      evidence:
+        "Itemized from pages 21-23 of the NARA direct folder scan using the Philip D. Brady to Rose Zamaria cover page, unpublished schedule heading, chronological event list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "harry-the-dirty-dog-reading-copy",
+      documentType: "Reading Copy",
+      category: "reading-copy",
+      disposition: "itemized-reading-copy",
+      title: "Harry the Dirty Dog reading copy for Great American Read-Aloud Day",
+      documentDate: "1992-04-08",
+      pages: 29,
+      excerpt:
+        "The packet includes a photocopied reading copy of Gene Zion and Margaret Bloy Graham's Harry the Dirty Dog, prepared for the President's Read-Aloud Day appearance with first graders.",
+      evidence:
+        "Itemized from pages 24-52 of the NARA direct folder scan using the Harry the Dirty Dog cover, sequential illustrated book pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "great-american-read-aloud-prebrief-joshua-burgess-packet",
+      documentType: "Event Pre-Brief Packet",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Great American Read-Aloud Day pre-brief and Joshua Burgess correspondence packet",
+      documentDate: "1992-04-08",
+      pages: 4,
+      excerpt:
+        "The pre-brief explains the President's 7:50 a.m. Oval Office briefing for Read-Aloud Day and attaches Joshua Barney Burgess's note and a photo/mailing request for a signed presidential photograph.",
+      evidence:
+        "Itemized from pages 53-56 of the NARA direct folder scan using the Pre-Brief for Great American Read-Aloud Day heading, Joshua Barney Burgess correspondence note, child letter, photo/mailing request, OCR, and rendered-page review.",
+    },
+    {
+      slug: "great-american-read-aloud-day-event-briefing-talking-points",
+      documentType: "Event Briefing Packet",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Great American Read-Aloud Day event briefing and talking points",
+      documentDate: "1992-04-08",
+      pages: 3,
+      excerpt:
+        "The event briefing and talking points prepare the President to read Harry the Dirty Dog to St. Peter's Interparish School first graders in the Diplomatic Reception Room and to recognize Joshua Burgess.",
+      evidence:
+        "Itemized from pages 57-59 of the NARA direct folder scan using the Great American Read-Aloud Day event heading, participant/background sections, talking-points page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-ylvisaker-oval-office-meeting-briefing",
+      documentType: "Event Briefing",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Meeting with William T. Ylvisaker briefing",
+      documentDate: "1992-04-08",
+      pages: 1,
+      excerpt:
+        "Constance Horner briefs the President on an Oval Office meeting with William T. Ylvisaker, who had declined the Saudi Arabia ambassadorial post but remained a possible administration appointee.",
+      evidence:
+        "Itemized from page 60 of the NARA direct folder scan using the Meeting with William T. Ylvisaker heading, Constance Horner signature, purpose/background text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "anthony-frank-departing-postmaster-general-photo-briefing",
+      documentType: "Photo Opportunity Briefing",
+      category: "photo-opportunity-briefing",
+      disposition: "itemized-photo-opportunity-briefing",
+      title: "Photo opportunity with departing Postmaster General Anthony Frank briefing",
+      documentDate: "1992-04-08",
+      pages: 1,
+      excerpt:
+        "Ede Holiday briefs the President for an Oval Office photograph with departing Postmaster General Tony Frank after Frank's resignation and return to California.",
+      evidence:
+        "Itemized from page 61 of the NARA direct folder scan using the Photo Opportunity with Departing Postmaster General Anthony Frank heading, Ede Holiday signature, sequence text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "us-olympic-athletes-ceremony-event-briefing",
+      documentType: "Event Briefing",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Ceremony for U.S. Olympic Athletes event briefing",
+      documentDate: "1992-04-08",
+      pages: 2,
+      excerpt:
+        "The ceremony briefing prepares the President to congratulate the 1992 U.S. Olympic Winter Team, receive team jackets from gold medalists, and note Digger Phelps's appointment to ONDCP.",
+      evidence:
+        "Itemized from pages 62-63 of the NARA direct folder scan using the Ceremony for U.S. Olympic Athletes heading, Mia Kelly briefing, participant list, sequence of events, OCR, and rendered-page review.",
+    },
+    {
+      slug: "richard-wood-saudi-ambassador-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Richard D. Wood Saudi ambassador correspondence and routing note packet",
+      documentDate: "1992-04-08",
+      pages: 3,
+      excerpt:
+        "The President writes Eli Lilly chairman Richard D. Wood after Wood declines the Saudi Arabia ambassadorial post, with Wood's incoming letter and a presidential note asking Constance Horner to keep Wood in mind.",
+      evidence:
+        "Itemized from pages 68-70 of the NARA direct folder scan using the presidential handwritten note, Eli Lilly and Company incoming letter, From the President routing page to Connie Horner, OCR, and rendered-page review.",
+    },
+    {
+      slug: "us-olympic-athletes-draft-three-remarks-clearance-packet",
+      documentType: "Remarks Draft Packet",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Draft-three remarks clearance packet for reception for U.S. Olympic athletes",
+      documentDate: "1992-04-08",
+      pages: 5,
+      excerpt:
+        "The remarks clearance packet includes a White House staffing memorandum, Curt Smith cover memorandum, and draft-three text for the President's April 8 remarks to U.S. Olympic athletes.",
+      evidence:
+        "Itemized from pages 71-75 of the NARA direct folder scan using the White House staffing memorandum, Curt Smith memorandum, Smith/Grossman draft-three remarks pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-april-8-1992",
+      documentType: "News Summary",
+      category: "news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary for Wednesday, April 8, 1992",
+      documentDate: "1992-04-08",
+      pages: 21,
+      excerpt:
+        "The Office of the Press Secretary's White House News Summary covers primary results, Democratic campaign coverage, Jewish activists and Bush, the economy, Arafat, Israel, editorials, columns, and network-news items.",
+      evidence:
+        "Itemized from pages 76-96 of the NARA direct folder scan using the White House News Summary cover page, A/B/C section pagination, article headlines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "max-fisher-returned-call-note",
+      documentType: "Call Note",
+      category: "call-note",
+      disposition: "itemized-call-note",
+      title: "Max Fisher returned-call note",
+      documentDate: "1992-04-07",
+      pages: 1,
+      excerpt:
+        "A staff note tells the President that Max Fisher returned his call at 2:45 p.m. and that the White House has a number available to replace the call.",
+      evidence:
+        "Itemized from page 98 of the NARA direct folder scan using the April 7 note, Max Fisher returned-call text, presidential handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "secretary-mosbacher-return-call-request",
+      documentType: "Phone Call Request",
+      category: "phone-call-request",
+      disposition: "itemized-phone-call-request",
+      title: "Secretary Mosbacher return-call request",
+      documentDate: "1992-04-07",
+      pages: 1,
+      excerpt:
+        "Robin informs the President that Secretary Mosbacher asked for a return call at the President's convenience and would be in his office.",
+      evidence:
+        "Itemized from page 99 of the NARA direct folder scan using the Tuesday, April 7 phone-call request, Secretary Mosbacher name, Robin signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kaufman-new-york-kansas-minnesota-wisconsin-primary-results",
+      documentType: "Political Memorandum",
+      category: "political-memorandum",
+      disposition: "itemized-political-memorandum",
+      title: "Ronald C. Kaufman memorandum re New York, Kansas, Minnesota, and Wisconsin primary results",
+      documentDate: "1992-04-08",
+      pages: 6,
+      excerpt:
+        "Ronald Kaufman reports that the President has 1,049 delegates after the April 7 primaries and attaches state-by-state Republican and Democratic results for New York, Kansas, Minnesota, and Wisconsin.",
+      evidence:
+        "Itemized from pages 100-105 of the NARA direct folder scan using the Kaufman cover memorandum, New York/Kansas/Minnesota/Wisconsin primary-results attachments, delegate totals, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ken-lay-rio-conference-natural-gas-letter-packet",
+      documentType: "Presidential Note and Incoming Letter Packet",
+      category: "policy-correspondence",
+      disposition: "itemized-policy-correspondence",
+      title: "Ken Lay Rio Conference and natural gas letter packet",
+      documentDate: "1992-04-08",
+      pages: 4,
+      excerpt:
+        "The President forwards Kenneth L. Lay's April 3 Enron letter to Clayton Yeutter as an FYI; Lay urges attendance at the Rio Conference and a market-based approach to greenhouse-gas stabilization and natural-gas use.",
+      evidence:
+        "Itemized from pages 106-109 of the NARA direct folder scan using the presidential note to Clayton, Enron letterhead, three-page Ken Lay incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jack-stein-tom-pickering-us-israel-relations-packet",
+      documentType: "Presidential Correspondence and Notes Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jack Stein, Tom Pickering, and U.S.-Israel relations correspondence and notes packet",
+      documentDate: "1992-04-08",
+      pages: 6,
+      excerpt:
+        "The packet includes a signed presidential letter to Jacob Stein honoring Tom Pickering, a typed presidential memorandum to Sam Skinner and Brent Scowcroft on Stein's U.S.-Israel suggestions, and handwritten draft notes on Rabin, Israel Independence Day, Passover, and Jewish organizational outreach.",
+      evidence:
+        "Itemized from pages 110-115 of the NARA direct folder scan using the attached-document page with Scowcroft sticky note, signed Jacob Stein letter, typed presidential memorandum, handwritten draft-note pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "teeter-tax-overpayment-presidential-phone-call-slip",
+      documentType: "Presidential Phone Call Slip",
+      category: "phone-call-slip",
+      disposition: "itemized-phone-call-slip",
+      title: "Presidential phone call slip re Teeter tax-overpayment issue",
+      documentDate: "1992-04-08",
+      pages: 1,
+      excerpt:
+        "A presidential phone-call slip records an April 8 call with Teeter concerning a tax-overpayment issue, with handwritten notes about cancellation and coming to the office.",
+      evidence:
+        "Itemized from page 116 of the NARA direct folder scan using the Presidential Phone Calls form, Teeter name, tax-overpayment subject text, 10:25 time, OCR, and rendered-page review of handwriting.",
+    },
+    {
+      slug: "nicholas-brady-ebrd-budapest-beregovoy-phone-call-slip",
+      documentType: "Presidential Phone Call Slip",
+      category: "phone-call-slip",
+      disposition: "itemized-phone-call-slip",
+      title: "Presidential phone call slip with Nicholas Brady re EBRD meeting and growth in Europe",
+      documentDate: "1992-04-08",
+      pages: 1,
+      excerpt:
+        "A presidential phone-call slip records an April 8 call with Nicholas Brady about an EBRD meeting in Budapest, contact with Beregovoy, and discussion of growth in Europe.",
+      evidence:
+        "Itemized from page 117 of the NARA direct folder scan using the Presidential Phone Calls form, Nicholas Brady name, EBRD/Budapest and growth-in-Europe handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ferc-natural-gas-pipeline-restructuring-statement-clearance-packet",
+      documentType: "Presidential Statement Clearance Packet",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "FERC natural gas pipeline restructuring statement clearance packet",
+      documentDate: "1992-04-08",
+      pages: 2,
+      excerpt:
+        "The packet includes the President's statement on Federal Energy Regulatory Commission natural gas pipeline reforms and Phillip Brady's note seeking release of the statement that afternoon.",
+      evidence:
+        "Itemized from pages 118-119 of the NARA direct folder scan using the Statement by the President heading, FERC restructuring text, Brady release note, presidential annotations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "national-medal-arts-minnie-pearl-earl-scruggs-memo",
+      documentType: "Decision Memorandum",
+      category: "decision-memorandum",
+      disposition: "itemized-decision-memorandum",
+      title: "National Medal of the Arts decision memorandum re Minnie Pearl and Earl Scruggs",
+      documentDate: "1992-04-07",
+      pages: 2,
+      excerpt:
+        "Phillip Brady asks the President how to handle Minnie Pearl's National Medal of the Arts after her stroke, with options and attached background on Earl Scruggs as an alternate recipient.",
+      evidence:
+        "Itemized from pages 120-121 of the NARA direct folder scan using the National Medal of the Arts memorandum, presidential check mark and note, Earl Scruggs background attachment, OCR, and rendered-page review.",
+    },
+    {
+      slug: "terri-lacy-taxes-presidential-phone-call-slip",
+      documentType: "Presidential Phone Call Slip",
+      category: "phone-call-slip",
+      disposition: "itemized-phone-call-slip",
+      title: "Presidential phone call slip with Terri Lacy re taxes",
+      documentDate: "1992-04-08",
+      pages: 1,
+      excerpt:
+        "A presidential phone-call slip records an April 8 call with Terri Lacy about taxes and notes a follow-up meeting still set for 2:30 on Monday.",
+      evidence:
+        "Itemized from page 122 of the NARA direct folder scan using the Presidential Phone Calls form, Terri Lacy name, taxes subject line, 10 a.m. time, OCR, and rendered-page review.",
+    },
+    {
+      slug: "apn-hotline-daily-briefing-american-politics-april-8-1992",
+      documentType: "Political Newsletter",
+      category: "political-newsletter",
+      disposition: "itemized-political-newsletter",
+      title: "APN Hotline Daily Briefing on American Politics for April 8, 1992",
+      documentDate: "1992-04-08",
+      pages: 15,
+      excerpt:
+        "The American Political Network Hotline briefing covers Clinton, Tsongas, Brown, Bush primary results, independent ballot access, Senate races, polls, television monitoring, and press commentary after the April 7 primaries.",
+      evidence:
+        "Itemized from pages 123-137 of the NARA direct folder scan using the Hotline cover, database index, numbered political items, primary-result tables, OCR, and rendered-page review.",
+    },
+  ],
   470417713: [
     {
       slug: "billy-graham-convention-note",
@@ -13266,6 +13619,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417663",
   "470417674",
   "470417679",
+  "470417692",
   "470418083",
 ]);
 
