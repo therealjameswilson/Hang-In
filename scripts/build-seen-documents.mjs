@@ -6876,6 +6876,138 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 92-93 of the NARA direct folder scan using the Recommended Telephone Call headings, Grassley and Jeffords addressees, Exon amendment purpose text, OCR, and rendered-page review.",
     },
   ],
+  470417703: [
+    {
+      slug: "law-enforcement-leaders-meeting-talking-points",
+      documentType: "Talking Points",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Talking points for meeting with law enforcement leaders",
+      documentDate: "1992-04-13",
+      pages: 2,
+      excerpt:
+        "The talking points prepare the President for an April 13 Roosevelt Room meeting with law enforcement leaders, covering Operation Weed and Seed, crime legislation, habeas reform, the exclusionary rule, and federal-local law enforcement partnership.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the 4/13 1:00 p.m. Roosevelt Room heading, law enforcement leaders title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-april-13-1992-news-update-duplicate-copies",
+      documentType: "News Summary",
+      category: "news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary 10:15 A.M. News Update for April 13, 1992, duplicate copies",
+      documentDate: "1992-04-13",
+      pages: 2,
+      excerpt:
+        "Duplicate copies of the White House News Summary update cover Libya and Pan Am 103 sanctions, Peru and the OAS, Yeltsin's government, Uruguay Round trade talks, and Japan's trade surplus.",
+      evidence:
+        "Itemized from duplicate copies on pages 4 and 51 of the NARA direct folder scan using the White House News Summary masthead, 10:15 A.M. News Update heading, President Has Seen stamp on the later copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "beck-executive-order-rose-garden-remarks",
+      documentType: "Presidential Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Beck executive order signing Rose Garden remarks",
+      documentDate: "1992-04-13",
+      pages: 7,
+      excerpt:
+        "The Rose Garden remarks prepare the President to sign an executive order implementing the Beck decision for federal contractors, addressing union dues, worker political rights, Thomas Jefferson's birthday, and Charlton Heston's support.",
+      evidence:
+        "Itemized from pages 5-11 of the NARA direct folder scan using the Beck Executive Order Signing/Rose Garden heading, card-page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michael-manley-correspondence-routing-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Michael Manley correspondence and presidential routing-note packet",
+      documentDate: "1992-04-02",
+      pages: 5,
+      excerpt:
+        "The packet includes Michael Manley's April 2 letter to the President about a farewell dinner, regional trade and debt, medical leave, campaign wishes, and family regards, with duplicate copy and a presidential routing note to Doro, Jeb, and the NSC.",
+      evidence:
+        "Itemized from pages 12-16 of the NARA direct folder scan using Michael Manley letterhead, signed two-page incoming letter, attached-document marker, duplicate copy with routing annotations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "apn-hotline-daily-briefing-april-13-1992",
+      documentType: "Political Newsletter",
+      category: "political-newsletter",
+      disposition: "itemized-political-newsletter",
+      title: "APN Hotline Daily Briefing on American Politics for April 13, 1992",
+      documentDate: "1992-04-13",
+      pages: 24,
+      excerpt:
+        "The American Political Network Hotline briefing compiles April 13 political intelligence on Clinton, Brown, Perot, Buchanan, Bush versus Clinton, labor, media critiques, Senate races, House retirements, polling, and television monitoring.",
+      evidence:
+        "Itemized from pages 17-40 of the NARA direct folder scan using the APN Hotline cover, Bulletin Board and database index pages, numbered political items, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-bell-walter-annenberg-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "George Bell and Walter Annenberg correspondence re press responsibility",
+      documentDate: "1992-04-10",
+      pages: 2,
+      excerpt:
+        "George Bell writes from Sunnylands praising the President's response to Walter Annenberg's advice, and Annenberg adds a faxed note about press responsibility and power without responsibility.",
+      evidence:
+        "Itemized from pages 41-42 of the NARA direct folder scan using the Sunnylands George Bell letter, Walter H. Annenberg fax, presidential annotations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dick-allen-conservative-recommendations-followup-packet",
+      documentType: "Campaign Strategy Packet",
+      category: "campaign-strategy",
+      disposition: "itemized-campaign-strategy",
+      title: "Dick Allen conservative campaign recommendations and follow-up packet",
+      documentDate: "1992-04-10",
+      pages: 7,
+      excerpt:
+        "The packet tracks follow-up on Dick Allen's conservative campaign recommendations, including a Robert Mosbacher memorandum about Martin Anderson and helpful economists, presidential handwritten follow-up notes, Rose's routing note, and the ten recommendations for conservatives in 1992.",
+      evidence:
+        "Itemized from pages 43-49 of the NARA direct folder scan using the Robert Mosbacher memorandum, George Bush handwriting pages, Rose routing note, Conservatives in 1992 recommendation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "newt-gingrich-social-security-earnings-limit-memo",
+      documentType: "Congressional Memorandum",
+      category: "policy-memorandum",
+      disposition: "itemized-policy-memorandum",
+      title: "Newt Gingrich memorandum re Social Security earnings limit",
+      documentDate: "1992-04-08",
+      pages: 1,
+      excerpt:
+        "Newt Gingrich warns Sam Skinner that the House Republican Party is likely to endorse full repeal of the Social Security earnings limit and urges that the President not publicly oppose that platform position.",
+      evidence:
+        "Itemized from page 50 of the NARA direct folder scan using Newt Gingrich letterhead, Sam Skinner addressee, Social Security Earnings Limit subject line, President Has Seen stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bush-quayle-clinton-tax-returns-research-fax-duplicate-copies",
+      documentType: "Campaign Research Fax Packet",
+      category: "campaign-research",
+      disposition: "itemized-campaign-research",
+      title: "Bush-Quayle 1992 research fax re Governor Clinton's tax returns, duplicate copies",
+      documentDate: "1992-04-13",
+      pages: 16,
+      excerpt:
+        "Duplicate Bush-Quayle 1992 fax packets send Sam Skinner, for the President's review, David Tell's research memorandum and attachments on Governor Clinton's tax-return disclosure history and related Arkansas coverage.",
+      evidence:
+        "Itemized from duplicate fax packet copies on pages 52-59 and 60-67 of the NARA direct folder scan using Bush-Quayle 92 cover sheets, David Tell memorandum, tax-return disclosure attachments, OCR, and rendered-page review.",
+    },
+    {
+      slug: "defense-worker-servicemember-transition-commission-note",
+      documentType: "Presidential Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Presidential note to Sam Skinner and Bob Teeter re defense-worker and servicemember transition commission",
+      documentDate: "1992-04-13",
+      pages: 1,
+      excerpt:
+        "The President asks Sam Skinner and Bob Teeter about creating a bipartisan blue-ribbon commission for laid-off defense industry workers and servicemembers facing a tough job market after leaving the service.",
+      evidence:
+        "Itemized from page 68 of the NARA direct folder scan using the From the President stationery, Sam Skinner and Bob Teeter addressees, typed commission proposal, presidential signature, OCR, and rendered-page review.",
+    },
+  ],
   470417713: [
     {
       slug: "billy-graham-convention-note",
@@ -13935,6 +14067,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417679",
   "470417692",
   "470417696",
+  "470417703",
   "470418083",
 ]);
 
