@@ -2594,6 +2594,32 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470417483: [
     {
+      slug: "december-5-press-conference-room-layout",
+      documentType: "Press Conference Room Layout",
+      category: "press-conference-briefing-material",
+      disposition: "itemized-press-conference-briefing-material",
+      title: "Lower Press Office room layout for December 5 press conference",
+      documentDate: "1991-12-05",
+      pages: 1,
+      excerpt:
+        "The room layout maps the Lower Press Office setup for the President's December 5 press conference, including advisers, correspondents, cameras, and still photographers.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using rendered-page review of the press-conference layout diagram.",
+    },
+    {
+      slug: "possible-questions-december-5-press-conference",
+      documentType: "Press Conference Q&A",
+      category: "press-conference-briefing-material",
+      disposition: "itemized-press-conference-qa",
+      title: "Possible questions for December 5 press conference",
+      documentDate: "1991-12-05",
+      pages: 2,
+      excerpt:
+        "The question sheet prepares the President for likely press-conference questions on campaign politics, national security, foreign policy, the economy, hostages, and unemployment.",
+      evidence:
+        "Itemized from pages 3-4 of the NARA direct folder scan using OCR and rendered-page review of the possible-questions sheet.",
+    },
+    {
       slug: "president-statement-new-advisers-economic-steps",
       documentType: "Statement",
       category: "presidential-statement",
@@ -2601,11 +2627,25 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       title:
         "Statement by the President re new White House and campaign advisers and economic acceleration steps",
       documentDate: "1991-12-05",
-      pages: 10,
+      pages: 11,
       excerpt:
         "President Bush introduces Sam Skinner as Chief of Staff, names senior campaign advisers, discusses John Sununu's transition, and previews economic growth proposals.",
       evidence:
         "Itemized from statement pages, handwriting pages, and a clean statement copy found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "nam-executive-committee-event-briefing",
+      documentType: "Event Briefing",
+      category: "meeting-briefing-attachment",
+      disposition: "itemized-meeting-briefing-attachment",
+      title:
+        "Event briefing for meeting with National Association of Manufacturers Executive Committee",
+      documentDate: "1991-12-05",
+      pages: 3,
+      excerpt:
+        "The event briefing outlines the President's Roosevelt Room meeting with NAM leaders, including purpose, background, participants, press plan, and a seating diagram.",
+      evidence:
+        "Itemized from pages 16-18 of the NARA direct folder scan using OCR and rendered-page review of the event briefing and seating diagram.",
     },
     {
       slug: "nam-meeting-talking-points",
@@ -2721,11 +2761,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-presidential-correspondence",
       title: "Correspondence packet re Benjamin Hooks and minority scholarships policy",
       documentDate: "1991-12-04",
-      pages: 3,
+      pages: 4,
       excerpt:
-        "The packet includes a presidential reply to Benjamin Hooks, an Ede Holiday memorandum to the President, and Hooks's incoming letter on Education Department minority-scholarship policy.",
+        "The packet includes a presidential reply to Benjamin Hooks, an Ede Holiday memorandum to the President, Hooks's incoming letter on Education Department minority-scholarship policy, and related handwritten routing.",
       evidence:
-        "Itemized from the presidential reply, Ede Holiday memorandum, and Benjamin Hooks incoming letter found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+        "Itemized from the presidential reply, Ede Holiday memorandum, Benjamin Hooks incoming letter, and handwritten routing page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
     },
     {
       slug: "zamaria-combined-federal-campaign-memo",
@@ -2812,11 +2852,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-presidential-correspondence",
       title: "Letter from the President to Betsy and Walter re Walker's Point",
       documentDate: "1991-12-05",
-      pages: 1,
+      pages: 2,
       excerpt:
-        "The President and Mrs. Bush thank Betsy and Walter for their note of concern about the Bush house in Kennebunkport after storm damage at Walker's Point.",
+        "The President and Mrs. Bush thank Betsy and Walter for their note of concern about the Bush house in Kennebunkport after storm damage at Walker's Point, with a related handwritten note page.",
       evidence:
-        "Itemized from a December 5, 1991 presidential letter page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+        "Itemized from the December 5, 1991 presidential letter and related handwritten-note page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
     },
     {
       slug: "lake-superior-center-correspondence",
@@ -2908,6 +2948,20 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "The First Lady press-clipping packet includes White House holiday coverage, Bush family and shopping stories, Sununu coverage, Prescott Bush coverage, and absentee-voting stories.",
       evidence:
         "Itemized from the Mrs. Bush's Press Office Daily Press Clippings cover page and clipping run found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "transferred-white-house-photographs-december-5-1991",
+      documentType: "Transfer Sheet and Photographs",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title:
+        "Transfer sheet and White House photograph photocopies from December 5 press-conference packet",
+      documentDate: "1991-12-05",
+      pages: 9,
+      excerpt:
+        "The audiovisual transfer sheet and photocopied White House photographs document visual material separated from the December 5 press-conference packet.",
+      evidence:
+        "Itemized from pages 124-132 of the NARA direct folder scan using the George Bush Presidential Library transfer sheet, photograph photocopies, OCR, and rendered-page review.",
     },
   ],
   470417565: [
@@ -10090,6 +10144,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417364",
   "470417389",
   "470417446",
+  "470417483",
   "470418083",
 ]);
 

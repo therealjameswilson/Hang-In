@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-03T08:56:38.727Z",
+  "generatedAt": "2026-06-03T09:04:23.103Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
-    "documentCount": 6929,
+    "documentCount": 6931,
     "redactionSheetDocumentCount": 5531,
     "directFolderScanCount": 240,
     "directSingleDocumentScanCount": 113,
     "directPacketScanCount": 127,
-    "directItemizedDocumentCount": 1158,
+    "directItemizedDocumentCount": 1160,
     "directItemizedFolderCount": 127,
     "foldersWithoutParsedRows": 240,
     "foldersStillUnrepresented": 0
@@ -94,9 +94,11 @@
     "itemized-incoming-correspondence": 5,
     "itemized-envelope": 1,
     "itemized-white-house-bulletin": 1,
-    "itemized-transferred-photograph": 1,
+    "itemized-transferred-photograph": 2,
+    "itemized-press-conference-briefing-material": 1,
+    "itemized-press-conference-qa": 1,
     "itemized-presidential-statement": 1,
-    "itemized-meeting-briefing-attachment": 6,
+    "itemized-meeting-briefing-attachment": 7,
     "itemized-memorandum": 45,
     "itemized-president-note": 8,
     "itemized-campaign-finance-summary": 1,
@@ -105,13 +107,12 @@
     "itemized-public-comment-tally": 1,
     "itemized-wire-clipping-packet": 1,
     "itemized-press-office-memorandum": 1,
-    "itemized-possible-questions": 1,
-    "itemized-event-briefing": 10,
     "itemized-correspondence-letter": 285,
     "itemized-state-of-union-background-attachment": 8,
     "itemized-treasury-growth-package-material": 2,
     "itemized-note-to-president": 5,
     "itemized-staffing-memorandum": 8,
+    "itemized-event-briefing": 9,
     "itemized-recommended-telephone-call": 3,
     "itemized-talking-points": 4,
     "itemized-news-summary": 21,
@@ -9575,6 +9576,36 @@
     {
       "date": "1991-12-05",
       "documentDate": "1991-12-05",
+      "title": "Lower Press Office room layout for December 5 press conference",
+      "parentPacketId": "nara-470417483-direct-scan",
+      "naId": "470417483",
+      "folderId": "90638-003",
+      "containerId": "90638",
+      "category": "press-conference-briefing-material",
+      "disposition": "itemized-press-conference-briefing-material",
+      "type": "Press Conference Room Layout",
+      "catalogUrl": "https://catalog.archives.gov/id/470417483",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90638-003.pdf",
+      "excerpt": "The room layout maps the Lower Press Office setup for the President's December 5 press conference, including advisers, correspondents, cameras, and still photographers."
+    },
+    {
+      "date": "1991-12-05",
+      "documentDate": "1991-12-05",
+      "title": "Possible questions for December 5 press conference",
+      "parentPacketId": "nara-470417483-direct-scan",
+      "naId": "470417483",
+      "folderId": "90638-003",
+      "containerId": "90638",
+      "category": "press-conference-briefing-material",
+      "disposition": "itemized-press-conference-qa",
+      "type": "Press Conference Q&A",
+      "catalogUrl": "https://catalog.archives.gov/id/470417483",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90638-003.pdf",
+      "excerpt": "The question sheet prepares the President for likely press-conference questions on campaign politics, national security, foreign policy, the economy, hostages, and unemployment."
+    },
+    {
+      "date": "1991-12-05",
+      "documentDate": "1991-12-05",
       "title": "Statement by the President re new White House and campaign advisers and economic acceleration steps",
       "parentPacketId": "nara-470417483-direct-scan",
       "naId": "470417483",
@@ -9586,6 +9617,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417483",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90638-003.pdf",
       "excerpt": "President Bush introduces Sam Skinner as Chief of Staff, names senior campaign advisers, discusses John Sununu's transition, and previews economic growth proposals."
+    },
+    {
+      "date": "1991-12-05",
+      "documentDate": "1991-12-05",
+      "title": "Event briefing for meeting with National Association of Manufacturers Executive Committee",
+      "parentPacketId": "nara-470417483-direct-scan",
+      "naId": "470417483",
+      "folderId": "90638-003",
+      "containerId": "90638",
+      "category": "meeting-briefing-attachment",
+      "disposition": "itemized-meeting-briefing-attachment",
+      "type": "Event Briefing",
+      "catalogUrl": "https://catalog.archives.gov/id/470417483",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90638-003.pdf",
+      "excerpt": "The event briefing outlines the President's Roosevelt Room meeting with NAM leaders, including purpose, background, participants, press plan, and a seating diagram."
     },
     {
       "date": "1991-12-05",
@@ -9720,7 +9766,7 @@
       "type": "Correspondence Packet",
       "catalogUrl": "https://catalog.archives.gov/id/470417483",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90638-003.pdf",
-      "excerpt": "The packet includes a presidential reply to Benjamin Hooks, an Ede Holiday memorandum to the President, and Hooks's incoming letter on Education Department minority-scholarship policy."
+      "excerpt": "The packet includes a presidential reply to Benjamin Hooks, an Ede Holiday memorandum to the President, Hooks's incoming letter on Education Department minority-scholarship policy, and related handwritten routing."
     },
     {
       "date": "1991-12-05",
@@ -9825,7 +9871,7 @@
       "type": "Letter",
       "catalogUrl": "https://catalog.archives.gov/id/470417483",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90638-003.pdf",
-      "excerpt": "The President and Mrs. Bush thank Betsy and Walter for their note of concern about the Bush house in Kennebunkport after storm damage at Walker's Point."
+      "excerpt": "The President and Mrs. Bush thank Betsy and Walter for their note of concern about the Bush house in Kennebunkport after storm damage at Walker's Point, with a related handwritten note page."
     },
     {
       "date": "1991-12-05",
@@ -9935,32 +9981,17 @@
     {
       "date": "1991-12-05",
       "documentDate": "1991-12-05",
-      "title": "Possible Questions: POSSIBLE QUESTIONS FOR DECEMBER 5 PRESS CONFERENCE",
+      "title": "Transfer sheet and White House photograph photocopies from December 5 press-conference packet",
       "parentPacketId": "nara-470417483-direct-scan",
       "naId": "470417483",
       "folderId": "90638-003",
       "containerId": "90638",
-      "category": "possible-questions-item",
-      "disposition": "itemized-possible-questions",
-      "type": "Possible Questions",
+      "category": "transferred-photograph",
+      "disposition": "itemized-transferred-photograph",
+      "type": "Transfer Sheet and Photographs",
       "catalogUrl": "https://catalog.archives.gov/id/470417483",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90638-003.pdf",
-      "excerpt": "POSSIBLE QUESTIONS FOR DECEMBER 5 PRESS CONFERENCE POLITICAL 1) Will you campaign in New Hampshire before the primary in February? 2) Will you debate Pat Buchanan and David Duke? 3) What will be the role of Sam Skinner in the campaign? 4) Which Democratic candidate do you most fear? 5) Do you think Governor Cuomo will run for President? 6) Will Malek, Black and Bond divest themselves of their extensive business dealings since they will have so much contact with the White House and there could be conflict of inte..."
-    },
-    {
-      "date": "1991-12-05",
-      "documentDate": "1991-12-04",
-      "title": "Event Briefing: MEETING WITH NATIONAL ASSOCIATION OF MANUFACTURERS' EXECUTIVE COMMITTEE",
-      "parentPacketId": "nara-470417483-direct-scan",
-      "naId": "470417483",
-      "folderId": "90638-003",
-      "containerId": "90638",
-      "category": "event-briefing-item",
-      "disposition": "itemized-event-briefing",
-      "type": "Event Briefing",
-      "catalogUrl": "https://catalog.archives.gov/id/470417483",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1991/41-bpr-ootp-daily_files-90638-003.pdf",
-      "excerpt": "THE WHITE HOUSE WASHINGTON DECEMBER 4, 1991 MEETING WITH NATIONAL ASSOCIATION OF MANUFACTURERS' EXECUTIVE COMMITTEE DATE: THURSDAY, DECEMBER 5, 1991 TIME: 3:00 PM LOCATION: ROOSEVELT ROOM THROUGH: DAVID DEMAREST, ASSISTANT TO THE PRESIDENT FOR COMMUNICATIONS FROM: BOBBIE KILBERG, BK DEPUTY A"
+      "excerpt": "The audiovisual transfer sheet and photocopied White House photographs document visual material separated from the December 5 press-conference packet."
     },
     {
       "date": "1991-12-17",
