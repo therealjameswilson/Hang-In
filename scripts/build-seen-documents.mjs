@@ -2612,6 +2612,333 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from a Media Affairs Office News Clippings heading found in full-PDF OCR of the NARA direct folder scan.",
     },
   ],
+  470418300: [
+    {
+      slug: "jake-kamin-houston-dinner-message",
+      documentType: "Correspondence and Note Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jake Kamin dinner message correspondence and presidential note",
+      documentDate: "1993-01-14",
+      pages: 3,
+      excerpt:
+        "A White House letter honors Jake Kamin for his Houston civic contributions, with the Sugar Creek National Bank request and a Bush Library photocopy of the President's handwritten proposed message.",
+      evidence:
+        "Itemized from White House letter, request letter, and Bush handwriting pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "points-of-light-celebration-briefing",
+      documentType: "Staffing Memorandum and Briefing",
+      category: "points-of-light-material",
+      disposition: "itemized-points-of-light-material",
+      title: "Staffing memorandum and Jennifer Grossman briefing re Points of Light Celebration",
+      documentDate: "1993-01-12",
+      pages: 2,
+      excerpt:
+        "A Staff Secretary routing memorandum forwards Jennifer Grossman's briefing for the President on the January 14 Points of Light Celebration.",
+      evidence:
+        "Itemized from Staff Secretary routing and Jennifer Grossman memorandum headings found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "points-of-light-celebration-remarks-draft",
+      documentType: "Speech Draft",
+      category: "points-of-light-material",
+      disposition: "itemized-points-of-light-material",
+      title: "Draft Presidential Remarks: Points of Light Celebration, January 14, 1993",
+      documentDate: "1993-01-08",
+      pages: 5,
+      excerpt:
+        "Draft One of the President's remarks for the Points of Light Celebration lays out a closing tribute to service and volunteerism.",
+      evidence:
+        "Itemized from the Draft One remarks heading and continuation pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "louise-mead-walker-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Louise Mead Walker correspondence re Dorothy Walker Bush and leaving office",
+      documentDate: "1993-01-14",
+      pages: 4,
+      excerpt:
+        "The President thanks Louise Mead Walker for her January 4 letter about his mother and writes that he and Mrs. Bush will return to Houston in six more days.",
+      evidence:
+        "Itemized from presidential letter and attached incoming letter pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "lyman-bullard-sympathy-correspondence",
+      documentType: "Sympathy Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mrs. Lyman G. Bullard sympathy correspondence re Dorothy Walker Bush",
+      documentDate: "",
+      pages: 4,
+      excerpt:
+        "A White House sympathy-response letter to Mrs. Lyman G. Bullard is filed with attached incoming correspondence about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from sympathy letter and attached incoming pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "herve-henry-burghard-sympathy-correspondence",
+      documentType: "Sympathy Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mrs. Herve Henry Burghard sympathy correspondence re Dorothy Walker Bush",
+      documentDate: "",
+      pages: 2,
+      excerpt:
+        "A White House sympathy-response letter to Mrs. Herve Henry Burghard is filed with an attached incoming note about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from sympathy letter and attached incoming page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "james-nuzzo-sympathy-correspondence",
+      documentType: "Sympathy Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Dr. James L.J. Nuzzo sympathy correspondence re Dorothy Walker Bush",
+      documentDate: "",
+      pages: 2,
+      excerpt:
+        "A White House sympathy-response letter to Dr. James L.J. Nuzzo is filed with an attached incoming letter about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from sympathy letter and attached incoming page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "elizabeth-reeder-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Elizabeth Steakley Reeder correspondence re New Haven friendship",
+      documentDate: "1993-01-14",
+      pages: 3,
+      excerpt:
+        "The President thanks Elizabeth Reeder for writing and recalls Bill and Sally Reeder's New Haven friendship with his family.",
+      evidence:
+        "Itemized from presidential letter and attached Elizabeth Steakley Reeder incoming pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "frederick-cooper-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Frederick E. Cooper correspondence re January 4 letter and loyal support",
+      documentDate: "1993-01-14",
+      pages: 2,
+      excerpt:
+        "The President thanks Frederick E. Cooper for his January 4 letter and loyal support, with Cooper's incoming letter attached.",
+      evidence:
+        "Itemized from presidential letter and attached Frederick E. Cooper incoming page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "donald-hall-arts-humanities-correspondence",
+      documentType: "Letter and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Donald J. Hall correspondence re Arts and Humanities committee and wedding anniversary",
+      documentDate: "1993-01-14",
+      pages: 6,
+      excerpt:
+        "The President thanks Donald J. Hall and Adele Hall for their support, with duplicate copies of Hall's January 6 correspondence about the President's Committee on the Arts and Humanities and the Halls' wedding anniversary.",
+      evidence:
+        "Itemized from presidential letter, Donald J. Hall incoming letters, and duplicate-copy pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "joseph-zappala-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Joseph Zappala correspondence re loyal support and Houston address",
+      documentDate: "1993-01-14",
+      pages: 3,
+      excerpt:
+        "The President thanks Joseph Zappala for his note and loyal support and gives the Houston address for future correspondence.",
+      evidence:
+        "Itemized from presidential letter and attached Joseph Zappala incoming pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "wendy-walker-whitworth-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Wendy Walker Whitworth correspondence re White House work and future plans",
+      documentDate: "1993-01-14",
+      pages: 3,
+      excerpt:
+        "The President tells Wendy Walker Whitworth it has been a joy to work with her and wishes her well in her future job and married life.",
+      evidence:
+        "Itemized from presidential letter and attached incoming pages, including CBS White House Producer text, found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "kenneth-duberstein-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Kenneth M. Duberstein correspondence re two notes to the President",
+      documentDate: "1993-01-14",
+      pages: 4,
+      excerpt:
+        "The President thanks Kenneth M. Duberstein for two notes, with low-confidence attachment and blank/photocopy pages retained in the packet.",
+      evidence:
+        "Itemized from presidential letter and attached low-confidence OCR pages found in the NARA direct folder scan.",
+    },
+    {
+      slug: "scott-turow-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Scott Turow correspondence re January 3 letter and dinner invitation",
+      documentDate: "1993-01-14",
+      pages: 3,
+      excerpt:
+        "The President thanks Scott Turow for his January 3 letter, refers to a dinner invitation, and notes his move to Houston.",
+      evidence:
+        "Itemized from presidential letter and attached incoming pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "frederick-reeder-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Rear Admiral Frederick M. Reeder correspondence re pilots and finishing with style",
+      documentDate: "1993-01-14",
+      pages: 2,
+      excerpt:
+        "The President writes Rear Admiral Frederick M. Reeder about pilots and his Houston address; Reeder's January 7 letter thanks the President and Mrs. Bush and urges them to finish with style.",
+      evidence:
+        "Itemized from presidential letter and Rear Admiral Frederick M. Reeder incoming letter found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "robert-macauley-americares-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robert C. Macauley AmeriCares correspondence re Christmas Day letter",
+      documentDate: "1993-01-14",
+      pages: 2,
+      excerpt:
+        "The President thanks Robert C. Macauley for his Christmas Day letter and praises Macauley's service to mankind through AmeriCares.",
+      evidence:
+        "Itemized from presidential letter and AmeriCares incoming letter found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "jw-lander-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "J.W. Lander Jr. correspondence re returning to Houston and golf",
+      documentDate: "1993-01-14",
+      pages: 2,
+      excerpt:
+        "The President writes J.W. Lander Jr. about coming back to Houston and golfing, with Lander's incoming letter attached.",
+      evidence:
+        "Itemized from presidential letter and attached J.W. Lander Jr. incoming page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "terrence-boye-prescott-bush-correspondence",
+      documentType: "Letter and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Terrence Boye and Prescott Bush correspondence re class vote and presidential photo",
+      documentDate: "1993-01-14",
+      pages: 5,
+      excerpt:
+        "The President thanks Terrence Boye for his visit and class vote, sends a picture with Ranger, and the packet includes Prescott Bush Resources correspondence requesting the note.",
+      evidence:
+        "Itemized from presidential letter, child incoming-letter pages, and Prescott Bush Resources request letter found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "ethel-creeger-camp-david-fish-pond-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ethel Creeger correspondence re fish pond at Camp David",
+      documentDate: "1992-12-15",
+      pages: 3,
+      excerpt:
+        "Ethel Creeger writes about the fish in the pond at Camp David, Mrs. Bush, and the transition from President Bush to President-elect Clinton.",
+      evidence:
+        "Itemized from cover note, attached note page, and Ethel Creeger's December 15 incoming letter found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "roger-whittaker-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Roger Whittaker correspondence",
+      documentDate: "",
+      pages: 2,
+      excerpt:
+        "A correspondence packet addressed to Roger Whittaker in London appears with an attached low-confidence incoming or note page.",
+      evidence:
+        "Itemized from address page and attached low-confidence OCR page found in the NARA direct folder scan.",
+    },
+    {
+      slug: "richard-perryman-painting-correspondence",
+      documentType: "Correspondence and Note Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Richard N. Perryman painting correspondence",
+      documentDate: "",
+      pages: 2,
+      excerpt:
+        "A correspondence packet for Richard N. Perryman concerns a watercolor painting sent to Houston, with an explanatory note on Perryman's Army illustrator work for the NSC.",
+      evidence:
+        "Itemized from address note and explanatory painting note found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "charles-price-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mrs. Charles H. Price III correspondence",
+      documentDate: "",
+      pages: 2,
+      excerpt:
+        "A correspondence packet addressed to Mrs. Charles H. Price III is filed with an attached low-confidence note or incoming page.",
+      evidence:
+        "Itemized from address page and attached low-confidence OCR page found in the NARA direct folder scan.",
+    },
+    {
+      slug: "mee-lee-north-china-restaurant-correspondence",
+      documentType: "Letter and Note Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mrs. Mee Lee North China Restaurant correspondence re final meal invitation",
+      documentDate: "1993-01-14",
+      pages: 2,
+      excerpt:
+        "The President thanks Mrs. Mee Lee for her phone call, explains that he cannot enjoy her husband's meal before leaving office, and wishes her a Happy Chinese New Year.",
+      evidence:
+        "Itemized from presidential letter and attached note about Man Kit Lee of North China Restaurant found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "nancy-dickerson-whitehead-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Nancy Dickerson Whitehead correspondence",
+      documentDate: "",
+      pages: 2,
+      excerpt:
+        "A correspondence packet addressed to Nancy Dickerson Whitehead appears with an attached low-confidence note or incoming page.",
+      evidence:
+        "Itemized from address page and attached low-confidence OCR page found in the NARA direct folder scan.",
+    },
+    {
+      slug: "mill-reef-club-antigua-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mill Reef Club Antigua correspondence",
+      documentDate: "",
+      pages: 2,
+      excerpt:
+        "A Mill Reef Club correspondence packet from Antigua appears at the end of the January 14 direct scan.",
+      evidence:
+        "Itemized from Mill Reef Club letterhead pages and low-confidence OCR found in the NARA direct folder scan.",
+    },
+  ],
 };
 
 function buildDirectSupplementalItemDocuments(folder, packetDoc) {
