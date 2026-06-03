@@ -3597,6 +3597,398 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from page 155 of the NARA direct folder scan using OCR and rendered-page review of the signed presidential letter.",
     },
   ],
+  470417640: [
+    {
+      slug: "ray-scott-fundraiser-apology-note",
+      documentType: "Note to the President",
+      category: "note-to-president",
+      disposition: "itemized-note-to-president",
+      title: "Note to the President from Rose Zamaria re Ray Scott fundraiser call",
+      documentDate: "1992-03-11",
+      pages: 1,
+      excerpt:
+        "Rose Zamaria reports that Ray Scott called to apologize for his behavior, said the event raised $344,500, and asked about framing a fishing license with the presidential seal.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using OCR and rendered-page review of the handwritten and typed note.",
+    },
+    {
+      slug: "simpson-fitch-calls-note",
+      documentType: "Note to the President with Handwriting",
+      category: "note-to-president",
+      disposition: "itemized-note-to-president",
+      title: "Note to the President re Al Simpson call and Jack Fitch endorsement of Thad Grundy",
+      documentDate: "1992-03-11",
+      pages: 1,
+      excerpt:
+        "Rose Zamaria notes that Senator Al Simpson wanted a call and that Jack Fitch endorsed Thad Grundy for Ambassador to Ecuador, with Bush Library handwriting noted on the page.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using OCR, the Bush Library handwriting marker, and rendered-page review.",
+    },
+    {
+      slug: "susan-slye-reagan-comments-memo",
+      documentType: "Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Memorandum from Susan Slye re President Reagan's nice comments about President Bush",
+      documentDate: "1992-03-11",
+      pages: 1,
+      excerpt:
+        "Susan Slye explains that President Reagan's favorable comments came from a statement he made at a fundraiser for Senator McCain at the Regency Club in Beverly Hills.",
+      evidence:
+        "Itemized from page 4 of the NARA direct folder scan using OCR and rendered-page review of the memorandum marked The President Has Seen.",
+    },
+    {
+      slug: "association-executives-remarks-final-copy",
+      documentType: "Presidential Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Presidential remarks to association executives, final copy",
+      documentDate: "1992-03-11",
+      pages: 13,
+      excerpt:
+        "A working copy of the President's remarks to association executives addresses jobs, family, peace, the economy, congressional action, government reform, and confidence in America.",
+      evidence:
+        "Itemized from pages 5-17 of the NARA direct folder scan using the Association Executives heading, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-super-tuesday-nasa-goldin",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement by the President re Super Tuesday victories and nomination of Daniel S. Goldin for NASA",
+      documentDate: "1992-03-11",
+      pages: 3,
+      excerpt:
+        "The President thanks voters after the Super Tuesday primaries, discusses economic and space-policy challenges, and states his intent to nominate Daniel S. Goldin to head NASA.",
+      evidence:
+        "Itemized from pages 18-20 of the NARA direct folder scan using the March 11, 1992 Statement by the President heading and OCR-confirmed page sequence.",
+    },
+    {
+      slug: "todays-press-conference-questions",
+      documentType: "Press Conference Questions",
+      category: "press-conference-briefing",
+      disposition: "itemized-press-conference-briefing",
+      title: "Questions for Today's Press Conference",
+      documentDate: "1992-03-11",
+      pages: 3,
+      excerpt:
+        "A press-conference question list covers Pat Buchanan, Rich Bond, David Duke, campaign travel, GATT, the Nixon dinner, Israeli loan guarantees, Iraq, Libya, and Pakistan.",
+      evidence:
+        "Itemized from pages 21-23 of the NARA direct folder scan using the Questions for Today's Press Conference heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daniel-goldin-biography",
+      documentType: "Biography",
+      category: "biographical-material",
+      disposition: "itemized-biographical-material",
+      title: "Biography of Daniel S. Goldin",
+      documentDate: "1992-03-11",
+      pages: 2,
+      excerpt:
+        "A Daniel S. Goldin biography describes his role as vice president and general manager of TRW Space and Technology Group and his space-policy work.",
+      evidence:
+        "Itemized from pages 24-25 of the NARA direct folder scan using the Biography heading and OCR-confirmed continuation page.",
+    },
+    {
+      slug: "house-democrats-budget-firewalls-participants",
+      documentType: "Participants List",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Participants list for meeting with House Democrats on budget firewalls",
+      documentDate: "1992-03-11",
+      pages: 2,
+      excerpt:
+        "A participant list and seating chart identify the President, senior staff, and House Democrats for a meeting on budget firewalls.",
+      evidence:
+        "Itemized from pages 26-27 of the NARA direct folder scan using OCR and rendered-page review of the participant list and seating chart.",
+    },
+    {
+      slug: "white-house-volunteer-story-response-packet",
+      documentType: "Memorandum and Press Clipping",
+      category: "media-coverage-memorandum",
+      disposition: "itemized-media-coverage-memorandum",
+      title: "White House volunteer story response memorandum and Washington Post clipping",
+      documentDate: "1992-03-11",
+      pages: 2,
+      excerpt:
+        "A memorandum explains the proposal to limit White House volunteer hours and attaches Lois Romano's Washington Post item on White House volunteers.",
+      evidence:
+        "Itemized from pages 28-29 of the NARA direct folder scan using OCR and rendered-page review of the memorandum and attached clipping.",
+    },
+    {
+      slug: "andy-card-swearing-in-remarks-packet",
+      documentType: "Speech Material Packet",
+      category: "speech-material",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Andy Card swearing-in remarks packet",
+      documentDate: "1992-03-11",
+      pages: 10,
+      excerpt:
+        "Speech materials for Secretary Andrew H. Card Jr.'s swearing-in at the National Air and Space Museum include remarks and supporting staffing/draft pages.",
+      evidence:
+        "Itemized from pages 30-39 of the NARA direct folder scan using the Secretary Card swearing-in heading, White House staffing memorandum, Dan McGroarty memorandum, draft remarks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nixon-library-speech-packet",
+      documentType: "Speech Material Packet",
+      category: "speech-material",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Nixon Library speech packet",
+      documentDate: "1992-03-11",
+      pages: 11,
+      excerpt:
+        "Speech materials for the President's Nixon Library remarks at the Four Seasons Hotel address America's role in the emerging world, the post-Cold War order, isolationism, and protectionism.",
+      evidence:
+        "Itemized from pages 40-50 of the NARA direct folder scan using the White House staffing memorandum, Curt Smith memorandum, Draft Four speech heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "asae-speech-staffing-draft-packet",
+      documentType: "Speech Material Packet",
+      category: "speech-material",
+      disposition: "itemized-speech-remarks-draft",
+      title: "American Society of Association Executives speech staffing and draft packet",
+      documentDate: "1992-03-11",
+      pages: 13,
+      excerpt:
+        "A staffing memorandum, Demarest cover memorandum, and Draft Two remarks packet for the American Society of Association Executives covers jobs, family, peace, economic recovery, government reform, and congressional accountability.",
+      evidence:
+        "Itemized from pages 51-63 of the NARA direct folder scan using the ASAE staffing memorandum, cover memorandum, Draft Two heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "foreign-ambassadors-credentials-ceremony-packet",
+      documentType: "Event Briefing Packet",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Presentation of Credentials by Foreign Ambassadors ceremony packet",
+      documentDate: "1992-03-11",
+      pages: 7,
+      excerpt:
+        "Event materials for the presentation of diplomatic credentials include guest lists, a gate list, total counts, sequence of events, and names for participating ambassadors and staff.",
+      evidence:
+        "Itemized from pages 64-70 of the NARA direct folder scan using the ceremony headings, guest lists, gate list, sequence of events, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-macomber-mixed-credits-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to John Macomber re mixed credits and tied aid",
+      documentDate: "1992-03-11",
+      pages: 1,
+      excerpt:
+        "The President thanks John Macomber for his note and op-ed on mixed credits and tied aid, calling it a very big trade victory.",
+      evidence:
+        "Itemized from page 71 of the NARA direct folder scan using OCR and rendered-page review of the signed presidential letter.",
+    },
+    {
+      slug: "max-fisher-settlement-loan-guarantee-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Max Fisher re the settlement and loan-guarantee problem",
+      documentDate: "1992-03-11",
+      pages: 1,
+      excerpt:
+        "The President thanks Max Fisher for speaking from the heart about the settlement and loan-guarantee problem and says Fisher's friendship counts with him.",
+      evidence:
+        "Itemized from page 72 of the NARA direct folder scan using OCR and rendered-page review of the signed presidential letter.",
+    },
+    {
+      slug: "heinz-prechter-joe-antonini-invitation-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Heinz Prechter re Joe Antonini invitation",
+      documentDate: "1992-03-11",
+      pages: 1,
+      excerpt:
+        "The President thanks Heinz Prechter for endorsing Joe Antonini's invitation and notes that the Scheduling Office will be in touch as the May calendar begins to unfold.",
+      evidence:
+        "Itemized from page 73 of the NARA direct folder scan using OCR and rendered-page review of the signed presidential letter.",
+    },
+    {
+      slug: "george-prescott-bush-warren-moon-dinner-menu",
+      documentType: "Presidential Note and Menu",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "George Prescott Bush note with Warren Moon-signed United Negro College Fund dinner menu",
+      documentDate: "1992-03-11",
+      pages: 2,
+      excerpt:
+        "A note to George Prescott Bush says Warren Moon sends his best and is paired with a United Negro College Fund dinner menu signed to George P. by Warren Moon.",
+      evidence:
+        "Itemized from pages 74-75 of the NARA direct folder scan using rendered-page review of the presidential note, address block, dinner menu, and Warren Moon autograph.",
+    },
+    {
+      slug: "louise-lowell-condolence-obituary-packet",
+      documentType: "Correspondence and Clipping Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Louise Lowell condolence letter and Edgar G. Lowell obituary packet",
+      documentDate: "1992-03-11",
+      pages: 3,
+      excerpt:
+        "The President and Barbara Bush send condolences to Louise Lowell, with an attached note identifying her as the cleaning lady in Kennebunkport and an obituary for Edgar G. Lowell.",
+      evidence:
+        "Itemized from pages 76-78 of the NARA direct folder scan using OCR and rendered-page review of the condolence letter, note, and obituary clipping.",
+    },
+    {
+      slug: "max-fisher-settlement-loan-guarantee-letter-second-copy",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Second copy of Max Fisher settlement and loan-guarantee letter",
+      documentDate: "1992-03-11",
+      pages: 1,
+      excerpt:
+        "A second copy of the President's letter to Max Fisher repeats the thanks for Fisher's help on the settlement and loan-guarantee problem.",
+      evidence:
+        "Itemized from page 79 of the NARA direct folder scan using OCR and rendered-page review of the duplicate presidential letter.",
+    },
+    {
+      slug: "ted-stevens-greg-chapados-reading-file-packet",
+      documentType: "Correspondence and Reading-File Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ted Stevens, Greg Chapados, and congressional letters reading-file packet",
+      documentDate: "1992-03-11",
+      pages: 4,
+      excerpt:
+        "A packet includes the President's handwritten note to Ted Stevens about Greg Chapados, a Constance Horner note on Chapados, a handwritten note to Nick Calio, and a Calio memorandum summarizing congressional letters for the reading file.",
+      evidence:
+        "Itemized from pages 80-83 of the NARA direct folder scan using rendered-page review, OCR, the Horner and Calio memoranda, and presidential handwriting.",
+    },
+    {
+      slug: "barry-williamson-congratulatory-note-clipping",
+      documentType: "Presidential Note and Clipping Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Barry Williamson congratulatory note and Guerrero election clipping",
+      documentDate: "1992-03-11",
+      pages: 3,
+      excerpt:
+        "The President congratulates Barry Williamson, with a Kaufman memorandum explaining Williamson's connection to Holly Williamson and an attached clipping on the Texas Railroad Commission race.",
+      evidence:
+        "Itemized from pages 84-86 of the NARA direct folder scan using rendered-page review, OCR, the presidential note, Kaufman memorandum, and attached clipping.",
+    },
+    {
+      slug: "lemaistre-deisseroth-bush-leukemia-fund-contribution-packet",
+      documentType: "Correspondence and Contribution Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Charles LeMaistre and Albert Deisseroth Bush Leukemia Fund contribution packet",
+      documentDate: "1992-03-11",
+      pages: 3,
+      excerpt:
+        "The President asks Charles LeMaistre to pass along an enclosed check and letter to Dr. Albert Deisseroth; the packet includes a $40,000 American Bicentennial Presidential Inaugural contribution and Bobby Holt letter to the Bush Leukemia Fund.",
+      evidence:
+        "Itemized from pages 87-89 of the NARA direct folder scan using rendered-page review of the presidential note, check, and American Bicentennial Presidential Inaugural letter.",
+    },
+    {
+      slug: "george-h-walker-iv-committee-appointment-release",
+      documentType: "Press Release",
+      category: "white-house-press-release",
+      disposition: "itemized-press-release",
+      title: "White House press release re appointment of George H. Walker IV to the Committee for Purchase from the Blind and Other Severely Handicapped",
+      documentDate: "1992-03-11",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intent to appoint George H. Walker IV as a member of the Committee for Purchase from the Blind and Other Severely Handicapped.",
+      evidence:
+        "Itemized from page 90 of the NARA direct folder scan using the Office of the Press Secretary heading and OCR.",
+    },
+    {
+      slug: "william-neale-council-appointment-release",
+      documentType: "Press Release",
+      category: "white-house-press-release",
+      disposition: "itemized-press-release",
+      title: "White House press release re appointment of William R. Neale to the Council on Environmental Quality",
+      documentDate: "1992-03-11",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's intent to appoint William R. Neale as a member of the Council on Environmental Quality.",
+      evidence:
+        "Itemized from page 91 of the NARA direct folder scan using the Office of the Press Secretary heading and OCR.",
+    },
+    {
+      slug: "asae-spring-convention-remarks-release",
+      documentType: "Press Release",
+      category: "presidential-remarks",
+      disposition: "itemized-press-release",
+      title: "Remarks by the President to the Spring Convention of the American Society of Association Executives",
+      documentDate: "1992-03-11",
+      pages: 4,
+      excerpt:
+        "White House press release transcript of the President's remarks to the Spring Convention of the American Society of Association Executives.",
+      evidence:
+        "Itemized from pages 92-95 of the NARA direct folder scan using the White House Office of the Press Secretary heading and OCR-confirmed transcript sequence.",
+    },
+    {
+      slug: "andy-card-swearing-in-remarks-release",
+      documentType: "Press Release",
+      category: "presidential-remarks",
+      disposition: "itemized-press-release",
+      title: "Remarks by the President and Secretary of Transportation Andrew H. Card Jr. at Card's swearing-in ceremony",
+      documentDate: "1992-03-11",
+      pages: 4,
+      excerpt:
+        "White House press release transcript of remarks by the President and Secretary Andrew H. Card Jr. at Card's swearing-in ceremony.",
+      evidence:
+        "Itemized from pages 96-99 of the NARA direct folder scan using the White House Office of the Press Secretary heading and OCR-confirmed transcript sequence.",
+    },
+    {
+      slug: "david-clare-drug-advisory-council-appointment-release",
+      documentType: "Press Release",
+      category: "white-house-press-release",
+      disposition: "itemized-press-release",
+      title: "White House press release re appointment of David R. Clare to the President's Drug Advisory Council",
+      documentDate: "1992-03-11",
+      pages: 1,
+      excerpt:
+        "The White House announces the President's appointment of David R. Clare as a member of the President's Drug Advisory Council.",
+      evidence:
+        "Itemized from page 100 of the NARA direct folder scan using the Office of the Press Secretary heading and OCR.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings-march-11",
+      documentType: "Press Clipping Packet",
+      category: "mrs-bush-press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Mrs. Bush's Press Office Daily Press Clippings for Wednesday, March 11, 1992",
+      documentDate: "1992-03-11",
+      pages: 10,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet includes Houston, New York Post, Philadelphia Inquirer, USA Today, People, and Washington Post material on Barbara Bush, primaries, White House volunteers, and related coverage.",
+      evidence:
+        "Itemized from pages 101-110 of the NARA direct folder scan using the Mrs. Bush's Press Office cover page, OCR, and rendered-page review of the clipping sequence.",
+    },
+    {
+      slug: "daily-news-clips-march-11-primaries-economy-congress",
+      documentType: "Press Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Daily News Clips packet re March 11 primaries, economy, Congress, Russia, and foreign-policy coverage",
+      documentDate: "1992-03-11",
+      pages: 50,
+      excerpt:
+        "A Daily News Clips packet collects March 11 coverage from the Washington Post, Washington Times, Wall Street Journal, USA Today, New York Times, and other outlets on Bush, Buchanan, Clinton, Tsongas, Congress, Russia, Israeli loan guarantees, Iraq, and related issues.",
+      evidence:
+        "Itemized from pages 111-160 of the NARA direct folder scan using the Daily News Clips cover page, OCR, and rendered-page review of the clipping sequence.",
+    },
+    {
+      slug: "richard-nixon-library-and-asae-photograph-packet",
+      documentType: "Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Photographs from the Nixon Library dinner and American Society of Association Executives remarks",
+      documentDate: "1992-03-11",
+      pages: 8,
+      excerpt:
+        "A color photograph packet shows President Bush with Richard Nixon, at the Richard Nixon Library event, in a portrait, and speaking before association executives, with related photo backs and notes.",
+      evidence:
+        "Itemized from pages 161-168 of the NARA direct folder scan using rendered-page review of the color photographs, photo backs, and handwritten note.",
+    },
+  ],
   470417713: [
     {
       slug: "billy-graham-convention-note",
@@ -10648,6 +11040,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417505",
   "470417565",
   "470417566",
+  "470417640",
   "470418083",
 ]);
 
