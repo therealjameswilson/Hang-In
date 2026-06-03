@@ -4127,6 +4127,190 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from the Bob Teeter memorandum page, President Bush handwriting to Brent Scowcroft, and rendered-page review.",
     },
   ],
+  470418041: [
+    {
+      slug: "russell-sellers-asheville-visit-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Russell Sellers Asheville and Hendersonville visit correspondence packet",
+      documentDate: "1992-09-08",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Russell Sellers for support and prayers after the Asheville and Hendersonville visit, with Sellers's handwritten incoming note attached.",
+      evidence:
+        "Itemized from the President's outgoing letter to Russell Sellers, incoming handwritten note, and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "bnai-brith-international-convention-remarks-september-8-1992",
+      documentType: "Speech Text",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title: "Remarks to the B'nai B'rith International Convention, September 8, 1992",
+      documentDate: "1992-09-08",
+      pages: 21,
+      excerpt:
+        "The speech text thanks B'nai B'rith, invokes George Washington's letter to the Hebrew Congregation of Rhode Island, discusses anti-Semitism, Madrid peace talks, loan guarantees, Israel's security, and the post-Cold War world.",
+      evidence:
+        "Itemized from the B'nai B'rith speech heading, numbered remarks pages, and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-news-summary-10am-wires-september-8-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 10:00 a.m. wires, September 8, 1992",
+      documentDate: "1992-09-08",
+      pages: 3,
+      excerpt:
+        "The 10:00 a.m. wires cover President Bush's request for Hurricane Andrew aid and the death of Sen. Quentin Burdick of North Dakota.",
+      evidence:
+        "Itemized from the 10:00 a.m. White House News Summary heading and continuation pages found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-11am-wires-and-cnn-candidates-report-september-8-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 11:00 a.m. wires and CNN candidates report, September 8, 1992",
+      documentDate: "1992-09-08",
+      pages: 3,
+      excerpt:
+        "The 11:00 a.m. summary repeats Hurricane Andrew aid coverage and includes a CNN report comparing candidate economic claims, campaign themes, and typical stump-speech lines.",
+      evidence:
+        "Itemized from the 11:00 a.m. White House News Summary heading, CNN report pages, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-september-8-1992",
+      documentType: "Legislative Digest",
+      category: "legislative-digest",
+      disposition: "itemized-legislative-digest",
+      title: "Congressional Monitor, September 8, 1992",
+      documentDate: "1992-09-08",
+      pages: 20,
+      excerpt:
+        "The Congressional Monitor packet covers legislative outlook, Senate primaries, the START Treaty, appropriations, House and Senate committee schedules, conference committee future listings, other events, campaign future listings, and floor action.",
+      evidence:
+        "Itemized from Congressional Monitor masthead, page numbers, section headings, and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "congress-in-print-september-8-1992",
+      documentType: "Legislative Publications Digest",
+      category: "legislative-digest",
+      disposition: "itemized-legislative-digest",
+      title: "Congress in Print, September 8, 1992",
+      documentDate: "1992-09-08",
+      pages: 4,
+      excerpt:
+        "The Congress in Print packet lists recent Senate and House committee publications, Government Printing Office stock numbers, and congressional publication summaries.",
+      evidence:
+        "Itemized from Congress in Print masthead, publications listings, and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-handwriting-california-bush-surge-clipping",
+      documentType: "Handwritten Note and News Clipping",
+      category: "campaign-press-clipping",
+      disposition: "itemized-campaign-press-clipping",
+      title: "President Bush handwriting note and national-news clipping on Bush surge in California",
+      documentDate: "1992-09-08",
+      pages: 2,
+      excerpt:
+        "A President Bush handwriting page notes campaign and media questions, followed by a national-news clipping on a Bush surge in California and Republican plans for the state's presidential race.",
+      evidence:
+        "Itemized from the Bush Library handwriting page, national-news clipping heading, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-noon-wires-september-8-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 12:00 p.m. wires, September 8, 1992",
+      documentDate: "1992-09-08",
+      pages: 5,
+      excerpt:
+        "The noon wires cover Bush pushing Israel aid and Clinton courting blue-collar workers, Clinton campaign strategy, Arkansas record coverage, Social Security Commissioner Gwendolyn King's resignation, and related campaign stories.",
+      evidence:
+        "Itemized from the 12:00 p.m. White House News Summary heading, article starts, and rendered-page review.",
+    },
+    {
+      slug: "hurricane-andrew-typhoon-omar-emergency-supplemental-requests",
+      documentType: "Press Release and Budget Tables with President Bush Handwriting",
+      category: "hurricane-andrew-disaster-aid",
+      disposition: "itemized-disaster-aid-request",
+      title: "President's emergency supplemental requests for Hurricane Andrew and Typhoon Omar",
+      documentDate: "1992-09-08",
+      pages: 26,
+      excerpt:
+        "The White House press release and attached budget tables describe the President's emergency supplemental requests for Hurricane Andrew and Typhoon Omar across agriculture, commerce, defense, education, FEMA, health and human services, housing, interior, justice, labor, transportation, Treasury, VA, and related agencies.",
+      evidence:
+        "Itemized from the Office of the Press Secretary release, President Bush handwriting, budget-table title pages, agency/program listings, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-1pm-wires-september-8-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 1:00 p.m. wires, September 8, 1992",
+      documentDate: "1992-09-08",
+      pages: 2,
+      excerpt:
+        "The 1:00 p.m. wires cover Sen. George Mitchell urging scrutiny of Bush on Iran-Contra and attorneys providing free legal advice after Hurricane Andrew.",
+      evidence:
+        "Itemized from the 1:00 p.m. White House News Summary heading and continuation page found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "hotline-daily-briefing-september-8-1992",
+      documentType: "Campaign News Digest",
+      category: "campaign-news-digest",
+      disposition: "itemized-campaign-news-digest",
+      title: "The Hotline Daily Briefing, September 8, 1992",
+      documentDate: "1992-09-08",
+      pages: 25,
+      excerpt:
+        "The Hotline packet covers Labor Day campaign coverage, Los Angeles and California, Gore and Clinton themes, electoral-map analysis, Senate and governors' races, poll updates, and television-monitor items.",
+      evidence:
+        "Itemized from The Hotline Daily Briefing masthead, numbered section headings, poll tables, and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-news-summary-1130-news-update-september-8-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 11:30 a.m. news update, September 8, 1992",
+      documentDate: "1992-09-08",
+      pages: 1,
+      excerpt:
+        "The 11:30 a.m. update summarizes Bush's Hurricane Andrew request, POW/MIA materials, and additional wire items in the late-morning news cycle.",
+      evidence:
+        "Itemized from the 11:30 a.m. News Update page found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "note-to-jab-uaw-workers-hamtramck-event",
+      documentType: "Campaign Event Note with President Bush Handwriting",
+      category: "campaign-event-note",
+      disposition: "itemized-campaign-event-note",
+      title: "Note to JAB on UAW workers and the Hamtramck event",
+      documentDate: "1992-09-08",
+      pages: 1,
+      excerpt:
+        "A note to James A. Baker III explains that UAW workers were not seated at the Hamtramck event because there was no seating at the parade, with President Bush handwriting visible.",
+      evidence:
+        "Itemized from the September 8 note to JAB, Bush Library handwriting marker, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-2pm-news-september-8-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 2:00 p.m. news, September 8, 1992",
+      documentDate: "1992-09-08",
+      pages: 1,
+      excerpt:
+        "The 2:00 p.m. news page covers Sen. Mitchell and Iran-Contra, Bush policy or campaign moves, and additional afternoon wire headlines.",
+      evidence:
+        "Itemized from the 2:00 p.m. White House News Summary page found in full-PDF OCR and rendered-page review.",
+    },
+  ],
   470418070: [
     {
       slug: "charles-bartlett-massager-lincoln-anecdote",
