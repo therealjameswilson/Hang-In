@@ -1855,6 +1855,115 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 53-71 of the NARA direct folder scan using the transfer sheet, official White House photograph captions, photocopied images, OCR, and rendered-page review.",
     },
   ],
+  470417364: [
+    {
+      slug: "white-house-news-summary-post-address-network-coverage-duplicate-copies",
+      documentType: "White House News Summary Duplicate Copies",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: network coverage following the President's address, duplicate copies",
+      documentDate: "1991-09-27",
+      pages: 2,
+      excerpt:
+        "Duplicate copies of a White House News Summary page excerpt ABC, CNN, and NBC commentary after President Bush's address on nuclear arms and defense policy.",
+      evidence:
+        "Itemized from pages 2 and 36 of the NARA direct folder scan using duplicate White House News Summary headings, network coverage following the President's address title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-evening-coverage-defense-policy-duplicate-copies",
+      documentType: "White House News Summary Duplicate Copies",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 6:30 p.m. network evening news coverage of upcoming defense policy address, duplicate copies",
+      documentDate: "1991-09-27",
+      pages: 10,
+      excerpt:
+        "Duplicate five-page copies summarize ABC, NBC, and CBS evening news coverage before the President's address on defense policy and nuclear-arms reductions.",
+      evidence:
+        "Itemized from pages 3-7 and 37-41 of the NARA direct folder scan using duplicate White House News Summary headings, 6:30 p.m. network evening coverage title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ap-democratic-response-mitchell-nuclear-threat",
+      documentType: "Wire Story Duplicate Copies",
+      category: "defense-policy-wire-story",
+      disposition: "itemized-wire-story",
+      title: "AP Wire Story: Democratic response to Bush nuclear-arms address",
+      documentDate: "1991-09-27",
+      pages: 2,
+      excerpt:
+        "Associated Press copy reports Senate Majority Leader George Mitchell saying Democrats welcome President Bush's nuclear-threat-reduction efforts and emphasizing economic growth.",
+      evidence:
+        "Itemized from duplicate AP Democratic Response pages 8 and 18 of the NARA direct folder scan using the AP-TV heading, George Mitchell text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ap-terence-hunt-bush-abandons-tactical-nuclear-weapons-bulletins",
+      documentType: "Wire Story and Bulletins",
+      category: "defense-policy-wire-story",
+      disposition: "itemized-wire-story",
+      title:
+        "AP Wire Story and bulletins by Terence Hunt: Bush abandons sea and land-based tactical nuclear weapons",
+      documentDate: "1991-09-27",
+      pages: 7,
+      excerpt:
+        "Associated Press urgent, bulletin, and lead-copy pages by Terence Hunt report Bush's order to eliminate land-based and sea-based tactical nuclear weapons, stand down strategic bombers, and seek Soviet reciprocal steps.",
+      evidence:
+        "Itemized from pages 9-12 and duplicate/fax-copy pages 42-44 of the NARA direct folder scan using AP-Bush urgent and bulletin headings, Terence Hunt byline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "upi-bob-lewis-bush-seeks-slash-nuclear-arsenal",
+      documentType: "Wire Story Duplicate Copies",
+      category: "defense-policy-wire-story",
+      disposition: "itemized-wire-story",
+      title: "UPI Wire Story by Bob Lewis: Bush seeks to slash nuclear arsenal",
+      documentDate: "1991-09-27",
+      pages: 4,
+      excerpt:
+        "UPI copy by Bob Lewis reports President Bush's post-Cold War defense initiative to eliminate thousands of nuclear weapons and seek Soviet matching steps.",
+      evidence:
+        "Itemized from pages 13-14 and duplicate/fax-copy pages 45-46 of the NARA direct folder scan using the UPI complete writethru heading, Bob Lewis byline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "reuters-arms-bush-speech-nuclear-cuts-soviet-match",
+      documentType: "Wire Story and Bulletins",
+      category: "defense-policy-wire-story",
+      disposition: "itemized-wire-story",
+      title: "Reuters Wire Stories: Bush announces sweeping nuclear cuts and asks Soviets to match",
+      documentDate: "1991-09-27",
+      pages: 7,
+      excerpt:
+        "Reuters urgent and lead-copy pages report Bush's sweeping nuclear-arms reductions, deactivation of long-range land-based missiles, tactical nuclear weapon withdrawals, and call for Soviet matching steps.",
+      evidence:
+        "Itemized from pages 15-17 and duplicate/fax-copy pages 47-50 of the NARA direct folder scan using Reuters AM-ARMS-BUSH-SPEECH headings, rotated-page review, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-address-to-nation-defense-policy-september-27-1991",
+      documentType: "Presidential Address Release",
+      category: "presidential-address-release",
+      disposition: "itemized-presidential-address-release",
+      title: "Office of the Press Secretary release of President Bush's address to the nation on defense policy",
+      documentDate: "1991-09-27",
+      pages: 5,
+      excerpt:
+        "The released address from the Oval Office announces major nuclear-arms reductions, tactical nuclear weapon withdrawals, strategic bomber stand-downs, and a call for Soviet reciprocal steps.",
+      evidence:
+        "Itemized from pages 19-23 of the NARA direct folder scan using the Office of the Press Secretary release heading, Address by the President to the Nation title, Oval Office line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "senior-administration-official-background-briefing-defense-policy",
+      documentType: "Background Briefing Transcript",
+      category: "background-briefing-transcript",
+      disposition: "itemized-background-briefing-transcript",
+      title: "Background briefing by Senior Administration Official on defense policy address",
+      documentDate: "1991-09-27",
+      pages: 12,
+      excerpt:
+        "A senior administration official briefs reporters on the President's nuclear-arms initiative, tactical weapons, strategic systems, sea-based weapons, missile defenses, Soviet reciprocity, budget implications, and implementation timelines.",
+      evidence:
+        "Itemized from pages 24-35 of the NARA direct folder scan using the White House background briefing heading, Senior Administration Official label, transcript page sequence, OCR, and rendered-page review.",
+    },
+  ],
   470417389: [
     {
       slug: "presidential-log-selected-congressional-mail",
@@ -9573,6 +9682,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417227",
   "470417253",
   "470417305",
+  "470417364",
   "470418083",
 ]);
 
