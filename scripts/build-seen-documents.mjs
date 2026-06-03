@@ -3708,6 +3708,425 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from Los Angeles Times mastheads, article starts, and continuation pages found in full-PDF OCR and rendered-page review.",
     },
   ],
+  470418030: [
+    {
+      slug: "nicholas-brady-ashmun-vigilante-case-for-bush-packet",
+      documentType: "Article Routing Packet with President Bush Handwriting",
+      category: "campaign-press-article",
+      disposition: "itemized-campaign-press-article",
+      title:
+        "Nicholas Brady and John Ashmun routing packet with Richard Vigilante article, 'The Case for Bush'",
+      documentDate: "1992-09-03",
+      pages: 4,
+      excerpt:
+        "The packet includes a routing note marked with President Bush handwriting, Nicholas Brady and John B. Ashmun references, and Richard Vigilante's article arguing that Bush's economic record was stronger than the campaign debate allowed.",
+      evidence:
+        "Itemized from routing-page handwriting, the 'Have shared cc of article with JABIII' note, article heading, and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "nicaraguan-president-chamorro-hurricane-andrew-response",
+      documentType: "Diplomatic Correspondence and Cable Packet",
+      category: "foreign-leader-correspondence",
+      disposition: "itemized-diplomatic-correspondence",
+      title: "Nicaraguan President Violeta Chamorro Hurricane Andrew correspondence packet",
+      documentDate: "1992-09-03",
+      pages: 4,
+      excerpt:
+        "A confidential memorandum and outgoing response thank President Violeta Chamorro for concern over Hurricane Andrew, with State Department cable text and Spanish-language incoming message pages attached.",
+      evidence:
+        "Itemized from the confidential action memorandum, White House outgoing letter, State cable pages, and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-news-summary-2pm-wires-september-3-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 2:00 p.m. wires, September 3, 1992",
+      documentDate: "1992-09-03",
+      pages: 3,
+      excerpt:
+        "The 2:00 p.m. wire summary covers Hurricane Andrew generosity politics, F-16 sales to Taiwan, a dissident Foreign Service officer, and Sen. Barbara Mikulski's criticism of FEMA response.",
+      evidence:
+        "Itemized from the 2:00 p.m. White House News Summary heading and continuation pages found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "schedule-of-the-president-september-3-1992",
+      documentType: "Presidential Schedule",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title: "Schedule of the President, September 3, 1992",
+      documentDate: "1992-09-03",
+      pages: 1,
+      excerpt:
+        "The schedule page lists the President's September 3 meetings, interviews, private office time, remarks, and calls at the White House.",
+      evidence:
+        "Itemized from the Schedule of the President page found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "meeting-with-administrator-saiki-sba-disaster-assistance",
+      documentType: "Meeting Briefing",
+      category: "meeting-briefing",
+      disposition: "itemized-meeting-briefing",
+      title: "Briefing for meeting with SBA Administrator Patricia Saiki on disaster assistance",
+      documentDate: "1992-09-02",
+      pages: 2,
+      excerpt:
+        "The briefing describes a September 3 Oval Office meeting with SBA Administrator Patricia Saiki on her trip and the Small Business Administration's Hurricane Andrew disaster-assistance programs.",
+      evidence:
+        "Itemized from the meeting memorandum, participants and sequence pages, and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "briefing-for-agriculture-interviews-september-3-1992",
+      documentType: "Interview Briefing",
+      category: "media-briefing",
+      disposition: "itemized-media-briefing",
+      title: "Briefing for agriculture television interviews, September 3, 1992",
+      documentDate: "1992-09-02",
+      pages: 3,
+      excerpt:
+        "The briefing lays out the President's interviews with agricultural reporters, including objectives, participants, sequence of events, press plan, and themes around disaster and farm policy.",
+      evidence:
+        "Itemized from White House briefing pages for agriculture interviews found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-8am-wires-september-3-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 8:00 a.m. wires, September 3, 1992",
+      documentDate: "1992-09-03",
+      pages: 2,
+      excerpt:
+        "The 8:00 a.m. wire summary covers mental-health workers and Hurricane Andrew relief, Gloria Estefan's benefit plans, housing and federal response, and overnight campaign news.",
+      evidence:
+        "Itemized from the 8:00 a.m. White House News Summary heading and continuation page found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-1030-news-update-september-3-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 10:30 a.m. news update, September 3, 1992",
+      documentDate: "1992-09-03",
+      pages: 2,
+      excerpt:
+        "The 10:30 a.m. update includes Hurricane Andrew coverage, wheat and Australia, Russian uranium, Bosnia, and China's reaction to the Taiwan F-16 sale.",
+      evidence:
+        "Itemized from the 10:30 a.m. News Update heading and continuation page found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "fred-steeper-trust-issue-memo-and-president-note-to-baker",
+      documentType: "Campaign Strategy Memorandum with President Bush Handwriting",
+      category: "campaign-strategy-memorandum",
+      disposition: "itemized-campaign-strategy-memorandum",
+      title: "Fred Steeper memorandum on the trust issue and President Bush note to Jim Baker",
+      documentDate: "1992-09-02",
+      pages: 3,
+      excerpt:
+        "Fred Steeper warns that 'trust' carries a job-performance liability in focus groups; President Bush forwards questions to Jim Baker about why convention themes that seemed to close the gap were no longer persuasive.",
+      evidence:
+        "Itemized from the note to POTUS, Fred Steeper memorandum marked 'The President Has Seen,' and the President's September 2 note to Jim Baker in rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-noon-wires-september-3-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 12:00 p.m. wires, September 3, 1992",
+      documentDate: "1992-09-03",
+      pages: 7,
+      excerpt:
+        "The noon wire packet covers capital-gains indexing, the AFL-CIO endorsement of Clinton, EC concerns over wheat subsidies, retail sales, Taiwan F-16 analysis, Israeli-Palestinian autonomy, and other wire items.",
+      evidence:
+        "Itemized from the 12:00 p.m. wires heading, wire-story starts, and continuation pages found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "cea-unemployment-productivity-poverty-memos-september-2-1992",
+      documentType: "Economic Memoranda with President Bush Handwriting",
+      category: "economic-briefing-memorandum",
+      disposition: "itemized-economic-briefing",
+      title: "Council of Economic Advisers memoranda on unemployment claims, productivity, and poverty",
+      documentDate: "1992-09-02",
+      pages: 2,
+      excerpt:
+        "Michael Boskin and the Council of Economic Advisers brief the President on initial unemployment claims, second-quarter productivity, poverty and family income data, and productivity and cost indicators.",
+      evidence:
+        "Itemized from Council of Economic Advisers memorandum headings, chart page, Bush handwriting markers, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-1pm-wires-september-3-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 1:00 p.m. wires, September 3, 1992",
+      documentDate: "1992-09-03",
+      pages: 10,
+      excerpt:
+        "The 1:00 p.m. wires cover White House reaction to China over the F-16 sale, Hurricane Andrew aid, disaster-response criticism, Mario Cuomo in Israel, SSI recommendations, Hollywood donors, conservation ratings, the AFL-CIO, Bosnia, and chemical weapons.",
+      evidence:
+        "Itemized from the 1:00 p.m. White House News Summary heading, article starts, and continuation pages found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-130-news-update-september-3-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 1:30 p.m. news update, September 3, 1992",
+      documentDate: "1992-09-03",
+      pages: 1,
+      excerpt:
+        "The 1:30 p.m. update summarizes chemical-weapons treaty movement, Sen. Mikulski and FEMA, Middle East peace, wheat and Ohio farmers, and related wire developments.",
+      evidence:
+        "Itemized from the 1:30 p.m. News Update page found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "ron-kaufman-andy-williams-campaign-rally-correspondence",
+      documentType: "Campaign Correspondence Packet with President Bush Handwriting",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Ron Kaufman and Andy Williams campaign-rally correspondence packet",
+      documentDate: "1992-09-03",
+      pages: 3,
+      excerpt:
+        "President Bush asks Ron Kaufman to contact supporter Andy Williams about a Branson rally and performance issue, with address and handwritten drafting material attached.",
+      evidence:
+        "Itemized from the President's note to Ron K., Andy Williams address page, handwriting page, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-international-and-clipping-pages-september-3-1992",
+      documentType: "White House News Summary Clipping Pages",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary international and newspaper highlight pages, September 3, 1992",
+      documentDate: "1992-09-03",
+      pages: 4,
+      excerpt:
+        "The summary pages excerpt international and newspaper coverage on Iraq, Palestinian negotiations, Taiwan and China, capital gains, the Bush Justice Department, wheat farmers, arms workers, and campaign largesse.",
+      evidence:
+        "Itemized from White House News Summary A-page headings, source attributions, and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "hotline-daily-briefing-september-3-1992",
+      documentType: "Campaign News Digest",
+      category: "campaign-news-digest",
+      disposition: "itemized-campaign-news-digest",
+      title: "The Hotline Daily Briefing, September 3, 1992",
+      documentDate: "1992-09-03",
+      pages: 24,
+      excerpt:
+        "The Hotline Daily Briefing packet covers national polls, family-values fallout, Clinton and Bush campaign themes, Hurricane Andrew politics, Senate races, electoral scoreboard notes, state races, and television-monitor items.",
+      evidence:
+        "Itemized from The Hotline Daily Briefing masthead, section headings, scoreboard pages, and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "sheila-tate-weta-broadcasts-correspondence",
+      documentType: "Presidential Correspondence Packet with President Bush Handwriting",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sheila Tate and WETA broadcasts correspondence packet",
+      documentDate: "1992-09-03",
+      pages: 5,
+      excerpt:
+        "President Bush writes Sheila Tate about WETA and post-convention broadcast criticism, with a Powell Tate note and Sharon Percy Rockefeller/WETA correspondence attached.",
+      evidence:
+        "Itemized from the note to the President, presidential letter copies, Powell Tate and WETA pages, and rendered-page review.",
+    },
+    {
+      slug: "jack-guy-appointments-correspondence",
+      documentType: "Presidential Correspondence Packet with President Bush Handwriting",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jack O. Guy appointments and scheduling correspondence packet",
+      documentDate: "1992-09-03",
+      pages: 4,
+      excerpt:
+        "The packet includes an appointments-and-scheduling routing note, Bush handwriting, the President's response to Jack O. Guy, and Guy's incoming letter from Atlanta.",
+      evidence:
+        "Itemized from the scheduling memorandum, Bush Library handwriting marker, Jack O. Guy address and letter pages, and rendered-page review.",
+    },
+    {
+      slug: "bobbie-kilberg-marion-chambers-iaia-note",
+      documentType: "Staff Note with President Bush Handwriting",
+      category: "staff-note",
+      disposition: "itemized-staff-note",
+      title: "Bobbie Kilberg note on Marion Chambers and the Institute of American Indian Art",
+      documentDate: "1992-09-01",
+      pages: 1,
+      excerpt:
+        "Bobbie Kilberg reports to the President and Mrs. Bush on Marion Chambers, the Institute of American Indian Art, and a possible San Diego picnic, with Bush routing to Connie Horner.",
+      evidence:
+        "Itemized from the Bobbie Kilberg memorandum page, sticky-note routing, President Bush handwriting, and rendered-page review.",
+    },
+    {
+      slug: "bob-macaulay-americares-donation-note",
+      documentType: "Personal Note and Donation Check",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title: "President Bush note and AmeriCares donation check to Bob Macaulay",
+      documentDate: "1992-09-03",
+      pages: 1,
+      excerpt:
+        "President Bush sends Bob Macaulay an AmeriCares donation check with a handwritten note thanking him and Barbara for helping others.",
+      evidence:
+        "Itemized from the President's handwritten note, Riggs check image, AmeriCares payee line, and rendered-page review.",
+    },
+    {
+      slug: "shirley-green-health-update-note",
+      documentType: "Staff Note with President Bush Handwriting",
+      category: "staff-note",
+      disposition: "itemized-staff-note",
+      title: "Shirley Green health update note",
+      documentDate: "1992-09-03",
+      pages: 1,
+      excerpt:
+        "A short RZ note tells the President that Shirley Green's tests came back negative, with President Bush handwriting directing the update to the First Lady's office.",
+      evidence:
+        "Itemized from the September 3 note page and handwriting visible in rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "boston-globe-family-values-aids-letter-routing",
+      documentType: "Incoming Letter and Routing Packet with President Bush Handwriting",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Boston Globe letter packet on family values, AIDS, and presidential response routing",
+      documentDate: "1992-09-03",
+      pages: 3,
+      excerpt:
+        "The packet includes President Bush handwriting and an incoming Boston Globe Washington Bureau letter about family values, AIDS, and the President's public comments, with routing notes to Marlin Fitzwater and others.",
+      evidence:
+        "Itemized from the President's handwritten routing page, Boston Globe letterhead and envelope page, and rendered-page review.",
+    },
+    {
+      slug: "tom-stroock-guatemala-immigration-los-angeles-cost-impact-packet",
+      documentType: "Immigration Policy Correspondence Packet with President Bush Handwriting",
+      category: "immigration-policy-correspondence",
+      disposition: "itemized-immigration-policy-correspondence",
+      title: "Tom Stroock, Guatemala, immigration, and Los Angeles County cost-impact packet",
+      documentDate: "1992-09-03",
+      pages: 13,
+      excerpt:
+        "The packet includes President Bush's note to Phil Brady about Tom Stroock, Embassy Guatemala correspondence, a Roger Porter memorandum, and Los Angeles County Supervisor Michael D. Antonovich material on deportable aliens and public-service costs.",
+      evidence:
+        "Itemized from the President's note to Phil Brady, embassy pages, Roger Porter memorandum heading, Antonovich fax pages, cost-impact appendix pages, and rendered-page review.",
+    },
+    {
+      slug: "verta-hardegree-devan-anderson-fort-worth-message-packet",
+      documentType: "Phone Message and Correspondence Packet",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title: "Verta Hardegree phone message and Devan Anderson Fort Worth correspondence packet",
+      documentDate: "1992-09-03",
+      pages: 3,
+      excerpt:
+        "A phone message from Verta Hardegree about the President's Shallowater visit appears with Fort Worth correspondence and a low-confidence attached visual page.",
+      evidence:
+        "Itemized from the phone-message page, White House address page, attached visual page, and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-news-summary-4pm-wires-september-3-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 4:00 p.m. wires, September 3, 1992",
+      documentDate: "1992-09-03",
+      pages: 1,
+      excerpt:
+        "The 4:00 p.m. wire page leads with an Italian cargo plane crash near Sarajevo and includes additional wire coverage in the late-afternoon news cycle.",
+      evidence:
+        "Itemized from the 4:00 p.m. White House News Summary heading and rendered-page review.",
+    },
+    {
+      slug: "amir-kuwait-red-cross-hurricane-andrew-thank-you-call",
+      documentType: "Diplomatic Call Note and Telegram Packet with President Bush Handwriting",
+      category: "foreign-leader-correspondence",
+      disposition: "itemized-diplomatic-correspondence",
+      title: "Amir of Kuwait Red Cross donation thank-you call and telegram packet",
+      documentDate: "1992-09-03",
+      pages: 4,
+      excerpt:
+        "President Bush notes that he called Kuwait's ambassador to thank the Amir for a $10 million Red Cross contribution for Hurricane Andrew, with handwriting marker and Kuwait Embassy telegram pages attached.",
+      evidence:
+        "Itemized from the President's note to Brent Scowcroft and Jim Baker, Bush Library handwriting marker, Kuwait Embassy telegram pages, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-3pm-wires-september-3-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 3:00 p.m. wires, September 3, 1992",
+      documentDate: "1992-09-03",
+      pages: 10,
+      excerpt:
+        "The 3:00 p.m. wires cover Bush's election-season policy moves, White House criticism of poll coverage, Labor Day campaign travel, Clinton's Florida hurricane visit, Hurricane Andrew relief funding, chemical weapons, Hispanic Heritage Month, and Glass Ceiling Commission appointments.",
+      evidence:
+        "Itemized from the 3:00 p.m. White House News Summary heading, article starts, and continuation pages found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "dan-king-japan-correspondence-packet",
+      documentType: "Presidential Correspondence Packet with President Bush Handwriting",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Dan King Japan correspondence packet",
+      documentDate: "1992-09-03",
+      pages: 5,
+      excerpt:
+        "The packet includes a Bush Library handwriting marker, President Bush correspondence to Dan King in Aichi-ken, Japan, a photograph or low-confidence visual attachment, and King's incoming letter to the President.",
+      evidence:
+        "Itemized from the attached-marker page, Dan King address page, photograph page, incoming letter, President Bush handwriting, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-5pm-wires-september-3-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 5:00 p.m. wires, September 3, 1992",
+      documentDate: "1992-09-03",
+      pages: 5,
+      excerpt:
+        "The 5:00 p.m. wires cover the Bush campaign's rejection of a debate proposal, charges over Bush's claim that Clinton raised taxes 128 times, and U.S. aid for Nicaragua after tidal-wave damage.",
+      evidence:
+        "Itemized from the 5:00 p.m. White House News Summary heading, wire-story starts, and rendered-page review.",
+    },
+    {
+      slug: "ronald-kaufman-florida-nevada-primary-activity-report",
+      documentType: "Political Briefing Report with President Bush Handwriting",
+      category: "political-briefing-report",
+      disposition: "itemized-political-briefing-report",
+      title: "Ronald C. Kaufman addendum and Florida/Nevada primary activity report",
+      documentDate: "1992-09-02",
+      pages: 6,
+      excerpt:
+        "Ronald C. Kaufman sends the President an addendum on Broward County Sheriff Nick Navarro and the Florida primary election briefing, followed by a primary activity report covering Florida and Nevada races.",
+      evidence:
+        "Itemized from the Kaufman memorandum heading, President Bush handwriting, Primary Activity Report pages, and rendered-page review.",
+    },
+    {
+      slug: "john-gardner-resignation-correspondence",
+      documentType: "Resignation Correspondence",
+      category: "staff-correspondence",
+      disposition: "itemized-staff-correspondence",
+      title: "John S. Gardner resignation correspondence packet",
+      documentDate: "1992-09-03",
+      pages: 2,
+      excerpt:
+        "The packet includes President Bush's letter accepting John S. Gardner's resignation as Special Assistant to the President and Deputy Staff Secretary, with Gardner's August 24 resignation letter attached.",
+      evidence:
+        "Itemized from the President's signed acceptance letter, John S. Gardner incoming resignation letter, and rendered-page review.",
+    },
+    {
+      slug: "bob-teeter-richard-kerr-campaign-surrogate-memo",
+      documentType: "Campaign Memorandum with President Bush Handwriting",
+      category: "campaign-strategy-memorandum",
+      disposition: "itemized-campaign-strategy-memorandum",
+      title: "Bob Teeter memorandum on Richard Kerr's campaign surrogate assistance",
+      documentDate: "1992-09-02",
+      pages: 1,
+      excerpt:
+        "Bob Teeter tells the President that Richard Kerr's interest in helping the campaign will be used for future national-security policy opportunities, noting Kerr's participation in a September 15 scientists' committee briefing for public information.",
+      evidence:
+        "Itemized from the Bob Teeter memorandum page, President Bush handwriting to Brent Scowcroft, and rendered-page review.",
+    },
+  ],
   470418070: [
     {
       slug: "charles-bartlett-massager-lincoln-anecdote",
