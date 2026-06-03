@@ -4643,6 +4643,296 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from rendered-page review of color photo pages and backing or transfer page at the end of the NARA direct folder scan.",
     },
   ],
+  470418060: [
+    {
+      slug: "cea-economic-briefing-pages-september-15-1992",
+      documentType: "Economic Briefing Pages",
+      category: "economic-briefing",
+      disposition: "itemized-economic-briefing",
+      title: "Council of Economic Advisers briefing pages for the President",
+      documentDate: "1992-09-15",
+      pages: 3,
+      excerpt:
+        "Council of Economic Advisers pages addressed to the President appear after the initial Utah National Guard speech draft, including chart or briefing material prepared on September 15.",
+      evidence:
+        "Itemized from Council of Economic Advisers letterhead pages and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "marked-utah-national-guard-remarks-photocopy",
+      documentType: "Speech Draft with President Bush Handwriting",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Marked photocopy of presidential remarks to the Utah National Guard",
+      documentDate: "1992-09-15",
+      pages: 10,
+      excerpt:
+        "A White House routing page and marked photocopy of the Utah National Guard remarks show President Bush's edits to the Salt Lake City speech on the Guard, defense downsizing, Clinton, and service to country.",
+      evidence:
+        "Itemized from the 'From the President' routing page, Utah National Guard speech heading, Bush Library handwriting marker, and rendered-page review.",
+    },
+    {
+      slug: "kygo-radio-interview-air-force-one-call-packet",
+      documentType: "Radio Interview and Call Briefing Packet",
+      category: "media-interview-briefing",
+      disposition: "itemized-media-interview-briefing",
+      title: "KYGO-FM radio interview and Air Force One call briefing packet",
+      documentDate: "1992-09-14",
+      pages: 7,
+      excerpt:
+        "The packet briefs the President for a live KYGO-FM radio interview from Air Force One, with call forms, Church humanitarian-service material, Salt Lake City notes, logistics, and call-in details.",
+      evidence:
+        "Itemized from the KYGO-FM radio interview cover page, Presidential Phone Calls forms, logistics page, and rendered-page review.",
+    },
+    {
+      slug: "family-and-medical-leave-talking-points-fax",
+      documentType: "Talking Points Fax Packet",
+      category: "domestic-policy-talking-points",
+      disposition: "itemized-domestic-policy-talking-points",
+      title: "White House fax packet on family and medical leave talking points",
+      documentDate: "1992-09-15",
+      pages: 5,
+      excerpt:
+        "A White House communications fax packet transmits alternative and draft talking points on family and medical leave during the September 15 campaign day.",
+      evidence:
+        "Itemized from White House COMMCTR fax headers, talking-points headings, and rendered-page review of the direct scan.",
+    },
+    {
+      slug: "severe-mental-illness-health-insurance-packet",
+      documentType: "Health Policy Correspondence Packet",
+      category: "health-policy-correspondence",
+      disposition: "itemized-health-policy-correspondence",
+      title:
+        "Severe mental illness health-insurance packet with handwritten note",
+      documentDate: "1992-09-14",
+      pages: 7,
+      excerpt:
+        "The packet includes a handwritten note, National Alliance for the Mentally Ill petition material, a message to the President, and section-by-section analysis of S. 2696, the Equitable Health Care for Severe Mental Illnesses Act of 1992.",
+      evidence:
+        "Itemized from the rotated handwritten note, NAMI petition page, S. 2696 analysis, White House seen marker, and rendered-page review.",
+    },
+    {
+      slug: "michael-deland-washington-focus-packet",
+      documentType: "Environmental Policy Fax Packet",
+      category: "environment-policy-correspondence",
+      disposition: "itemized-environment-policy-correspondence",
+      title:
+        "Michael Deland and Coleman/Bartlett Washington Focus fax packet",
+      documentDate: "1992-09-10",
+      pages: 2,
+      excerpt:
+        "Council on Environmental Quality Chairman Michael R. Deland forwards a Coleman/Bartlett Washington Focus item for the President's attention.",
+      evidence:
+        "Itemized from Council on Environmental Quality letterhead, Deland note markings, Coleman/Bartlett fax page, and rendered-page review.",
+    },
+    {
+      slug: "personal-correspondence-packet-september-15-1992",
+      documentType: "Personal Correspondence Packet",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title: "Personal correspondence packet, September 15, 1992",
+      documentDate: "1992-09-15",
+      pages: 5,
+      excerpt:
+        "The correspondence packet includes President Bush letters or address pages for Delores and Bob, Ron, Henry Knoche, Elizabeth Hyerstay, and Stuart W. Barr during the Denver travel day.",
+      evidence:
+        "Itemized from White House letterhead, salutation pages, address pages, handwritten markings, and rendered-page review.",
+    },
+    {
+      slug: "utah-national-guard-large-type-remarks-draft",
+      documentType: "Speech Draft",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Large-type draft of presidential remarks to the Utah National Guard",
+      documentDate: "1992-09-15",
+      pages: 17,
+      excerpt:
+        "A large-type draft of the Utah National Guard remarks covers Desert Storm, Hurricane Andrew, Guard readiness, defense downsizing, Clinton's draft record, Dan Quayle, presidential responsibility, and command in wartime.",
+      evidence:
+        "Itemized from the Utah National Guard heading, numbered large-type draft pages, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-830am-mdt-september-15-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 8:30 a.m. MDT / 10:30 a.m. EDT news, September 15, 1992",
+      documentDate: "1992-09-15",
+      pages: 1,
+      excerpt:
+        "The trip news summary page marks the President as having seen the September 15 morning Utah campaign and news update.",
+      evidence:
+        "Itemized from the White House News Summary heading, President-has-seen marking, and rendered-page review.",
+    },
+    {
+      slug: "national-guard-association-official-remarks-release",
+      documentType: "Presidential Remarks Release",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Office of the Press Secretary release of remarks to the National Guard Association",
+      documentDate: "1992-09-15",
+      pages: 5,
+      excerpt:
+        "The Englewood press release reproduces the President's remarks to the 114th General Conference of the National Guard Association of the United States.",
+      evidence:
+        "Itemized from Office of the Press Secretary release pages, numbered remarks continuation pages, and rendered-page review.",
+    },
+    {
+      slug: "national-commission-employment-policy-appointment-release",
+      documentType: "Press Release",
+      category: "presidential-appointment",
+      disposition: "itemized-presidential-appointment",
+      title:
+        "Press release: appointments to the National Commission for Employment Policy",
+      documentDate: "1992-09-15",
+      pages: 1,
+      excerpt:
+        "The White House release announces presidential appointments to the National Commission for Employment Policy.",
+      evidence:
+        "Itemized from the Office of the Press Secretary Albuquerque release heading and rendered-page review.",
+    },
+    {
+      slug: "intent-to-nominate-release-september-15-1992",
+      documentType: "Press Release",
+      category: "presidential-nomination",
+      disposition: "itemized-presidential-nomination",
+      title: "Press release: intent to nominate individuals, September 15, 1992",
+      documentDate: "1992-09-15",
+      pages: 2,
+      excerpt:
+        "The White House release announces the President's intention to nominate individuals, including Parker G. Montgomery of New York.",
+      evidence:
+        "Itemized from Office of the Press Secretary release pages and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-groveport-madison-link",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title: "Daily Point of Light release: Groveport Madison LINK",
+      documentDate: "1992-09-15",
+      pages: 1,
+      excerpt:
+        "The White House release recognizes Groveport Madison LINK of Groveport, Ohio, as the 893rd Daily Point of Light.",
+      evidence:
+        "Itemized from the Office of the Press Secretary Englewood release and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photo-transfer-pages-colorado-rally-salt-lake-city",
+      documentType: "Official White House Photographs",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title:
+        "Official White House photo transfer pages for a Colorado rally and Salt Lake City meeting",
+      documentDate: "1992-09-15",
+      pages: 4,
+      excerpt:
+        "A photo-transfer cluster includes a Colorado Republicans for Bush-Quayle rally photograph and a Salt Lake City meeting photograph with official White House photo labels.",
+      evidence:
+        "Itemized from rendered-page review of color photograph pages, handwritten photo notes, and official White House photo backing labels.",
+    },
+    {
+      slug: "new-york-times-clippings-september-15-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "New York Times clippings on Bush in the West, Clinton, debates, trade, Israel, and campaign issues",
+      documentDate: "1992-09-15",
+      pages: 12,
+      excerpt:
+        "The New York Times packet includes the Campaign Trail column, Bush and loggers in the Far West, Russell Baker, U.S.-Israel talks, Clinton's draft record, debate ultimatums, trade-pact environmental rifts, and other campaign coverage.",
+      evidence:
+        "Itemized from New York Times mastheads, article headings, dated clipping pages, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-clippings-september-15-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Los Angeles Times clippings on the South, Michigan, California polling, jobs, environment, morality, and campaign watches",
+      documentDate: "1992-09-15",
+      pages: 9,
+      excerpt:
+        "The Los Angeles Times packet covers the South, Michigan voters, California polling, Bush and Clinton on jobs and the environment, religion and morality, and campaign-watch items.",
+      evidence:
+        "Itemized from Los Angeles Times mastheads, article headings, poll pages, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-clippings-september-15-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Washington Times clippings on markets, Murphy Brown, the draft issue, CBS, Bob Levey, tort reform, and campaign cartoons",
+      documentDate: "1992-09-15",
+      pages: 11,
+      excerpt:
+        "The Washington Times packet includes articles and columns on German rate cuts, Murphy Brown, Bush focusing on Clinton's draft record, CBS protests, Bob Levey, tort reform, a family-affair jail story, and a Bush-Bush debates cartoon.",
+      evidence:
+        "Itemized from Washington Times mastheads, article starts, rotated clipping pages, cartoon page, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-clippings-september-15-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Washington Post clippings on veto politics, debates, Clinton's draft record, young voters, school choice, managed care, and television",
+      documentDate: "1992-09-15",
+      pages: 13,
+      excerpt:
+        "The Washington Post packet includes clippings on Senate veto bait, James Fallows, the debate negotiations, Clinton's draft issue, young voters, school choice, managed care, cable television, and Washington media notes.",
+      evidence:
+        "Itemized from Washington Post mastheads, article headings, dated clipping pages, and rendered-page review.",
+    },
+    {
+      slug: "oregonian-forest-and-campaign-editorials-september-15-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Oregonian clippings on Northwest forests, campaign issues, and anti-forest hysteria",
+      documentDate: "1992-09-15",
+      pages: 3,
+      excerpt:
+        "The Oregonian packet includes editorial and opinion pieces on Northwest forests, campaign issues, spotted owls, timber jobs, and anti-forest-hysteria arguments.",
+      evidence:
+        "Itemized from Oregonian dated clipping pages, article headings, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-articles-september-15-1992",
+      documentType: "Press Articles",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Wall Street Journal articles on Texas, BNL, environmental costs, and fiscal policy",
+      documentDate: "1992-09-15",
+      pages: 6,
+      excerpt:
+        "The Wall Street Journal packet covers Bush's Texas prospects, the BNL scandal, economic-cost tests in environmental law, and budget gaps in Bush and Clinton fiscal plans.",
+      evidence:
+        "Itemized from Wall Street Journal mastheads, article starts, rotated continuation pages, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photo-national-guard-association",
+      documentType: "Official White House Photographs",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title:
+        "Official White House photograph from the National Guard Association remarks",
+      documentDate: "1992-09-15",
+      pages: 2,
+      excerpt:
+        "A final photo-transfer item shows the President at the National Guard Association podium with its official White House photograph label.",
+      evidence:
+        "Itemized from the color photograph page, official White House photo label page, and rendered-page review.",
+    },
+  ],
   470418070: [
     {
       slug: "charles-bartlett-massager-lincoln-anecdote",
