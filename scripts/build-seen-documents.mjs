@@ -1221,6 +1221,853 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from Cardinal's Residence fax and letter pages found in full-PDF OCR of the NARA direct folder scan.",
     },
   ],
+  470418122: [
+    {
+      slug: "st-louis-railroad-ymca-history",
+      documentType: "Historical Background",
+      category: "st-louis-debate-background",
+      disposition: "itemized-st-louis-debate-background",
+      title: "A Historical Perspective of the St. Louis Railroad YMCA - Drury Inn Union Station Building",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "Historical background on the St. Louis Railroad YMCA building, later the Drury Inn Union Station, included in the St. Louis debate packet.",
+      evidence:
+        "Itemized from the historical-perspective heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "clinton-vietnam-war-years-article",
+      documentType: "Press Article",
+      category: "campaign-press-article",
+      disposition: "itemized-campaign-press-article",
+      title: "Press article: Campaign Renews Disputes of the Vietnam War Years",
+      documentDate: "",
+      pages: 3,
+      excerpt:
+        "A campaign press article discusses renewed disputes over Vietnam War-era service, draft, and protest issues in the 1992 presidential campaign.",
+      evidence:
+        "Itemized from article and continuation pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "debra-dunn-first-family-st-louis-debate",
+      documentType: "Campaign Logistics Memo",
+      category: "st-louis-debate-logistics",
+      disposition: "itemized-st-louis-debate-logistics",
+      title: "Memorandum from Debra Dunn to Brad Blakeman re First Family - St. Louis Debate",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "Debra Dunn sends a revised Bush-Quayle memo on First Family arrivals, debate tickets, hotel arrangements, and departures for the St. Louis debate.",
+      evidence:
+        "Itemized from a Bush-Quayle revised memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "grady-debate-material-answers",
+      documentType: "Memorandum",
+      category: "debate-prep-memorandum",
+      disposition: "itemized-debate-prep-memorandum",
+      title: "Memorandum from Robert E. Grady through Richard G. Darman to the President re Answers to Questions, Clarifications, Updates on Debate Material",
+      documentDate: "1992-10-09",
+      pages: 2,
+      excerpt:
+        "Robert Grady, through Richard Darman, provides the President with answers, clarifications, and updates on debate material.",
+      evidence:
+        "Itemized from an OMB memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "right-to-work-key-points",
+      documentType: "Debate Prep Talking Points",
+      category: "debate-prep-talking-points",
+      disposition: "itemized-debate-prep-talking-points",
+      title: "Key Points: Right to Work",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "Debate-prep key points on right-to-work law and labor policy appear in the St. Louis debate packet.",
+      evidence:
+        "Itemized from a Right to Work key-points heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "one-sentence-snippets",
+      documentType: "Debate Prep Talking Points",
+      category: "debate-prep-talking-points",
+      disposition: "itemized-debate-prep-talking-points",
+      title: "One Sentence Snippets",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "A debate-prep sheet labeled one sentence snippets supplies short campaign lines and responses.",
+      evidence:
+        "Itemized from an REG 10/8/92 one-sentence-snippets heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "rgd-president-rehearsal-questions",
+      documentType: "Debate Rehearsal Questions",
+      category: "debate-rehearsal-material",
+      disposition: "itemized-debate-rehearsal-material",
+      title: "Rehearsal Questions for Initial Response by the President",
+      documentDate: "1992-10-07",
+      pages: 3,
+      excerpt:
+        "RGD rehearsal questions prepare the President for the first presidential debate, with questions numbered for initial responses.",
+      evidence:
+        "Itemized from RGD rehearsal-question headings found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "first-presidential-debate-rehearsal-intro",
+      documentType: "Debate Rehearsal Script",
+      category: "debate-rehearsal-material",
+      disposition: "itemized-debate-rehearsal-material",
+      title: "Rehearsal for First Presidential Debate: Jim Lehrer introduction",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A rehearsal script for the first presidential debate opens with a Jim Lehrer-style introduction.",
+      evidence:
+        "Itemized from a rehearsal introduction page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "rgd-perot-rehearsal-questions",
+      documentType: "Debate Rehearsal Questions",
+      category: "debate-rehearsal-material",
+      disposition: "itemized-debate-rehearsal-material",
+      title: "Rehearsal Questions for Initial Response by Mr. Perot",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "RGD rehearsal questions anticipate initial responses by Ross Perot for the first presidential debate.",
+      evidence:
+        "Itemized from an RGD rehearsal-question heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "rgd-clinton-rehearsal-questions",
+      documentType: "Debate Rehearsal Questions",
+      category: "debate-rehearsal-material",
+      disposition: "itemized-debate-rehearsal-material",
+      title: "Rehearsal Questions for Initial Response by Governor Clinton",
+      documentDate: "1992-10-07",
+      pages: 1,
+      excerpt:
+        "RGD rehearsal questions anticipate initial responses by Governor Clinton for the first presidential debate.",
+      evidence:
+        "Itemized from an RGD rehearsal-question heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "perot-financial-disclosure-citicorp-memo",
+      documentType: "Debate Prep Research Note",
+      category: "debate-prep-research",
+      disposition: "itemized-debate-prep-research",
+      title: "Debate-prep research note re Perot financial disclosure, Citicorp, and Japan",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A debate-prep research note summarizes Ross Perot financial-disclosure and Citicorp short-selling material.",
+      evidence:
+        "Itemized from Perot financial-disclosure and Citicorp text found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "ottawa-citizen-perot-short-selling",
+      documentType: "Press Article",
+      category: "campaign-press-article",
+      disposition: "itemized-campaign-press-article",
+      title: "Ottawa Citizen article: Perot loses $2 million on short-selling bet",
+      documentDate: "1992-07-12",
+      pages: 2,
+      excerpt:
+        "An Ottawa Citizen article reports on Ross Perot losing money on a short-selling bet involving Citicorp stock.",
+      evidence:
+        "Itemized from an Ottawa Citizen article heading and continuation page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "nyt-candidate-would-be-analyst",
+      documentType: "Press Article",
+      category: "campaign-press-article",
+      disposition: "itemized-campaign-press-article",
+      title: "New York Times article: The Candidate Who Would Be an Analyst",
+      documentDate: "1992-07-01",
+      pages: 3,
+      excerpt:
+        "A New York Times article by Michael Quint examines Ross Perot's Citicorp investment and financial analysis.",
+      evidence:
+        "Itemized from a New York Times article heading and continuation pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "both-sides-note",
+      documentType: "Handwritten and Typed Note",
+      category: "debate-prep-notes",
+      disposition: "itemized-debate-prep-notes",
+      title: "Both Sides debate-prep note",
+      documentDate: "1992-10-06",
+      pages: 2,
+      excerpt:
+        "A handwritten and typed debate-prep note labeled Both Sides appears with a George Bush desk sheet.",
+      evidence:
+        "Itemized from a George Bush desk sheet and Both Sides note found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "lamar-alexander-clinton-arkansas-income-note",
+      documentType: "Note",
+      category: "debate-prep-notes",
+      disposition: "itemized-debate-prep-notes",
+      title: "Note from Lamar Alexander to the President re Clinton, Arkansas, and median household income",
+      documentDate: "1992-10-06",
+      pages: 2,
+      excerpt:
+        "Lamar Alexander sends the President a note and household-income table for use against Governor Clinton's Arkansas record.",
+      evidence:
+        "Itemized from a Lamar Alexander note and table found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "perot-japan-citicorp-foreign-business-key-points",
+      documentType: "Debate Prep Key Points",
+      category: "debate-prep-talking-points",
+      disposition: "itemized-debate-prep-talking-points",
+      title: "Perot key points on Japan, Citicorp, and foreign business",
+      documentDate: "",
+      pages: 3,
+      excerpt:
+        "Debate-prep key points address Ross Perot, Japan, Citicorp, and foreign business issues.",
+      evidence:
+        "Itemized from Perot key-point headings found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "potus-october-10-pepper-drill-schedule",
+      documentType: "Proposed Schedule",
+      category: "debate-prep-logistics",
+      disposition: "itemized-debate-prep-logistics",
+      title: "Proposed POTUS schedule for October 10 pepper drill and debate-prep papers",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A proposed POTUS schedule lays out an October 10 pepper drill and lists debate-prep papers to send to the plane.",
+      evidence:
+        "Itemized from a proposed POTUS schedule and papers-to-send list found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "nonexistent-pow-film-perot-allegation",
+      documentType: "Debate Prep Memorandum",
+      category: "debate-prep-research",
+      disposition: "itemized-debate-prep-research",
+      title: "The Non-existent $4.2 million POW Film",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A debate-prep memorandum responds to a Perot allegation about a POW film expenditure.",
+      evidence:
+        "Itemized from a POW film memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "nyt-perot-bush-vietnam-link",
+      documentType: "Press Article",
+      category: "campaign-press-article",
+      disposition: "itemized-campaign-press-article",
+      title: "New York Times article: New Questions About Perot-Bush Link on Vietnam",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "A New York Times clipping by Barbara Crossette covers questions about Ross Perot, President Bush, and Vietnam issues.",
+      evidence:
+        "Itemized from a New York Times clipping heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "october-11-president-schedule-supplementary-tabs",
+      documentType: "Presidential Schedule",
+      category: "st-louis-trip-schedule",
+      disposition: "itemized-st-louis-trip-schedule",
+      title: "Schedule of the President: Sunday, October 11, 1992, with supplementary tabs",
+      documentDate: "1992-10-11",
+      pages: 1,
+      excerpt:
+        "A Sunday, October 11 presidential schedule page introduces supplementary tabs for the St. Louis debate trip.",
+      evidence:
+        "Itemized from a Schedule of the President heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "st-louis-event-scenarios-debate",
+      documentType: "Event Scenarios",
+      category: "st-louis-trip-schedule",
+      disposition: "itemized-st-louis-trip-schedule",
+      title: "Event scenarios: Technical Walk-Through of Debate Site and Presidential Debate",
+      documentDate: "1992-10-11",
+      pages: 2,
+      excerpt:
+        "Scenario pages cover the technical walk-through of the debate site and the presidential debate event.",
+      evidence:
+        "Itemized from event-scenario headings found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "redaction-sheet-st-louis-schedule-one-page",
+      documentType: "Withdrawal/Redaction Sheet",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title: "Withdrawal/Redaction Sheet: Document No. 01, Schedule of President and Mrs. Bush for St. Louis, Missouri",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A withdrawal/redaction sheet identifies a one-page schedule of President and Mrs. Bush for the St. Louis, Missouri trip.",
+      evidence:
+        "Itemized from a withdrawal/redaction sheet found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "st-louis-trip-schedule-cover-weather",
+      documentType: "Schedule Cover Material",
+      category: "st-louis-trip-schedule",
+      disposition: "itemized-st-louis-trip-schedule",
+      title: "St. Louis trip schedule cover, contact page, and weather",
+      documentDate: "1992-10-11",
+      pages: 2,
+      excerpt:
+        "Cover and preliminary pages for the St. Louis trip schedule include trip contacts and weather information.",
+      evidence:
+        "Itemized from St. Louis trip schedule cover and weather pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "redaction-sheet-st-louis-schedule-nine-pages",
+      documentType: "Withdrawal/Redaction Sheet",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title: "Withdrawal/Redaction Sheet: Document No. 02, Schedule of President and Mrs. Bush for St. Louis, Missouri",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A withdrawal/redaction sheet identifies a multi-page schedule of President and Mrs. Bush for the St. Louis, Missouri trip.",
+      evidence:
+        "Itemized from a withdrawal/redaction sheet found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "st-louis-full-trip-schedule",
+      documentType: "Presidential Schedule",
+      category: "st-louis-trip-schedule",
+      disposition: "itemized-st-louis-trip-schedule",
+      title: "Schedule of the President and Mrs. Bush for St. Louis, Missouri, October 11-12, 1992",
+      documentDate: "1992-10-11",
+      pages: 14,
+      excerpt:
+        "The full trip schedule covers President and Mrs. Bush in St. Louis for debate events, hotel movements, and October 11-12 logistics.",
+      evidence:
+        "Itemized from the full St. Louis trip schedule heading and continuation pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "st-louis-site-diagrams-tabs",
+      documentType: "Site Diagrams",
+      category: "st-louis-trip-diagrams",
+      disposition: "itemized-st-louis-trip-diagrams",
+      title: "St. Louis trip site diagrams and supplementary tabs",
+      documentDate: "1992-10-11",
+      pages: 7,
+      excerpt:
+        "Trip diagrams and tabs cover Lambert Airport, Washington University Field House, Drury Inn, St. Louis Community College, and related sites.",
+      evidence:
+        "Itemized from site-diagram and tab pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "st-louis-condensed-trip-schedule",
+      documentType: "Condensed Schedule",
+      category: "st-louis-trip-schedule",
+      disposition: "itemized-st-louis-trip-schedule",
+      title: "Condensed St. Louis schedule and chronology, October 11-12, 1992",
+      documentDate: "1992-10-11",
+      pages: 4,
+      excerpt:
+        "A condensed chronology summarizes the President's and Mrs. Bush's St. Louis movements around the debate.",
+      evidence:
+        "Itemized from condensed schedule and chronology pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-room-list-st-louis-first-copy",
+      documentType: "Room List",
+      category: "st-louis-trip-logistics",
+      disposition: "itemized-st-louis-trip-logistics",
+      title: "White House Room List: St. Louis, Missouri",
+      documentDate: "1992-10-11",
+      pages: 4,
+      excerpt:
+        "A White House room list for the St. Louis trip appears with an associated withdrawal/redaction sheet and visible name pages.",
+      evidence:
+        "Itemized from White House room-list and redaction-sheet pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "air-force-one-st-louis-flight-map",
+      documentType: "Flight Map",
+      category: "st-louis-trip-map",
+      disposition: "itemized-st-louis-trip-map",
+      title: "Air Force One flight map: Trip of President and Mrs. Bush to St. Louis, Missouri",
+      documentDate: "1992-10-11",
+      pages: 1,
+      excerpt:
+        "An Air Force One flight map covers the President and Mrs. Bush's St. Louis trip on October 11-12.",
+      evidence:
+        "Itemized from a flight-map heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "missouri-congressional-districts-map",
+      documentType: "Map",
+      category: "st-louis-trip-map",
+      disposition: "itemized-st-louis-trip-map",
+      title: "1992 Congressional Districts - Missouri map",
+      documentDate: "1992-10-11",
+      pages: 1,
+      excerpt:
+        "A Missouri congressional-district map appears in the St. Louis debate trip packet.",
+      evidence:
+        "Itemized from a congressional-district map heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-room-list-st-louis-second-copy",
+      documentType: "Room List",
+      category: "st-louis-trip-logistics",
+      disposition: "itemized-st-louis-trip-logistics",
+      title: "White House Room List: St. Louis, Missouri, second copy",
+      documentDate: "1992-10-11",
+      pages: 4,
+      excerpt:
+        "A second White House room-list copy or continuation appears with an associated withdrawal/redaction sheet and visible name pages.",
+      evidence:
+        "Itemized from duplicate or continued White House room-list and redaction-sheet pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "post-debate-welcome-kaufman-memo",
+      documentType: "Memorandum",
+      category: "st-louis-event-briefing",
+      disposition: "itemized-st-louis-event-briefing",
+      title: "Memorandum from Ronald C. Kaufman re Post Debate Welcome",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "Ron Kaufman briefs the President on the post-debate welcome at Forest Park Community College, including purpose, background, and participants.",
+      evidence:
+        "Itemized from a White House memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "missouri-st-louis-briefing",
+      documentType: "Briefing Memorandum",
+      category: "st-louis-event-briefing",
+      disposition: "itemized-st-louis-event-briefing",
+      title: "Memorandum from Bobbie Kilberg and Helen R. Mobley through W. Henson Moore re Missouri (St. Louis)",
+      documentDate: "1992-10-09",
+      pages: 4,
+      excerpt:
+        "Bobbie Kilberg and Helen Mobley, through Henson Moore, brief the President on Missouri and St. Louis for the debate trip.",
+      evidence:
+        "Itemized from a White House memorandum heading and continuation pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "missouri-political-briefing",
+      documentType: "Political Briefing",
+      category: "st-louis-event-briefing",
+      disposition: "itemized-st-louis-event-briefing",
+      title: "Memorandum from Ronald C. Kaufman re Missouri Political Briefing",
+      documentDate: "1992-10-08",
+      pages: 6,
+      excerpt:
+        "Ron Kaufman briefs the President on Missouri political conditions for the St. Louis debate trip.",
+      evidence:
+        "Itemized from a Missouri political-briefing memorandum heading and continuation pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "redaction-sheets-seating-diagrams",
+      documentType: "Withdrawal/Redaction Sheets",
+      category: "redaction-sheet-item",
+      disposition: "itemized-redaction-sheet",
+      title: "Withdrawal/Redaction Sheets for VH-3D and VC25A seating diagrams, October 11-12, 1992",
+      documentDate: "",
+      pages: 6,
+      excerpt:
+        "Withdrawal/redaction sheets identify withheld seating diagrams for helicopter and Air Force One movements during the St. Louis, Philadelphia, and Grand Rapids trip.",
+      evidence:
+        "Itemized from a consecutive run of seating-diagram withdrawal/redaction sheets found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "debate-talking-points-photocopy-packet",
+      documentType: "Debate Prep Talking Points",
+      category: "debate-prep-talking-points",
+      disposition: "itemized-debate-prep-talking-points",
+      title: "Photocopied debate talking-points packet with President Bush handwriting",
+      documentDate: "1992-10-11",
+      pages: 6,
+      excerpt:
+        "A photocopied debate-prep packet with President Bush handwriting covers attacks, character, energy, patriotism, Arkansas, and Clinton-witness themes.",
+      evidence:
+        "Itemized from Bush Library photocopy markers and handwritten debate-prep pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "presidential-phone-call-slip-notes",
+      documentType: "Handwritten Notes and Call Slips",
+      category: "telephone-note-packet",
+      disposition: "itemized-telephone-note-packet",
+      title: "Presidential phone-call slip notes and handwritten pages",
+      documentDate: "",
+      pages: 4,
+      excerpt:
+        "A photocopied packet includes George Bush desk sheets, phone-call slips, and handwritten pages tied to October 11 call handling.",
+      evidence:
+        "Itemized from George Bush desk sheets, phone-call slip text, and Bush Library photocopy markers found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "october-11-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title: "White House telephone memoranda: President Bush calls, October 11, 1992",
+      documentDate: "1992-10-11",
+      pages: 2,
+      excerpt:
+        "White House telephone memoranda list October 11 calls with H. P. Goldfield, Richard Phelps, John Wallach, Tommy Lasorda, Margaret Bush, a doctor's office, and Rose Zamaria.",
+      evidence:
+        "Itemized from White House telephone memorandum headings found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "october-11-signal-switchboard-log",
+      documentType: "Signal Switchboard Log",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title: "Signal Switchboard telephone memorandum: October 11, 1992",
+      documentDate: "1992-10-11",
+      pages: 1,
+      excerpt:
+        "The Signal Switchboard log records October 11 calls with Nicholas Brady, James Baker, George W. Bush, Dan Quayle, George H. Bush Jr., and Jerry Weintraub.",
+      evidence:
+        "Itemized from a Signal Switchboard telephone memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "october-11-presidential-movements",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-item",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: Washington and St. Louis, October 11, 1992",
+      documentDate: "1992-10-11",
+      pages: 1,
+      excerpt:
+        "The presidential-movements log tracks the President's Washington and St. Louis movements on debate day.",
+      evidence:
+        "Itemized from a Presidential Movements heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "pool-report-airport-remarks",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #1: Bush remarks at airport, St. Louis",
+      documentDate: "1992-10-11",
+      pages: 2,
+      excerpt:
+        "Pool Report #1 covers the President's airport remarks in St. Louis and related dignitary details.",
+      evidence:
+        "Itemized from Pool Report #1 heading and continuation page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "pool-report-bush-debate-rally",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #3: Bush Debate Rally, St. Louis",
+      documentDate: "1992-10-11",
+      pages: 1,
+      excerpt:
+        "Pool Report #3 covers the Bush debate rally in St. Louis on October 11.",
+      evidence:
+        "Itemized from a Pool Report #3 heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "pool-report-hotel-to-debate",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #2: Hotel to Debate, St. Louis",
+      documentDate: "1992-10-11",
+      pages: 1,
+      excerpt:
+        "Pool Report #2 covers the President's movement from the hotel to the debate in St. Louis.",
+      evidence:
+        "Itemized from a Pool Report #2 heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-rz-debate-prep-saved",
+      documentType: "President's Note",
+      category: "debate-prep-notes",
+      disposition: "itemized-debate-prep-notes",
+      title: "Note from the President to RZ re saving debate-prep notes and papers",
+      documentDate: "1992-10-11",
+      pages: 1,
+      excerpt:
+        "The President asks RZ to save debate-prep notes and papers and notes that he will not need to review them again.",
+      evidence:
+        "Itemized from a From the President note heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "education-debate-prep-notes",
+      documentType: "Debate Prep Notes",
+      category: "debate-prep-talking-points",
+      disposition: "itemized-debate-prep-talking-points",
+      title: "Debate-prep notes on education, student loans, Head Start, and Arkansas schools",
+      documentDate: "1992-10-11",
+      pages: 1,
+      excerpt:
+        "A debate-prep notes page covers student loans, Head Start, Clinton's Arkansas education record, and education legislation.",
+      evidence:
+        "Itemized from education debate-prep note text found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "jab-one-liners-note",
+      documentType: "Note and Talking Points",
+      category: "debate-prep-one-liners",
+      disposition: "itemized-debate-prep-one-liners",
+      title: "Eyes Only note from JAB III to the President re one-liners",
+      documentDate: "1992-10-09",
+      pages: 2,
+      excerpt:
+        "James A. Baker III sends the President a list of one-liners for the pepper drill and rehearsal.",
+      evidence:
+        "Itemized from an Eyes Only JAB III note and attached one-liners found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "iran-contra-talking-points",
+      documentType: "Debate Prep Talking Points",
+      category: "debate-prep-talking-points",
+      disposition: "itemized-debate-prep-talking-points",
+      title: "Iran-Contra talking points",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A debate-prep sheet supplies Iran-Contra talking points and answer counts.",
+      evidence:
+        "Itemized from Iran-Contra talking-point text found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "iraq-policy-talking-points",
+      documentType: "Debate Prep Talking Points",
+      category: "debate-prep-talking-points",
+      disposition: "itemized-debate-prep-talking-points",
+      title: "Iraq policy talking points and no-cover-up material",
+      documentDate: "",
+      pages: 2,
+      excerpt:
+        "Debate-prep talking points address U.S. policy toward Iraq, cover-up allegations, and wrongdoing claims.",
+      evidence:
+        "Itemized from Iraq policy talking-point pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "abortion-hostages-crime-education-transportation-talking-points",
+      documentType: "Debate Prep Talking Points",
+      category: "debate-prep-talking-points",
+      disposition: "itemized-debate-prep-talking-points",
+      title: "Debate talking points on abortion, hostages, crime, education, and transportation",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A debate-prep page collects points on abortion, hostages and the Middle East, crime, education, and transportation.",
+      evidence:
+        "Itemized from topical debate-prep headings found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "education-talking-points-october-3",
+      documentType: "Debate Prep Talking Points",
+      category: "debate-prep-talking-points",
+      disposition: "itemized-debate-prep-talking-points",
+      title: "Education talking points on standards, testing, school choice, and Arkansas",
+      documentDate: "1992-10-03",
+      pages: 2,
+      excerpt:
+        "Education talking points cover standards, testing, school choice, and Clinton's Arkansas education record.",
+      evidence:
+        "Itemized from education talking-point pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "rgd-room-450-rehearsal-sequence",
+      documentType: "Debate Rehearsal Sequence",
+      category: "debate-rehearsal-material",
+      disposition: "itemized-debate-rehearsal-material",
+      title: "Sequence of Topics and Questions for Room 450 rehearsal",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "An RGD sequence page lays out topics and questions for the Room 450 rehearsal for the first presidential debate.",
+      evidence:
+        "Itemized from an RGD sequence-of-topics heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "rgd-rehearsal-questions-packet-second-copy",
+      documentType: "Debate Rehearsal Questions",
+      category: "debate-rehearsal-material",
+      disposition: "itemized-debate-rehearsal-material",
+      title: "Second debate rehearsal questions packet for President Bush, Mr. Perot, and Governor Clinton",
+      documentDate: "",
+      pages: 4,
+      excerpt:
+        "A second packet of RGD rehearsal questions covers initial-response questions for President Bush, Ross Perot, and Governor Clinton.",
+      evidence:
+        "Itemized from a later run of RGD rehearsal-question headings found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "clinton-tax-increase-economic-issues",
+      documentType: "Debate Prep Talking Points",
+      category: "debate-prep-talking-points",
+      disposition: "itemized-debate-prep-talking-points",
+      title: "Economic Issues Tab 11: Clinton Tax Increase",
+      documentDate: "1992-10-06",
+      pages: 1,
+      excerpt:
+        "Economic Issues Tab 11 provides debate-prep points on Clinton and tax increases.",
+      evidence:
+        "Itemized from an Economic Issues Tab 11 heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "pepper-drill-questions",
+      documentType: "Debate Prep Questions",
+      category: "debate-prep-questions",
+      disposition: "itemized-debate-prep-questions",
+      title: "Pepper Drill Questions for the Debate",
+      documentDate: "",
+      pages: 4,
+      excerpt:
+        "A pepper-drill packet provides rapid-fire debate questions for the President.",
+      evidence:
+        "Itemized from Pepper Drill Questions headings and numbered question pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "boskin-gray-regulatory-reform-debates",
+      documentType: "Memorandum",
+      category: "debate-prep-memorandum",
+      disposition: "itemized-debate-prep-memorandum",
+      title: "Memorandum from Michael J. Boskin and C. Boyden Gray re Regulatory Reform and the Debates",
+      documentDate: "1992-10-07",
+      pages: 1,
+      excerpt:
+        "Michael Boskin and Boyden Gray brief the President on regulatory reform for the debates.",
+      evidence:
+        "Itemized from a White House memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "better-off-decline-talking-points",
+      documentType: "Debate Prep Talking Points",
+      category: "debate-prep-talking-points",
+      disposition: "itemized-debate-prep-talking-points",
+      title: "Better Off/Decline talking points",
+      documentDate: "1992-09-24",
+      pages: 1,
+      excerpt:
+        "RGD talking points frame better-off and decline themes for the 1992 debate.",
+      evidence:
+        "Itemized from an RGD Better Off/Decline heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "economy-talking-points",
+      documentType: "Debate Prep Talking Points",
+      category: "debate-prep-talking-points",
+      disposition: "itemized-debate-prep-talking-points",
+      title: "The Economy talking points",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A debate-prep page collects talking points on the economy.",
+      evidence:
+        "Itemized from a The Economy talking-points heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "five-points-to-mention",
+      documentType: "Debate Prep Talking Points",
+      category: "debate-prep-talking-points",
+      disposition: "itemized-debate-prep-talking-points",
+      title: "Five Points to Mention No Matter What",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A draft debate-prep sheet lists five points the President should mention regardless of the question.",
+      evidence:
+        "Itemized from a Five Points to Mention heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "truth-about-us-policy-toward-iraq",
+      documentType: "Debate Prep Paper",
+      category: "debate-prep-foreign-policy",
+      disposition: "itemized-debate-prep-foreign-policy",
+      title: "The Truth About U.S. Policy Toward Iraq",
+      documentDate: "1992-10-06",
+      pages: 4,
+      excerpt:
+        "A debate-prep paper presents myth-and-truth material on U.S. policy toward Iraq.",
+      evidence:
+        "Itemized from The Truth About U.S. Policy Toward Iraq heading and continuation pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "us-policy-toward-iraq-shorter-points",
+      documentType: "Debate Prep Paper",
+      category: "debate-prep-foreign-policy",
+      disposition: "itemized-debate-prep-foreign-policy",
+      title: "U.S. Policy Toward Iraq shorter talking points with President Bush handwriting",
+      documentDate: "1992-10-06",
+      pages: 2,
+      excerpt:
+        "A shorter U.S. policy toward Iraq debate-prep paper appears with President Bush handwriting.",
+      evidence:
+        "Itemized from Iraq policy talking-point pages and Bush handwriting markers found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "draft-honesty-handwritten-notes",
+      documentType: "Handwritten Debate Notes",
+      category: "debate-prep-notes",
+      disposition: "itemized-debate-prep-notes",
+      title: "Handwritten debate notes re draft, honesty, and Clinton responses",
+      documentDate: "",
+      pages: 7,
+      excerpt:
+        "A photocopied run of handwritten debate notes addresses Clinton's draft statements, truthfulness, one-liners, and debate responses.",
+      evidence:
+        "Itemized from Bush Library photocopy markers and handwritten debate-note pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "iran-contra-questions-answered-update",
+      documentType: "Debate Prep Update",
+      category: "debate-prep-talking-points",
+      disposition: "itemized-debate-prep-talking-points",
+      title: "Update: Questions Answered on Iran-Contra",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "A 1700 hours update tabulates questions answered on Iran-Contra by the Vice President.",
+      evidence:
+        "Itemized from an Iran-Contra update heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "more-handwritten-one-liners",
+      documentType: "Handwritten Debate Notes",
+      category: "debate-prep-one-liners",
+      disposition: "itemized-debate-prep-one-liners",
+      title: "Handwritten debate one-liners on Vietnam and truthfulness",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A handwritten debate-prep page collects one-liners about Vietnam War truthfulness themes.",
+      evidence:
+        "Itemized from a Bush Library photocopy handwritten one-liners page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "provost-siller-more-one-liners",
+      documentType: "Memorandum",
+      category: "debate-prep-one-liners",
+      disposition: "itemized-debate-prep-one-liners",
+      title: "Memorandum from Steve Provost and Ray Siller to the President re More One-Liners",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "Steve Provost and Ray Siller send the President additional one-liners for debate use.",
+      evidence:
+        "Itemized from a memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "debate-contd-fax-one-liners-promises",
+      documentType: "Faxed Debate Prep",
+      category: "debate-prep-one-liners",
+      disposition: "itemized-debate-prep-one-liners",
+      title: "Fax to Christina Martin: Debate continued, one-liners and promises",
+      documentDate: "",
+      pages: 3,
+      excerpt:
+        "A fax to Christina Martin includes continued debate one-liners and promises talking-point material.",
+      evidence:
+        "Itemized from fax and Debate Cont'd headings found in full-PDF OCR of the NARA direct folder scan.",
+    },
+  ],
   470418165: [
     {
       slug: "bush-quayle-fax-family-friends-list",
