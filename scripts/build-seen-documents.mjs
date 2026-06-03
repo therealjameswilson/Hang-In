@@ -12227,6 +12227,502 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from page 74 of the NARA direct folder scan using the repeated Dear Brad reply, golf-driver note, OCR, and rendered-page review.",
     },
   ],
+  470417810: [
+    {
+      slug: "boskin-personal-income-outlays-memo",
+      documentType: "Economic Policy Memorandum",
+      category: "economic-policy-memorandum",
+      disposition: "itemized-economic-policy",
+      title: "Michael Boskin memorandum on April personal income and outlays",
+      documentDate: "1992-05-29",
+      pages: 2,
+      excerpt:
+        "Michael Boskin briefs the President on April personal income and outlays, consumer spending, real disposable income, and the forthcoming Purchasing Managers' Index release.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the President Has Seen stamp, Council of Economic Advisers letterhead, May 29 memorandum for the President, personal income and outlays subject line, graph page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "phil-gagle-doug-wead-support-correspondence",
+      documentType: "Political Affairs Correspondence Packet",
+      category: "political-correspondence",
+      disposition: "itemized-political-correspondence",
+      title: "Phil Gagle and Doug Wead campaign-support correspondence packet",
+      documentDate: "1992-06-01",
+      pages: 4,
+      excerpt:
+        "The packet contains White House replies to Phil Gagle and Doug Wead, a Phil Brady routing memorandum, and Wead's incoming letter describing Gagle's work on the President's behalf in Arizona.",
+      evidence:
+        "Itemized from pages 4-7 of the NARA direct folder scan using the June 1 Dear Phil and Dear Doug letters, May 26 Phil Brady memorandum to Ron Kaufman, Doug Wead May 18 letter, copy stamps, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-free-prophets-in-the-dark-book-gift-packet",
+      documentType: "Gift Routing Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Charles Free Prophets in the Dark book-gift routing packet",
+      documentDate: "1992-06-01",
+      pages: 3,
+      excerpt:
+        "Charles Free explains how to handle a subordinate's book gift to the President, with routing notes and the Prophets in the Dark cover image attached.",
+      evidence:
+        "Itemized from pages 8-10 of the NARA direct folder scan using the June 1 Charles Free note to Rose, file-control routing page, Prophets in the Dark book-cover page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "elsie-walker-kilborne-tibet-correspondence-packet",
+      documentType: "Foreign Policy Correspondence Packet",
+      category: "foreign-policy-correspondence",
+      disposition: "itemized-foreign-policy-correspondence",
+      title: "Elsie Walker Kilborne Tibet correspondence and follow-up packet",
+      documentDate: "1992-06-01",
+      pages: 10,
+      excerpt:
+        "The packet includes presidential handling notes, Elsie Walker Kilborne's letter on Tibet and China, and White House or State Department follow-up involving Ambassador Smith Hempstone.",
+      evidence:
+        "Itemized from pages 11-20 of the NARA direct folder scan using the Document Originally Attached marker, Bush handwritten note to Dolly/Elsie, June 1 typed note to Brent, Kilborne May 24 letter, Ambassador Smith Hempstone correspondence page, envelope, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-president-june-1-1992",
+      documentType: "Forwarded Materials List",
+      category: "forwarded-materials-list",
+      disposition: "itemized-forwarded-materials-list",
+      title: "Materials Forwarded to the President: June 1, 1992",
+      documentDate: "1992-06-01",
+      pages: 1,
+      excerpt:
+        "The forwarded-materials list identifies June 1 action, classified, information, banner, and schedule items sent to the President.",
+      evidence:
+        "Itemized from page 21 of the NARA direct folder scan using the Materials Forwarded to the President heading, June 1 1992 date, action/classified/information/banner/schedule sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ambassador-strauss-moscow-phone-call-note",
+      documentType: "Phone Call Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Ambassador Strauss Moscow phone-call note",
+      documentDate: "1992-06-01",
+      pages: 1,
+      excerpt:
+        "A June 1 phone-call note reports that Ambassador Strauss in Moscow wanted three minutes with the President on an important matter Baker recommended he discuss directly.",
+      evidence:
+        "Itemized from page 22 of the NARA direct folder scan using the Phone Call for the President heading, Ambassador Strauss Moscow line, President Has Seen stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "syrian-ambassador-national-day-acknowledgment-packet",
+      documentType: "Diplomatic Correspondence Packet",
+      category: "foreign-policy-correspondence",
+      disposition: "itemized-foreign-policy-correspondence",
+      title: "Syrian ambassador National Day acknowledgment packet",
+      documentDate: "1992-05-26",
+      pages: 3,
+      excerpt:
+        "The packet contains Syrian Ambassador Walid Al-Moualem's acknowledgment of the President's National Day message and a State Department protocol transmittal with handwritten handling instructions.",
+      evidence:
+        "Itemized from pages 23-25 of the NARA direct folder scan using Embassy of the Syrian Arab Republic letterhead, DS-033/92 page sequence, Deputy Chief of Protocol May 28 transmittal, President Has Seen stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ross-perot-daybook-may-28-1992",
+      documentType: "Campaign Daybook",
+      category: "campaign-research",
+      disposition: "itemized-campaign-research",
+      title: "H. Ross Perot Daybook: Thursday, May 28, 1992",
+      documentDate: "1992-05-28",
+      pages: 2,
+      excerpt:
+        "The Perot daybook tracks May 28 schedule notes, Perot's campaign-office appearance, television plans, Fortune 500 CEO polling, and Ohio State polling.",
+      evidence:
+        "Itemized from pages 26-27 of the NARA direct folder scan using the H. Ross Perot Daybook Thursday May 28 1992 heading, schedule and news sections, Fortune 500 CEO Poll and Ohio State Poll pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sonny-montgomery-phone-call-note",
+      documentType: "President's Phone Call Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Sonny Montgomery Camp David phone-call note",
+      documentDate: "1992-06-01",
+      pages: 1,
+      excerpt:
+        "A Camp David presidential phone-call form records a June 1 call with Representative Sonny Montgomery about education programs, benefit levels, and a jobs-bill request.",
+      evidence:
+        "Itemized from page 28 of the NARA direct folder scan using the Presidential Phone Calls Camp David form, June 1 date, Rep. Montgomery line, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rick-shelby-richard-sellers-senate-race-packet",
+      documentType: "Political Memorandum and Press Clipping Packet",
+      category: "campaign-strategy-memorandum",
+      disposition: "itemized-campaign-strategy",
+      title: "Rick Shelby and Richard Sellers Alabama Senate race packet",
+      documentDate: "1992-05-28",
+      pages: 4,
+      excerpt:
+        "Ron Kaufman sends the President material on Rick Shelby and Richard Sellers, with Alabama press clippings on the Senate primary, Shelby, and anti-incumbent mood.",
+      evidence:
+        "Itemized from pages 29-32 of the NARA direct folder scan using the May 28 Ron Kaufman memorandum, Richard Sellers for U.S. Senate newsletter, Birmingham Post-Herald clippings, daily note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sonny-montgomery-gi-bill-defense-conversion-packet",
+      documentType: "Legislative Follow-up Packet",
+      category: "legislative-policy-packet",
+      disposition: "itemized-legislative-policy",
+      title: "Sonny Montgomery GI Bill and defense-conversion follow-up packet",
+      documentDate: "1992-06-01",
+      pages: 4,
+      excerpt:
+        "The President reports a call with Sonny Montgomery, asks Clayton Yeutter and Nick Calio for follow-up, and reviews talking points and a Yeutter memorandum on the GI Bill and defense conversion proposals.",
+      evidence:
+        "Itemized from pages 33-36 of the NARA direct folder scan using the June 1 From the President note to Clayton/Nick Calio, repeated Camp David phone-call form, talking points for Chairman Montgomery, Clayton Yeutter memorandum, OCR, and rendered-page review.",
+    },
+    {
+      slug: "aunt-marge-bud-finch-radio-commentary-packet",
+      documentType: "Family Correspondence and Commentary Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Aunt Marge and Bud Finch WELI radio commentary packet",
+      documentDate: "1992-05-29",
+      pages: 2,
+      excerpt:
+        "Aunt Marge forwards a Bud Finch WELI Point of View commentary she thought the President might find interesting.",
+      evidence:
+        "Itemized from pages 37-38 of the NARA direct folder scan using the Note from Aunt Marge page, WELI Radio Point of View letterhead, Bud Finch commentary, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gingrich-1993-unique-year-strategy-memo",
+      documentType: "Campaign Strategy Memorandum Packet",
+      category: "campaign-strategy-memorandum",
+      disposition: "itemized-campaign-strategy",
+      title: "Newt Gingrich 1993 as a unique year strategy memo packet",
+      documentDate: "1992-05-26",
+      pages: 3,
+      excerpt:
+        "The packet includes agenda notes and a Republican Whip Office fax arguing that 1993 could be a unique year because of polling, Perot, Clinton, and congressional conditions.",
+      evidence:
+        "Itemized from pages 39-41 of the NARA direct folder scan using the May 26 agenda page, Republican Whip Office fax header, 1993 as an Unique Year title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bush-kids-americares-note",
+      documentType: "President's Family Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "President's note to the Bush kids about Americares trips",
+      documentDate: "1992-06-01",
+      pages: 1,
+      excerpt:
+        "The President tells the Bush kids that Bob Macauley of Americares would take them on trips to distribute medical supplies in the former Soviet Union.",
+      evidence:
+        "Itemized from page 42 of the NARA direct folder scan using the June 1 To: The Bush Kids page, Americares reference, President's note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jamie-bush-tony-watson-military-youth-program-packet",
+      documentType: "Family Correspondence and Policy Proposal Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jamie Bush and Captain Tony Watson military youth program packet",
+      documentDate: "1992-06-01",
+      pages: 5,
+      excerpt:
+        "The President asks Phil Brady to prepare replies to Jamie Bush and Captain Tony Watson, whose letters propose using military resources and personnel to help with youth programs, racial harmony, education, and urban problems.",
+      evidence:
+        "Itemized from pages 43-47 of the NARA direct folder scan using the June 1 From the President note to Phil Brady, James L. Bush letter, Tony Watson May 18 letter, Issues for Consideration attachment, OCR, and rendered-page review.",
+    },
+    {
+      slug: "balanced-budget-amendment-darman-briefing-notes",
+      documentType: "Briefing Notes",
+      category: "budget-policy-briefing",
+      disposition: "itemized-budget-policy",
+      title: "Balanced budget amendment Darman briefing notes",
+      documentDate: "1992-06-01",
+      pages: 1,
+      excerpt:
+        "A Darman briefing page summarizes timing, Social Security complications, opposition tactics, simple messages, Q&A, and detail needed for the balanced budget amendment debate.",
+      evidence:
+        "Itemized from page 48 of the NARA direct folder scan using the Darman Briefing 4 PM 6/1/92 handwriting, timing and Social Security complication sections, balanced budget amendment notes, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tom-carper-rodney-king-correspondence-packet",
+      documentType: "Congressional Correspondence Packet",
+      category: "congressional-correspondence",
+      disposition: "itemized-congressional-correspondence",
+      title: "Thomas Carper Rodney King inquiry correspondence packet",
+      documentDate: "1992-05-11",
+      pages: 2,
+      excerpt:
+        "The packet contains a reply to Thomas Carper on his support for an inquiry into the Rodney King trial jury verdict and Carper's incoming congressional letter to the President.",
+      evidence:
+        "Itemized from pages 49-50 of the NARA direct folder scan using the May 11 Dear Tom reply, Thomas R. Carper congressional letterhead, Rodney King trial jury verdict language, OCR, and rendered-page review.",
+    },
+    {
+      slug: "unced-camp-david-briefing-packet",
+      documentType: "Briefing Packet",
+      category: "environment-policy-briefing",
+      disposition: "itemized-environment-policy",
+      title: "Camp David briefing on U.N. Conference on Environment and Development",
+      documentDate: "1992-06-01",
+      pages: 6,
+      excerpt:
+        "The briefing packet prepares the President for a June 1 Camp David discussion of the U.N. Conference on Environment and Development, including purpose, background, agenda, points to be made, and participants.",
+      evidence:
+        "Itemized from pages 51-56 of the NARA direct folder scan using the confidential briefing memorandum, Camp David location, June 1 date, UNCED issues, Points to be Made, agenda page, participant list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-june-1-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary, June 1, 1992",
+      documentDate: "1992-06-01",
+      pages: 24,
+      excerpt:
+        "The White House News Summary covers international news, Rio and environmental issues, China trade, Clinton, network news, Sunday talk-show transcripts, Perot, Haiti, and political commentary.",
+      evidence:
+        "Itemized from pages 57-80 of the NARA direct folder scan using the News Summary Office of the Press Secretary cover, Monday June 1 1992 6:00 AM EDT edition, A/B/C section pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rebuild-la-commerce-eda-grant-note",
+      documentType: "President's Handwritten Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Handwritten note on Commerce and EDA funding for Rebuild L.A.",
+      documentDate: "1992-06-01",
+      pages: 1,
+      excerpt:
+        "A handwritten note tells the President that Commerce decided to give Rebuild L.A. three million dollars from EDA for operating expenses and that Commerce planned to announce it the following week.",
+      evidence:
+        "Itemized from page 81 of the NARA direct folder scan using the President Has Seen stamp, handwritten Rebuild L.A. note, Commerce and EDA references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "phil-regan-teamsters-correspondence-packet",
+      documentType: "Political Affairs Correspondence Packet",
+      category: "labor-politics-correspondence",
+      disposition: "itemized-political-correspondence",
+      title: "Phil Regan and Teamsters correspondence packet",
+      documentDate: "1992-05-28",
+      pages: 3,
+      excerpt:
+        "The packet includes correspondence with Phil Regan about the Teamsters, John Carey, grassroots union support, and possible Teamsters endorsement activity.",
+      evidence:
+        "Itemized from pages 82-84 of the NARA direct folder scan using the May 28 Dear Phil letter, May 15 Ronald Kaufman letter, March 20 Ed Rogers letter, Teamsters and John Carey references, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ross-perot-daybook-may-27-1992",
+      documentType: "Campaign Daybook",
+      category: "campaign-research",
+      disposition: "itemized-campaign-research",
+      title: "H. Ross Perot Daybook: Wednesday, May 27, 1992",
+      documentDate: "1992-05-27",
+      pages: 2,
+      excerpt:
+        "The Perot daybook tracks May 27 schedule information, Perot Systems leadership changes, media plans, campaign-finance controversy, and commentary on Perot's emerging candidacy.",
+      evidence:
+        "Itemized from pages 85-86 of the NARA direct folder scan using the H. Ross Perot Daybook Wednesday May 27 1992 heading, President Has Seen stamp, schedule and news sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-teeter-reagan-visit-memo",
+      documentType: "Campaign Strategy Memorandum",
+      category: "campaign-strategy-memorandum",
+      disposition: "itemized-campaign-strategy",
+      title: "Bob Teeter memorandum on President Reagan visit in Los Angeles",
+      documentDate: "1992-05-27",
+      pages: 1,
+      excerpt:
+        "Bob Teeter briefs the President on a rescheduled courtesy visit with President Reagan in Los Angeles and the campaign purpose of demonstrating support before the California primary.",
+      evidence:
+        "Itemized from page 87 of the NARA direct folder scan using the May 27 memorandum for the President from Bob Teeter, Reagan visit text, President Has Seen stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nicholas-brady-support-note",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Nicholas Brady support note to the President",
+      documentDate: "1992-05-27",
+      pages: 1,
+      excerpt:
+        "Nicholas Brady sends the President a personal support note, with the President's handwritten acknowledgement marked across the page.",
+      evidence:
+        "Itemized from page 88 of the NARA direct folder scan using Nicholas F. Brady Treasury letterhead, handwritten presidential annotation, daily 6/1 marking, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nicholas-calio-congressional-letters-reading-file",
+      documentType: "Congressional Correspondence Reading File",
+      category: "congressional-correspondence",
+      disposition: "itemized-congressional-correspondence",
+      title: "Nicholas Calio congressional letters for the President's reading file",
+      documentDate: "1992-05-27",
+      pages: 4,
+      excerpt:
+        "Nicholas Calio forwards letters from Representative Lewis Payne and Senator Daniel Patrick Moynihan, including Moynihan's Air Force One note and a presidential reply draft.",
+      evidence:
+        "Itemized from pages 89-92 of the NARA direct folder scan using the May 27 Nicholas E. Calio memorandum, Payne and Moynihan names, Moynihan letter, Lewis Payne letter, President aboard Air Force One reply page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "goddard-space-flight-center-remarks-staffing-packet",
+      documentType: "Speech Materials Packet",
+      category: "speech-materials-packet",
+      disposition: "itemized-speech-materials",
+      title: "Goddard Space Flight Center proposed remarks staffing packet",
+      documentDate: "1992-06-01",
+      pages: 11,
+      excerpt:
+        "The packet staffs proposed remarks for the President's June 1 Goddard Space Flight Center appearance, with Dan McGroarty's cover memorandum and draft remarks on the environment, Rio, forests, climate, and technology cooperation.",
+      evidence:
+        "Itemized from pages 93-103 of the NARA direct folder scan using the White House Staffing Memorandum, Dan McGroarty May 30 memorandum, Goddard Space Center Greenbelt Maryland draft remarks pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "goddard-space-flight-center-remarks-staffing-packet-second-copy",
+      documentType: "Speech Materials Packet",
+      category: "speech-materials-packet",
+      disposition: "itemized-speech-materials",
+      title: "Second copy of Goddard Space Flight Center proposed remarks staffing packet",
+      documentDate: "1992-06-01",
+      pages: 11,
+      excerpt:
+        "A second staffing copy repeats the Goddard Space Flight Center proposed remarks package, including the cover memorandum and draft environmental remarks.",
+      evidence:
+        "Itemized from pages 104-114 of the NARA direct folder scan using the repeated White House Staffing Memorandum, Dan McGroarty memorandum, Goddard draft remarks pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-bell-hospital-contact-note",
+      documentType: "President's Handwritten Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "George Bell hospital contact note",
+      documentDate: "1992-06-01",
+      pages: 1,
+      excerpt:
+        "A presidential handwritten note asks Rose Zamaria to pass along George Bell's hospital room and direct phone number.",
+      evidence:
+        "Itemized from page 115 of the NARA direct folder scan using The President stationery, RZ note, George Bell hospital phone number text, Bush Library photocopy label, OCR, and rendered-page review.",
+    },
+    {
+      slug: "goddard-space-center-final-remarks-text",
+      documentType: "Presidential Remarks Text",
+      category: "speech-materials-packet",
+      disposition: "itemized-speech-materials",
+      title: "Goddard Space Center final remarks text",
+      documentDate: "1992-06-01",
+      pages: 16,
+      excerpt:
+        "The final remarks text for Goddard Space Center presents Bush's environmental record, Mission to Planet Earth, Rio agenda, climate action plans, forests initiative, technology cooperation, and global change research proposals.",
+      evidence:
+        "Itemized from pages 116-131 of the NARA direct folder scan using the Goddard Space Center Greenbelt Maryland heading, all-caps final remarks pages 1-16, OCR, and rendered-page review.",
+    },
+    {
+      slug: "uruguay-round-agriculture-issues-chart",
+      documentType: "Policy Issues Chart",
+      category: "trade-policy-chart",
+      disposition: "itemized-trade-policy",
+      title: "Uruguay Round agriculture issues chart",
+      documentDate: "1992-06-01",
+      pages: 1,
+      excerpt:
+        "The chart compares Uruguay Round agriculture issues across internal supports, export subsidies, and market access, including Dunkel, CAP reform, Japan rice, E.C. oilseeds, and China provisions.",
+      evidence:
+        "Itemized from page 132 of the NARA direct folder scan using the Uruguay Round Agriculture Issues heading, President Has Seen stamp, tabular issue columns, OCR, and rendered-page review.",
+    },
+    {
+      slug: "peter-teeley-mulroney-letter-packet",
+      documentType: "Political Correspondence Packet",
+      category: "political-correspondence",
+      disposition: "itemized-political-correspondence",
+      title: "Peter Teeley letter on meeting with Brian Mulroney",
+      documentDate: "1992-05-26",
+      pages: 2,
+      excerpt:
+        "Peter Teeley reports to the President on his meeting with Prime Minister Brian Mulroney and discusses Canadian politics and campaign-related impressions.",
+      evidence:
+        "Itemized from pages 133-134 of the NARA direct folder scan using the Letter from Peter Teeley May 26 1992 heading, President Has Seen stamp, handwritten presidential note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wetlands-reserve-program-fact-sheet",
+      documentType: "Press Fact Sheet",
+      category: "press-release-or-notice",
+      disposition: "itemized-press-release-or-notice",
+      title: "Wetlands Reserve Program fact sheet",
+      documentDate: "1992-05-30",
+      pages: 3,
+      excerpt:
+        "The White House fact sheet explains the President's implementation of the Wetlands Reserve Program, its objectives, easement and cost-sharing structure, bidding process, and landowner example.",
+      evidence:
+        "Itemized from pages 135-137 of the NARA direct folder scan using the Office of the Press Secretary For Immediate Release May 30 1992 header, Wetlands Reserve Program Fact Sheet title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ron-kaufman-hill-turnover-memo",
+      documentType: "Campaign Strategy Memorandum",
+      category: "campaign-strategy-memorandum",
+      disposition: "itemized-campaign-strategy",
+      title: "Ron Kaufman memorandum on Hill turnover",
+      documentDate: "1992-05-27",
+      pages: 2,
+      excerpt:
+        "Ron Kaufman briefs the President on incumbent defeats, House turnover, retirements, open seats, and historical comparisons relevant to the 1992 campaign.",
+      evidence:
+        "Itemized from pages 138-139 of the NARA direct folder scan using the May 27 memorandum for the President from Ron Kaufman, Hill turnover subject, other interesting facts in the House page, President Has Seen stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ryan-white-care-act-resources-memo",
+      documentType: "Policy Memorandum and President's Note",
+      category: "health-policy-memorandum",
+      disposition: "itemized-health-policy",
+      title: "Roger Porter memorandum on Ryan White CARE Act resources",
+      documentDate: "1992-05-28",
+      pages: 2,
+      excerpt:
+        "Roger Porter briefs the President on Ryan White Comprehensive AIDS Resources Emergency Act funding after Clinton called for full funding, with the President's note to Phil Brady attached.",
+      evidence:
+        "Itemized from pages 140-141 of the NARA direct folder scan using the May 28 Roger B. Porter memorandum, Ryan White Comprehensive AIDS Resources Emergency Act subject, From the President note to Phil Brady, OCR, and rendered-page review.",
+    },
+    {
+      slug: "california-welfare-reform-memo",
+      documentType: "Policy Memorandum",
+      category: "welfare-policy-memorandum",
+      disposition: "itemized-welfare-policy",
+      title: "Clayton Yeutter memorandum on California welfare reform",
+      documentDate: "1992-05-27",
+      pages: 1,
+      excerpt:
+        "Clayton Yeutter briefs the President on California welfare reform, state legislative action, AFDC trends, and proposals tied to work, pregnancy prevention, child support, and fraud controls.",
+      evidence:
+        "Itemized from page 142 of the NARA direct folder scan using the May 27 memorandum for the President from Clayton Yeutter, California welfare reform subject, President Has Seen stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hotline-june-1-1992",
+      documentType: "Hotline Issue",
+      category: "campaign-newsletter",
+      disposition: "itemized-campaign-newsletter",
+      title: "The Hotline issue, June 1, 1992",
+      documentDate: "1992-06-01",
+      pages: 24,
+      excerpt:
+        "The Hotline issue surveys the California primary, Perot, Clinton, Bush, White House operation stories, Iraq, ambassadors, the Year of the Woman, California Senate races, poll updates, and television monitoring.",
+      evidence:
+        "Itemized from pages 143-166 of the NARA direct folder scan using The Daily Briefing on American Politics masthead, Monday June 1 1992 date, APN bulletin board, White House '92, Issues '92, Poll Update, TV Monitor sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ambassador-strauss-moscow-phone-call-note-second-copy",
+      documentType: "Phone Call Note Packet",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Second copy of Ambassador Strauss Moscow phone-call note packet",
+      documentDate: "1992-06-01",
+      pages: 2,
+      excerpt:
+        "A second copy records the President's Camp David phone-call note and Rose Zamaria message about Ambassador Strauss calling from Moscow on a matter Baker wanted taken directly to the President.",
+      evidence:
+        "Itemized from pages 167-168 of the NARA direct folder scan using the Presidential Phone Calls Camp David form, June 1 Camp David message from Rose Zamaria, Ambassador Strauss Moscow references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "unced-camp-david-briefing-packet-second-copy",
+      documentType: "Briefing Packet",
+      category: "environment-policy-briefing",
+      disposition: "itemized-environment-policy",
+      title: "Second copy of Camp David UNCED briefing packet",
+      documentDate: "1992-06-01",
+      pages: 6,
+      excerpt:
+        "A second copy repeats the June 1 Camp David UNCED briefing materials, including summary, points to be made, agenda, and participant list.",
+      evidence:
+        "Itemized from pages 169-174 of the NARA direct folder scan using the repeated confidential briefing on U.N. Conference on Environment and Development, Points to be Made, agenda, participant list pages, OCR, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -18909,6 +19405,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417793",
   "470417794",
   "470417809",
+  "470417810",
   "470418083",
 ]);
 
