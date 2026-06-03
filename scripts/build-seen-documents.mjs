@@ -7426,6 +7426,203 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from a run of newspaper and magazine clipping starts found in full-PDF OCR of the NARA direct folder scan.",
     },
   ],
+  470417714: [
+    {
+      slug: "mrs-bush-press-clippings-april-18-21-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: April 18-21, 1992",
+      documentDate: "1992-04-18",
+      pages: 30,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet covers Barbara Bush's campaign role, the President and Mrs. Bush in Kennebunkport, AmeriFlora, the White House Easter Egg Roll, and Barbara Bush's Pepperdine and Los Angeles Mission appearances.",
+      evidence:
+        "Itemized from pages 2-31 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover, distribution list, newspaper mastheads, wire-service datelines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "village-baptist-easter-sunrise-invitation",
+      documentType: "Incoming Letter",
+      category: "constituent-correspondence",
+      disposition: "itemized-constituent-correspondence",
+      title: "Letter from Rev. James L. Lufkin inviting the Bushes to Easter sunrise service",
+      documentDate: "1992-04-13",
+      pages: 1,
+      excerpt:
+        "Rev. James L. Lufkin of the Village Baptist Church invites President and Mrs. Bush to an Easter Sunday sunrise service on the rocks at Walker Point.",
+      evidence:
+        "Itemized from page 32 of the NARA direct folder scan using the Village Baptist Church letterhead, April 13, 1992 date, Easter sunrise service invitation text, Bush Library photocopy stamp, and rendered-page review.",
+    },
+    {
+      slug: "kennebunk-advent-christian-easter-sunrise-invitation",
+      documentType: "Incoming Letter",
+      category: "constituent-correspondence",
+      disposition: "itemized-constituent-correspondence",
+      title: "Letter from Rev. Paul A. Johnson inviting the Bushes to Kennebunk Easter sunrise service",
+      documentDate: "1992-04-15",
+      pages: 1,
+      excerpt:
+        "Rev. Paul A. Johnson writes that the Kennebunk Area Clergy Association will sponsor its annual Easter Sunrise Service at Narragansett Point and invites the Bush family to attend or send a greeting.",
+      evidence:
+        "Itemized from page 33 of the NARA direct folder scan using the Kennebunk Advent Christian Church letterhead, April 15, 1992 date, Easter Sunrise Service text, Bush Library photocopy stamp, and rendered-page review.",
+    },
+    {
+      slug: "presidential-note-scowcroft-shamir-arabs-attack",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Brent Scowcroft re Shamir attacks about Arabs",
+      documentDate: "1992-04-18",
+      pages: 1,
+      excerpt:
+        "The President tells Brent Scowcroft that Yitzhak Shamir had upped the ante by attacking him on a deal with the Arabs and asks whether he should blast him.",
+      evidence:
+        "Itemized from page 34 of the NARA direct folder scan using the Walker's Point stationery, Brent addressee, Shamir and Arabs references, presidential initials, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-note-teeter-skinner-network-debate-schedule",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Sam Skinner and Bob Teeter re network debate schedule",
+      documentDate: "1992-04-18",
+      pages: 1,
+      excerpt:
+        "The President reports Roger Ailes's advice that the campaign announce a debate schedule, one for each network, and say two debates are enough, with copies to Dorrance and Marlin.",
+      evidence:
+        "Itemized from page 35 of the NARA direct folder scan using the Walker's Point stationery, Sam/Bob Teeter addressee line, Roger and network debate text, cc line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-note-kathy-super-rush-limbaugh",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Kathy Super re Roger Ailes and Rush Limbaugh",
+      documentDate: "1992-04-18",
+      pages: 1,
+      excerpt:
+        "The President asks Kathy Super to have Roger Ailes bring in Rush Limbaugh for a short meeting, noting Ailes will be producing a Rush television show and asking Sam Skinner and Marlin Fitzwater to clear any campaign concerns.",
+      evidence:
+        "Itemized from page 36 of the NARA direct folder scan using the Walker's Point stationery, Kathy Super addressee, Sam Skinner and Marlin cc line, Rush Limbaugh and Roger Ailes references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-note-teeter-skinner-roger-ailes-speech-themes",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Bob Teeter and Sam Skinner re Roger Ailes and speech themes",
+      documentDate: "1992-04-18",
+      pages: 1,
+      excerpt:
+        "The President asks Bob Teeter and Sam Skinner to keep Roger Ailes advised of major speech themes such as five pillars and education goals.",
+      evidence:
+        "Itemized from page 37 of the NARA direct folder scan using the Walker's Point stationery, Roger Ailes subject line, Bob Teeter/Sam Skinner addressees, speech-themes text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-note-boyden-gray-biden-backlog-letter",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Boyden Gray re Biden letter and judicial backlog",
+      documentDate: "1992-04-18",
+      pages: 1,
+      excerpt:
+        "The President sends Boyden Gray a note saying Biden is setting the administration up in a letter by placing blame for the judicial backlog on the White House.",
+      evidence:
+        "Itemized from page 38 of the NARA direct folder scan using the Walker's Point stationery, Boyden addressee, Biden and backlog text, Sam Skinner cc line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-april-10-16-1992",
+      documentType: "Congressional Monitor",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title: "Congressional Monitor for the weeks of April 10-16, 1992",
+      documentDate: "1992-04-16",
+      pages: 1,
+      excerpt:
+        "The monitor summarizes member correspondence on Saudi arms sales, judicial vacancies, ethanol, and railroad employees, including items from Mel Levine, Joseph Biden, Bob Dole, and Chris Whittle.",
+      evidence:
+        "Itemized from page 39 of the NARA direct folder scan using the Congressional Monitor heading, weeks of April 10-16, 1992 date line, member/comment columns, OCR, and rendered-page review.",
+    },
+    {
+      slug: "april-18-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title: "Telephone memoranda and Signal Switchboard log: April 18, 1992",
+      documentDate: "1992-04-18",
+      pages: 2,
+      excerpt:
+        "White House telephone memoranda list April 18 Kennebunkport calls through the Signal Switchboard and President's line, including Kenneth Raynor and William Farish.",
+      evidence:
+        "Itemized from pages 40-41 of the NARA direct folder scan using the White House Telephone Memorandum headings, Signal Switchboard and President forms, April 18 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "april-18-presidential-movements",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-item",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: Kennebunkport, Maine, April 18, 1992",
+      documentDate: "1992-04-18",
+      pages: 1,
+      excerpt:
+        "The movement log records the President's low-key motorcade from Walker's Point to Goose Rocks Beach and back on April 18, 1992.",
+      evidence:
+        "Itemized from page 42 of the NARA direct folder scan using the Presidential Movements heading, Kennebunkport location, April 18 date, motorcade entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "radio-address-job-training-2000",
+      documentType: "Presidential Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Radio address remarks on Job Training 2000",
+      documentDate: "1992-04-18",
+      pages: 2,
+      excerpt:
+        "The embargoed radio address remarks discuss Job Training 2000, Lifetime Education and Training Accounts, skill standards, and opportunity for education and work.",
+      evidence:
+        "Itemized from pages 43-44 of the NARA direct folder scan using the Office of the Press Secretary embargo line, Radio Address on Job Training 2000 title, END marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-statement-cuban-democracy-act",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement by the President re Cuba and the Cuban Democracy Act",
+      documentDate: "1992-04-18",
+      pages: 2,
+      excerpt:
+        "The President backs a stronger Cuban Democracy Act, calls for tightening the embargo and preserving humanitarian channels, and announces Treasury action restricting vessels engaged in trade with Cuba.",
+      evidence:
+        "Itemized from pages 45-46 of the NARA direct folder scan using the Office of the Press Secretary Kennebunkport release heading, Statement by the President title, Cuba and Cuban Democracy Act text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-5-goose-rocks-beach-power-walk",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #5: Bush walks very fast at Goose Rocks Beach",
+      documentDate: "1992-04-18",
+      pages: 2,
+      excerpt:
+        "Pool Report #5 covers the President's fast power walk at Goose Rocks Beach, comments on Saudi arms-transfer allegations, local demonstrators, Roger Clemens, the Texas Rangers, and storm damage at Walker's Point.",
+      evidence:
+        "Itemized from pages 47-48 of the NARA direct folder scan using the Pool Report #5 heading, April 18 date, Goose Rocks Beach title, continuation text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "whistling-wings-farm-raspberry-jam-thank-you-packet",
+      documentType: "Gift Correspondence Packet",
+      category: "gift-correspondence-packet",
+      disposition: "itemized-gift-correspondence",
+      title: "Whistling Wings Farm raspberry jam welcome-home gift correspondence packet",
+      documentDate: "1992-04-18",
+      pages: 9,
+      excerpt:
+        "The packet includes the President's handwritten note to Fred Conti about an embroidered shirt, a thank-you letter to Don and Julie Harper for a welcome-home gift of raspberry jams and toppings, Whistling Wings Farm envelope and card material, Fred Conti's Initially Yours card, and a Port Video receipt.",
+      evidence:
+        "Itemized from pages 49-57 of the NARA direct folder scan using the Walker's Point handwritten note, Whistling Wings Farm card and envelope pages, outgoing letter to Don and Julie Harper, Initially Yours card, Port Video receipt, OCR, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -14095,6 +14292,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417696",
   "470417703",
   "470417713",
+  "470417714",
   "470418083",
 ]);
 
