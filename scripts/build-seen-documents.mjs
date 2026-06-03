@@ -3178,6 +3178,360 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from rendered-page review of photocopied White House correspondence pages at the end of the NARA direct folder scan; OCR is low-confidence on some recipients.",
     },
   ],
+  470418010: [
+    {
+      slug: "letter-to-congress-budget-deferral",
+      documentType: "Presidential Letter to Congress",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title:
+        "Text of a letter to Congress reporting one budget-authority deferral",
+      documentDate: "1992-08-26",
+      pages: 1,
+      excerpt:
+        "The President reports one deferral of budget authority, totaling $17.6 million, under the Congressional Budget and Impoundment Control Act of 1974.",
+      evidence:
+        "Itemized from the White House press-release page headed Text of a Letter from the President to the Speaker and President of the Senate in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "letter-to-congress-gsp-former-yugoslav-republics",
+      documentType: "Presidential Letter to Congress",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title:
+        "Text of a letter to Congress on GSP benefits for former Yugoslav republics",
+      documentDate: "1992-08-25",
+      pages: 1,
+      excerpt:
+        "The President informs Congress of his intent to add former Yugoslav republics, other than Serbia and Montenegro, to the list of Generalized System of Preferences beneficiaries.",
+      evidence:
+        "Itemized from the August 26 White House press-release page containing the President's August 25 letter to congressional leaders.",
+    },
+    {
+      slug: "hurricane-andrew-administrative-dismissal-memorandum",
+      documentType: "Presidential Memorandum",
+      category: "presidential-memorandum",
+      disposition: "itemized-presidential-memorandum",
+      title:
+        "Memorandum to department and agency heads on administrative dismissal for employees affected by Hurricane Andrew",
+      documentDate: "1992-08-26",
+      pages: 1,
+      excerpt:
+        "The President asks department and agency heads to excuse affected federal civilian employees in Hurricane Andrew disaster areas when appropriate.",
+      evidence:
+        "Itemized from the White House memorandum headed Administrative Dismissal of Employees Affected by Hurricane Andrew in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "august-26-bill-signing-release",
+      documentType: "Bill Signing Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title:
+        "Press release listing legislation signed by the President, August 26, 1992",
+      documentDate: "1992-08-26",
+      pages: 3,
+      excerpt:
+        "The White House lists legislation signed by the President, including National Rehabilitation Week, technical corrections, the Jefferson National Expansion Memorial, CPB authorization, voting-rights language assistance, animal-enterprise penalties, land transfers, food-stamp benefits, and health-service amendments.",
+      evidence:
+        "Itemized from the three-page White House signed-legislation release found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "statement-sentencing-commission-members",
+      documentType: "Presidential Statement",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title:
+        "Statement on S. 1963 and United States Sentencing Commission members",
+      documentDate: "1992-08-26",
+      pages: 1,
+      excerpt:
+        "The President signs S. 1963 while stating his understanding that it does not allow current Sentencing Commission members to extend their own terms.",
+      evidence:
+        "Itemized from the White House Statement by the President page on S. 1963 in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "statement-albania-most-favored-nation-status",
+      documentType: "Presidential Statement",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title:
+        "Statement on H.J.Res. 507 approving most-favored-nation status for Albania",
+      documentDate: "1992-08-26",
+      pages: 1,
+      excerpt:
+        "The President signs H.J.Res. 507 approving extension of nondiscriminatory, most-favored-nation treatment to the Republic of Albania.",
+      evidence:
+        "Itemized from the White House Statement by the President page on Albania MFN status in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "national-dare-day-proclamation-1992",
+      documentType: "Presidential Proclamation",
+      category: "presidential-proclamation",
+      disposition: "itemized-presidential-proclamation",
+      title: "National D.A.R.E. Day, 1992 proclamation",
+      documentDate: "1992-08-26",
+      pages: 2,
+      excerpt:
+        "The proclamation recognizes Drug Abuse Resistance Education and its role in drug prevention, safe schools, and the National Drug Control Strategy.",
+      evidence:
+        "Itemized from the two-page White House National D.A.R.E. Day proclamation found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "ardeshir-zahedi-flowers-gift-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ardeshir Zahedi flowers and gift-unit correspondence",
+      documentDate: "1992-08-26",
+      pages: 2,
+      excerpt:
+        "The packet includes a presidential thank-you letter to Ardeshir Zahedi for flowers and support, with a related White House gift-unit arrival form.",
+      evidence:
+        "Itemized from the White House outgoing letter page and attached gift-unit arrival form found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "emile-j-roy-campaign-buttons-correspondence",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Emile J. Roy campaign-buttons correspondence",
+      documentDate: "1992-08-26",
+      pages: 1,
+      excerpt:
+        "The President thanks Emile J. Roy for limited-edition campaign buttons and notes that they will be added to the collection and eventually sent to the Presidential Library.",
+      evidence:
+        "Itemized from the White House outgoing letter page to Emile J. Roy found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "shirley-green-noonan-routing-correspondence",
+      documentType: "Routing Note and Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Shirley M. Green routing page and Margaret Noonan correspondence packet",
+      documentDate: "1992-08-26",
+      pages: 3,
+      excerpt:
+        "A low-confidence correspondence packet includes a Shirley M. Green routing page and materials addressed to Margaret Noonan, with handwritten or photocopied pages that OCR only partially reads.",
+      evidence:
+        "Itemized from rendered-page review of the Shirley M. Green routing page, Margaret Noonan address page, and attached low-confidence page in the NARA direct folder scan.",
+    },
+    {
+      slug: "strom-thurmond-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Strom Thurmond correspondence packet",
+      documentDate: "1992-08-25",
+      pages: 2,
+      excerpt:
+        "The packet includes a White House transmittal page and Senator Strom Thurmond's August 25 letter to the President after seeing the President and Mrs. Bush.",
+      evidence:
+        "Itemized from the White House address/transmittal page and Strom Thurmond letterhead found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "john-mckernan-campaign-strategy-fax-memo",
+      documentType: "Campaign Strategy Memorandum",
+      category: "campaign-strategy-memorandum",
+      disposition: "itemized-campaign-strategy-memorandum",
+      title: "Governor John R. McKernan Jr. faxed memorandum on campaign strategy",
+      documentDate: "1992-08-24",
+      pages: 3,
+      excerpt:
+        "Governor John R. McKernan Jr. faxes the President a memorandum on campaign strategy after the Republican convention, with a White House transmittal page.",
+      evidence:
+        "Itemized from the Maine Governor fax cover sheet, White House transmittal page, and McKernan memorandum pages found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings-august-26-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings, August 26, 1992",
+      documentDate: "1992-08-26",
+      pages: 15,
+      excerpt:
+        "Mrs. Bush's Daily Press clipping packet includes coverage of Barbara Bush, Republican family-values attacks, Hillary Clinton, Tipper Gore, Molly Ivins, George Will, David Broder, Pat Buchanan, and campaign commentary.",
+      evidence:
+        "Itemized from the Mrs. Bush Daily Press cover page and clipping sequence found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "douglas-coe-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Douglas E. Coe correspondence packet",
+      documentDate: "1992-08-26",
+      pages: 2,
+      excerpt:
+        "The President replies to Douglas E. Coe that he is confident the American people will support him in November; Coe's incoming handwritten letter is attached.",
+      evidence:
+        "Itemized from George Bush letterhead and the attached Douglas E. Coe incoming letter page found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "your-questions-note-jack-stein-mason-dixon-poll",
+      documentType: "Presidential Note Packet",
+      category: "presidential-note-packet",
+      disposition: "itemized-presidential-note-packet",
+      title:
+        "Note for the President re Your Questions, Jack Stein meeting, and Mason-Dixon poll",
+      documentDate: "1992-08-26",
+      pages: 4,
+      excerpt:
+        "A note packet marked President Has Seen addresses the President's questions, a possible Jack Stein meeting, and a Ron Kaufman report on an August 21-24 Mason-Dixon poll.",
+      evidence:
+        "Itemized from the Note for the President page, handwriting-marked pages, and Mason-Dixon poll note found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "low-confidence-correspondence-and-jerry-weintraub-fax",
+      documentType: "Correspondence and Fax Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Low-confidence correspondence page and Jerry Weintraub fax packet",
+      documentDate: "1992-08-26",
+      pages: 3,
+      excerpt:
+        "The packet includes a low-confidence handwritten/address page and correspondence with Jerry Weintraub, including an incoming personal fax and a presidential response.",
+      evidence:
+        "Itemized from rendered-page review and partial OCR of the Ghaffari address page, Jerry Weintraub fax page, and outgoing White House letter.",
+    },
+    {
+      slug: "illinois-ceo-foul-up-governor-edgar-correspondence",
+      documentType: "Campaign Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title:
+        "Illinois CEO foul-up correspondence packet with Governor Jim Edgar and business leaders",
+      documentDate: "1992-08-26",
+      pages: 24,
+      excerpt:
+        "The packet includes the President's note to Governor Jim Edgar, address and attendee lists, and apology letters to Illinois business leaders after a campaign-event scheduling foul-up.",
+      evidence:
+        "Itemized from the Jim Edgar correspondence, Presidential Event attendee list, Bush-Quayle address pages, and outgoing apology-letter sequence found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photo-transfer-pages-august-26-1992-a",
+      documentType: "Official White House Photographs",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photo transfer pages, August 26, 1992 [1]",
+      documentDate: "1992-08-26",
+      pages: 4,
+      excerpt:
+        "A photo-transfer cluster includes color campaign-event photographs, blank or backing pages, and an Official White House Photo transfer page.",
+      evidence:
+        "Itemized from rendered-page review of color photo pages and Official White House Photo transfer/backing pages in the NARA direct folder scan.",
+    },
+    {
+      slug: "washington-post-clippings-august-26-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Washington Post clippings on Balkan policy, campaign politics, Iran-Contra, Iraq, and family values",
+      documentDate: "1992-08-26",
+      pages: 18,
+      excerpt:
+        "The Washington Post clipping run covers State Department dissent on Balkans policy, congressional spending charges, Clinton draft issues, Iraq, CNN audiences, Iran-Contra, the no-fly zone, auto jobs, family values, Brazil, and Clinton trade questions.",
+      evidence:
+        "Itemized from Washington Post mastheads, article starts, and continuation pages found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-clippings-august-26-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Los Angeles Times clippings on Orange County, famine relief, China, Korea, Iran-Contra, veterans, Iraq, and Baker",
+      documentDate: "1992-08-26",
+      pages: 14,
+      excerpt:
+        "The Los Angeles Times clipping packet covers Bush's Orange County troubles, U.N. famine relief, campaign attacks, one-China policy, Korea, Iran-Contra documents, veterans, the Gulf War, Baker's campaign role, and the Iraq no-fly zone.",
+      evidence:
+        "Itemized from Los Angeles Times mastheads, article starts, and continuation pages found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "usa-today-clippings-august-26-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "USA Today clippings on veterans, Clinton, education, protests, and Hurricane Andrew",
+      documentDate: "1992-08-26",
+      pages: 6,
+      excerpt:
+        "USA Today clippings include veterans-campaign coverage, Clinton and Bush, education initiatives, protesters, Hurricane Andrew, and veterans' reactions to Clinton.",
+      evidence:
+        "Itemized from USA Today mastheads and article starts found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-articles-august-26-1992",
+      documentType: "Press Articles",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Wall Street Journal articles on veterans, the Fed, Japan, the Intifada, and Korea-China relations",
+      documentDate: "1992-08-26",
+      pages: 6,
+      excerpt:
+        "The Wall Street Journal packet covers veteran concerns, political pressure on the Federal Reserve, Japan's financial system, the Intifada, and Korea-China relations.",
+      evidence:
+        "Itemized from Wall Street Journal mastheads and article starts found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-clippings-august-26-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "New York Times clippings on campaign infidelity, U.N. forces, family life, scholarships, polls, chemical weapons, and autos",
+      documentDate: "1992-08-26",
+      pages: 9,
+      excerpt:
+        "The New York Times clipping packet includes articles and commentary on campaign infidelity, a standing U.N. force, family life, scholarships, Bush's convention bounce, convention rhetoric, chemical-weapons bans, autos, and trade.",
+      evidence:
+        "Itemized from New York Times mastheads, article starts, and continuation pages found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "washington-times-clippings-august-26-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Washington Times clippings on foreign policy, taxation, trade, Hillary Clinton, veterans, Baker, and autoworkers",
+      documentDate: "1992-08-26",
+      pages: 17,
+      excerpt:
+        "The Washington Times clipping packet includes columns and articles on foreign policy, tax failure, trade, Hillary Clinton, the American Legion, Baker's campaign role, Bush and autoworkers, and campaign themes.",
+      evidence:
+        "Itemized from Washington Times mastheads, column/article starts, and continuation pages found in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "convention-thank-you-correspondence-gatlins-mcraney-sanford",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Convention thank-you correspondence to the Gatlin Brothers, Gerald McRaney, and Emile J. Roy",
+      documentDate: "1992-08-26",
+      pages: 3,
+      excerpt:
+        "The correspondence packet includes thank-you letters after the Republican convention to the Gatlin Brothers and Gerald McRaney, plus a repeated campaign-buttons thank-you letter to Emile J. Roy.",
+      evidence:
+        "Itemized from White House outgoing correspondence pages found in full-PDF OCR and rendered-page review near the end of the NARA direct folder scan.",
+    },
+    {
+      slug: "official-white-house-photo-transfer-pages-august-26-1992-b",
+      documentType: "Official White House Photographs",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photo transfer pages, August 26, 1992 [2]",
+      documentDate: "1992-08-26",
+      pages: 8,
+      excerpt:
+        "A final photo-transfer cluster includes color photographs and backing or transfer pages from an Oval Office or White House meeting sequence.",
+      evidence:
+        "Itemized from rendered-page review of color photo pages and blank/backing transfer pages at the end of the NARA direct folder scan.",
+    },
+  ],
   470418070: [
     {
       slug: "charles-bartlett-massager-lincoln-anecdote",
