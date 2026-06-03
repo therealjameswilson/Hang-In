@@ -28,6 +28,9 @@ URL, and citation. Records have an evidence status:
   no numbered withdrawal/redaction-sheet rows were parsed. These records keep
   the material visible and citable, but they still need page-by-page itemization
   before the project can claim exhaustive document-by-document coverage.
+- `direct-scan-itemized`: a high-confidence child record itemized from direct
+  folder-scan OCR markers, cover-memo attachment lists, or full-PDF OCR checks.
+  The parent packet remains in the data so residual pages can still be audited.
 
 ## Update The Daily File Index
 

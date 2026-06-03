@@ -498,6 +498,177 @@ function excerptFromLines(lines) {
   return excerpt.length > 520 ? `${excerpt.slice(0, 517).trim()}...` : excerpt;
 }
 
+const DIRECT_SCAN_SUPPLEMENTAL_ATTACHMENTS = {
+  470417565: [
+    {
+      slug: "state-of-union-fact-sheet",
+      documentType: "Fact Sheet",
+      category: "state-of-union-background-attachment",
+      disposition: "itemized-state-of-union-background-attachment",
+      title: "Fact Sheet: The President's State of the Union Address",
+      documentDate: "1992-01-28",
+      pages: 16,
+      excerpt:
+        "The President in his State of the Union Address spoke about America's unique place in the world and about his plans for restoring growth in America's economy.",
+      evidence:
+        "Itemized from the cover memorandum attachment list in the NARA direct folder scan; the document start was confirmed in full-PDF OCR.",
+    },
+    {
+      slug: "growth-agenda-highlights",
+      documentType: "Fact Sheet",
+      category: "state-of-union-background-attachment",
+      disposition: "itemized-state-of-union-background-attachment",
+      title: "Highlights of the President's Growth Agenda",
+      documentDate: "1992-01-28",
+      pages: 1,
+      excerpt:
+        "The President has a plan to address both the short-term and the long-term problems facing the economy.",
+      evidence:
+        "Itemized from the cover memorandum attachment list in the NARA direct folder scan; the document start was confirmed in full-PDF OCR.",
+    },
+    {
+      slug: "growth-agenda-chart",
+      documentType: "Chart",
+      category: "state-of-union-background-attachment",
+      disposition: "itemized-state-of-union-background-attachment",
+      title: "Chart: The President's Growth Agenda",
+      documentDate: "1992-01-28",
+      pages: 1,
+      excerpt:
+        "The President's Growth Agenda chart lists immediate, intermediate, and long-term initiatives including withholding adjustment, regulatory relief, investment incentives, real-estate incentives, R&D, infrastructure, and Head Start.",
+      evidence:
+        "Itemized from the cover memorandum attachment list in the NARA direct folder scan; the chart start was confirmed in full-PDF OCR.",
+    },
+    {
+      slug: "fy1993-budget-fact-sheets",
+      documentType: "Fact Sheets",
+      category: "state-of-union-background-attachment",
+      disposition: "itemized-state-of-union-background-attachment",
+      title: "The President's Budget for FY 1993: Fact Sheets",
+      documentDate: "1992-01-28",
+      pages: 55,
+      excerpt:
+        "The attached materials present the highlights of the President's budget for Fiscal Year 1993.",
+      evidence:
+        "Itemized from the cover memorandum attachment list in the NARA direct folder scan; the document start was confirmed in full-PDF OCR.",
+    },
+    {
+      slug: "state-of-union-talking-points",
+      documentType: "Talking Points",
+      category: "state-of-union-background-attachment",
+      disposition: "itemized-state-of-union-background-attachment",
+      title: "Talking Points: The State of the Union",
+      documentDate: "1992-01-28",
+      pages: 1,
+      excerpt:
+        "The President hit a home run tonight. He was Presidential, composed, and decisive.",
+      evidence:
+        "Itemized from the cover memorandum attachment list in the NARA direct folder scan; the talking-points start was confirmed in full-PDF OCR.",
+    },
+    {
+      slug: "fy1993-budget-talking-points",
+      documentType: "Talking Points",
+      category: "state-of-union-background-attachment",
+      disposition: "itemized-state-of-union-background-attachment",
+      title: "Talking Points: Overview of the President's FY 1993 Budget",
+      documentDate: "1992-01-28",
+      pages: 1,
+      excerpt:
+        "The budget reflects the President's Comprehensive Agenda for Growth and is consistent with the Budget Agreement.",
+      evidence:
+        "Itemized from the cover memorandum attachment list in the NARA direct folder scan; the talking-points start was confirmed in full-PDF OCR.",
+    },
+    {
+      slug: "growth-agenda-effects-talking-points",
+      documentType: "Talking Points",
+      category: "state-of-union-background-attachment",
+      disposition: "itemized-state-of-union-background-attachment",
+      title: "Talking Points: The President's Growth Agenda: Effects on the Economy",
+      documentDate: "1992-01-28",
+      pages: 1,
+      excerpt:
+        "The President's plan will add hundreds of billions of dollars of goods and services to the nation's output over the next five years.",
+      evidence:
+        "Itemized from the cover memorandum attachment list in the NARA direct folder scan; the talking-points start was confirmed in full-PDF OCR.",
+    },
+    {
+      slug: "treasury-growth-plan-news",
+      documentType: "Press Release",
+      category: "treasury-growth-package-material",
+      disposition: "itemized-treasury-growth-package-material",
+      title:
+        "Treasury News: President Bush's Plan to Stimulate Economic Recovery, Promote Long-Term Growth, and Expand Opportunity",
+      documentDate: "1992-01-28",
+      pages: 30,
+      excerpt:
+        "The President's plan will stimulate economic recovery and job-creating investment; open up opportunity for home ownership and real estate recovery; and help families build for the future.",
+      evidence:
+        "Itemized from a Treasury News heading found in full-PDF OCR of the NARA direct folder scan after the cover-listed attachments.",
+    },
+    {
+      slug: "treasury-tax-examples",
+      documentType: "Examples",
+      category: "treasury-growth-package-material",
+      disposition: "itemized-treasury-growth-package-material",
+      title: "Treasury Examples: How President Bush's Package Could Affect Individuals and Families",
+      documentDate: "1992-01-28",
+      pages: 8,
+      excerpt:
+        "These seven examples are hypothetical illustrations of how President Bush's package could affect individuals and families.",
+      evidence:
+        "Itemized from a Treasury examples heading found in full-PDF OCR of the NARA direct folder scan after the cover-listed attachments.",
+    },
+  ],
+};
+
+function buildDirectSupplementalAttachmentDocuments(folder, packetDoc) {
+  const attachments = DIRECT_SCAN_SUPPLEMENTAL_ATTACHMENTS[folder.naId] || [];
+  if (!attachments.length || !packetDoc.needsItemization) return [];
+
+  return attachments.map((attachment, index) => {
+    const itemLabel = String(index + 1).padStart(2, "0");
+    const seenDate = folder.date;
+
+    return {
+      id: `${folder.id}-direct-attachment-${attachment.slug}`,
+      folderId: folder.id,
+      folderNaId: folder.naId,
+      folderTitle: folder.title,
+      folderDate: folder.date,
+      folderLocalId: folder.localId,
+      folderContainerId: folder.containerId,
+      catalogUrl: folder.catalogUrl,
+      pdfUrl: folder.pdfUrl || "",
+      chapterId: folder.chapterId,
+      chapter: folder.chapter,
+      themes: folder.themes,
+      searchTerms: folder.searchTerms,
+      documentNumber: `Direct-A${itemLabel}`,
+      documentType: attachment.documentType,
+      directScanCategory: attachment.category,
+      directScanDisposition: attachment.disposition,
+      directScanItemizationStatus: "itemized-document",
+      directScanItemizationNote:
+        "Itemized from an OCR-truncated direct packet using a cover-memo attachment list and full-PDF OCR confirmation.",
+      parentPacketId: packetDoc.id,
+      title: attachment.title,
+      date: seenDate,
+      seenDate,
+      documentDate: attachment.documentDate,
+      year: seenDate.slice(0, 4),
+      month: seenDate.slice(0, 7),
+      pages: attachment.pages,
+      restriction: "",
+      classification: "",
+      excerpt: attachment.excerpt,
+      evidence: attachment.evidence,
+      evidenceStatus: "direct-scan-itemized",
+      needsItemization: false,
+      citation: `George H. W. Bush Papers, Presidential Daily Files, ${folder.title}, direct scan attachment item ${itemLabel}, ${attachment.title}, National Archives Catalog NAID ${folder.naId}.`,
+    };
+  });
+}
+
 function directScanTitle(folder, typeLabel) {
   if (/^magazines,/i.test(folder.title)) return `${typeLabel}: ${folder.title}`;
   if (/^(monday|tuesday|wednesday|thursday|friday|saturday|sunday),/i.test(folder.title)) {
@@ -2534,6 +2705,7 @@ function buildDirectScanDocuments(text, folder) {
           standaloneSourceStarts,
           boundaryStarts
         ),
+        ...buildDirectSupplementalAttachmentDocuments(folder, packetDoc),
         ...buildDirectPressReleaseDocuments(
           contentLines,
           folder,
