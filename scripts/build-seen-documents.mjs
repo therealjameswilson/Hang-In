@@ -1607,6 +1607,201 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from Cardinal's Residence fax and letter pages found in full-PDF OCR of the NARA direct folder scan.",
     },
   ],
+  470417997: [
+    {
+      slug: "marked-branson-rally-remarks",
+      documentType: "Speech Draft with President Bush Handwriting",
+      category: "campaign-rally-remarks",
+      disposition: "itemized-campaign-rally-remarks",
+      title:
+        "Marked presidential remarks for Branson rally, August 22, 1992",
+      documentDate: "1992-08-22",
+      pages: 18,
+      excerpt:
+        "Marked Branson, Missouri rally remarks use country-music references and argue that Bush had changed the world and would change America, with George Bush handwriting visible throughout the copy.",
+      evidence:
+        "Itemized from Bush Library handwriting markers and the Branson rally heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-handwritten-routing-nyt-clips",
+      documentType: "Handwritten Routing Note",
+      category: "press-clipping-routing",
+      disposition: "itemized-press-clipping-routing",
+      title:
+        "From the desk of George Bush handwritten routing page re New York Times clips on Clinton",
+      documentDate: "1992-08-22",
+      pages: 1,
+      excerpt:
+        "A From the desk of George Bush page with presidential handwriting routes New York Times clips on Clinton, including a note about whether the items were helpful for debate.",
+      evidence:
+        "Itemized from rendered-page review of a From the desk of George Bush routing page marked Document Originally Attached to Following Page.",
+    },
+    {
+      slug: "new-york-times-clips-index-front-pages-july-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "New York Times clips index and selected front-page clippings, July 17-18, 1992",
+      documentDate: "1992-07-18",
+      pages: 3,
+      excerpt:
+        "Faxed New York Times clip materials include an index to items on Perot backers, Clinton's post-convention boost, Reagan Democrats, abortion, Iraq, Havel, and a front-page clipping spread.",
+      evidence:
+        "Itemized from faxed New York Times clip index and front-page clipping images confirmed by rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "birmingham-rally-staffing-proposed-remarks",
+      documentType: "Staffing Memorandum and Speech Draft",
+      category: "campaign-rally-remarks",
+      disposition: "itemized-campaign-rally-remarks",
+      title:
+        "White House staffing memorandum and proposed remarks for Bush-Quayle rally in Birmingham, Alabama",
+      documentDate: "1992-08-20",
+      pages: 8,
+      excerpt:
+        "A White House staffing memorandum and Andy Ferguson memorandum forward proposed remarks for the August 22 Bush-Quayle rally in Birmingham, Alabama.",
+      evidence:
+        "Itemized from the White House staffing memorandum, Andy Ferguson memorandum, and Birmingham rally remarks heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "moe-bandy-americana-show-remarks-handwriting",
+      documentType: "Remarks Notes with President Bush Handwriting",
+      category: "event-remarks-notes",
+      disposition: "itemized-event-remarks-notes",
+      title:
+        "Moe Bandy's Americana Show remarks notes with President Bush handwriting",
+      documentDate: "1992-08-22",
+      pages: 2,
+      excerpt:
+        "Remarks notes for Moe Bandy's Americana Show thank Bandy and other performers and note the Barbara Bush Foundation for Family Literacy, with a second page of presidential handwritten notes.",
+      evidence:
+        "Itemized from the Moe Bandy's Americana Show heading, Bush Library handwriting marker, and rendered-page review of handwritten notes in the NARA direct folder scan.",
+    },
+    {
+      slug: "air-force-one-notes-criswell-gregory",
+      documentType: "Handwritten Note Drafts",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title:
+        "Aboard Air Force One handwritten thank-you note drafts to Dr. Criswell and Dr. Gregory",
+      documentDate: "1992-08-22",
+      pages: 1,
+      excerpt:
+        "An Aboard Air Force One page contains handwritten thank-you note drafts after the First Baptist Dallas visit, including notes to Dr. Criswell and Dr. Gregory.",
+      evidence:
+        "Itemized from rendered-page review of Aboard Air Force One handwritten note drafts in the NARA direct folder scan.",
+    },
+    {
+      slug: "first-baptist-church-dallas-brochure",
+      documentType: "Church Brochure",
+      category: "event-background-material",
+      disposition: "itemized-event-background-material",
+      title: "First Baptist Church Dallas visitor and membership brochure",
+      documentDate: "1992-08-22",
+      pages: 6,
+      excerpt:
+        "First Baptist Church Dallas materials include visitor information, membership guidance, a prayer text, and a welcome/contact form.",
+      evidence:
+        "Itemized from First Baptist Church Dallas brochure pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "pool-report-15-national-affairs-briefing-dallas",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #15: National Affairs Briefing, Dallas, Texas, with duplicate copy",
+      documentDate: "1992-08-22",
+      pages: 2,
+      excerpt:
+        "Pool Report #15 covers the short motorcade to the Dallas Convention Center, National Affairs Briefing audience, and Peter Teeley's comments on Pat Robertson and Evangelicals.",
+      evidence:
+        "Itemized from two Pool Report #15 pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "pool-report-en-route-to-dallas",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #1: En route to Dallas, Texas, with duplicate copy",
+      documentDate: "1992-08-22",
+      pages: 2,
+      excerpt:
+        "Pool Report #1 covers the Hoover rope line, motorcade to the airport, and flight en route to Dallas, with a duplicate copy later in the packet.",
+      evidence:
+        "Itemized from two en route to Dallas pool-report pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "pool-report-11-air-force-one-branson-dobbins",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #11: Air Force One Branson-Dobbins, with duplicate copy",
+      documentDate: "1992-08-22",
+      pages: 4,
+      excerpt:
+        "Pool Report #11 covers Marlin Fitzwater comments aboard Air Force One, speculation about Iraq no-fly-zone announcements, polling, the School of the Ozarks stop, and student-made gifts.",
+      evidence:
+        "Itemized from two two-page copies of Pool Report #11 found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "pool-report-woodstock-georgia-to-birmingham",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report: Woodstock, Georgia to Birmingham, Alabama, with Teeter addendum and duplicate copy",
+      documentDate: "1992-08-22",
+      pages: 4,
+      excerpt:
+        "The Woodstock-to-Birmingham pool report covers Newt Gingrich's family-values remarks, a flight delay, and a Bob Teeter Air Force One addendum on polling and the post-convention bounce.",
+      evidence:
+        "Itemized from two two-page copies of the Woodstock, Georgia to Birmingham, Alabama pool report found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "august-22-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "Telephone memoranda for President Bush, August 22, 1992",
+      documentDate: "1992-08-22",
+      pages: 2,
+      excerpt:
+        "Two White House telephone memorandum pages record signal-switchboard call fields for President Bush on August 22, 1992.",
+      evidence:
+        "Itemized from White House telephone memorandum forms found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "august-22-presidential-movements",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-log",
+      disposition: "itemized-presidential-movements",
+      title:
+        "Presidential movements log: Branson, Woodstock, Birmingham, and Dallas, August 22, 1992",
+      documentDate: "1992-08-22",
+      pages: 2,
+      excerpt:
+        "Presidential movements pages list the August 22 travel sequence from Branson through Woodstock, Birmingham, and Dallas, ending at the Hyatt Regency Reunion.",
+      evidence:
+        "Itemized from Presidential Movements forms found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "official-white-house-photo-packet-august-22-trip",
+      documentType: "Official White House Photo Packet",
+      category: "white-house-photo",
+      disposition: "itemized-white-house-photo",
+      title:
+        "Official White House photo packet from August 22, 1992 campaign trip",
+      documentDate: "1992-08-22",
+      pages: 14,
+      excerpt:
+        "Official White House photo pages and stamp backs show the August 22 trip, including Branson, Missouri; Hoover or Birmingham, Alabama; and the National Affairs Briefing in Dallas, Texas.",
+      evidence:
+        "Itemized from rendered-page review of color photo pages, handwritten sticky labels, and Official White House Photo stamp backs in the NARA direct folder scan.",
+    },
+  ],
   470418070: [
     {
       slug: "charles-bartlett-massager-lincoln-anecdote",
