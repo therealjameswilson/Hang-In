@@ -5448,6 +5448,352 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from the Reeder address page, color Camp David photographs, official White House photo labels, and rendered-page review.",
     },
   ],
+  470418075: [
+    {
+      slug: "conference-presidents-closed-meeting-clinton-fax",
+      documentType: "Faxed Memorandum",
+      category: "campaign-outreach-correspondence",
+      disposition: "itemized-campaign-outreach-correspondence",
+      title:
+        "Conference of Presidents fax re closed meeting with Governor Clinton",
+      documentDate: "1992-09-21",
+      pages: 2,
+      excerpt:
+        "A Jacob Stein fax transmits a Conference of Presidents of Major American Jewish Organizations memorandum from Shoshana S. Cardin and Malcolm Hoenlein about a closed meeting with Governor Clinton.",
+      evidence:
+        "Itemized from the Jacob Stein fax transmittal, Conference of Presidents memorandum heading, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-3pm-wires-september-21-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 3:00 p.m. wires, September 21, 1992",
+      documentDate: "1992-09-21",
+      pages: 5,
+      excerpt:
+        "The 3:00 p.m. wire summary covers Bush on the French Maastricht vote, Cuba and the U.S. trade embargo, an Ohio poll, and Clinton transition planning.",
+      evidence:
+        "Itemized from the 3:00 p.m. White House News Summary heading, wire-story starts, continuation pages, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-4pm-wires-september-21-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 4:00 p.m. wires, September 21, 1992",
+      documentDate: "1992-09-21",
+      pages: 6,
+      excerpt:
+        "The 4:00 p.m. wires include AP and Reuters stories on Bush challenging Clinton over the draft, Taiwan arms sales, Bush's gold-commodity currency plan, and an Indiana poll on Gore and Quayle.",
+      evidence:
+        "Itemized from the 4:00 p.m. White House News Summary wire heading, article starts, continuation pages, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-4pm-news-update-september-21-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 4:00 p.m. news update, September 21, 1992",
+      documentDate: "1992-09-21",
+      pages: 2,
+      excerpt:
+        "The 4:00 p.m. news update summarizes the Clinton draft issue and the President's reaction to the Maastricht vote.",
+      evidence:
+        "Itemized from the White House News Summary update heading, numbered pages, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-5pm-wires-september-21-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 5:00 p.m. wires, September 21, 1992",
+      documentDate: "1992-09-21",
+      pages: 11,
+      excerpt:
+        "The 5:00 p.m. wires cover Clinton on debates, Bush challenging Clinton's draft status, U.N. peacekeeping, Sudan, anti-Bush sentiment, IMF interest-rate policy, and Israel-Syria peace talks.",
+      evidence:
+        "Itemized from the 5:00 p.m. White House News Summary heading, Reuters and AP story starts, continuation pages, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-6pm-wires-september-21-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 6:00 p.m. wires, September 21, 1992",
+      documentDate: "1992-09-21",
+      pages: 10,
+      excerpt:
+        "The 6:00 p.m. wires cover government gridlock, Clinton's business endorsement and economy message, draft-record exchanges, Quayle's Murphy Brown baby letter, Treasury Secretary Brady's bank lending discussion, and U.S. reaction to the French vote.",
+      evidence:
+        "Itemized from the 6:00 p.m. White House News Summary heading, wire-story starts, continuation pages, and rendered-page review.",
+    },
+    {
+      slug: "ed-lawson-oklahoma-campaign-finance-volunteer-packet",
+      documentType: "Campaign Correspondence and Volunteer List Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title:
+        "Ed Lawson Oklahoma campaign finance and volunteer-list fax packet",
+      documentDate: "1992-09-18",
+      pages: 13,
+      excerpt:
+        "The Lawson packet includes Rose Zamaria routing notes, Ed Lawson's letter about Oklahoma campaign finance and the Tulsa Daily World endorsement, and faxed volunteer address and phone lists.",
+      evidence:
+        "Itemized from Zamaria notes, Lawson fax headers, cover sheet, highlighted incoming letter, volunteer-list pages, and rendered-page review.",
+    },
+    {
+      slug: "alice-langtry-presidential-letter-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter packet to Alice S. Langtry",
+      documentDate: "1992-09-21",
+      pages: 2,
+      excerpt:
+        "The packet includes a White House fax transmittal, President Bush's letter to Alice S. Langtry, and Langtry's incoming handwritten note.",
+      evidence:
+        "Itemized from White House facsimile transmittal, presidential letter page, Langtry note, and rendered-page review.",
+    },
+    {
+      slug: "presidential-letters-bergmann-kopp-roy",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush correspondence with Horst Bergmann, Gerald Kopp, and Emile Roy",
+      documentDate: "1992-09-21",
+      pages: 4,
+      excerpt:
+        "The correspondence packet includes President Bush letters or routing pages for Horst A. Bergmann, Gerald Kopp, and Emile J. Roy, plus Roy's September 14 letter sending convention clippings.",
+      evidence:
+        "Itemized from presidential correspondence pages, address pages, Roy letter, and rendered-page review.",
+    },
+    {
+      slug: "emile-roy-republican-convention-clippings-packet",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Emile Roy Republican convention clippings packet",
+      documentDate: "1992-08-19",
+      pages: 7,
+      excerpt:
+        "The clippings sent by Emile Roy cover his role as President Bush's barber, Maine delegates, Republican convention coverage, Log Cabin Club items, and convention snapshots.",
+      evidence:
+        "Itemized from York County Coast Star, Portland Press Herald, Congressional Quarterly, and AP Shots clipping pages in rendered-page review.",
+    },
+    {
+      slug: "debates-and-draft-issue-talking-points-fax",
+      documentType: "Talking Points Fax Packet",
+      category: "campaign-talking-points",
+      disposition: "itemized-campaign-talking-points",
+      title: "White House faxed points on debates and the draft issue",
+      documentDate: "1992-09-21",
+      pages: 3,
+      excerpt:
+        "A White House communications fax transmits suggested points for discussing presidential debates and the Clinton draft issue.",
+      evidence:
+        "Itemized from White House communications fax headers, debate/draft talking-points text, and rendered-page review.",
+    },
+    {
+      slug: "un-general-assembly-remarks-release-september-21-1992",
+      documentType: "Presidential Remarks Release",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Office of the Press Secretary release of President Bush's United Nations General Assembly address",
+      documentDate: "1992-09-21",
+      pages: 7,
+      excerpt:
+        "The New York press release reproduces President Bush's address to the United Nations General Assembly on post-Cold War peacekeeping, proliferation, development, markets, and global community.",
+      evidence:
+        "Itemized from Office of the Press Secretary release pages, numbered remarks continuation pages, and rendered-page review.",
+    },
+    {
+      slug: "oas-headquarters-agreement-senate-transmittal",
+      documentType: "Presidential Message",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title:
+        "Message to the Senate transmitting the OAS Headquarters Agreement",
+      documentDate: "1992-09-21",
+      pages: 2,
+      excerpt:
+        "President Bush transmits the Headquarters Agreement between the United States and the Organization of American States to the Senate for advice and consent.",
+      evidence:
+        "Itemized from Office of the Press Secretary release pages, Senate transmittal heading, signature page, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-southern-mutual-help-association",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title:
+        "Daily Point of Light release: Southern Mutual Help Association",
+      documentDate: "1992-09-21",
+      pages: 1,
+      excerpt:
+        "The White House release recognizes the volunteers of Southern Mutual Help Association of New Iberia, Louisiana, as the 899th Daily Point of Light.",
+      evidence:
+        "Itemized from the Office of the Press Secretary New York City release and rendered-page review.",
+    },
+    {
+      slug: "presidential-appointments-nominations-releases-september-21-1992",
+      documentType: "Press Release Packet",
+      category: "presidential-appointment",
+      disposition: "itemized-presidential-appointment",
+      title:
+        "Presidential appointments and nominations releases, September 21, 1992",
+      documentDate: "1992-09-21",
+      pages: 9,
+      excerpt:
+        "The release packet covers Charles R. Hilty's designation, Robert L. Hutchings's personal rank of Ambassador, and intended nominations including Charles F. Little, Mark Johnson, Robert Gregory Joseph, Blaine B. Goff, Mark McCampbell Collins Jr., and Marshall Fletcher McCallie.",
+      evidence:
+        "Itemized from Office of the Press Secretary release headings, nominee biographies, and rendered-page review.",
+    },
+    {
+      slug: "president-to-robert-allen-att-letter",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from President Bush to Robert E. Allen of AT&T",
+      documentDate: "1992-09-21",
+      pages: 1,
+      excerpt:
+        "President Bush writes to AT&T chairman and chief executive officer Robert E. Allen.",
+      evidence:
+        "Itemized from the White House letter page addressed to Robert E. Allen and rendered-page review.",
+    },
+    {
+      slug: "tim-russert-letter-president-has-seen",
+      documentType: "Incoming Correspondence",
+      category: "media-correspondence",
+      disposition: "itemized-media-correspondence",
+      title: "Tim Russert letter marked President has seen",
+      documentDate: "1992-08-21",
+      pages: 1,
+      excerpt:
+        "A letter from Tim Russert at NBC News is marked as seen by the President on September 21.",
+      evidence:
+        "Itemized from NBC News letterhead, President-has-seen marking, yellow note, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-clippings-september-21-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Los Angeles Times clippings on historical analogies, Perot, Quayle, Clinton, and Colorado",
+      documentDate: "1992-09-21",
+      pages: 6,
+      excerpt:
+        "The Los Angeles Times packet includes clippings on past leaders in campaigns, Clinton campaign advertising, Quayle and the Guard, Clinton courting Democrats in Michigan, and the GOP grip on Colorado.",
+      evidence:
+        "Itemized from Los Angeles Times mastheads, article starts, continuation pages, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-clippings-september-21-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "New York Times clippings on family values, the campaign trail, Murphy Brown, George Bush, and brawling campaigns",
+      documentDate: "1992-09-21",
+      pages: 6,
+      excerpt:
+        "The New York Times packet covers Bush recouping from family-values rhetoric, Herbert Stein on the campaign trail, Quayle and Murphy Brown, Anthony Lewis on George Bush, and a day of brawling for the presidential campaigns.",
+      evidence:
+        "Itemized from New York Times mastheads, article starts, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-clippings-september-21-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Washington Post clippings on the economy, debates, Quayle, campaign control rooms, Clinton attacks, tax bills, jobs, currency markets, and television",
+      documentDate: "1992-09-21",
+      pages: 15,
+      excerpt:
+        "The Washington Post clipping run includes Jack Anderson and Michael Binstein on economic spin, Jane Applegate, Lois Romano, Meg Greenfield on debates, Quayle and the Guard, campaign nerve centers, Clinton economic attacks, tax and jobs editorials, currency-market coverage, and television notes.",
+      evidence:
+        "Itemized from Washington Post mastheads, article starts, rotated clipping page, continuation pages, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-clippings-september-21-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Washington Times clippings on Quayle, Hollywood, Admiral Crowe, politics, defense, and poll gaps",
+      documentDate: "1992-09-21",
+      pages: 9,
+      excerpt:
+        "The Washington Times clipping run covers Quayle and the Guard issue, Hollywood, Admiral Crowe's Clinton endorsement, cross-networking, Morton Kondracke, defense spending, military strength, and historical poll gaps.",
+      evidence:
+        "Itemized from Washington Times mastheads, article starts, cartoon page, rotated clipping pages, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-political-cartoon-september-21-1992",
+      documentType: "Political Cartoon",
+      category: "political-cartoon",
+      disposition: "itemized-political-cartoon",
+      title: "USA Today political cartoon, September 21, 1992",
+      documentDate: "1992-09-21",
+      pages: 1,
+      excerpt:
+        "A USA Today cartoon page appears in the September 21 clipping packet.",
+      evidence:
+        "Itemized from the USA Today page marker and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-clippings-september-21-1992",
+      documentType: "Press Articles",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Wall Street Journal articles on Oregon family values, voters, Murphy Brown, Clinton, Congress, and Bush's presidency",
+      documentDate: "1992-09-21",
+      pages: 7,
+      excerpt:
+        "The Wall Street Journal packet covers Oregon family-values politics, voter-age participation, Murphy Brown, the battle for a President Clinton, congressional adjournment, and assessments of Bush's reshaping of the presidency.",
+      evidence:
+        "Itemized from Wall Street Journal mastheads, article starts, continuation pages, and rendered-page review.",
+    },
+    {
+      slug: "schedule-of-president-september-21-1992",
+      documentType: "Schedule of the President",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title: "Schedule of the President, Monday, September 21, 1992",
+      documentDate: "1992-09-21",
+      pages: 2,
+      excerpt:
+        "The President's schedule covers a video taping session, travel to New York, meetings around the United Nations, the Rush Limbaugh radio interview, and return to Washington.",
+      evidence:
+        "Itemized from the Schedule of the President pages, handwritten timing notes, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photo-transfer-pages-un-rush-limbaugh",
+      documentType: "Official White House Photographs",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title:
+        "Official White House photo transfer pages from United Nations and Rush Limbaugh events",
+      documentDate: "1992-09-21",
+      pages: 7,
+      excerpt:
+        "The photo-transfer packet includes color photographs and official White House photo labels from the President's September 21 Rush Limbaugh interview and United Nations visit.",
+      evidence:
+        "Itemized from rendered-page review of the color photo pages, United Nations and Rush Limbaugh photo subjects, and official White House photo label pages.",
+    },
+  ],
   470418122: [
     {
       slug: "st-louis-railroad-ymca-history",
