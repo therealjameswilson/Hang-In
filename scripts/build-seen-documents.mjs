@@ -1325,6 +1325,177 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 50-77 of the NARA direct folder scan using the color booklet cover, presidential message, campaign sections, rosters, honor-roll tables, OCR, and rendered-page review.",
     },
   ],
+  470417253: [
+    {
+      slug: "london-economic-summit-tower-dinner-program-invitation",
+      documentType: "Event Program and Invitation",
+      category: "london-economic-summit-dinner",
+      disposition: "itemized-london-economic-summit-dinner",
+      title: "London Economic Summit dinner program and invitation for H.M. Tower of London",
+      documentDate: "1991-07-15",
+      pages: 5,
+      excerpt:
+        "The London Economic Summit dinner packet includes the Prime Minister's Tower of London invitation for George Bush, dinner program pages, notes on H.M. Tower of London, and menu and wine-list pages.",
+      evidence:
+        "Itemized from pages 2-6 of the NARA direct folder scan using the summit dinner cover, Tower of London notes, menu/wine-list page, Prime Minister invitation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-london-july-15-1991",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential movements in London, July 15, 1991",
+      documentDate: "1991-07-15",
+      pages: 1,
+      excerpt:
+        "A Presidential Movements page records President Bush's London, England movements for July 15, 1991.",
+      evidence:
+        "Itemized from page 7 of the NARA direct folder scan using the Presidential Movements heading, London location line, date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "telephone-memoranda-president-signal-switchboard-july-15",
+      documentType: "Telephone Memoranda",
+      category: "telephone-memoranda",
+      disposition: "itemized-telephone-memoranda",
+      title: "White House telephone memoranda for President Bush and Signal Switchboard, July 15, 1991",
+      documentDate: "1991-07-15",
+      pages: 2,
+      excerpt:
+        "Two telephone memorandum pages for President Bush and the Signal Switchboard record no calls for July 15, 1991.",
+      evidence:
+        "Itemized from pages 8-9 of the NARA direct folder scan using the telephone memorandum forms, President Bush and Signal Switchboard labels, no-calls entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-july-15-1991-6am",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 6:00 a.m. EDT edition, July 15, 1991",
+      documentDate: "1991-07-15",
+      pages: 26,
+      excerpt:
+        "The 6:00 a.m. White House News Summary covers the London economic summit, Gorbachev's appeal for aid, Iraq, Clarence Thomas, Cuomo, network news, and Sunday political programs.",
+      evidence:
+        "Itemized from pages 10-35 of the NARA direct folder scan using the White House News Summary masthead, 6:00 a.m. EDT edition line, section headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-july-15-1991",
+      documentType: "Congressional Monitor",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title: "Congressional Monitor: This Week in Congress, July 15, 1991",
+      documentDate: "1991-07-15",
+      pages: 26,
+      excerpt:
+        "Congressional Monitor, Vol. 27 No. 144, surveys the week in Congress, including House and Senate schedules, committee action, floor business, and legislative coverage.",
+      evidence:
+        "Itemized from pages 36-61 of the NARA direct folder scan using the Congressional Monitor cover, Vol. 27 No. 144 issue line, This Week in Congress heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "buckingham-palace-dinner-invitation",
+      documentType: "Royal Invitation Packet",
+      category: "london-economic-summit-dinner",
+      disposition: "itemized-london-economic-summit-dinner",
+      title: "Buckingham Palace dinner invitation for President and Mrs. Bush",
+      documentDate: "1991-07-16",
+      pages: 3,
+      excerpt:
+        "The Buckingham Palace invitation packet invites President and Mrs. Bush, by command of Queen Elizabeth II and the Duke of Edinburgh, to dinner on July 16, 1991.",
+      evidence:
+        "Itemized from pages 63-65 of the NARA direct folder scan using the Master of the Household invitation text, President and Mrs. Bush envelope page, seal page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "acland-event-planning-packet",
+      documentType: "Correspondence and Note Packet with President Bush Handwriting",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Acland event planning packet with Mrs. Bush note and President Bush handwriting",
+      documentDate: "1991",
+      pages: 9,
+      excerpt:
+        "The Acland event planning packet includes Mrs. Bush's request, notes to Patty, and President Bush handwriting about continuing an event for the Aclands before their July departure.",
+      evidence:
+        "Itemized from pages 66-74 of the NARA direct folder scan using the Acland event cover, Mrs. Bush note, White House note pages with Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fitzwater-statement-palestinian-federation-syrian-acceptance",
+      documentType: "Press Secretary Statement",
+      category: "press-secretary-statement",
+      disposition: "itemized-press-secretary-statement",
+      title: "Marlin Fitzwater statement on Palestinian federation and Syrian acceptance at London",
+      documentDate: "1991-07-15",
+      pages: 1,
+      excerpt:
+        "Marlin Fitzwater issues a London statement on Palestinian federation and Syrian acceptance in connection with Middle East peace diplomacy.",
+      evidence:
+        "Itemized from page 75 of the NARA direct folder scan using the Office of the Press Secretary London heading, Fitzwater statement title, London Hilton time line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fitzwater-london-press-briefing-july-15-1991",
+      documentType: "Press Briefing Transcript",
+      category: "press-briefing-transcript",
+      disposition: "itemized-press-briefing-transcript",
+      title: "Marlin Fitzwater press briefing at London Hilton Hotel, July 15, 1991",
+      documentDate: "1991-07-15",
+      pages: 10,
+      excerpt:
+        "The Marlin Fitzwater press briefing transcript covers London summit questions, Middle East peace diplomacy, Soviet issues, START, and related foreign-policy questions.",
+      evidence:
+        "Itemized from pages 76-85 of the NARA direct folder scan using the Office of the Press Secretary London heading, press briefing title, London Hilton Hotel location, numbered transcript pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-reports-bush-bilaterals-winfield-house",
+      documentType: "Pool Reports",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report-packet",
+      title: "Pool reports on Bush bilaterals and press logistics at Winfield House",
+      documentDate: "1991-07-15",
+      pages: 3,
+      excerpt:
+        "Pool reports cover President Bush's July 15 bilaterals at Winfield House, including meetings with Mitterrand, Mulroney, Kohl, and Andreotti, plus press logistics and summit observations.",
+      evidence:
+        "Itemized from pages 86-88 of the NARA direct folder scan using Pool Report #3, #10, and #11 headings, Winfield House bilateral descriptions, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ap-lederer-british-bar-reporters-summit",
+      documentType: "Wire Story",
+      category: "summit-press-coverage",
+      disposition: "itemized-summit-press-coverage",
+      title: "AP Wire Story by Edith M. Lederer: British bar reporters from covering leaders and spouses",
+      documentDate: "1991-07-15",
+      pages: 1,
+      excerpt:
+        "Edith M. Lederer's Associated Press wire story reports that British officials barred reporters from covering leaders and spouses during the London economic summit.",
+      evidence:
+        "Itemized from page 89 of the NARA direct folder scan using the AP wire layout, Edith M. Lederer byline, July 15 dateline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-july-15-1991-530pm-london",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 5:30 p.m. London / 12:30 p.m. EDT edition, July 15, 1991",
+      documentDate: "1991-07-15",
+      pages: 16,
+      excerpt:
+        "The 5:30 p.m. London White House News Summary tracks summit coverage, Middle East diplomacy, domestic politics, and morning network news coverage.",
+      evidence:
+        "Itemized from pages 90-105 of the NARA direct folder scan using the White House News Summary masthead, 5:30 p.m. London / 12:30 p.m. EDT edition line, network-news headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-july-15-1991-230pm-update",
+      documentType: "White House News Summary Update",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 2:30 p.m. EDT / 7:30 p.m. London update, July 15, 1991",
+      documentDate: "1991-07-15",
+      pages: 1,
+      excerpt:
+        "The 2:30 p.m. EDT / 7:30 p.m. London update summarizes census decision coverage, summit developments, Brady, and other late-day news items.",
+      evidence:
+        "Itemized from page 106 of the NARA direct folder scan using the White House News Summary update heading, 2:30 p.m. EDT / 7:30 p.m. London marker, OCR, and rendered-page review.",
+    },
+  ],
   470417389: [
     {
       slug: "presidential-log-selected-congressional-mail",
@@ -9040,6 +9211,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417135",
   "470417151",
   "470417227",
+  "470417253",
   "470418083",
 ]);
 
