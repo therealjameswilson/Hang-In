@@ -15862,6 +15862,286 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 212-213 of the NARA direct folder scan using the color photograph page, Official White House Photo backing page dated 13JUL92, rendered-page review, and low-confidence OCR.",
     },
   ],
+  470417904: [
+    {
+      slug: "foster-lyons-aids-meeting-correspondence-packet",
+      documentType: "Correspondence and Routing Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Ms. Foster and Mr. Lyons AIDS meeting correspondence packet",
+      documentDate: "1992-07-15",
+      pages: 4,
+      excerpt:
+        "Rose Zamaria routes a draft response for Roger Porter to two AIDS activists seeking a meeting with President Bush, with the later Porter reply, the incoming July 10 letter, and White House handling notes attached.",
+      evidence:
+        "Itemized from pages 2-5 of the NARA direct folder scan using the Rose Zamaria routing note to Roger Porter, Dear Ms. Foster and Mr. Lyons reply, incoming AIDS meeting request, White House memo, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jay-allison-campaign-help-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jay Allison campaign-help correspondence packet",
+      documentDate: "1992-07-15",
+      pages: 3,
+      excerpt:
+        "Jay Allison offers to help President Bush during the election, with his handwritten note, longer letter, and Rose Zamaria's note to the President conveying Allison's willingness to assist.",
+      evidence:
+        "Itemized from pages 6-8 of the NARA direct folder scan using the upside-down Jay Allison handwritten note, Rose Zamaria note to the President, Allison incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "july-15-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "Telephone memoranda for President Bush, July 15, 1992",
+      documentDate: "1992-07-15",
+      pages: 2,
+      excerpt:
+        "Two White House telephone memorandum pages record July 15 calls involving Brent Scowcroft, Rose Zamaria, Samuel Skinner, Buddy Roemer, Robert Teeter, Richard Bond, and additional President Bush call-sheet entries.",
+      evidence:
+        "Itemized from pages 9-10 of the NARA direct folder scan using the Telephone Memorandum headings, Signal Switchboard and President Bush labels, July 15 date lines, call entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "july-15-presidential-movements-boulder-wyoming",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-log",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential movements log: Boulder, Wyoming, July 15, 1992",
+      documentDate: "1992-07-15",
+      pages: 1,
+      excerpt:
+        "The WHCA movements log records President Bush's low-key motorcade movements from Baker Ranch to Whylel Ranch and back in Boulder, Wyoming.",
+      evidence:
+        "Itemized from page 11 of the NARA direct folder scan using the Presidential Movements heading, Boulder Wyoming location line, July 15 1992 date, movement times, OCR, and rendered-page review.",
+    },
+    {
+      slug: "apn-daily-briefing-july-15-1992",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing-item",
+      disposition: "itemized-daily-political-briefing",
+      title: "The Daily Briefing on American Politics: Wednesday, July 15, 1992",
+      documentDate: "1992-07-15",
+      pages: 23,
+      excerpt:
+        "The American Political Network daily briefing tracks the Democratic convention, Clinton and Gore, Perot, abortion politics, Senate races, California polling, Supreme Court nominations, and television soundbites.",
+      evidence:
+        "Itemized from pages 12-34 of the NARA direct folder scan using The Daily Briefing on American Politics masthead, Wednesday July 15 1992 date, APN Bulletin Board, Democratic convention sections, Senate Watch pages, TV soundbite page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-bulletin-todays-briefing-july-15-1992",
+      documentType: "Washington Briefing Fax",
+      category: "campaign-briefing",
+      disposition: "itemized-campaign-briefing",
+      title:
+        "White House Bulletin Broadfaxing Network: Today's Briefing, July 15, 1992",
+      documentDate: "1992-07-15",
+      pages: 6,
+      excerpt:
+        "The White House Bulletin fax to Samuel Skinner summarizes morning developments, Yeutter comments on Democratic convention fallout, and a survey of Bush advisers on second-term campaign themes.",
+      evidence:
+        "Itemized from pages 35-40 of the NARA direct folder scan using the Bulletin Broadfaxing Network heading, memorandum for Samuel Skinner, Today's Briefing subject, End of Fax line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-july-15-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary, Wednesday, July 15, 1992",
+      documentDate: "1992-07-15",
+      pages: 14,
+      excerpt:
+        "The White House News Summary covers the President's Wyoming trip, Yugoslavia, industrial production, Pope John Paul II's surgery, trade talks, environmental record, Democratic convention coverage, the Bush campaign complaint against Floyd Brown, and network news.",
+      evidence:
+        "Itemized from pages 41-54 of the NARA direct folder scan using the 12:00 p.m. news update page, 6:00 a.m. edition cover page, A and B section continuation pages, End of News Summary line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "situation-room-rome-cable-pope-john-paul-ii-operation",
+      documentType: "Situation Room Cable",
+      category: "situation-room-cable",
+      disposition: "itemized-situation-room-cable",
+      title:
+        "Situation Room cable from Embassy Rome re Pope John Paul II operation",
+      documentDate: "1992-07-15",
+      pages: 1,
+      excerpt:
+        "An unclassified Embassy Rome cable for Philip Brady reports that Pope John Paul II was being operated on at Gemelli Clinic for intestinal dysfunction and that Ambassador Melady would visit the clinic.",
+      evidence:
+        "Itemized from page 55 of the NARA direct folder scan using the White House Situation Room heading, Embassy Rome cable lines, Pope Operated On Today subject, Brady addressee, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michael-note-rose-roemer-eisner-meeting",
+      documentType: "Staff Note",
+      category: "staff-note",
+      disposition: "itemized-staff-note",
+      title: "Michael note to Rose Zamaria re Roemer call and Michael Eisner meeting",
+      documentDate: "1992-07-15",
+      pages: 1,
+      excerpt:
+        "Michael reports to Rose that Skinner was going to call Governor Roemer and that Gregg Petersmeyer explained the handling of a proposed Michael Eisner meeting during the President's vacation or personal time.",
+      evidence:
+        "Itemized from page 56 of the NARA direct folder scan using the blue Michael-to-Rose note, July 15 1992 date, Roemer and Michael Eisner references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "material-forwarded-president-july-15-1992",
+      documentType: "Material Forwarded to the President",
+      category: "daily-file-routing-list",
+      disposition: "itemized-routing-list",
+      title: "Material Forwarded to the President, July 15, 1992",
+      documentDate: "1992-07-15",
+      pages: 1,
+      excerpt:
+        "The daily material-forwarded sheet lists action, classified, and information items sent to the President, including personnel selections, a Tibet letter, ambassador resignation letters, congratulatory letters, banana exports, science and technology, YPO, and housing starts.",
+      evidence:
+        "Itemized from page 57 of the NARA direct folder scan using the Material Forwarded to the President heading, July 15 1992 date, action/classified/information sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "h-ross-perot-daybook-july-15-1992",
+      documentType: "Campaign Daybook",
+      category: "campaign-briefing",
+      disposition: "itemized-campaign-briefing",
+      title: "H. Ross Perot Daybook: Wednesday, July 15, 1992",
+      documentDate: "1992-07-15",
+      pages: 1,
+      excerpt:
+        "The Perot daybook notes that no schedule was available, lists upcoming petition rallies, and summarizes news on Hamilton Jordan, Perot organization, polling, and campaign commentary.",
+      evidence:
+        "Itemized from page 58 of the NARA direct folder scan using the H. Ross Perot Daybook heading, Wednesday July 15 1992 date, schedule and news sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-light-william-paul-fetzer",
+      documentType: "Daily Point of Light Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Daily Point of Light release: William Paul Fetzer",
+      documentDate: "1992-07-15",
+      pages: 1,
+      excerpt:
+        "The White House Office of the Press Secretary announces William Paul Fetzer of Lebanon, Pennsylvania, as the 831st Daily Point of Light for the Nation.",
+      evidence:
+        "Itemized from page 59 of the NARA direct folder scan using the Office of the Press Secretary release heading, Jackson Hole Wyoming location, July 15 1992 date, William Paul Fetzer name line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-office-clippings-july-15-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title:
+        "Mrs. Bush's Press Office Daily Press Clippings: Wednesday, July 15, 1992",
+      documentDate: "1992-07-15",
+      pages: 20,
+      excerpt:
+        "Mrs. Bush's Press Office daily clippings include coverage of First Ladies exhibit material, the Hillary Clinton and Barbara Bush cookie contest, Hillary Clinton convention coverage, women and politics, and Democratic convention hotel items.",
+      evidence:
+        "Itemized from pages 60-79 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover page, Wednesday July 15 1992 date, recipient list, clipping mastheads, USA Today item ending page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-participation-tv-documentary-israel-packet",
+      documentType: "Video Request and NSC Action Packet",
+      category: "event-request",
+      disposition: "itemized-event-request",
+      title: "Presidential participation in TV documentary on Israel packet",
+      documentDate: "1992-07-15",
+      pages: 3,
+      excerpt:
+        "A video request sheet, NSC action memorandum, and President Bush note address proposed presidential participation in a television documentary on Israel involving Abba Eban, Eli Jacobs, and Jack Stein.",
+      evidence:
+        "Itemized from pages 80-82 of the NARA direct folder scan using the video request page with Beth sticky note, NSC memorandum for Phillip Brady, From the President note to Brent Scowcroft, OCR, and rendered-page review.",
+    },
+    {
+      slug: "peter-teeley-reception-invitation",
+      documentType: "Invitation",
+      category: "event-invitation",
+      disposition: "itemized-event-invitation",
+      title: "Baker & McKenzie Peter B. Teeley reception invitation",
+      documentDate: "1992-07-15",
+      pages: 2,
+      excerpt:
+        "Baker & McKenzie invites the recipient to a July 30 reception at the Decatur House honoring Peter B. Teeley, United States Ambassador to Canada, with the office-location page attached and a July 15 regret annotation.",
+      evidence:
+        "Itemized from pages 83-84 of the NARA direct folder scan using the Baker & McKenzie invitation, Peter B. Teeley honoree line, Decatur House details, worldwide office page, handwritten 7/15/92 regrets note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-6-san-diego-jackson-hole-july-15-1992",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #6: San Diego to Jackson Hole, July 15, 1992",
+      documentDate: "1992-07-15",
+      pages: 1,
+      excerpt:
+        "Pool Report #6 covers President Bush's departure from San Diego after Jack Murphy Stadium, the motorcade and aircraft movements, and arrival context for Jackson Hole, Wyoming.",
+      evidence:
+        "Itemized from page 85 of the NARA direct folder scan using the Pool Report #6 heading, Jackson Hole Wyoming line, San Diego motorcade and Miramar Naval Air Station text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-wallach-call-campaign-suggestions-note",
+      documentType: "Call Note",
+      category: "telephone-note-packet",
+      disposition: "itemized-telephone-note-packet",
+      title: "Patty Presock note re John Wallach call and campaign suggestions",
+      documentDate: "1992-07-15",
+      pages: 1,
+      excerpt:
+        "Patty Presock records John Wallach's personal call to touch base, noting his long support for President Bush, work with Hearst's We newspaper in Russia, and campaign suggestions built around courage, consistency, and common sense.",
+      evidence:
+        "Itemized from page 86 of the NARA direct folder scan using the John Wallach call note, Patty Presock signature, Wednesday July 15 1992 date, campaign-suggestions text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bush-quayle-media-buying-authorization-packet",
+      documentType: "Campaign Media Authorization Packet",
+      category: "campaign-document",
+      disposition: "itemized-campaign-document",
+      title: "Bush-Quayle '92 media buying authorization packet",
+      documentDate: "1992-07-15",
+      pages: 4,
+      excerpt:
+        "A Bush-Quayle '92 memo to Rose Zamaria forwards the President-signed media buying authorization, with Bobby Burchfield's memorandum and authorization letters for November Company media time and space purchases.",
+      evidence:
+        "Itemized from pages 87-90 of the NARA direct folder scan using the Bush-Quayle '92 memo from Mark Burstein to Rose Zamaria, Bobby Burchfield memorandum, To Whom It May Concern authorization letters, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photo-bush-baker-fishing-trip",
+      documentType: "Official White House Photograph",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photograph of Bush-Baker fishing trip, July 15, 1992",
+      documentDate: "1992-07-15",
+      pages: 2,
+      excerpt:
+        "A color Official White House photograph shows President Bush and others fishing during the Wyoming trip, with the stamped photo back page attached.",
+      evidence:
+        "Itemized from pages 91-92 of the NARA direct folder scan using the color fishing-trip photograph, rotated Official White House photo backing page, rendered-page review, and low-confidence OCR.",
+    },
+    {
+      slug: "daily-news-clips-july-15-1992",
+      documentType: "Daily News Clips Packet",
+      category: "daily-news-clips",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips: Wednesday, July 15, 1992",
+      documentDate: "1992-07-15",
+      pages: 123,
+      excerpt:
+        "The Office of Media Affairs Daily News Clips packet collects July 15 coverage from the Washington Post, Washington Times, Wall Street Journal, USA Today, and New York Times on the Democratic convention, Clinton, Gore, Perot, Bush and Baker, NAFTA, nuclear testing, Yugoslavia, AIDS, and campaign commentary.",
+      evidence:
+        "Itemized from pages 93-215 of the NARA direct folder scan using the Daily News Clips cover page, newspaper mastheads, Washington Post pages, USA Today pages, Wall Street Journal pages, New York Times pages, Washington Times pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "elsie-walker-kilborne-tibet-letter",
+      documentType: "Presidential Letter with Handwriting",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush letter to Elsie Walker Kilborne re Tibetans in India and China",
+      documentDate: "1992-06-15",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Elsie Walker Kilborne for her analysis of Tibetans in India and China, discusses dialogue between the Chinese and Tibetan people, and adds handwritten scheduling and personal notes.",
+      evidence:
+        "Itemized from page 216 of the NARA direct folder scan using the White House letter to Elsie Walker Kilborne, June 15 1992 date, Tibet text, Bush signature and handwriting, OCR, and rendered-page review.",
+    },
+  ],
   470417970: [
     {
       slug: "treasury-forwarding-note-brady-houston-club-materials",
@@ -21717,6 +21997,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417878",
   "470417888",
   "470417900",
+  "470417904",
   "470418083",
 ]);
 
