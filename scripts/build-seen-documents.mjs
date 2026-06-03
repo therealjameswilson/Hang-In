@@ -3989,6 +3989,398 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 161-168 of the NARA direct folder scan using rendered-page review of the color photographs, photo backs, and handwritten note.",
     },
   ],
+  470417649: [
+    {
+      slug: "sam-walton-medal-freedom-release",
+      documentType: "Press Release",
+      category: "white-house-press-release",
+      disposition: "itemized-press-release",
+      title: "White House press release announcing Presidential Medal of Freedom award to Sam M. Walton",
+      documentDate: "1992-03-16",
+      pages: 1,
+      excerpt:
+        "The White House announces that the President will award the Presidential Medal of Freedom to Sam M. Walton.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the Office of the Press Secretary heading, release date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "steeltech-speech-staffing-draft-packet",
+      documentType: "Speech Material Packet",
+      category: "speech-material",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Steeltech remarks staffing memorandum, cover memo, and Draft Three packet",
+      documentDate: "1992-03-13",
+      pages: 6,
+      excerpt:
+        "A White House staffing memorandum, Beth Hinchliffe cover memorandum, and Draft Three speech text prepare the President's March 16 remarks at Steeltech in Milwaukee.",
+      evidence:
+        "Itemized from pages 3-8 of the NARA direct folder scan using the White House staffing memorandum, memorandum to the President, Draft Three heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sam-walton-kathy-fairfield-campaign-note",
+      documentType: "Presidential Handwritten Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Presidential handwritten note re Sam Walton, Kathy, and Fairfield campaign material",
+      documentDate: "1992-03-16",
+      pages: 1,
+      excerpt:
+        "A From the desk of George Bush page carries the President's note about giving Sam his item, getting Kathy's material to her quickly, and a yellow note about Fairfield campaign material.",
+      evidence:
+        "Itemized from page 9 of the NARA direct folder scan using the George Bush note sheet, yellow attached note, handwriting markers, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kasten-lahey-meeting-note",
+      documentType: "Note from the President",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "From the President note re meeting with Senators Kasten and Lahey",
+      documentDate: "1992-03-16",
+      pages: 1,
+      excerpt:
+        "The President asks Sam Skinner, Kathy Super, John Howe, and Nick Calio to arrange a close-hold Tuesday meeting with Senators Kasten and Lahey.",
+      evidence:
+        "Itemized from page 10 of the NARA direct folder scan using the From the President stationery, addressee line, subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "steeltech-final-remarks-copy",
+      documentType: "Presidential Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Presidential remarks at Steeltech in Milwaukee, final copy",
+      documentDate: "1992-03-16",
+      pages: 7,
+      excerpt:
+        "A clean large-type copy of the President's Steeltech remarks addresses regulation, jobs, taxes, congressional action, and Steeltech's future.",
+      evidence:
+        "Itemized from pages 11-17 of the NARA direct folder scan using the Steeltech heading, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "polish-national-alliance-remarks-copy",
+      documentType: "Presidential Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Presidential remarks to the Polish National Alliance in Chicago",
+      documentDate: "1992-03-16",
+      pages: 8,
+      excerpt:
+        "A large-type remarks copy for the Polish National Alliance in Chicago covers Polish-American ties, freedom, government, and the 1992 campaign.",
+      evidence:
+        "Itemized from pages 18-25 of the NARA direct folder scan using the Polish National Alliance heading, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chicago-fundraiser-remarks-draft",
+      documentType: "Presidential Remarks Draft",
+      category: "presidential-remarks",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Chicago fundraiser remarks draft for Hyatt Regency Bush-Quayle dinner",
+      documentDate: "1992-03-16",
+      pages: 11,
+      excerpt:
+        "A Chicago fundraiser draft for the Hyatt Regency dinner addresses Illinois supporters, Congress, jobs, family, foreign policy, and the campaign.",
+      evidence:
+        "Itemized from pages 26-36 of the NARA direct folder scan using the Chicago Fundraiser heading, time line, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "milwaukee-fundraiser-remarks-draft",
+      documentType: "Presidential Remarks Draft",
+      category: "presidential-remarks",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Milwaukee fundraiser remarks draft for Pfister Hotel event",
+      documentDate: "1992-03-16",
+      pages: 11,
+      excerpt:
+        "A Milwaukee fundraiser draft for the Pfister Hotel covers Wisconsin supporters, jobs, taxes, family, education, and the President's campaign argument.",
+      evidence:
+        "Itemized from pages 37-47 of the NARA direct folder scan using the Milwaukee Fundraiser heading, time line, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "brady-national-press-club-handwritten-exchange",
+      documentType: "Handwritten Note",
+      category: "economic-policy-note",
+      disposition: "itemized-handwritten-note",
+      title: "Handwritten exchange re Nicholas Brady's National Press Club speech and economic optimism",
+      documentDate: "1992-03-16",
+      pages: 2,
+      excerpt:
+        "A Treasury Department note forwards Secretary Brady's National Press Club speech as useful economic material, with a second handwritten page recording political reaction to House and Senate prospects.",
+      evidence:
+        "Itemized from pages 48-49 of the NARA direct folder scan using the Treasury Department letterhead note, presidential handwriting, rotated rendered-page review, and attached-note markings.",
+    },
+    {
+      slug: "dow-jones-brady-retail-sales-wire",
+      documentType: "Wire Story",
+      category: "press-wire-story",
+      disposition: "itemized-wire-story",
+      title: "Dow Jones wire story on Brady citing retail-sales data and economic growth",
+      documentDate: "1992-03-12",
+      pages: 1,
+      excerpt:
+        "A Dow Jones story reports Secretary Nicholas Brady's argument that retail-sales data show the U.S. economy returning to a pattern of growth.",
+      evidence:
+        "Itemized from page 50 of the NARA direct folder scan using the DOW-QA wire heading, timestamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "knight-ridder-brady-economy-wire",
+      documentType: "Wire Story",
+      category: "press-wire-story",
+      disposition: "itemized-wire-story",
+      title: "Knight-Ridder wire story on Brady, the economy, and money-supply growth",
+      documentDate: "1992-03-12",
+      pages: 1,
+      excerpt:
+        "A Knight-Ridder story reports Brady's prepared National Press Club remarks on recovery, money-supply growth, retail sales, and Bush tax policy.",
+      evidence:
+        "Itemized from page 51 of the NARA direct folder scan using the KRF-Ec wire heading, timestamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "brady-national-press-club-treasury-news",
+      documentType: "Treasury News Release",
+      category: "treasury-news-release",
+      disposition: "itemized-news-release",
+      title: "Treasury News release of Secretary Nicholas F. Brady remarks to the National Press Club",
+      documentDate: "1992-03-12",
+      pages: 4,
+      excerpt:
+        "The Treasury News text of Brady's National Press Club remarks argues against pessimism about America's economic future and discusses recovery.",
+      evidence:
+        "Itemized from pages 52-55 of the NARA direct folder scan using the Treasury News masthead, remarks title, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "secretary-brady-call-note",
+      documentType: "Note to the President",
+      category: "note-to-president",
+      disposition: "itemized-note-to-president",
+      title: "Note to the President re Secretary Brady call and attached materials",
+      documentDate: "1992-03-12",
+      pages: 1,
+      excerpt:
+        "Rose Zamaria notes that Secretary Brady wanted to talk with the President; the handwritten response says that after calling, Brady brought over the attached material.",
+      evidence:
+        "Itemized from page 56 of the NARA direct folder scan using the typed Rose Zamaria note, handwritten response, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-favorites-update-packet",
+      documentType: "Note and Favorites List Packet",
+      category: "personal-background-packet",
+      disposition: "itemized-personal-background-packet",
+      title: "White House note and George Bush favorites-list update packet",
+      documentDate: "1992-03-16",
+      pages: 5,
+      excerpt:
+        "A White House note asks the President to update a favorites list; the packet includes a marked favorites list and a George To George comparison of George Washington and George Bush favorites.",
+      evidence:
+        "Itemized from pages 57-61 of the NARA direct folder scan using the handwritten White House note, favorites-list heading, George To George page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "boyden-gray-congressional-inaction-memo",
+      documentType: "Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Memorandum from C. Boyden Gray re responses to congressional inaction",
+      documentDate: "1992-03-12",
+      pages: 2,
+      excerpt:
+        "C. Boyden Gray suggests responses to congressional inaction, including pork cancellation, steel and content issues, and employee rights legislation.",
+      evidence:
+        "Itemized from pages 62-63 of the NARA direct folder scan using the White House memorandum heading, subject line, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-collins-radio-call-sheet",
+      documentType: "Recommended Telephone Call",
+      category: "call-sheet",
+      disposition: "itemized-call-sheet",
+      title: "Recommended telephone call sheet for Bob Collins of WGN Radio",
+      documentDate: "1992-03-11",
+      pages: 2,
+      excerpt:
+        "The Bush-Quayle call sheet recommends a live March 16 WGN Radio call with Bob Collins to reach Illinois voters before the Republican primary.",
+      evidence:
+        "Itemized from pages 64-65 of the NARA direct folder scan using the Bush-Quayle recommended telephone call form, recipient block, topic list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jp-mccarthy-radio-call-sheet",
+      documentType: "Recommended Telephone Call",
+      category: "call-sheet",
+      disposition: "itemized-call-sheet",
+      title: "Recommended telephone call sheet for J. P. McCarthy of WJR Radio",
+      documentDate: "1992-03-11",
+      pages: 2,
+      excerpt:
+        "The Bush-Quayle call sheet recommends a live March 16 WJR Radio call with J. P. McCarthy to reach Michigan voters before the Republican primary.",
+      evidence:
+        "Itemized from pages 66-67 of the NARA direct folder scan using the Bush-Quayle recommended telephone call form, recipient block, topic list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "yeutter-rio-conference-memo",
+      documentType: "Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Memorandum from Clayton Yeutter re Rio conference attendance",
+      documentDate: "1992-03-12",
+      pages: 1,
+      excerpt:
+        "Clayton Yeutter follows up on a conversation about the Rio conference, noting interagency preparations and the political risk of presidential attendance.",
+      evidence:
+        "Itemized from page 68 of the NARA direct folder scan using the White House memorandum heading, Yeutter signature line, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nick-calio-jack-russ-resignation-memo",
+      documentType: "Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Memorandum from Nick Calio re Jack Russ resignation call",
+      documentDate: "1992-03-12",
+      pages: 1,
+      excerpt:
+        "Nick Calio reports Jack Russ's resignation call and the President writes instructions to call Jack and give him the President's message.",
+      evidence:
+        "Itemized from page 69 of the NARA direct folder scan using the White House memorandum heading, The President Has Seen stamp, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "salinas-brenner-phelps-decision-note",
+      documentType: "Decision Note to the President",
+      category: "decision-note",
+      disposition: "itemized-decision-note",
+      title: "Decision note re Salinas call, Susie Brenner visit, and Ashton Phelps tennis invitation",
+      documentDate: "1992-03-16",
+      pages: 2,
+      excerpt:
+        "A yellow attached note and typed decision note ask the President about a call to President Salinas, a visit by Glen Brenner's wife Susie, and a tennis invitation from Ashton Phelps.",
+      evidence:
+        "Itemized from pages 70-71 of the NARA direct folder scan using the attached yellow note marker, typed decision note, handwritten choices, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-brenner-phone-number-followup",
+      documentType: "Follow-up Note Packet",
+      category: "media-affairs-followup",
+      disposition: "itemized-followup-note",
+      title: "Media Affairs follow-up re Mrs. Brenner phone number and visit request",
+      documentDate: "1992-03-24",
+      pages: 2,
+      excerpt:
+        "Scott Sforza sends Rose Zamaria and Bridget Montagne contact guidance for Mrs. Brenner, followed by an April 1 note that Mrs. Brenner preferred not to be invited.",
+      evidence:
+        "Itemized from pages 72-73 of the NARA direct folder scan using the Executive Office of the President note, Mrs. Brenner subject line, note-for-file page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "salinas-brenner-phelps-marked-blue-copy",
+      documentType: "Decision Note Copy",
+      category: "decision-note",
+      disposition: "itemized-decision-note-copy",
+      title: "Marked blue copy of Salinas, Brenner, and Phelps decision note",
+      documentDate: "1992-03-16",
+      pages: 1,
+      excerpt:
+        "A blue-copy version of the March 16 decision note preserves additional handwritten markings about President Salinas, Susie Brenner, and Ashton Phelps.",
+      evidence:
+        "Itemized from page 74 of the NARA direct folder scan using the blue paper copy, duplicate decision-note text, handwritten markings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "christopher-halverson-prayer-letter-call-note",
+      documentType: "Presidential Letter and Call Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Reverend Christopher Halverson prayer request response packet",
+      documentDate: "1992-03-16",
+      pages: 2,
+      excerpt:
+        "The President sends Reverend Christopher Halverson a signed reply about the power of prayer, with the attached phone-call note explaining Halverson's request to visit with his father.",
+      evidence:
+        "Itemized from pages 75-76 of the NARA direct folder scan using the presidential letter, signed response, phone-call note, Presock notation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hermogenes-capati-condolence-packet",
+      documentType: "Presidential Letter and Address Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Hermogenes R. Capati condolence letter and Camp David address note",
+      documentDate: "1992-03-16",
+      pages: 2,
+      excerpt:
+        "The President sends Hermogenes R. Capati condolences on the loss of his father, with an attached Camp David address and telephone note.",
+      evidence:
+        "Itemized from pages 77-78 of the NARA direct folder scan using the presidential letter, handwritten condolence text, address note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gerald-ford-buchanan-thanks-note",
+      documentType: "Presidential Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Presidential note to Gerald R. Ford re support and Pat Buchanan",
+      documentDate: "1992-03-16",
+      pages: 1,
+      excerpt:
+        "The President thanks Gerald Ford for strong support and for calling on Pat Buchanan to bail out, while noting the economy, campaign, and Buchanan's divisiveness.",
+      evidence:
+        "Itemized from page 79 of the NARA direct folder scan using the Air Force One stationery, Gerald Ford address block, handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-motorcade-steeltech-plant-tour",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #2 re motorcade to Steeltech and plant tour",
+      documentDate: "1992-03-16",
+      pages: 1,
+      excerpt:
+        "Pool Report #2 covers the President's Milwaukee motorcade to Steeltech and plant tour before his remarks.",
+      evidence:
+        "Itemized from page 80 of the NARA direct folder scan using the Pool Report #2 heading, route and plant-tour text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-andrews-milwaukee-af1-qa",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #1 re Andrews-to-Milwaukee flight and Air Force One Q&A",
+      documentDate: "1992-03-16",
+      pages: 2,
+      excerpt:
+        "Pool Report #1 covers the Andrews-to-Milwaukee flight and a near-verbatim Air Force One Q&A with the President.",
+      evidence:
+        "Itemized from pages 81-82 of the NARA direct folder scan using the Pool Report #1 heading, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-milwaukee-airport-hyatt-chicago",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #3 re Milwaukee airport to the Hyatt Regency Chicago",
+      documentDate: "1992-03-16",
+      pages: 1,
+      excerpt:
+        "Pool Report #3 covers the President's movement from Milwaukee airport to the Hyatt Regency Chicago.",
+      evidence:
+        "Itemized from page 83 of the NARA direct folder scan using the Pool Report #3 heading, travel text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bush-quayle-fundraising-dinner-release",
+      documentType: "Press Release",
+      category: "presidential-remarks",
+      disposition: "itemized-press-release",
+      title: "Remarks by the President at Bush-Quayle fundraising dinner in Chicago",
+      documentDate: "1992-03-16",
+      pages: 5,
+      excerpt:
+        "White House press release transcript of the President's remarks at the Bush-Quayle fundraising dinner at the Hyatt Regency Chicago Hotel.",
+      evidence:
+        "Itemized from pages 84-88 of the NARA direct folder scan using the Office of the Press Secretary heading, remarks title, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "march-16-trip-photograph-packet",
+      documentType: "Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Photographs from the President's March 16 Milwaukee and Chicago trip",
+      documentDate: "1992-03-16",
+      pages: 9,
+      excerpt:
+        "A photograph packet shows the President aboard Air Force One, speaking, and attending March 16 Milwaukee and Chicago events, with official White House photograph backing labels.",
+      evidence:
+        "Itemized from pages 89-97 of the NARA direct folder scan using rendered-page review of color photographs, event labels, and official White House photograph backing pages.",
+    },
+  ],
   470417713: [
     {
       slug: "billy-graham-convention-note",
@@ -11041,6 +11433,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417565",
   "470417566",
   "470417640",
+  "470417649",
   "470418083",
 ]);
 
