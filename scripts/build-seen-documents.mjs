@@ -8760,6 +8760,450 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 100-106 of the NARA direct folder scan using the Florida International University and Miami sticky-note labels, official White House photograph stamp, color photograph pages, and rendered-page review.",
     },
   ],
+  470417739: [
+    {
+      slug: "capital-market-regulation-reforms-fact-sheet",
+      documentType: "Fact Sheet",
+      category: "press-release-fact-sheet",
+      disposition: "itemized-press-release",
+      title: "Fact sheet on capital market regulation reforms",
+      documentDate: "1992-04-28",
+      pages: 5,
+      excerpt:
+        "The Office of the Press Secretary fact sheet describes SEC and CFTC regulatory changes on capital market regulation, asset-backed financing, Rule 144A, commodity pools, and small-business disclosure.",
+      evidence:
+        "Itemized from pages 2-6 of the NARA direct folder scan using the immediate-release heading, fact-sheet title, continuation text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "armed-services-chairmen-national-defense-report-letter",
+      documentType: "Letter Text",
+      category: "press-release-letter-text",
+      disposition: "itemized-press-release",
+      title: "Text of letter to Armed Services Committee chairmen re National Defense Authorization Act report",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The Office of the Press Secretary releases the text of the President's April 28 letter to the Senate and House Armed Services Committee chairmen transmitting a report pursuant to the National Defense Authorization Act.",
+      evidence:
+        "Itemized from page 7 of the NARA direct folder scan using the immediate-release heading, Armed Services Committee chairmen title, statutory report text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-mason-memorial-signing-statement",
+      documentType: "Statement",
+      category: "press-release-statement",
+      disposition: "itemized-press-release",
+      title: "Statement by the President on signing H.J. Res. 402 re George Mason memorial",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The President states that he has signed H.J. Res. 402 approving the location of a George Mason memorial in the District of Columbia and its environs.",
+      evidence:
+        "Itemized from page 8 of the NARA direct folder scan using the immediate-release heading, Statement by the President title, George Mason memorial text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "press-secretary-gaydar-meeting-statement",
+      documentType: "Statement by the Press Secretary",
+      category: "press-release-statement",
+      disposition: "itemized-press-release",
+      title: "Statement by the Press Secretary on the President's meeting with Yegor Gaydar",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The statement reports the President's Oval Office meeting with Russian First Deputy Prime Minister Yegor Gaydar, focused mainly on Russian economic reform and IMF-related issues.",
+      evidence:
+        "Itemized from page 9 of the NARA direct folder scan using the immediate-release heading, Gaydar meeting text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "neh-annual-report-transmittal-message",
+      documentType: "Message to Congress",
+      category: "message-to-congress",
+      disposition: "itemized-press-release",
+      title: "Message to Congress transmitting the National Endowment for the Humanities fiscal 1991 annual report",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The President transmits the 25th Annual Report of the National Endowment for the Humanities for fiscal year 1991 to Congress.",
+      evidence:
+        "Itemized from page 10 of the NARA direct folder scan using the immediate-release heading, To the Congress salutation, NEH annual-report text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "federal-council-aging-annual-report-transmittal-message",
+      documentType: "Message to Congress",
+      category: "message-to-congress",
+      disposition: "itemized-press-release",
+      title: "Message to Congress transmitting the Federal Council on the Aging 1991 annual report",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The President transmits the Annual Report for 1991 of the Federal Council on the Aging under the Older Americans Act.",
+      evidence:
+        "Itemized from page 11 of the NARA direct folder scan using the immediate-release heading, To the Congress salutation, Federal Council on the Aging text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "job-training-2000-act-transmittal-message",
+      documentType: "Message to Congress",
+      category: "message-to-congress",
+      disposition: "itemized-press-release",
+      title: "Message to Congress transmitting the Job Training 2000 Act",
+      documentDate: "1992-04-28",
+      pages: 2,
+      excerpt:
+        "The President transmits proposed Job Training 2000 Act legislation to reform the federal vocational training system through local skill centers, labor-market information, and related services.",
+      evidence:
+        "Itemized from pages 12-13 of the NARA direct folder scan using the immediate-release heading, Job Training 2000 Act text, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-congress-in-print-april-28-1992",
+      documentType: "Congressional Monitor Packet",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title: "Congressional Monitor and Congress In Print packet: April 28, 1992",
+      documentDate: "1992-04-28",
+      pages: 30,
+      excerpt:
+        "The packet includes the April 28 Congressional Monitor issue, congressional schedules and committee listings, CQ legislative advertising material, and a Congress In Print issue.",
+      evidence:
+        "Itemized from pages 14-43 of the NARA direct folder scan using Congressional Monitor and Congress In Print mastheads, dated issue pages, committee listings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "press-secretary-turgut-ozal-meeting-statement",
+      documentType: "Statement by the Press Secretary",
+      category: "press-release-statement",
+      disposition: "itemized-press-release",
+      title: "Statement by the Press Secretary on the President's meeting with President Turgut Ozal",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The statement reports the President's Oval Office meeting with Turkish President Turgut Ozal and notes discussions of Cyprus, Iraq, Central Asia, and Bosnia.",
+      evidence:
+        "Itemized from page 44 of the NARA direct folder scan using the immediate-release heading, Turgut Ozal meeting text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bush-quayle-campaign-headquarters-remarks",
+      documentType: "Remarks",
+      category: "press-release-remarks",
+      disposition: "itemized-press-release",
+      title: "Press release: remarks by the President at Bush/Quayle campaign headquarters",
+      documentDate: "1992-04-28",
+      pages: 3,
+      excerpt:
+        "The Office of the Press Secretary releases the President's remarks at Bush/Quayle campaign headquarters in Washington, D.C., including comments on campaign strategy, education, and congressional change.",
+      evidence:
+        "Itemized from pages 45-47 of the NARA direct folder scan using the Remarks by the President heading, Bush/Quayle campaign headquarters title, time stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "loyalty-day-1992-proclamation",
+      documentType: "Proclamation",
+      category: "proclamation",
+      disposition: "itemized-proclamation",
+      title: "Loyalty Day, 1992 proclamation",
+      documentDate: "1992-04-28",
+      pages: 2,
+      excerpt:
+        "The proclamation designates May 1, 1992, as Loyalty Day and calls on Americans and government officials to observe the day with appropriate ceremonies and flag displays.",
+      evidence:
+        "Itemized from pages 48-49 of the NARA direct folder scan using the immediate-release heading, Loyalty Day title, proclamation text, signature page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "telephone-memoranda-april-28-1992",
+      documentType: "Telephone Memoranda",
+      category: "telephone-memoranda",
+      disposition: "itemized-telephone-logs",
+      title: "Telephone memoranda for President Bush: April 28, 1992",
+      documentDate: "1992-04-28",
+      pages: 3,
+      excerpt:
+        "Telephone memorandum pages for President Bush and the Signal Switchboard list April 28 call activity, including a morning outgoing call to Katherine Super and a no-calls page.",
+      evidence:
+        "Itemized from pages 50-52 of the NARA direct folder scan using the Telephone Memorandum headings, Signal Switchboard page, April 28 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-april-28-1992",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential movements log: Washington, D.C., April 28, 1992",
+      documentDate: "1992-04-28",
+      pages: 2,
+      excerpt:
+        "The WHCA presidential movements log records President Bush's April 28 movements in Washington, D.C., from the South Grounds to the Oval Office, Cabinet Room, Rose Garden, and Residence.",
+      evidence:
+        "Itemized from pages 53-54 of the NARA direct folder scan using the Presidential Movements heading, Washington, D.C. location, April 28 date, movement times, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidents-dinner-remarks",
+      documentType: "Remarks",
+      category: "press-release-remarks",
+      disposition: "itemized-press-release",
+      title: "Press release: remarks by the President at the President's Dinner",
+      documentDate: "1992-04-28",
+      pages: 2,
+      excerpt:
+        "The Office of the Press Secretary releases the President's evening remarks at the President's Dinner at the Washington Convention Center, including comments on Republican leadership and the Democratic Congress.",
+      evidence:
+        "Itemized from pages 55-56 of the NARA direct folder scan using the Remarks by the President heading, President's Dinner title, Washington Convention Center location, OCR, and rendered-page review.",
+    },
+    {
+      slug: "stephen-farrar-resignation-acceptance-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Stephen P. Farrar resignation and presidential acceptance letter packet",
+      documentDate: "1992-04-28",
+      pages: 2,
+      excerpt:
+        "The President accepts Stephen P. Farrar's resignation as Special Assistant to the President for Policy Development as Farrar moves to become chief of staff at the Office of the U.S. Trade Representative; the packet includes Farrar's April 9 resignation letter.",
+      evidence:
+        "Itemized from pages 57-58 of the NARA direct folder scan using the outgoing Dear Steve letter, Stephen P. Farrar address block and signature, resignation text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "edgar-bronfman-world-jewish-congress-invitation-reply-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Edgar M. Bronfman World Jewish Congress invitation reply packet",
+      documentDate: "1992-04-28",
+      pages: 3,
+      excerpt:
+        "The President declines Edgar M. Bronfman's invitation to address the World Jewish Congress conference in Brussels because it conflicts with the Economic Summit; the packet includes outgoing copy, signed copy, and Bronfman's April 1 invitation.",
+      evidence:
+        "Itemized from pages 59-61 of the NARA direct folder scan using the Edgar M. Bronfman address blocks, World Jewish Congress letterhead, Economic Summit text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "calio-weekly-legislative-report-april-28-may-1-1992",
+      documentType: "Weekly Legislative Report",
+      category: "weekly-legislative-report",
+      disposition: "itemized-legislative-report",
+      title: "Nicholas E. Calio weekly legislative report: April 28-May 1, 1992",
+      documentDate: "1992-05-01",
+      pages: 5,
+      excerpt:
+        "Nicholas E. Calio's weekly report to the President covers campaign finance reform, NASA authorization, family planning, rescissions, next week's congressional agenda, and selected congressional activity.",
+      evidence:
+        "Itemized from pages 62-66 of the NARA direct folder scan using the Memorandum for the President heading, Weekly Legislative Report subject, attachments, OCR, and rendered-page review.",
+    },
+    {
+      slug: "expo-92-national-day-performer-memorandum-packet",
+      documentType: "Memorandum Packet",
+      category: "memorandum-packet",
+      disposition: "itemized-memorandum",
+      title: "Memorandum and handwritten notes re Expo '92 U.S. National Day performer",
+      documentDate: "1992-04-28",
+      pages: 4,
+      excerpt:
+        "A memorandum to the President discusses the search for a performer for National Day of the United States at Expo '92 after Whitney Houston backed out, with related handwritten notes and the President's handwritten comment that he cannot get into the matter.",
+      evidence:
+        "Itemized from pages 67-70 of the NARA direct folder scan using the typed memorandum to the President, Fred Bush and Expo references, handwritten Bush response, related handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-news-clips-april-28-1992",
+      documentType: "Daily News Clips",
+      category: "daily-news-clips-item",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips: April 28, 1992",
+      documentDate: "1992-04-28",
+      pages: 64,
+      excerpt:
+        "The daily news-clips packet compiles April 28 coverage and commentary from the Washington Post, Washington Times, Wall Street Journal, USA Today, and New York Times on the House Bank, Ross Perot, Clinton, Russia and the IMF, Syria, Iraq, the President's Dinner, campaign finance, food guidelines, and related political issues.",
+      evidence:
+        "Itemized from pages 71-134 of the NARA direct folder scan using the Daily News Clips cover, Office of Media Affairs source list, newspaper mastheads, article starts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-cousens-white-maine-lobster-concerns",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to David Cousens and Patten White re Maine lobster fishermen",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The President tells David Cousens and Patten White of the Maine Lobstermen's Association that he has passed along their concerns while weighing conservation issues and jobs for Maine lobster fishermen and workers.",
+      evidence:
+        "Itemized from page 135 of the NARA direct folder scan using the White House letterhead, Cousens and White address block, Maine Lobstermen's Association text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-alison-gregg-corcoran-birth-greeting",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Alison Gregg Corcoran re birth greeting",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The President and Mrs. Bush welcome Alison Gregg Corcoran after her April 4 birth and send wishes for health and happiness.",
+      evidence:
+        "Itemized from page 136 of the NARA direct folder scan using the Dear Alison salutation, Alison Gregg Corcoran address block, birth greeting text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-william-conor-birth-greeting",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to William Conor re birth greeting",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The President and Mrs. Bush welcome William Conor after his February 27 birth and send wishes for health and happiness.",
+      evidence:
+        "Itemized from page 137 of the NARA direct folder scan using the Dear William salutation, William Conor address block, birth greeting text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-christopher-blessington-dallas-event-staff",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Christopher M. Blessington re Dallas event advance and Secret Service staffs",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The President thanks Christopher M. Blessington for recognizing the Advance and Secret Service staffs assigned to a Dallas event and for his own work on the event.",
+      evidence:
+        "Itemized from page 138 of the NARA direct folder scan using the White House letterhead, Christopher M. Blessington address block, Dallas event staff text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-craig-pendleton-maine-fishing-levels",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Captain Craig A. Pendleton re Maine fishing levels",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The President tells Captain Craig A. Pendleton of the Maine Fisherman's Cooperative Association that staff experts will review materials on proposed reductions in fishing levels.",
+      evidence:
+        "Itemized from page 139 of the NARA direct folder scan using the Dear Captain Pendleton salutation, Maine Fisherman's Cooperative Association address block, fishing-levels text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-nj-nicholas-trade-environment-resignations",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to N. J. Nicholas Jr. re trade and environmental resignations",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The President accepts N. J. Nicholas Jr.'s resignations from the Advisory Committee on Trade Policy and Negotiations and the President's Commission on Environmental Quality.",
+      evidence:
+        "Itemized from page 140 of the NARA direct folder scan using the Dear Nick salutation, N. J. Nicholas Jr. address block, dual resignations text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-archbishop-iakovos-easter-message",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Archbishop Iakovos re Easter message and American conscience",
+      documentDate: "1992-04-28",
+      pages: 2,
+      excerpt:
+        "The President thanks Archbishop Iakovos for Easter prayers and reflections on a reawakening of the American conscience, replying with comments on optimism, national purpose, and newly democratic nations.",
+      evidence:
+        "Itemized from pages 141-142 of the NARA direct folder scan using the Your Eminence salutation, Archbishop Iakovos address block, two-page continuation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-william-byron-retirement-catholic-university",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to the Reverend William J. Byron re Catholic University retirement",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The President congratulates the Reverend William J. Byron, S.J., on his retirement as President of The Catholic University of America.",
+      evidence:
+        "Itemized from page 143 of the NARA direct folder scan using the Dear Father Byron salutation, Catholic University retirement text, William J. Byron address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-james-morrow-navy-service-offer",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to James L. Morrow re Navy service offer",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The President thanks James L. Morrow for his patriotism, high regard for the Navy, and generous offer of services in connection with the situation regarding Iraq.",
+      evidence:
+        "Itemized from page 144 of the NARA direct folder scan using the White House letterhead, James L. Morrow address block, Navy and Iraq text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "edgar-bronfman-world-jewish-congress-invitation-reply-second-copy",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Second copy of letter from the President to Edgar M. Bronfman re World Jewish Congress invitation",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "A second copy of the President's letter to Edgar M. Bronfman declines an invitation to address the World Jewish Congress in Brussels because of an Economic Summit scheduling conflict.",
+      evidence:
+        "Itemized from page 145 of the NARA direct folder scan using the repeated Dear Edgar salutation, World Jewish Congress address block, Economic Summit conflict text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-emile-roy-birthday",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Emile Roy re 72nd birthday",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "The President and Mrs. Bush send Emile Roy best wishes for his 72nd birthday, with address and Jan Burmeister routing material on the page.",
+      evidence:
+        "Itemized from page 146 of the NARA direct folder scan using the Emile Roy address block, birthday note, White House form, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bush-quayle-campaign-headquarters-photograph-packet",
+      documentType: "Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Bush/Quayle campaign headquarters photograph packet",
+      documentDate: "1992-04-28",
+      pages: 2,
+      excerpt:
+        "Color photographs show President Bush speaking at Bush/Quayle campaign headquarters, with a sticky-note label identifying campaign headquarters in Washington, D.C.",
+      evidence:
+        "Itemized from pages 147-148 of the NARA direct folder scan using Bush/Quayle signage, campaign headquarters sticky-note label, color photograph pages, and rendered-page review.",
+    },
+    {
+      slug: "national-science-bowl-winners-photograph",
+      documentType: "Photograph",
+      category: "photograph-packet",
+      disposition: "itemized-photograph",
+      title: "National Science Bowl winners photograph",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "A color photograph shows President Bush with a group identified by sticky note as National Science Bowl winners.",
+      evidence:
+        "Itemized from page 149 of the NARA direct folder scan using the National Science Bowl winners sticky-note label, color photograph, and rendered-page review.",
+    },
+    {
+      slug: "big-brother-big-sister-photograph",
+      documentType: "Photograph",
+      category: "photograph-packet",
+      disposition: "itemized-photograph",
+      title: "Big Brother Big Sister photograph",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "A color photograph shows President Bush and Mrs. Bush with guests identified by sticky note as Big Brother Big Sister.",
+      evidence:
+        "Itemized from page 150 of the NARA direct folder scan using the Big Brother Big Sister sticky-note label, color photograph, and rendered-page review.",
+    },
+    {
+      slug: "president-ozal-turkey-photograph-packet",
+      documentType: "Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "President Ozal of Turkey meeting photograph packet",
+      documentDate: "1992-04-28",
+      pages: 5,
+      excerpt:
+        "Color photographs show President Bush with Turkish President Turgut Ozal and meeting participants in White House settings, including a sticky-note label reading President Ozal of Turkey.",
+      evidence:
+        "Itemized from pages 151-155 of the NARA direct folder scan using the President Ozal of Turkey sticky-note label, Oval Office and meeting photographs, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -15433,6 +15877,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417718",
   "470417723",
   "470417735",
+  "470417739",
   "470418083",
 ]);
 
