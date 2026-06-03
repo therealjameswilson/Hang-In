@@ -11132,6 +11132,341 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 134-135 of the NARA direct folder scan using the Schedule of the President heading, May 15 date, annotated goldie copy line, Houston continuation page, OCR, and rendered-page review.",
     },
   ],
+  470417782: [
+    {
+      slug: "roger-ailes-charles-bakaly-employment-opportunities",
+      documentType: "Correspondence and Routing Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Roger Ailes letter to Marlin Fitzwater re Charles Bakaly and employment opportunities",
+      documentDate: "1992-05-07",
+      pages: 2,
+      excerpt:
+        "A Roger Ailes letter to Marlin Fitzwater, routed through the President's daily file, discusses Charles Bakaly, Los Angeles, and possible employment-opportunity work.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the Document Originally Attached marker, June 15 sticky note, Ailes Commun letterhead, Roger Ailes signature, Charles Bakaly text, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-hudnut-urban-crisis-commission-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "William H. Hudnut III urban crisis and commission correspondence packet",
+      documentDate: "1992-05-04",
+      pages: 6,
+      excerpt:
+        "The President routes William H. Hudnut III's Harvard Institute of Politics letter about an urban-crisis commission and possible mayoral support to Sam Skinner, with related handwritten notes and envelope material.",
+      evidence:
+        "Itemized from pages 4-9 of the NARA direct folder scan using the President-to-Sam Skinner memorandum, William H. Hudnut III addressee and signature, Harvard Institute of Politics letterhead, urban crisis text, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-lifton-israel-loan-guarantees-correspondence-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Bob Lifton American Jewish Congress letter and presidential reply packet",
+      documentDate: "1992-05-17",
+      pages: 8,
+      excerpt:
+        "The packet includes a presidential handwritten reply to Bob Lifton about U.S.-Israel relations and an attached American Jewish Congress Bob Lifton Occasional Letter on Israel loan guarantees and criticism of the President and James Baker.",
+      evidence:
+        "Itemized from pages 10-17 of the NARA direct folder scan using the Air Force One May 17 Dear Bob letter, CC lines to Brent Scowcroft, Secretary Baker, and Sam Skinner, American Jewish Congress letterhead, Bob Lifton Occasional Letter #30, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-may-14-discuss-with-chief-of-staff-list",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title:
+        "President's May 14 list for discussion with the Chief of Staff",
+      documentDate: "1992-05-14",
+      pages: 1,
+      excerpt:
+        "A From the President page lists items for discussion with the Chief of Staff, including the balanced budget amendment, summer jobs, Brazil, the drug czar, Anne Radice, a commission on urban causes, Philadelphia fire families, and Israel/Palestinian return issues.",
+      evidence:
+        "Itemized from page 18 of the NARA direct folder scan using the From the President form, May 14 date, Discuss with C of S heading, handwritten checkmarks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "notre-dame-commencement-staffing-memo-and-remarks",
+      documentType: "Staffing Memorandum and Speech Draft",
+      category: "speech-remarks-draft",
+      disposition: "itemized-speech-remarks-draft",
+      title:
+        "White House staffing memorandum and presidential remarks for Notre Dame commencement",
+      documentDate: "1992-05-17",
+      pages: 14,
+      excerpt:
+        "The Notre Dame commencement packet includes a White House staffing memorandum, Janice Shaw Crouse memorandum, and draft presidential remarks for South Bend on family, faith, service, and national renewal.",
+      evidence:
+        "Itemized from pages 19-32 of the NARA direct folder scan using the White House Staffing Memorandum heading, Notre Dame Commencement subject, Janice Shaw Crouse memo, presidential remarks heading, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-president-may-17-residence",
+      documentType: "Forwarded Materials List",
+      category: "forwarded-materials-list",
+      disposition: "itemized-forwarded-materials-list",
+      title:
+        "Materials Forwarded to the President: May 17, 1992, to the Residence",
+      documentDate: "1992-05-17",
+      pages: 1,
+      excerpt:
+        "The May 17 materials-forwarded list notes schedule material and accompanying briefing papers for May 18.",
+      evidence:
+        "Itemized from page 33 of the NARA direct folder scan using the Material Forwarded to the President heading, May 17 date, To the Residence line, schedule entry, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-president-may-15-1992",
+      documentType: "Forwarded Materials List",
+      category: "forwarded-materials-list",
+      disposition: "itemized-forwarded-materials-list",
+      title: "Materials Forwarded to the President: May 15, 1992",
+      documentDate: "1992-05-15",
+      pages: 1,
+      excerpt:
+        "The May 15 materials-forwarded list identifies action items on Iraq compliance, Matthew Fong, and Lloyd Bentsen/Oveta Culp Hobby, plus remarks and trip-book material.",
+      evidence:
+        "Itemized from page 34 of the NARA direct folder scan using the Material Forwarded to the President heading, May 15 date, action and remarks entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "connie-horner-john-curry-faa-postmaster-general-note",
+      documentType: "President's Note and Staff Update",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title:
+        "President's note to Connie Horner and staff updates re John Curry, FAA, and Postmaster General position",
+      documentDate: "1992-05-14",
+      pages: 2,
+      excerpt:
+        "A February President-to-Connie note asks about John Curry and the FAA confirmation process, with later April and May updates on Curry, Connie Horner, Sam Skinner, and the Postmaster General position.",
+      evidence:
+        "Itemized from pages 35-36 of the NARA direct folder scan using the March 13 update page, February 20 From the President page to Connie, April 28 and May 14 update text, Bush Library handwriting label, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-lifton-israel-loan-guarantees-correspondence-packet-second-copy",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Second copy of Bob Lifton American Jewish Congress letter and presidential reply packet",
+      documentDate: "1992-05-17",
+      pages: 9,
+      excerpt:
+        "A second copy repeats the Bob Lifton reply and American Jewish Congress loan-guarantees material, with additional From the desk of George Bush routing notes about copies and follow-up.",
+      evidence:
+        "Itemized from pages 37-45 of the NARA direct folder scan using the repeated May 17 Dear Bob letter, From the desk of George Bush routing notes, Document Originally Attached marker, American Jewish Congress letterhead, Bob Lifton Occasional Letter #30, OCR, and rendered-page review.",
+    },
+    {
+      slug: "derwinski-va-homeless-veterans-packet",
+      documentType: "Memorandum and Report Packet",
+      category: "veterans-affairs-packet",
+      disposition: "itemized-veterans-affairs-packet",
+      title:
+        "Edward J. Derwinski memorandum and VA report re efforts to assist homeless veterans",
+      documentDate: "1992-05-14",
+      pages: 14,
+      excerpt:
+        "The President routes a VA homelessness packet to Roger Porter after reading Edward Derwinski's memorandum and the attached summary of VA homelessness activities.",
+      evidence:
+        "Itemized from pages 46-59 of the NARA direct folder scan using the President-to-Roger Porter note, Edward Derwinski note and memorandum, VA's Efforts to Assist Homeless Veterans subject, Summary of VA Homelessness Activities enclosure, OCR, and rendered-page review.",
+    },
+    {
+      slug: "edward-madigan-ray-macsharry-dunkel-text-letter",
+      documentType: "Cabinet Correspondence",
+      category: "cabinet-correspondence",
+      disposition: "itemized-cabinet-correspondence",
+      title:
+        "Edward Madigan letter to the President re Ray MacSharry and the Dunkel text",
+      documentDate: "1992-05-08",
+      pages: 2,
+      excerpt:
+        "Agriculture Secretary Edward Madigan updates the President on exchanges with Ray MacSharry, farm groups, export subsidies, the Dunkel text, and likely farm-organization reactions.",
+      evidence:
+        "Itemized from pages 60-61 of the NARA direct folder scan using The Secretary of Agriculture letterhead, May 8 date, Ray MacSharry and Dunkel text references, President handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "natural-gas-strategy-ailes-watkins-moore-packet",
+      documentType: "Memorandum and Press Article Packet",
+      category: "energy-policy-packet",
+      disposition: "itemized-energy-policy-packet",
+      title:
+        "Natural gas strategy packet with Roger Ailes letter, James D. Watkins article, and W. Henson Moore memorandum",
+      documentDate: "1992-05-14",
+      pages: 3,
+      excerpt:
+        "The packet combines the Roger Ailes/Charles Bakaly employment-opportunity letter, James D. Watkins's Houston Chronicle article on a national natural gas strategy, and W. Henson Moore's memorandum saying he asked Watkins for an op-ed to credit the administration.",
+      evidence:
+        "Itemized from pages 62-64 of the NARA direct folder scan using the repeated Ailes Commun letter, Houston Chronicle natural gas article, W. Henson Moore memorandum for the President, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pcast-science-technology-national-security-report-packet",
+      documentType: "Memorandum and Report Packet",
+      category: "science-technology-policy-packet",
+      disposition: "itemized-science-technology-policy-packet",
+      title:
+        "D. Allan Bromley memorandum and PCAST report on science, technology, and national security",
+      documentDate: "1992-04-29",
+      pages: 36,
+      excerpt:
+        "The packet includes a presidential routing note, D. Allan Bromley's memorandum, the PCAST overview and report on science, technology, and national security, and appendices with terms of reference and panel membership.",
+      evidence:
+        "Itemized from pages 65-100 of the NARA direct folder scan using the President-to-Sam Skinner routing note, April 29 D. Allan Bromley memorandum, PCAST report title pages, overview, report pages, appendices, OCR, and rendered-page review.",
+    },
+    {
+      slug: "yeutter-spotted-owl-memorandum",
+      documentType: "Memorandum",
+      category: "environment-policy-memorandum",
+      disposition: "itemized-environment-policy",
+      title: "Clayton Yeutter memorandum to the President re spotted owl",
+      documentDate: "1992-05-14",
+      pages: 2,
+      excerpt:
+        "Clayton Yeutter briefs the President on the spotted owl God Squad vote, Interior Secretary Lujan's recovery plan, jobs and environmental tradeoffs, and expected reactions in Washington and Oregon.",
+      evidence:
+        "Itemized from pages 101-102 of the NARA direct folder scan using the Memorandum for the President heading, Clayton Yeutter byline, Spotted Owl subject, May 14 date, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "telephone-memoranda-may-17-1992",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title: "Telephone memoranda: May 17, 1992",
+      documentDate: "1992-05-17",
+      pages: 2,
+      excerpt:
+        "Telephone memorandum pages record May 17 calls including John E. Bush, the doctor's office, Baine Kerr, Bobby Moore, Barbara Bush, and George W. Bush.",
+      evidence:
+        "Itemized from pages 103-104 of the NARA direct folder scan using the White House Telephone Memorandum headings, May 17 date, Signal Switchboard page, call names and times, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-may-17-1992",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-item",
+      disposition: "itemized-presidential-movements",
+      title:
+        "Presidential Movements: Houston, South Bend, and Washington, May 17, 1992",
+      documentDate: "1992-05-17",
+      pages: 1,
+      excerpt:
+        "The movement log records President Bush's May 17 travel from Houston to South Bend for Notre Dame and back to Washington.",
+      evidence:
+        "Itemized from page 105 of the NARA direct folder scan using the Presidential Movements heading, Houston/South Bend/Washington locations, May 17 date, movement table, OCR, and rendered-page review.",
+    },
+    {
+      slug: "varsity-bags-larson-correspondence-super-photo-packet",
+      documentType: "Correspondence and Photograph Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Fred and Lana Larson Varsity Bags correspondence and Len and Mary Super photograph packet",
+      documentDate: "1992-05-17",
+      pages: 3,
+      excerpt:
+        "The President thanks Fred and Lana Larson of Varsity Bags for travel bags, with the incoming Varsity Bags letter and a signed Len and Mary Super photograph attached.",
+      evidence:
+        "Itemized from pages 106-108 of the NARA direct folder scan using the Air Force One presidential reply, Varsity Bags letterhead, Fred and Lana Larson signatures, Len and Mary Super photograph, OCR, and rendered-page review.",
+    },
+    {
+      slug: "coughlin-boldt-philadelphia-coverage-correspondence",
+      documentType: "Correspondence Packet",
+      category: "congressional-correspondence",
+      disposition: "itemized-congressional-correspondence",
+      title:
+        "Lawrence Coughlin letter to David Boldt and presidential reply re Philadelphia coverage",
+      documentDate: "1992-05-17",
+      pages: 2,
+      excerpt:
+        "The President thanks Representative Lawrence Coughlin for sending David Boldt a letter criticizing Philadelphia Inquirer coverage of the President's visit after the Los Angeles unrest.",
+      evidence:
+        "Itemized from pages 109-110 of the NARA direct folder scan using the Air Force One reply to Larry, May 17 date, Lawrence Coughlin letterhead, May 15 letter to David R. Boldt, Philadelphia Inquirer references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "coughlin-boldt-philadelphia-coverage-correspondence-second-copy",
+      documentType: "Correspondence Packet",
+      category: "congressional-correspondence",
+      disposition: "itemized-congressional-correspondence",
+      title:
+        "Second copy of Lawrence Coughlin letter to David Boldt and presidential reply",
+      documentDate: "1992-05-17",
+      pages: 2,
+      excerpt:
+        "A second copy repeats the President's reply to Lawrence Coughlin and Coughlin's letter to David Boldt about Philadelphia coverage.",
+      evidence:
+        "Itemized from pages 111-112 of the NARA direct folder scan using the repeated Air Force One reply, repeated Lawrence Coughlin May 15 letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "travel-pool-g-president-gets-religion-south-bend",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title:
+        "Travel Pool G: The President Gets Religion and Flies to South Bend",
+      documentDate: "1992-05-17",
+      pages: 1,
+      excerpt:
+        "Susan Page's Travel Pool G report covers President Bush at St. Martin's Episcopal Church, the flight to South Bend, Notre Dame controversies, and press questions.",
+      evidence:
+        "Itemized from page 113 of the NARA direct folder scan using the Travel Pool G heading, The President Gets Religion and Flies to South Bend title, Susan Page Newsday line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-fitch-naval-academy-dairy-farm-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "John C. Fitch correspondence packet re Naval Academy dairy farm",
+      documentDate: "1992-05-17",
+      pages: 4,
+      excerpt:
+        "The President reacts to John C. Fitch's request that he raise the Naval Academy dairy farm issue during the Annapolis graduation visit, with routing notes about a Maine address and follow-up.",
+      evidence:
+        "Itemized from pages 114-117 of the NARA direct folder scan using the John C. Fitch address page, May 17 Air Force One handwritten note, From the desk of George Bush routing pages, May 8 John C. Fitch letter, Naval Academy Dairy Farm text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "houston-post-notre-dame-graduation-clippings",
+      documentType: "Press Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Houston Post clippings on President Bush attending services and Notre Dame graduation",
+      documentDate: "1992-05-17",
+      pages: 4,
+      excerpt:
+        "The clipping packet includes a Robin daily-file routing note and Houston Post clippings about President Bush at St. Martin's Episcopal Church and Notre Dame graduation.",
+      evidence:
+        "Itemized from pages 118-121 of the NARA direct folder scan using the Document Originally Attached marker, Robin daily file sticky note, Houston Post clippings, Notre Dame graduation headline and photograph captions, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-fitch-naval-academy-routing-pages-second-copy",
+      documentType: "Routing Note Packet",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title:
+        "Second copy of John C. Fitch Naval Academy dairy farm routing pages",
+      documentDate: "1992-05-17",
+      pages: 2,
+      excerpt:
+        "A second copy repeats the President's handwritten routing pages about John C. Fitch, the Naval Academy dairy farm, and a requested Maine address.",
+      evidence:
+        "Itemized from pages 122-123 of the NARA direct folder scan using the repeated John C. Fitch address page, May 17 Air Force One handwritten note, repeated From the desk of George Bush page, and rendered-page review.",
+    },
+    {
+      slug: "notre-dame-commencement-official-photograph-packet",
+      documentType: "Official White House Photographs",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title:
+        "Official White House photograph packet: Notre Dame commencement and May 17 events",
+      documentDate: "1992-05-17",
+      pages: 5,
+      excerpt:
+        "Color photograph pages show President Bush at Notre Dame commencement and another May 17 White House event, with an Official White House Photograph transfer page.",
+      evidence:
+        "Itemized from pages 124-128 of the NARA direct folder scan using the color Notre Dame photographs, Notre Dame sticky note, Official White House Photograph line dated 17 May 92, final color meeting photograph, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -17810,6 +18145,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417761",
   "470417766",
   "470417777",
+  "470417782",
   "470418083",
 ]);
 
