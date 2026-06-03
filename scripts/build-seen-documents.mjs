@@ -1715,6 +1715,633 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from a run of newspaper and magazine clipping starts found in full-PDF OCR of the NARA direct folder scan.",
     },
   ],
+  470417851: [
+    {
+      slug: "president-to-lynn-martin-birthday",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Lynn Martin re birthday greeting",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The President thanks Labor Secretary Lynn Martin for her birthday greeting after his return from Rio and sends best wishes from himself and Barbara Bush.",
+      evidence:
+        "Itemized from a White House letter page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-mary-ann-fronce-birthday",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Mary Ann Fronce re birthday card",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The President thanks Mary Ann Fronce for a birthday card, saying it brightened his day, and sends best wishes from himself and Barbara Bush.",
+      evidence:
+        "Itemized from a White House letter page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "congressional-monitor-june-17-1992",
+      documentType: "Congressional Monitor",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title: "Congressional Monitor: Wednesday, June 17, 1992",
+      documentDate: "1992-06-17",
+      pages: 22,
+      excerpt:
+        "Congressional Quarterly's Congressional Monitor covers motor-voter legislation, tax extenders, POW/MIA hearings, committee schedules, appropriations status, and House and Senate floor action.",
+      evidence:
+        "Itemized from Congressional Monitor cover, continuation, and back-cover pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "apn-daily-briefing-june-17-1992",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing-item",
+      disposition: "itemized-daily-political-briefing",
+      title: "The Daily Briefing on American Politics: Wednesday, June 17, 1992",
+      documentDate: "1992-06-17",
+      pages: 20,
+      excerpt:
+        "The American Political Network daily briefing includes White House, Clinton, Quayle, Perot, Iran-Contra, Senate, House, California, polling, and television-monitor sections.",
+      evidence:
+        "Itemized from The Daily Briefing on American Politics heading, APN Bulletin Board, and Hotline sections found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "us-russian-summit-agreements-cover-list",
+      documentType: "Cover List",
+      category: "summit-agreements-list",
+      disposition: "itemized-summit-agreements-list",
+      title: "Cover list for U.S.-Russian summit agreements and statements",
+      documentDate: "1992-06-17",
+      pages: 2,
+      excerpt:
+        "The Press Secretary cover note attaches U.S.-Russian agreements, statements, and fact sheets to be issued or signed at the summit, including the Charter, Joint Understanding, Global Protection System, chemical weapons, space, Peace Corps, and Bering Sea materials.",
+      evidence:
+        "Itemized from the Press Secretary cover page and attachment list found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "charter-american-russian-partnership-friendship",
+      documentType: "Charter",
+      category: "summit-agreement",
+      disposition: "itemized-summit-agreement",
+      title: "A Charter for American-Russian Partnership and Friendship",
+      documentDate: "1992-06-17",
+      pages: 7,
+      excerpt:
+        "The charter sets out U.S.-Russian partnership principles on democracy, human rights, security cooperation, economic reform, trade, science, technology, education, culture, and people-to-people exchanges.",
+      evidence:
+        "Itemized from the Charter heading and continuation pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "fact-sheet-charter-american-russian-partnership",
+      documentType: "Fact Sheet",
+      category: "summit-fact-sheet",
+      disposition: "itemized-summit-fact-sheet",
+      title: "Fact Sheet on the Charter for American-Russian Partnership and Friendship",
+      documentDate: "1992-06-17",
+      pages: 3,
+      excerpt:
+        "The fact sheet summarizes the Charter's sections on security cooperation, economic cooperation, humanitarian issues, scientific and cultural exchange, and contacts between citizens.",
+      evidence:
+        "Itemized from a Fact Sheet on the Charter heading and continuation pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "joint-understanding-strategic-nuclear-reductions",
+      documentType: "Joint Understanding",
+      category: "summit-joint-understanding",
+      disposition: "itemized-summit-joint-understanding",
+      title: "Joint Understanding re substantial strategic nuclear force reductions",
+      documentDate: "1992-06-17",
+      pages: 2,
+      excerpt:
+        "President Bush and President Yeltsin agree to substantial further reductions in strategic nuclear forces, including warhead totals, heavy ICBMs, SLBMs, MIRVed ICBMs, and heavy bombers.",
+      evidence:
+        "Itemized from a Joint Understanding heading and continuation page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "joint-statement-global-protection-system",
+      documentType: "Joint Statement",
+      category: "summit-joint-statement",
+      disposition: "itemized-summit-joint-statement",
+      title: "Joint U.S.-Russian Statement on a Global Protection System",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The Presidents continue discussion of a Global Protection System against limited ballistic missile strikes and agree to practical steps for cooperation.",
+      evidence:
+        "Itemized from a Joint U.S.-Russian Statement heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "us-assistance-to-russia-release",
+      documentType: "Press Release",
+      category: "summit-press-release",
+      disposition: "itemized-summit-press-release",
+      title: "Press Release: U.S. Assistance to Russia",
+      documentDate: "1992-06-17",
+      pages: 3,
+      excerpt:
+        "The release summarizes U.S. assistance supporting democratic change in Russia, including stabilization, humanitarian, technical, privatization, finance, health, and nuclear-safety efforts.",
+      evidence:
+        "Itemized from a U.S. Assistance to Russia release heading and continuation pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "double-taxation-treaty-russia-release",
+      documentType: "Treaty Release",
+      category: "summit-agreement",
+      disposition: "itemized-summit-agreement",
+      title: "Treaty for the Avoidance of Double Taxation of Income between the United States and Russia",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The release notes President Bush and President Yeltsin signing a treaty to avoid double taxation of income between the United States and Russia.",
+      evidence:
+        "Itemized from a treaty release heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "bilateral-investment-treaty-russia-release",
+      documentType: "Treaty Release",
+      category: "summit-agreement",
+      disposition: "itemized-summit-agreement",
+      title: "Bilateral Investment Treaty between the United States and the Russian Federation",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The release describes the bilateral investment treaty signed by the United States and the Russian Federation to protect and encourage investment.",
+      evidence:
+        "Itemized from a Bilateral Investment Treaty heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "trade-relations-agreement-russia-release",
+      documentType: "Agreement Release",
+      category: "summit-agreement",
+      disposition: "itemized-summit-agreement",
+      title: "Agreement on Trade Relations between the United States and Russia",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The release states that the U.S.-Russian Trade Agreement provides for reciprocal Most Favored Nation treatment and supports expanded trade relations.",
+      evidence:
+        "Itemized from an Agreement on Trade Relations heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "eximbank-operations-russia-release",
+      documentType: "Press Release",
+      category: "summit-press-release",
+      disposition: "itemized-summit-press-release",
+      title: "Press Release: Eximbank Operations in Russia",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The release explains Export-Import Bank operations in Russia after legislative restraints on Eximbank activity were repealed in response to President Bush's initiative.",
+      evidence:
+        "Itemized from an Eximbank Operations in Russia heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "fuels-energy-agreement-fact-sheet",
+      documentType: "Fact Sheet",
+      category: "summit-fact-sheet",
+      disposition: "itemized-summit-fact-sheet",
+      title: "Fact Sheet on the Fuels and Energy Agreement",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The fact sheet describes the new U.S.-Russian agreement on scientific and technical cooperation in fuels and energy.",
+      evidence:
+        "Itemized from a Fuels and Energy Agreement fact-sheet heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "bilateral-issues-joint-statement",
+      documentType: "Joint Statement",
+      category: "summit-joint-statement",
+      disposition: "itemized-summit-joint-statement",
+      title: "Joint Statement on Bilateral Issues",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The statement addresses Cold War barriers to official representation and bilateral arrangements between the United States and Russia.",
+      evidence:
+        "Itemized from a Joint Statement on Bilateral Issues heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "open-lands-mou-russia-release",
+      documentType: "Memorandum of Understanding Release",
+      category: "summit-agreement",
+      disposition: "itemized-summit-agreement",
+      title: "Open Lands Memorandum of Understanding between the United States and Russia",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The release describes the Memorandum of Understanding on Open Lands signed by the United States and Russia.",
+      evidence:
+        "Itemized from an Open Lands Memorandum of Understanding heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "opic-investment-incentive-agreement-russia",
+      documentType: "Agreement Release",
+      category: "summit-agreement",
+      disposition: "itemized-summit-agreement",
+      title: "OPIC Investment Incentive Agreement between the United States and the Russian Federation",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The release describes the OPIC investment incentive agreement between the United States and the Russian Federation.",
+      evidence:
+        "Itemized from an OPIC Investment Incentive Agreement heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "opening-us-russian-consulates-release",
+      documentType: "Press Release",
+      category: "summit-press-release",
+      disposition: "itemized-summit-press-release",
+      title: "Press Release: Opening new U.S. and Russian consulates",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The release announces agreement during the Bush-Yeltsin meetings to open new U.S. and Russian consulates.",
+      evidence:
+        "Itemized from an Opening New U.S. and Russian Consulates heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "personnel-ceilings-fact-sheet",
+      documentType: "Fact Sheet",
+      category: "summit-fact-sheet",
+      disposition: "itemized-summit-fact-sheet",
+      title: "Fact Sheet on Removal of Ceilings on U.S. and Russian Personnel",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The fact sheet explains the removal of ceilings on U.S. and Russian personnel agreed to during the Bush-Yeltsin meetings.",
+      evidence:
+        "Itemized from a Removal of Ceilings on U.S. and Russian Personnel fact-sheet heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "joint-statement-bosnia-hercegovina",
+      documentType: "Joint Statement",
+      category: "summit-joint-statement",
+      disposition: "itemized-summit-joint-statement",
+      title: "Joint Statement on Bosnia-Hercegovina",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The United States and Russia express deep concern over the humanitarian crisis and violence in Bosnia-Hercegovina.",
+      evidence:
+        "Itemized from a Joint Statement on Bosnia-Hercegovina heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "joint-statement-chemical-weapons",
+      documentType: "Joint Statement",
+      category: "summit-joint-statement",
+      disposition: "itemized-summit-joint-statement",
+      title: "Joint Statement on Chemical Weapons",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "President Bush and President Yeltsin stress their commitment to eliminating chemical weapons and advancing a comprehensive ban.",
+      evidence:
+        "Itemized from a Joint Statement on Chemical Weapons heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "chemical-weapons-issues-fact-sheet",
+      documentType: "Fact Sheet",
+      category: "summit-fact-sheet",
+      disposition: "itemized-summit-fact-sheet",
+      title: "Fact Sheet on Chemical Weapons Issues",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The fact sheet summarizes chemical-weapons transparency, destruction, nonproliferation, and confidence-building issues.",
+      evidence:
+        "Itemized from a Chemical Weapons Issues fact-sheet heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "cocom-issues-russia-release",
+      documentType: "Press Release",
+      category: "summit-press-release",
+      disposition: "itemized-summit-press-release",
+      title: "Press Release: COCOM Issues",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The release discusses Russia's democratic reform, economic integration with the West, and export-control adjustments under COCOM.",
+      evidence:
+        "Itemized from a COCOM Issues heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "joint-statement-cooperation-space",
+      documentType: "Joint Statement",
+      category: "summit-joint-statement",
+      disposition: "itemized-summit-joint-statement",
+      title: "Joint Statement on Cooperation in Space",
+      documentDate: "1992-06-17",
+      pages: 2,
+      excerpt:
+        "The United States and Russia agree on steps to broaden cooperation in space, including missions, rendezvous and docking, science, and long-term space-station work.",
+      evidence:
+        "Itemized from a Joint Statement on Cooperation in Space heading and continuation page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "destruction-safeguarding-weapons-agreement",
+      documentType: "Agreement Release",
+      category: "summit-agreement",
+      disposition: "itemized-summit-agreement",
+      title:
+        "Agreement on destruction and safeguarding of weapons and prevention of weapons proliferation",
+      documentDate: "1992-06-17",
+      pages: 2,
+      excerpt:
+        "The release describes an agreement between the United States and Russia on destroying and safeguarding weapons and preventing weapons proliferation.",
+      evidence:
+        "Itemized from an Agreement on the Destruction and Safeguarding of Weapons heading and continuation page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "peace-corps-program-russia-release",
+      documentType: "Agreement Release",
+      category: "summit-agreement",
+      disposition: "itemized-summit-agreement",
+      title: "Agreement on establishing a Peace Corps program between the United States and Russia",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The release announces an agreement establishing a Peace Corps program between the United States and Russia.",
+      evidence:
+        "Itemized from a Peace Corps program agreement heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "korean-nuclear-nonproliferation-joint-statement",
+      documentType: "Joint Statement",
+      category: "summit-joint-statement",
+      disposition: "itemized-summit-joint-statement",
+      title: "Joint Statement on Korean Nuclear Non-Proliferation",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "Russia and the United States support international efforts to address Korean nuclear non-proliferation.",
+      evidence:
+        "Itemized from a Joint Statement on Korean Nuclear Non-Proliferation heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "nuclear-reactor-safety-assistance-fact-sheet",
+      documentType: "Fact Sheet",
+      category: "summit-fact-sheet",
+      disposition: "itemized-summit-fact-sheet",
+      title: "Fact Sheet on Nuclear Reactor Safety Assistance for Russia",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The fact sheet describes U.S. work with the former Soviet Union on civilian reactor safety and assistance for Russia.",
+      evidence:
+        "Itemized from a Nuclear Reactor Safety Assistance fact-sheet heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "us-russian-civil-aviation-mou",
+      documentType: "Memorandum of Understanding Release",
+      category: "summit-agreement",
+      disposition: "itemized-summit-agreement",
+      title: "U.S.-Russian Civil Aviation Memorandum of Understanding",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The release describes a civil-aviation memorandum of understanding signed by the governments of the United States and Russia.",
+      evidence:
+        "Itemized from a U.S.-Russian Civil Aviation M.O.U. heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "technical-migration-assistance-russia",
+      documentType: "Press Release",
+      category: "summit-press-release",
+      disposition: "itemized-summit-press-release",
+      title: "Press Release: Technical Migration Assistance for Russia",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The release describes U.S. technical migration assistance for Russia through the International Organization for Migration appeal.",
+      evidence:
+        "Itemized from a Technical Migration Assistance for Russia heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "defense-conversion-declaration",
+      documentType: "Joint Declaration",
+      category: "summit-joint-declaration",
+      disposition: "itemized-summit-joint-declaration",
+      title: "Joint Russian-American Declaration on Defense Conversion",
+      documentDate: "1992-06-17",
+      pages: 2,
+      excerpt:
+        "The United States and Russia recognize that defense conversion can support economic restructuring and commercial engagement in Russia.",
+      evidence:
+        "Itemized from a Joint Russian-American Declaration on Defense Conversion heading and continuation page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "beringia-international-park-joint-statement",
+      documentType: "Joint Statement",
+      category: "summit-joint-statement",
+      disposition: "itemized-summit-joint-statement",
+      title: "Joint Statement on Beringia International Park",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The Presidents support creating Beringia International Park and preserving natural and cultural resources across the Bering Strait region.",
+      evidence:
+        "Itemized from a Joint Statement on Beringia International Park heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "lake-baikal-conservation-joint-statement",
+      documentType: "Joint Statement",
+      category: "summit-joint-statement",
+      disposition: "itemized-summit-joint-statement",
+      title: "Joint Statement on Conservation of Lake Baikal",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The United States and Russia reaffirm readiness to promote conservation of Lake Baikal.",
+      evidence:
+        "Itemized from a Joint Statement on Conservation of Lake Baikal heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "central-bering-sea-fishing-joint-statement",
+      documentType: "Joint Statement",
+      category: "summit-joint-statement",
+      disposition: "itemized-summit-joint-statement",
+      title: "Joint Statement on voluntary suspension of fishing in the Central Bering Sea",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The United States and Russia recall the need for voluntary suspension of fishing in the Central Bering Sea.",
+      evidence:
+        "Itemized from a Joint Statement on the Need for Voluntary Suspension on Fishing heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "bering-sea-ecosystem-research-conservation",
+      documentType: "Joint Statement",
+      category: "summit-joint-statement",
+      disposition: "itemized-summit-joint-statement",
+      title: "Joint Statement on research and conservation of the Bering Sea ecosystem",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The United States and Russia state their common interest in wise use of natural resources and conservation of the Bering Sea ecosystem.",
+      evidence:
+        "Itemized from a Joint Statement on Research and Conservation of the Bering Sea Ecosystem heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "science-technology-cooperation-joint-statement",
+      documentType: "Joint Statement",
+      category: "summit-joint-statement",
+      disposition: "itemized-summit-joint-statement",
+      title: "Joint Statement on Science and Technology Cooperation",
+      documentDate: "1992-06-17",
+      pages: 2,
+      excerpt:
+        "The Presidents note long-standing cooperation in science and technology and set principles for shared responsibilities, contributions, and benefits.",
+      evidence:
+        "Itemized from a Joint Statement on Science and Technology Cooperation heading and continuation page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "richard-monroe-miles-azerbaijan-nomination",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: Richard Monroe Miles to be Ambassador to Azerbaijan",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate Richard Monroe Miles to be Ambassador to the Republic of Azerbaijan.",
+      evidence:
+        "Itemized from a presidential nomination release found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "ruth-davis-benin-nomination",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: Ruth A. Davis to be Ambassador to Benin",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate Ruth A. Davis to be Ambassador to the Republic of Benin.",
+      evidence:
+        "Itemized from a presidential nomination release found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "vernon-parker-presidential-personnel-appointment",
+      documentType: "Appointment Release",
+      category: "appointment-release",
+      disposition: "itemized-appointment-release",
+      title: "Appointment release: Vernon B. Parker as Special Assistant to the President",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The President announces the appointment of Vernon B. Parker as Special Assistant to the President and Associate Director of Presidential Personnel.",
+      evidence:
+        "Itemized from a presidential appointment release found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "joseph-hulings-turkmenistan-nomination",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: Joseph S. Hulings III to be Ambassador to Turkmenistan",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate Joseph S. Hulings III to be Ambassador to the Republic of Turkmenistan.",
+      evidence:
+        "Itemized from a presidential nomination release found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "jon-huntsman-singapore-nomination",
+      documentType: "Nomination Release",
+      category: "nomination-release",
+      disposition: "itemized-nomination-release",
+      title: "Nomination release: Jon M. Huntsman, Jr. to be Ambassador to Singapore",
+      documentDate: "1992-06-17",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate Jon M. Huntsman, Jr. to be Ambassador to Singapore.",
+      evidence:
+        "Itemized from a presidential nomination release found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "remarks-us-russian-business-summit",
+      documentType: "Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Remarks by the President in address to U.S./Russian Business Summit",
+      documentDate: "1992-06-17",
+      pages: 7,
+      excerpt:
+        "The President and President Yeltsin address the U.S./Russian Business Summit at the J.W. Marriott Hotel, discussing trade, investment, OPIC, Eximbank, and Russia's economic opening.",
+      evidence:
+        "Itemized from Office of the Press Secretary remarks heading and continuation pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "fathers-day-proclamation-duplicate-copies",
+      documentType: "Proclamation",
+      category: "presidential-proclamation",
+      disposition: "itemized-presidential-proclamation",
+      title: "Father's Day, 1992 proclamation, duplicate copies",
+      documentDate: "1992-06-17",
+      pages: 4,
+      excerpt:
+        "Duplicate copies of the Father's Day, 1992 proclamation honor fathers and describe fatherhood as a cornerstone of home and family life.",
+      evidence:
+        "Itemized from two Office of the Press Secretary copies of the Father's Day proclamation found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "joint-signing-ceremony-remarks-bush-yeltsin",
+      documentType: "Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Remarks by President Bush and President Yeltsin in joint signing ceremony",
+      documentDate: "1992-06-17",
+      pages: 10,
+      excerpt:
+        "President Bush and President Yeltsin speak at the East Room joint signing ceremony on a new U.S.-Russia partnership, strategic arms, POW/MIAs, aid, and cooperation.",
+      evidence:
+        "Itemized from an Office of the Press Secretary joint signing ceremony remarks heading and continuation pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "exchange-toasts-bush-yeltsin-duplicate-copies",
+      documentType: "Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Remarks by President Bush and President Yeltsin in exchange of toasts, duplicate copies",
+      documentDate: "1992-06-16",
+      pages: 6,
+      excerpt:
+        "Duplicate copies of the State Dining Room exchange of toasts include remarks by President Bush and President Yeltsin at the Russian-American state dinner.",
+      evidence:
+        "Itemized from two Office of the Press Secretary copies of the exchange-of-toasts remarks found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-june-17-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Wednesday, June 17, 1992",
+      documentDate: "1992-06-17",
+      pages: 26,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet covers the Bush-Yeltsin state dinner, Barbara Bush and Naina Yeltsin at Martha's Table, White House dinner guest lists, Ford's Theatre, White House Christmas needlepoint, and Prescott Bush coverage.",
+      evidence:
+        "Itemized from a Mrs. Bush's Press Office Daily Press Clippings cover page and clipping sequence found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-july-17-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Friday, July 17, 1992",
+      documentDate: "1992-07-17",
+      pages: 16,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet includes Ross Perot timeline material, Barbara Bush and Hillary Clinton cookie coverage, Hillary Clinton and Chelsea Clinton stories, Tipper Gore coverage, Jimmy Carter, and women's caucus reporting.",
+      evidence:
+        "Itemized from a second Mrs. Bush's Press Office Daily Press Clippings cover page and clipping sequence found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+  ],
   470417874: [
     {
       slug: "white-house-news-summary-june-29-1992",
