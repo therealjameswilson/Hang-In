@@ -619,6 +619,216 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from a Treasury examples heading found in full-PDF OCR of the NARA direct folder scan after the cover-listed attachments.",
     },
   ],
+  470417874: [
+    {
+      slug: "white-house-news-summary-june-29-1992",
+      documentType: "News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: Monday, June 29, 1992, 6:00 A.M. EDT Edition",
+      documentDate: "1992-06-29",
+      pages: 21,
+      excerpt:
+        "Office of the Press Secretary White House News Summary for Monday, June 29, 1992, opening with earthquake cleanup, Tailhook, Yugoslavia, POWs, and Sunday network news.",
+      evidence:
+        "Itemized from a White House News Summary heading found in full-PDF OCR of the NARA direct folder scan after the catalog OCR truncation point.",
+    },
+    {
+      slug: "apn-daily-briefing-american-politics",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing-item",
+      disposition: "itemized-daily-political-briefing",
+      title: "The Daily Briefing on American Politics: Monday, June 29, 1992",
+      documentDate: "1992-06-29",
+      pages: 24,
+      excerpt:
+        "The American Political Network daily briefing summarizes Bush-Perot coverage, abortion, Democratic convention planning, foreign policy criticism, and campaign polling.",
+      evidence:
+        "Itemized from The Daily Briefing on American Politics heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "upi-paderewski-poland-welcome",
+      documentType: "Wire Story",
+      category: "wire-story-item",
+      disposition: "itemized-wire-story",
+      title: "UPI Wire Story: Poland welcomes return of Ignacy Jan Paderewski",
+      documentDate: "1992-06-29",
+      pages: 2,
+      excerpt:
+        "Bogdan Turek reports from Warsaw on Poland welcoming Ignacy Jan Paderewski's remains before President Bush's July 5 stop en route to the Munich Economic Summit.",
+      evidence:
+        "Itemized from a UPI dateline and byline found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "upi-paderewski-dying-wish",
+      documentType: "Wire Story",
+      category: "wire-story-item",
+      disposition: "itemized-wire-story",
+      title: "UPI Wire Story: Paderewski's dying wish to be buried in free Poland",
+      documentDate: "1992-06-28",
+      pages: 2,
+      excerpt:
+        "Helen Thomas reports on Paderewski's remains being transported from Arlington to Poland, with President and Mrs. Bush scheduled to attend the reburial.",
+      evidence:
+        "Itemized from a UPI dateline and byline found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "loose-press-clippings-white-house-perot-campaign",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Loose press clippings on White House workers, Perot, campaign issues, schools, and AIDS",
+      documentDate: "1992-06-29",
+      pages: 21,
+      excerpt:
+        "Loose newspaper and wire clippings include White House folklore coverage, Margot Perot, Bush-Perot campaign stories, school choice, sexual harassment, and AIDS reporting.",
+      evidence:
+        "Itemized from a run of full-PDF OCR clipping starts in the NARA direct folder scan between the Paderewski wire stories and pool reports.",
+    },
+    {
+      slug: "pool-report-new-york-dea-dedication",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #1: Air Force One to DEA dedication to Hilton Hotel, New York",
+      documentDate: "1992-06-29",
+      pages: 1,
+      excerpt:
+        "Pool Report #1 covers Air Force One, the DEA dedication trip, abortion-decision reaction, and the New York motorcade.",
+      evidence:
+        "Itemized from a Pool Report #1 heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "pool-report-detroit",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #2: Detroit, Michigan",
+      documentDate: "1992-06-29",
+      pages: 1,
+      excerpt:
+        "Pool Report #2 covers the Detroit leg, Ron Kaufman's comments on Perot polling, and Marlin Fitzwater's comments on U.N. action regarding Yugoslavia.",
+      evidence:
+        "Itemized from a Pool Report #2 heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "remarks-dea-dedication",
+      documentType: "Remarks",
+      category: "remarks-item",
+      disposition: "itemized-remarks",
+      title: "Remarks by the President at Drug Enforcement Administration Dedication Ceremony",
+      documentDate: "1992-06-29",
+      pages: 4,
+      excerpt:
+        "Remarks by the President at the Drug Enforcement Administration dedication ceremony in New York, emphasizing law enforcement, drug control, and anticrime legislation.",
+      evidence:
+        "Itemized from an Office of the Press Secretary remarks heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-note-to-mike-deland",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Mike Deland re Bill Roberts and EPA proposals",
+      documentDate: "1992-06-29",
+      pages: 1,
+      excerpt:
+        "The President asks Mike Deland to contact Bill Roberts by phone or letter regarding Roberts's two EPA proposals.",
+      evidence:
+        "Itemized from a From the President note heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-bill-roberts",
+      documentType: "Letter",
+      category: "constituent-correspondence",
+      disposition: "itemized-constituent-correspondence",
+      title: "Letter from the President to Bill Roberts re EPA and regulations",
+      documentDate: "1992-06-26",
+      pages: 1,
+      excerpt:
+        "The President tells Bill Roberts he will get him a specific reply on EPA suggestions and says the administration is lifting regulations from the backs of the American people.",
+      evidence:
+        "Itemized from a presidential letter start found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "bill-roberts-to-president",
+      documentType: "Letter",
+      category: "constituent-correspondence",
+      disposition: "itemized-constituent-correspondence",
+      title: "Letter from Bill Roberts to President Bush re Clean Air Act proposals",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "Bill Roberts, chairman of the Saline County Republican Central Committee, asks the President to consider Clean Air Act compliance extensions and job-protection measures.",
+      evidence:
+        "Itemized from an undated Bill Roberts letter heading and salutation found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "burton-lee-to-president-milbank",
+      documentType: "Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Memorandum from Dr. Burton Lee to the President re Jerry Milbank material",
+      documentDate: "1992-07-02",
+      pages: 1,
+      excerpt:
+        "Dr. Burton Lee forwards Jerry Milbank material and suggests that someone in the campaign office answer Milbank responsibly.",
+      evidence:
+        "Itemized from a Memorandum for the President heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "jeremiah-milbank-to-president",
+      documentType: "Letter and Enclosure",
+      category: "constituent-correspondence",
+      disposition: "itemized-constituent-correspondence",
+      title: "Letter from Jeremiah Milbank to President Bush with Thoughts for the Campaign of the President",
+      documentDate: "1992-07-23",
+      pages: 9,
+      excerpt:
+        "Jeremiah Milbank sends thoughts on energizing the reelection campaign, including congressional term limits, taxes, welfare, crime, environment, defense, and action now.",
+      evidence:
+        "Itemized from Jeremiah Milbank letterhead and enclosed campaign-thoughts pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-jeremiah-milbank",
+      documentType: "Letter",
+      category: "constituent-correspondence",
+      disposition: "itemized-constituent-correspondence",
+      title: "Letter from the President to Jeremiah Milbank re campaign ideas",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "The President thanks Jerry Milbank for sending his ideas and says they sound like many of his own.",
+      evidence:
+        "Itemized from an undated presidential letter start found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "daily-news-clips-june-29-1992",
+      documentType: "Daily News Clips",
+      category: "daily-news-clips-item",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips: Monday, June 29, 1992",
+      documentDate: "1992-06-29",
+      pages: 77,
+      excerpt:
+        "Office of Media Affairs Daily News Clips from The Washington Post, The Washington Times, The Wall Street Journal, USA Today, and The New York Times.",
+      evidence:
+        "Itemized from a Daily News Clips cover page found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "cardinal-law-to-president-immigration-commission",
+      documentType: "Faxed Letter",
+      category: "constituent-correspondence",
+      disposition: "itemized-constituent-correspondence",
+      title: "Faxed letter from Cardinal Bernard Law to President Bush re Commission on Legal Immigration funding",
+      documentDate: "1992-06-29",
+      pages: 2,
+      excerpt:
+        "Cardinal Bernard Law writes as chairman of the Commission on Legal Immigration requesting startup funding for initial staffing and meeting costs.",
+      evidence:
+        "Itemized from Cardinal's Residence fax and letter pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+  ],
   470418165: [
     {
       slug: "bush-quayle-fax-family-friends-list",
