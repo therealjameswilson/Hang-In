@@ -4311,6 +4311,338 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from the 2:00 p.m. White House News Summary page found in full-PDF OCR and rendered-page review.",
     },
   ],
+  470418057: [
+    {
+      slug: "telephone-memoranda-september-14-1992",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "White House telephone memoranda, September 14, 1992",
+      documentDate: "1992-09-14",
+      pages: 2,
+      excerpt:
+        "Two White House telephone memorandum pages record President Bush and Signal Switchboard call traffic for September 14.",
+      evidence:
+        "Itemized from White House telephone memorandum forms found after the Burrill Lumber remarks draft in full-PDF OCR and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-september-14-1992",
+      documentType: "Presidential Movements",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title: "Presidential movements, September 14, 1992",
+      documentDate: "1992-09-14",
+      pages: 2,
+      excerpt:
+        "The movements pages trace the President's September 14 stops from San Diego through Spokane, Colville, Medford, and Salt Lake City.",
+      evidence:
+        "Itemized from Presidential Movements pages and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "hotline-daily-briefing-september-14-1992",
+      documentType: "Campaign News Digest",
+      category: "campaign-news-digest",
+      disposition: "itemized-campaign-news-digest",
+      title: "The Hotline Daily Briefing, September 14, 1992",
+      documentDate: "1992-09-14",
+      pages: 25,
+      excerpt:
+        "The Hotline Daily Briefing covers Bush campaign moves, the spotted owl and timber issue, Clinton draft questions, California and Ohio polling, Senate and House races, governors' races, Newsweek polling, and television-monitor notes.",
+      evidence:
+        "Itemized from The Hotline Daily Briefing masthead, numbered section headings, poll tables, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-10am-pdt-1pm-edt-september-14-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 10:00 a.m. PDT / 1:00 p.m. EDT news update, September 14, 1992",
+      documentDate: "1992-09-14",
+      pages: 2,
+      excerpt:
+        "The news update includes midday items on the campaign, the Middle East talks, the House agenda, and Hurricane Iniki coverage.",
+      evidence:
+        "Itemized from the 10:00 a.m. PDT / 1:00 p.m. EDT White House News Summary heading and continuation page.",
+    },
+    {
+      slug: "kennedy-center-board-selection-packet",
+      documentType: "Personnel Memorandum with President Bush Handwriting",
+      category: "presidential-personnel",
+      disposition: "itemized-presidential-personnel",
+      title: "Constance Horner memorandum on Kennedy Center Board of Trustees selections",
+      documentDate: "1992-09-07",
+      pages: 6,
+      excerpt:
+        "Constance Horner briefs the President on John F. Kennedy Center for the Performing Arts Board of Trustees appointments, with membership lists and recommended nominees including Philip Anschutz, Stuart Bernstein, Alma Powell, Janie R. Ikard, and Barbara Barrett.",
+      evidence:
+        "Itemized from the original-attached marker, Horner memorandum heading, trustee list pages, President Bush handwriting, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-6am-edition-september-14-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 6:00 a.m. EDT edition, September 14, 1992",
+      documentDate: "1992-09-14",
+      pages: 24,
+      excerpt:
+        "The morning News Summary covers trip news, Reagan and Dornan at Yorba Linda, Bush and Clinton campaign attacks, endangered-species and timber coverage, Hurricane Iniki, health care, federal salaries, IRAs, Israel and Saudi arms sales, IMF deficit criticism, Bosnia, network news, and weekend television transcripts.",
+      evidence:
+        "Itemized from the Office of the Press Secretary News Summary cover page, section headings, A/B/C page numbers, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-september-14-1992",
+      documentType: "Legislative Digest",
+      category: "legislative-digest",
+      disposition: "itemized-legislative-digest",
+      title: "Congressional Monitor, September 14, 1992",
+      documentDate: "1992-09-14",
+      pages: 30,
+      excerpt:
+        "The Congressional Monitor packet covers the prior week in Congress, upcoming primaries, appropriations, committee meetings, conference committee listings, campaign future listings, appropriations status, House and Senate floor action, and the September 16 weekly schedule.",
+      evidence:
+        "Itemized from Congressional Monitor masthead, page numbers, section headings, and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-news-summary-730am-trip-update-september-14-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 7:30 a.m. trip update, September 14, 1992",
+      documentDate: "1992-09-14",
+      pages: 1,
+      excerpt:
+        "A trip-oriented White House News Summary page from San Diego summarizes early campaign and trip coverage before the President's Pacific Northwest stops.",
+      evidence:
+        "Itemized from the 7:30 a.m. trip update heading and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-230pm-pdt-530pm-edt-september-14-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 2:30 p.m. PDT / 5:30 p.m. EDT news, September 14, 1992",
+      documentDate: "1992-09-14",
+      pages: 2,
+      excerpt:
+        "The afternoon news summary covers Iranian and congressional items, Taiwan fighters, House debate, and other late-day wires.",
+      evidence:
+        "Itemized from the 2:30 p.m. PDT / 5:30 p.m. EDT White House News Summary heading and continuation page.",
+    },
+    {
+      slug: "caring-for-americas-forests-fact-sheet",
+      documentType: "Fact Sheet",
+      category: "environment-policy-fact-sheet",
+      disposition: "itemized-environment-policy",
+      title: "Fact sheet: Caring for America's Forests",
+      documentDate: "1992-09-14",
+      pages: 3,
+      excerpt:
+        "The fact sheet summarizes administration forest policy, national forest jobs, reforestation, management of national forests, and a multi-agency forest research initiative.",
+      evidence:
+        "Itemized from the rotated White House Office of the Press Secretary fact-sheet pages found in rendered-page review.",
+    },
+    {
+      slug: "colville-washington-remarks-september-14-1992",
+      documentType: "Presidential Remarks",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title: "Remarks by the President at Colville, Washington, September 14, 1992",
+      documentDate: "1992-09-14",
+      pages: 6,
+      excerpt:
+        "The Colville remarks address the spotted owl, timber jobs, the Endangered Species Act, agriculture, and a brief AIDS exchange during the President's Pacific Northwest campaign swing.",
+      evidence:
+        "Itemized from the Office of the Press Secretary Colville remarks release, numbered pages, and rendered-page review.",
+    },
+    {
+      slug: "commodore-john-barry-day-proclamation",
+      documentType: "Presidential Proclamation",
+      category: "presidential-proclamation",
+      disposition: "itemized-presidential-proclamation",
+      title: "Proclamation: Commodore John Barry Day, September 13, 1992",
+      documentDate: "1992-09-14",
+      pages: 2,
+      excerpt:
+        "The White House release transmits President Bush's proclamation honoring Commodore John Barry and inviting Americans to observe the day.",
+      evidence:
+        "Itemized from the Office of the Press Secretary proclamation release and continuation page found in rendered-page review.",
+    },
+    {
+      slug: "spotted-owl-timber-supply-crisis-press-materials",
+      documentType: "Press Release and Fact Sheet Packet",
+      category: "environment-policy-fact-sheet",
+      disposition: "itemized-environment-policy",
+      title: "Spotted owl and timber supply crisis press materials",
+      documentDate: "1992-09-14",
+      pages: 6,
+      excerpt:
+        "The packet includes White House press materials on final critical habitat rules, the spotted owl and timber supply crisis, administration responses, litigation chronology, and timber-policy background.",
+      evidence:
+        "Itemized from Office of the Press Secretary releases, 'The Spotted Owl/Timber Supply Crisis' heading, chronology pages, and rendered-page review.",
+    },
+    {
+      slug: "orange-county-welcome-rally-remarks-september-15-1992",
+      documentType: "Presidential Remarks",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title: "Remarks by the President at Orange County Welcome Rally, September 15, 1992",
+      documentDate: "1992-09-15",
+      pages: 4,
+      excerpt:
+        "The Orange County rally remarks cover the economy, MIAs, taxes, missile defense, Clinton, and campaign themes for the California stop.",
+      evidence:
+        "Itemized from the Office of the Press Secretary Anaheim release, numbered remarks pages, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-3-medford-oregon-september-14-1992",
+      documentType: "Pool Reports",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report-packet",
+      title: "Pool Report #3, Medford, Oregon, September 14, 1992",
+      documentDate: "1992-09-14",
+      pages: 2,
+      excerpt:
+        "Two copies of Pool Report #3 describe the C-9 flight to Medford, Marlin Fitzwater's debate comments, press logistics, and the President's timber-country campaign stop.",
+      evidence:
+        "Itemized from Pool Report #3 headings and duplicate rendered pages found in the NARA direct folder scan.",
+    },
+    {
+      slug: "burrill-lumber-official-remarks-release-copies",
+      documentType: "Presidential Remarks Release Packet",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title: "Office of the Press Secretary copies of Burrill Lumber Company remarks",
+      documentDate: "1992-09-14",
+      pages: 10,
+      excerpt:
+        "Two official press-release copies of the Burrill Lumber Company remarks restate the President's timber, endangered species, jobs, and Pacific Northwest environmental themes.",
+      evidence:
+        "Itemized from two Office of the Press Secretary Medford release copies and rendered-page review; distinct from the earlier speech draft already captured by the automated child record.",
+    },
+    {
+      slug: "miami-school-lamar-alexander-education-call-packet",
+      documentType: "Recommended Call and Education Memorandum Packet",
+      category: "education-policy-correspondence",
+      disposition: "itemized-education-policy",
+      title: "Miami school recommended call and Lamar Alexander education memorandum packet",
+      documentDate: "1992-09-14",
+      pages: 8,
+      excerpt:
+        "The education packet includes recommended telephone-call material, Lamar Alexander memoranda to the President, related White House News Summary clippings, and routing or fax pages concerning a school or education follow-up.",
+      evidence:
+        "Itemized from recommended-call forms, Department of Education memorandum pages, President Bush handwriting, news-summary clippings, fax page, and rendered-page review.",
+    },
+    {
+      slug: "campaign-debate-family-values-handwriting-notes",
+      documentType: "President Bush Handwriting Notes",
+      category: "campaign-strategy-notes",
+      disposition: "itemized-campaign-strategy-notes",
+      title: "President Bush handwriting notes on debates, family values, and campaign themes",
+      documentDate: "1992-09-14",
+      pages: 6,
+      excerpt:
+        "The handwritten note pages collect President Bush's points on debates, Congress, education, media corrections, campaign contrasts, and a Churchill quotation.",
+      evidence:
+        "Itemized from Bush Library handwriting pages and rendered-page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "los-angeles-times-clippings-september-14-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Los Angeles Times clippings on free trade, Iraq, Saudi arms, tax policy, abortion, Reagan, family values, and campaign targeting",
+      documentDate: "1992-09-14",
+      pages: 8,
+      excerpt:
+        "The Los Angeles Times packet includes clippings on Bush and Clinton's free-trade positions, Saddam Hussein, F-15 sales to Saudi Arabia, Bush's tax policy, Quayle and abortion, Reagan joining Bush at a rally, vice-presidential and family-values commentary, and state targeting.",
+      evidence:
+        "Itemized from Los Angeles Times mastheads, article starts, handwritten marks, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-clippings-september-14-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "New York Times clippings on Gore, cable legislation, Homestead Air Force Base, timber, Clinton, Peru, China trade, Bush attacks, Quayle, debates, and China policy",
+      documentDate: "1992-09-14",
+      pages: 11,
+      excerpt:
+        "The New York Times packet covers Al Gore on the trail, cable legislation, Homestead Air Force Base, Bush in timber country, Clinton's lead, Peru, U.S.-China trade tensions, Bush attacks, Quayle on homosexuality, debate pressure, and William Safire on China policy.",
+      evidence:
+        "Itemized from New York Times mastheads, article starts, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-clippings-september-14-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Washington Times clippings on Bush in the West, health care, Quayle, federal salaries, legal reform, Israel, IRAs, debates, GOP roots, Thomas, and Cuba",
+      documentDate: "1992-09-14",
+      pages: 13,
+      excerpt:
+        "The Washington Times packet includes campaign coverage from the West, health-care articles, Quayle on abortion, federal salaries, legal reform, Israeli jet-sale protests, IRAs, debate commentary, GOP economic roots, Justice Thomas, and Cuban nuclear concerns.",
+      evidence:
+        "Itemized from Washington Times mastheads, article starts, rotated clipping pages, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-articles-september-14-1992",
+      documentType: "Press Articles",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Wall Street Journal articles on grain aid, Nicaragua, Catholic voters, and the Cold War",
+      documentDate: "1992-09-14",
+      pages: 4,
+      excerpt:
+        "The Wall Street Journal packet covers Bush's grain offer, U.S. pressure on Nicaragua to root out Sandinistas, Catholic voters and Reagan Democrats, and Arthur Schlesinger Jr. on who won the Cold War.",
+      evidence:
+        "Itemized from Wall Street Journal mastheads, article starts, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-budget-deficit-fireworks-clipping",
+      documentType: "Press Clipping",
+      category: "press-clipping",
+      disposition: "itemized-press-clipping",
+      title: "USA Today clipping: Bush vows veto fireworks but fires a dud at deficit",
+      documentDate: "1992-09-14",
+      pages: 1,
+      excerpt:
+        "A USA Today clipping critiques Bush's budget-deficit and veto politics in the September 14 campaign cycle.",
+      evidence:
+        "Itemized from the USA Today masthead and article heading found in rendered-page review.",
+    },
+    {
+      slug: "washington-post-clippings-september-14-1992",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Washington Post clippings on Bush constituencies, Detroit, trade, family values, deficit, Kauai, Reagan attacks, federal pay, tort reform, Baker, taxes, and television",
+      documentDate: "1992-09-14",
+      pages: 14,
+      excerpt:
+        "The Washington Post packet includes columns and articles on Bush's angry constituency, Detroit and the economy, free trade, family-values politics, IMF deficit criticism, Hurricane Iniki and Kauai, Reagan attacks on Clinton, federal salaries, tort reform, Baker's campaign role, taxes, and television notes.",
+      evidence:
+        "Itemized from Washington Post mastheads, article starts, rotated clipping pages, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photo-transfer-pages-medford-oregon",
+      documentType: "Official White House Photographs",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title: "Official White House photo transfer pages from Medford, Oregon",
+      documentDate: "1992-09-14",
+      pages: 3,
+      excerpt:
+        "A final transfer cluster includes color photographs labeled Medford, Oregon, with a backing or transfer page between photo pages.",
+      evidence:
+        "Itemized from rendered-page review of color photo pages and backing or transfer page at the end of the NARA direct folder scan.",
+    },
+  ],
   470418070: [
     {
       slug: "charles-bartlett-massager-lincoln-anecdote",
