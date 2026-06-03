@@ -1925,6 +1925,166 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from Cardinal's Residence fax and letter pages found in full-PDF OCR of the NARA direct folder scan.",
     },
   ],
+  470417978: [
+    {
+      slug: "materials-forwarded-to-president-august-14-1992",
+      documentType: "Forwarded Materials List",
+      category: "forwarded-materials-list",
+      disposition: "itemized-forwarded-materials-list",
+      title: "Materials Forwarded to the President: August 14, 1992, to Camp David",
+      documentDate: "1992-08-14",
+      pages: 1,
+      excerpt:
+        "The forwarded-materials list identifies action, classified-information, and remarks items, including an Indiana disaster declaration, a Yeutter minivans tariff memorandum, and VFW convention remarks.",
+      evidence:
+        "Itemized from a Materials Forwarded to the President cover list found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "vfw-speech-plan-government-restructuring",
+      documentType: "Speech Planning Material",
+      category: "speech-planning-material",
+      disposition: "itemized-speech-planning-material",
+      title:
+        "Selected issues, government restructuring language, and plan language for Veterans of Foreign Wars remarks",
+      documentDate: "1992-08-14",
+      pages: 7,
+      excerpt:
+        "The speech-planning pages ask whether to include 'The Plan,' government restructuring, a domestic and economic agenda, tax policy, and debt-and-spending reduction ideas.",
+      evidence:
+        "Itemized from selected-issues, Government Restructuring Language, and plan.scr pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "leonard-garment-character-campaign-correspondence",
+      documentType: "Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Leonard Garment correspondence packet re character, Clinton, and campaign themes",
+      documentDate: "1992-08-07",
+      pages: 4,
+      excerpt:
+        "The packet includes White House routing material and Leonard Garment's faxed thoughts on Clinton, moral values, trustworthiness, character, and the 1992 presidential campaign.",
+      evidence:
+        "Itemized from the Leonard Garment routing page and faxed pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "anthony-dolan-campaign-thoughts",
+      documentType: "Correspondence and Talking Points",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Anthony R. Dolan correspondence and campaign thoughts for President Bush",
+      documentDate: "1992-08-07",
+      pages: 7,
+      excerpt:
+        "Anthony Dolan praises the President's recent attacks, discusses the campaign, and attaches further thoughts on drawing contrasts with Clinton and the Democratic Party.",
+      evidence:
+        "Itemized from American Enterprise Institute letterhead, Dolan's August 7 letter, and attached campaign-thought pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "oscar-jeb-bush-campaign-correspondence",
+      documentType: "Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Oscar and Jeb Bush correspondence packet re campaign support and fundraising",
+      documentDate: "1992-08-14",
+      pages: 4,
+      excerpt:
+        "The packet includes a presidential reply to Oscar, a July 29 personal and confidential letter copied to Jeb Bush, and a Spanish-language note to Jeb about a campaign contribution.",
+      evidence:
+        "Itemized from presidential correspondence, Jeb Bush routing material, and incoming Spanish-language pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "august-14-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title: "Telephone memoranda and Signal Switchboard log: August 14, 1992",
+      documentDate: "1992-08-14",
+      pages: 4,
+      excerpt:
+        "White House telephone memoranda list calls with Robert Mosbacher, Samuel Skinner, Nicholas Brady, John Paul Hammerschmidt, George W. Bush, Brent Scowcroft, and others, plus a no-calls memorandum.",
+      evidence:
+        "Itemized from White House telephone memorandum and Signal Switchboard headings found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "august-14-presidential-movements",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-item",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: Camp David and Frederick, Maryland, August 14, 1992",
+      documentDate: "1992-08-14",
+      pages: 2,
+      excerpt:
+        "The movement logs record the President at Camp David, jogging, Aspen and Laurel movements, and the Marine One trip to Harry Grove Stadium in Frederick.",
+      evidence:
+        "Itemized from two Presidential Movements headings found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "recommended-call-republican-convention-walkthrough",
+      documentType: "Recommended Telephone Call",
+      category: "recommended-call-item",
+      disposition: "itemized-recommended-telephone-call",
+      title:
+        "Recommended telephone call to participants attending the Republican National Convention final walk-through",
+      documentDate: "1992-08-14",
+      pages: 1,
+      excerpt:
+        "Ronald C. Kaufman recommends a presidential call to thank staff and volunteers attending the final walk-through for the Republican National Convention at the Houston Astrodome.",
+      evidence:
+        "Itemized from a Recommended Telephone Call heading found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "susan-watkins-camp-david-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Susan Elizabeth Watkins correspondence packet re Camp David reunion and videotapes",
+      documentDate: "1992-08-14",
+      pages: 4,
+      excerpt:
+        "The President thanks Susan Elizabeth Watkins for her note, says he was glad her family had a reunion at Camp David, and thanks her for the video tapes.",
+      evidence:
+        "Itemized from presidential correspondence and related low-confidence handwritten pages found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "joe-ramirez-lynwood-sheriffs-youth-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Joe Ramirez and Lynwood Sheriff's Youth Athletic League correspondence packet",
+      documentDate: "1992-08-14",
+      pages: 2,
+      excerpt:
+        "The packet includes a presidential response and Joe Ramirez's July 29 letter thanking the President for visiting the Lynwood Sheriff's Youth Athletic League.",
+      evidence:
+        "Itemized from White House routing material and Joe Ramirez's incoming letter found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "justin-dart-disabilities-committee-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Justin Dart correspondence packet re President's Committee on Employment of People with Disabilities",
+      documentDate: "1992-08-14",
+      pages: 2,
+      excerpt:
+        "The packet includes a White House routing page and Justin Dart letterhead from the President's Committee on Employment of People with Disabilities.",
+      evidence:
+        "Itemized from the Justin Dart routing page and letterhead page found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+    {
+      slug: "daily-news-clips-august-14-1992",
+      documentType: "Daily News Clips",
+      category: "daily-news-clips-item",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips: Friday, August 14, 1992",
+      documentDate: "1992-08-14",
+      pages: 118,
+      excerpt:
+        "The press-clips run includes USA Today, Los Angeles Times, The Washington Post, The Wall Street Journal, The New York Times, and The Washington Times coverage of Clinton, NAFTA, Bosnia, Baker, the Republican platform, abortion, and the campaign.",
+      evidence:
+        "Itemized as a Daily News Clips packet from the continuous newspaper-clipping run found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
+    },
+  ],
   470417997: [
     {
       slug: "marked-branson-rally-remarks",
