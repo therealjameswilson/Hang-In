@@ -6562,6 +6562,320 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 123-137 of the NARA direct folder scan using the Hotline cover, database index, numbered political items, primary-result tables, OCR, and rendered-page review.",
     },
   ],
+  470417696: [
+    {
+      slug: "little-league-international-congress-video-remarks",
+      documentType: "Presidential Video Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Little League International Congress video remarks",
+      documentDate: "1992-04-09",
+      pages: 3,
+      excerpt:
+        "The video remarks salute Little League participants, families, and volunteers at the 1992 International Congress and connect the program to civic responsibility and community life.",
+      evidence:
+        "Itemized from pages 2-4 of the NARA direct folder scan using the Little League International Congress video heading, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "aarp-biennial-convention-video-remarks",
+      documentType: "Presidential Video Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "AARP 1992 Biennial Convention video remarks",
+      documentDate: "1992-04-09",
+      pages: 2,
+      excerpt:
+        "The video remarks address AARP members at the 1992 Biennial Convention and emphasize older Americans' service, independence, and place in the national community.",
+      evidence:
+        "Itemized from pages 5-6 of the NARA direct folder scan using the AARP 1992 Biennial Convention video heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "opic-video-remarks",
+      documentType: "Presidential Video Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Overseas Private Investment Corporation video remarks",
+      documentDate: "1992-04-09",
+      pages: 2,
+      excerpt:
+        "The video remarks discuss the Overseas Private Investment Corporation and the role of private investment, enterprise, and American business in post-Cold War international development.",
+      evidence:
+        "Itemized from pages 7-8 of the NARA direct folder scan using the OPIC video heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "quincentennial-foundation-gala-video-remarks",
+      documentType: "Presidential Video Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Christopher Columbus Quincentenary Jubilee Commission Foundation gala video remarks",
+      documentDate: "1992-04-09",
+      pages: 2,
+      excerpt:
+        "The video remarks address a Quincentennial Foundation gala and frame the Columbus anniversary around exploration, national heritage, and cultural commemoration.",
+      evidence:
+        "Itemized from pages 9-10 of the NARA direct folder scan using the Quincentennial Foundation gala video heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-paul-hammerschmidt-video-remarks",
+      documentType: "Presidential Video Remarks",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "Congressman John Paul Hammerschmidt video remarks",
+      documentDate: "1992-04-09",
+      pages: 3,
+      excerpt:
+        "The video remarks honor Congressman John Paul Hammerschmidt's public service, Arkansas career, and work with the President in Congress.",
+      evidence:
+        "Itemized from pages 11-13 of the NARA direct folder scan using the John Paul Hammerschmidt video heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "armed-forces-day-message",
+      documentType: "Presidential Message",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-message",
+      title: "Armed Forces Day message",
+      documentDate: "1992-04-09",
+      pages: 2,
+      excerpt:
+        "The message marks Armed Forces Day by recognizing military service, national defense, and the contribution of servicemembers and their families.",
+      evidence:
+        "Itemized from pages 14-15 of the NARA direct folder scan using the Armed Forces Day message heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "memorial-day-message",
+      documentType: "Presidential Message",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-message",
+      title: "Memorial Day message",
+      documentDate: "1992-04-09",
+      pages: 1,
+      excerpt:
+        "The message prepares Memorial Day language honoring Americans who died in military service and connecting remembrance to national obligation.",
+      evidence:
+        "Itemized from page 16 of the NARA direct folder scan using the Memorial Day message heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "videotaping-session-staffing-and-cover-memo",
+      documentType: "Staffing Memorandum Packet",
+      category: "staffing-memorandum",
+      disposition: "itemized-staffing-memorandum",
+      title: "White House staffing memorandum and Brady cover memo for April 9 videotaping session",
+      documentDate: "1992-04-09",
+      pages: 2,
+      excerpt:
+        "The packet routes the President's April 9 videotaping session and attaches six video scripts, with Phillip Brady noting the scripts and changes for the President's review.",
+      evidence:
+        "Itemized from pages 17-18 of the NARA direct folder scan using the White House staffing memorandum, Phillip Brady cover memorandum, attached-script references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "aarp-draft-two-video-script",
+      documentType: "Remarks Draft",
+      category: "presidential-remarks",
+      disposition: "itemized-remarks-draft",
+      title: "Draft-two AARP Biennial Convention video script",
+      documentDate: "1992-04-09",
+      pages: 1,
+      excerpt:
+        "A draft-two version of the AARP video script refines the President's message for the 1992 Biennial Convention.",
+      evidence:
+        "Itemized from page 19 of the NARA direct folder scan using the draft-two AARP script heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hammerschmidt-draft-two-video-script",
+      documentType: "Remarks Draft",
+      category: "presidential-remarks",
+      disposition: "itemized-remarks-draft",
+      title: "Draft-two John Paul Hammerschmidt video script",
+      documentDate: "1992-04-09",
+      pages: 2,
+      excerpt:
+        "A draft-two version of the Hammerschmidt video script provides revised tribute remarks for Congressman John Paul Hammerschmidt.",
+      evidence:
+        "Itemized from pages 20-21 of the NARA direct folder scan using the draft-two Hammerschmidt script heading, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "opic-draft-two-video-script",
+      documentType: "Remarks Draft",
+      category: "presidential-remarks",
+      disposition: "itemized-remarks-draft",
+      title: "Draft-two Overseas Private Investment Corporation video script",
+      documentDate: "1992-04-09",
+      pages: 1,
+      excerpt:
+        "A draft-two OPIC script refines the President's video message on private investment and American economic engagement abroad.",
+      evidence:
+        "Itemized from page 22 of the NARA direct folder scan using the draft-two OPIC script heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "quincentennial-foundation-draft-two-video-script",
+      documentType: "Remarks Draft",
+      category: "presidential-remarks",
+      disposition: "itemized-remarks-draft",
+      title: "Draft-two Quincentennial Foundation gala video script",
+      documentDate: "1992-04-09",
+      pages: 2,
+      excerpt:
+        "A draft-two script revises the President's video remarks for the Christopher Columbus Quincentenary Foundation gala.",
+      evidence:
+        "Itemized from pages 23-24 of the NARA direct folder scan using the draft-two Quincentennial Foundation script heading, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "little-league-draft-two-video-script",
+      documentType: "Remarks Draft",
+      category: "presidential-remarks",
+      disposition: "itemized-remarks-draft",
+      title: "Draft-two Little League International Congress video script",
+      documentDate: "1992-04-09",
+      pages: 2,
+      excerpt:
+        "A draft-two Little League script refines the President's remarks for the International Congress video message.",
+      evidence:
+        "Itemized from pages 25-26 of the NARA direct folder scan using the draft-two Little League script heading, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "american-society-newspaper-editors-address",
+      documentType: "Presidential Address",
+      category: "presidential-remarks",
+      disposition: "itemized-presidential-remarks",
+      title: "American Society of Newspaper Editors address",
+      documentDate: "1992-04-09",
+      pages: 22,
+      excerpt:
+        "The address to the American Society of Newspaper Editors discusses the post-Cold War order, Russia and former Soviet Union assistance, trade, fiscal policy, and the United States' international role.",
+      evidence:
+        "Itemized from pages 27-48 of the NARA direct folder scan using the American Society of Newspaper Editors address sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-lindley-vermont-flood-aid-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John M. Lindley III Vermont flood-aid correspondence, signed photograph, and incoming-letter packet",
+      documentDate: "1992-04-09",
+      pages: 4,
+      excerpt:
+        "The packet includes the President's signed reply to John M. Lindley III, a signed photograph, Lindley's handwritten transmittal note, and his March 25 letter thanking the administration for federal aid after Vermont flooding.",
+      evidence:
+        "Itemized from pages 49-52 of the NARA direct folder scan using the signed White House reply, signed photograph page, State Farm letterhead transmittal note, March 25 incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "shirley-green-mail-summary-april-1-7-1992",
+      documentType: "Mail Summary Memorandum",
+      category: "staffing-memorandum",
+      disposition: "itemized-staffing-memorandum",
+      title: "Shirley Green memorandum re Mail Summary, April 1-7, 1992",
+      documentDate: "1992-04-08",
+      pages: 1,
+      excerpt:
+        "Shirley Green summarizes White House correspondence received and processed for April 1-7, including economic concerns, Israel loan guarantees, abortion, the Earth Summit, hardship cases, and propaganda mail.",
+      evidence:
+        "Itemized from page 53 of the NARA direct folder scan using the Shirley Green Mail Summary heading, correspondence totals, issue table, OCR, and rendered-page review.",
+    },
+    {
+      slug: "apn-hotline-daily-briefing-april-9-1992",
+      documentType: "Political Newsletter",
+      category: "political-newsletter",
+      disposition: "itemized-political-newsletter",
+      title: "APN Hotline Daily Briefing on American Politics for April 9, 1992",
+      documentDate: "1992-04-09",
+      pages: 21,
+      excerpt:
+        "The American Political Network Hotline briefing compiles April 9 political intelligence on the presidential campaign, congressional races, state contests, polls, television monitoring, and press commentary.",
+      evidence:
+        "Itemized from pages 54-74 of the NARA direct folder scan using the APN Hotline cover, database index, numbered political items, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nicholas-brady-rate-market-reaction-phone-call-slips",
+      documentType: "Presidential Phone Call Slips",
+      category: "phone-call-slip",
+      disposition: "itemized-phone-call-slip",
+      title: "Duplicate presidential phone-call slips with Nicholas Brady re interest-rate move and market reaction",
+      documentDate: "1992-04-09",
+      pages: 2,
+      excerpt:
+        "Duplicate presidential phone-call slips record a 12:35 p.m. April 9 call with Nicholas Brady concerning an interest-rate move and the market reaction, with handwritten notes on the call form.",
+      evidence:
+        "Itemized from pages 75-76 of the NARA direct folder scan using duplicated Presidential Phone Calls forms, Brady name, 12:35 time, subject handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "houston-chronicle-andy-card-school-story-handwritten-notes",
+      documentType: "Presidential Handwritten Notes",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Presidential handwritten notes re Houston Chronicle, Andy Card, and school-story coverage",
+      documentDate: "1992-04-09",
+      pages: 2,
+      excerpt:
+        "The President's handwritten notes discuss Houston Chronicle writer Greg McDonald, Andy Card, and the press handling of a school-story reaction account.",
+      evidence:
+        "Itemized from pages 77-78 of the NARA direct folder scan using rotated rendered-page review, OCR fragments, Houston Chronicle and Greg McDonald references, and the continuation of presidential handwriting across both pages.",
+    },
+    {
+      slug: "carlos-perez-peru-haiti-telephone-call-packet",
+      documentType: "National Security Telephone Call Packet",
+      category: "national-security-briefing",
+      disposition: "itemized-national-security-briefing",
+      title: "Carlos Andres Perez Peru and Haiti telephone-call packet",
+      documentDate: "1992-04-09",
+      pages: 6,
+      excerpt:
+        "The packet includes a withdrawal sheet for withheld presidential phone-call notes, points to be made for a call with Venezuelan President Carlos Andres Perez, a Brent Scowcroft cover memorandum, and background on Peru and Haiti.",
+      evidence:
+        "Itemized from pages 79-84 of the NARA direct folder scan using the withdrawal/redaction sheet, Points to be Made heading, Brent Scowcroft memorandum, background paper, OCR, and rendered-page review.",
+    },
+    {
+      slug: "steve-symms-taiwan-meeting-briefing",
+      documentType: "Meeting Briefing",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Meeting with Senator Steve Symms briefing re Taiwan",
+      documentDate: "1992-04-09",
+      pages: 2,
+      excerpt:
+        "The briefing prepares the President for an April 9 meeting with Senator Steve Symms of Idaho and focuses on Taiwan, arms-sales politics, and related foreign-policy concerns.",
+      evidence:
+        "Itemized from pages 85-86 of the NARA direct folder scan using the Meeting with Senator Steve Symms heading, revised label, Taiwan subject matter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-walker-katherine-family-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John M. Walker Jr. family correspondence packet re Katherine",
+      documentDate: "1992-04-09",
+      pages: 4,
+      excerpt:
+        "The packet includes the President's reply to Judge John M. Walker Jr. and Walker's handwritten incoming letter discussing family news and Katherine.",
+      evidence:
+        "Itemized from pages 87-90 of the NARA direct folder scan using the White House reply, United States Court of Appeals letterhead, handwritten incoming pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alex-kozinski-dark-lessons-utopia-aier-article",
+      documentType: "Article",
+      category: "article",
+      disposition: "itemized-article",
+      title: "Alex Kozinski article, The Dark Lessons of Utopia",
+      documentDate: "1992-02",
+      pages: 1,
+      excerpt:
+        "The February 1992 American Institute for Economic Research bulletin reprints Alex Kozinski's article on collectivism, Eastern Europe, markets, and the lessons of communist rule.",
+      evidence:
+        "Itemized from page 91 of the NARA direct folder scan using the Economic Education Bulletin masthead, article title, Alex Kozinski byline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "grassley-jeffords-exon-amendment-phone-call-packet",
+      documentType: "Recommended Telephone Call Packet",
+      category: "telephone-call-briefing",
+      disposition: "itemized-telephone-call-briefing",
+      title: "Recommended telephone calls to Senators Grassley and Jeffords re Exon amendment",
+      documentDate: "1992-04-08",
+      pages: 2,
+      excerpt:
+        "Nicholas Calio recommends calls to Senators Chuck Grassley and Jim Jeffords urging votes against the Exon amendment to the Senate Budget Resolution, which would cut defense below the President's request.",
+      evidence:
+        "Itemized from pages 92-93 of the NARA direct folder scan using the Recommended Telephone Call headings, Grassley and Jeffords addressees, Exon amendment purpose text, OCR, and rendered-page review.",
+    },
+  ],
   470417713: [
     {
       slug: "billy-graham-convention-note",
@@ -13620,6 +13934,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417674",
   "470417679",
   "470417692",
+  "470417696",
   "470418083",
 ]);
 
