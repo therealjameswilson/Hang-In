@@ -1010,6 +1010,321 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 5-116 of the NARA direct folder scan using the report title page, index, issue-section headings, OCR, and rendered-page review.",
     },
   ],
+  470417227: [
+    {
+      slug: "burton-lee-aids-memo-to-sununu",
+      documentType: "Memorandum with President Bush Handwriting",
+      category: "aids-policy-memo",
+      disposition: "itemized-aids-policy-memo",
+      title: "Burton J. Lee memorandum to John H. Sununu re AIDS",
+      documentDate: "1991-06-27",
+      pages: 1,
+      excerpt:
+        "Burton J. Lee advises John Sununu that President Bush's central AIDS theme should be education and prevention, with issues including promiscuity, drugs, and fairness to fellow Americans.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the White House memorandum heading, THE PRESIDENT HAS SEEN stamp, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "newspaper-clipping-albania-safire-sununu",
+      documentType: "Newspaper Clipping Page",
+      category: "press-clipping",
+      disposition: "itemized-press-clipping",
+      title:
+        "Newspaper clipping page with Sali Berisha essay excerpt and William Safire column In Deep Sununu",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "A clipping page combines an essay excerpt on Albania's post-Communist politics with William Safire's column In Deep Sununu on John Sununu's White House role and travel controversies.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using newspaper clipping layout, Safire column title, Albania essay text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "johnny-morris-big-cedar-lodge-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush correspondence with Johnny Morris re Big Cedar Lodge",
+      documentDate: "1991-06-27",
+      pages: 2,
+      excerpt:
+        "President Bush writes Johnny Morris about the Big Cedar Lodge book and hopes to visit the shop again; Morris's June 20 incoming letter thanks Bush for interest in the Bluefin Tuna issue and invites him to Big Cedar Lodge.",
+      evidence:
+        "Itemized from pages 4-5 of the NARA direct folder scan using the presidential note, Bass Pro Shops incoming letter, bcc/return instructions, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-bell-birthday-card-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to George De B. Bell re birthday card and summer plans",
+      documentDate: "1991-06-27",
+      pages: 1,
+      excerpt:
+        "President Bush writes George De B. Bell about a card, returning to golf and tennis, and plans to celebrate his mother's ninetieth birthday in Maine.",
+      evidence:
+        "Itemized from page 6 of the NARA direct folder scan using presidential letterhead, addressee block, signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "clark-judge-capital-gains-article-correspondence",
+      documentType: "Correspondence and Press Article",
+      category: "capital-gains-press-article",
+      disposition: "itemized-capital-gains-press-article",
+      title: "President Bush note to Clark S. Judge with The Tax That Ate the Economy article",
+      documentDate: "1991-06-27",
+      pages: 2,
+      excerpt:
+        "A White House routing page carries President Bush's note thanking Clark S. Judge for his conclusion, followed by Judge's article The Tax That Ate the Economy on capital-gains taxation and job creation.",
+      evidence:
+        "Itemized from pages 7-8 of the NARA direct folder scan using the White House address page, Bush note, records instruction, article title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chafee-title-x-proposed-substitute",
+      documentType: "Legislative Proposal",
+      category: "title-x-pregnancy-counseling",
+      disposition: "itemized-title-x-pregnancy-counseling",
+      title: "Proposed substitute for S. 323, Chafee Title X Pregnancy Counseling Act of 1991",
+      documentDate: "1991-06-27",
+      pages: 1,
+      excerpt:
+        "The proposed substitute outlines pregnancy counseling options, family involvement, conscience protections, and availability of services under Title X funded clinics.",
+      evidence:
+        "Itemized from page 10 of the NARA direct folder scan using the proposed substitute heading, Chafee Title X Pregnancy Counseling Act title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chafee-title-x-memo-to-president",
+      documentType: "Senator Memorandum",
+      category: "title-x-pregnancy-counseling",
+      disposition: "itemized-title-x-pregnancy-counseling",
+      title: "Senator Chafee memorandum to President Bush re Title X and Pregnancy Counseling",
+      documentDate: "1991-06-27",
+      pages: 2,
+      excerpt:
+        "Senator John Chafee asks President Bush to support Title X pregnancy counseling legislation that would overturn the 1988 HHS regulations and respond to medical, public-opinion, and Republican electoral concerns.",
+      evidence:
+        "Itemized from pages 11-12 of the NARA direct folder scan using the DATE/TO/FROM/RE heading, Chafee signature context, OCR, and rendered-page review.",
+    },
+    {
+      slug: "title-x-pregnancy-counseling-vote-lists",
+      documentType: "Vote Lists",
+      category: "title-x-pregnancy-counseling",
+      disposition: "itemized-title-x-pregnancy-counseling",
+      title: "Vote lists on the Chafee pregnancy counseling amendment and S. 323",
+      documentDate: "1990-09-25",
+      pages: 2,
+      excerpt:
+        "Vote lists record Senate votes on the Chafee pregnancy counseling amendment to Title X and a Senate Labor and Human Resources Committee vote on S. 323.",
+      evidence:
+        "Itemized from pages 13-14 of the NARA direct folder scan using vote-list headings, member columns, OCR, and rendered-page review.",
+    },
+    {
+      slug: "s323-title-x-bill-print-and-status",
+      documentType: "Bill Print and Status Sheet",
+      category: "title-x-pregnancy-counseling",
+      disposition: "itemized-title-x-pregnancy-counseling",
+      title: "S. 323 Title X Pregnancy Counseling Act bill print and status sheet",
+      documentDate: "1991",
+      pages: 3,
+      excerpt:
+        "The packet includes the S. 323 bill print title page and a status sheet for the Title X Pregnancy Counseling Act of 1991.",
+      evidence:
+        "Itemized from pages 15-17 of the NARA direct folder scan using the Calendar No. 125 bill print, official title, and status sheet, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-ama-doctors-counseling-article",
+      documentType: "Press Article",
+      category: "title-x-pregnancy-counseling-press",
+      disposition: "itemized-title-x-pregnancy-counseling-press",
+      title: "Wall Street Journal article: AMA Opposes Government Interference With Doctors' Counseling of Patients",
+      documentDate: "1991-06-26",
+      pages: 1,
+      excerpt:
+        "Thomas M. Burton reports that the American Medical Association opposed government interference with doctors' counseling of patients.",
+      evidence:
+        "Itemized from page 18 of the NARA direct folder scan using the Wall Street Journal masthead, article title, byline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-forbidden-advice-editorial",
+      documentType: "Editorial",
+      category: "title-x-pregnancy-counseling-press",
+      disposition: "itemized-title-x-pregnancy-counseling-press",
+      title: "Washington Post editorial: Forbidden Advice",
+      documentDate: "1991-05-24",
+      pages: 1,
+      excerpt:
+        "The Washington Post editorial Forbidden Advice criticizes restrictions on abortion-related advice in federally funded family-planning clinics.",
+      evidence:
+        "Itemized from page 19 of the NARA direct folder scan using the Washington Post editorial page masthead, title, date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-ama-medical-advice-curbs-article",
+      documentType: "Press Article",
+      category: "title-x-pregnancy-counseling-press",
+      disposition: "itemized-title-x-pregnancy-counseling-press",
+      title: "New York Times article: A.M.A. Condemns U.S. Curbs on Medical Advice",
+      documentDate: "1991-06-27",
+      pages: 1,
+      excerpt:
+        "The New York Times reports from Chicago that the American Medical Association condemned federal curbs on medical advice related to abortion counseling.",
+      evidence:
+        "Itemized from page 20 of the NARA direct folder scan using the New York Times heading, article title, date line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ama-gag-rule-statement",
+      documentType: "Association Statement",
+      category: "title-x-pregnancy-counseling-press",
+      disposition: "itemized-title-x-pregnancy-counseling-press",
+      title: "American Medical Association statement: The Gag Rule",
+      documentDate: "1991-06-13",
+      pages: 1,
+      excerpt:
+        "The American Medical Association statement attributed to James S. Todd supports S. 323 and H.R. 392, the Title X Pregnancy Counseling Act.",
+      evidence:
+        "Itemized from page 21 of the NARA direct folder scan using AMA statement heading, attribution line, date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "acog-pregnancy-counseling-statement",
+      documentType: "Association Statement",
+      category: "title-x-pregnancy-counseling-press",
+      disposition: "itemized-title-x-pregnancy-counseling-press",
+      title: "American College of Obstetricians and Gynecologists statement on pregnancy counseling",
+      documentDate: "1991-06-21",
+      pages: 2,
+      excerpt:
+        "Richard H. Schwarz, president of the American College of Obstetricians and Gynecologists, argues that restrictions on pregnancy counseling interfere with the doctor-patient relationship.",
+      evidence:
+        "Itemized from pages 22-23 of the NARA direct folder scan using the ACOG letterhead, statement heading, signature/date page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-cole-get-government-out-doctors-office-oped",
+      documentType: "Opinion Article",
+      category: "title-x-pregnancy-counseling-press",
+      disposition: "itemized-title-x-pregnancy-counseling-press",
+      title: "David Cole op-ed: Get Government Out of the Doctor's Office",
+      documentDate: "1991-05-28",
+      pages: 1,
+      excerpt:
+        "David Cole's Washington Post op-ed criticizes government restrictions on what doctors may say to patients in Title X clinics.",
+      evidence:
+        "Itemized from page 24 of the NARA direct folder scan using the Washington Post byline, op-ed title, date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "title-x-pregnancy-counseling-draft-amendment",
+      documentType: "Draft Amendment",
+      category: "title-x-pregnancy-counseling",
+      disposition: "itemized-title-x-pregnancy-counseling",
+      title: "Draft amendment on Title X pregnancy information and counseling",
+      documentDate: "1991",
+      pages: 5,
+      excerpt:
+        "Draft amendment language would require pregnancy information and counseling under Title X while addressing conscience protections, referrals, definitions, and religious or moral convictions.",
+      evidence:
+        "Itemized from pages 25-29 of the NARA direct folder scan using the BAI91.449 S.L.C. page headers, amendment purpose line, section text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "louis-marks-handwritten-presidential-letter",
+      documentType: "Handwritten Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush handwritten letter to Louis Marks Jr. re fan-jet forehand",
+      documentDate: "1991-06-27",
+      pages: 2,
+      excerpt:
+        "President Bush writes Louis Marks Jr. in longhand about having been there at sixty years old and suggests that a fan-jet forehand might enhance his finesse.",
+      evidence:
+        "Itemized from pages 30-31 of the NARA direct folder scan using the White House address page, handwritten front and continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-neblett-presidential-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to Charles Neblett re Lisbon note and family news",
+      documentDate: "1991-06-27",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Charles Neblett for a June 9 note from Lisbon, mentions Joe and Carole Zappala, Andrew and Margaret, and plans for his mother's ninetieth birthday.",
+      evidence:
+        "Itemized from page 32 of the NARA direct folder scan using presidential letterhead, address block, signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-bust-unveiling-marshall-resignation",
+      documentType: "Pool Report",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report",
+      title: "Pool report on bust unveiling and Thurgood Marshall resignation",
+      documentDate: "1991-06-27",
+      pages: 1,
+      excerpt:
+        "Jim Gerstenzang's pool report covers the bust unveiling and President Bush's comment on Justice Thurgood Marshall's resignation.",
+      evidence:
+        "Itemized from page 33 of the NARA direct folder scan using the pool report heading, date, byline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "marshall-retirement-president-statement",
+      documentType: "Presidential Statement Release",
+      category: "presidential-statement-release",
+      disposition: "itemized-presidential-statement-release",
+      title: "Office of the Press Secretary statement by the President on Justice Thurgood Marshall",
+      documentDate: "1991-06-27",
+      pages: 1,
+      excerpt:
+        "President Bush praises Justice Thurgood Marshall's distinguished service as a civil-rights lawyer, judge, Solicitor General, and Supreme Court justice, and says he intends to nominate a successor very soon.",
+      evidence:
+        "Itemized from page 34 of the NARA direct folder scan using the Office of the Press Secretary release heading, date, statement text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "june-26-house-republicans-senators-pool-reports",
+      documentType: "Pool Reports",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report",
+      title: "Pool reports on June 26 meetings with House Republicans and Senators",
+      documentDate: "1991-06-26",
+      pages: 2,
+      excerpt:
+        "Charlie Green's pool reports cover President Bush's June 26 meetings with House Republicans and senators, including questions on Yugoslavia, abortion counseling, MFN, and China.",
+      evidence:
+        "Itemized from pages 35-36 of the NARA direct folder scan using pool report headings, meeting titles, byline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-june-27-1991-updates",
+      documentType: "White House News Summary Updates",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary updates, June 27, 1991",
+      documentDate: "1991-06-27",
+      pages: 5,
+      excerpt:
+        "White House News Summary updates for June 27 cover Yugoslavia, recession comments, Supreme Court decisions, Justice Marshall's retirement, the Middle East peace process, and related wire coverage.",
+      evidence:
+        "Itemized from pages 37-41 of the NARA direct folder scan using the 10:30 a.m., 1:30 p.m., and 4:30 p.m. update headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "transferred-white-house-photographs-transfer-sheet",
+      documentType: "Transfer Sheet and Photograph Photocopies",
+      category: "transferred-white-house-photographs",
+      disposition: "itemized-transferred-white-house-photographs",
+      title: "George Bush Presidential Library transfer sheet and photocopies of transferred White House photographs",
+      documentDate: "2013-01-16",
+      pages: 7,
+      excerpt:
+        "A Bush Library transfer sheet records White House photographs transferred to the audiovisual collection, followed by photocopies of the images in the daily-file scan.",
+      evidence:
+        "Itemized from pages 43-49 of the NARA direct folder scan using the transfer sheet description, photograph photocopies, OCR, and rendered-page review.",
+    },
+    {
+      slug: "us-savings-bonds-1991-campaign-booklet",
+      documentType: "Campaign Booklet",
+      category: "us-savings-bonds-campaign",
+      disposition: "itemized-us-savings-bonds-campaign",
+      title: "U.S. Savings Bonds: The Great American Investment, 1991 Campaign booklet",
+      documentDate: "1991",
+      pages: 28,
+      excerpt:
+        "The 1991 U.S. Savings Bonds campaign booklet includes messages from President Bush, Secretary Nicholas Brady, and national chairman John Clendenin; campaign goals; volunteer committee rosters; honor rolls; and savings bond explanations.",
+      evidence:
+        "Itemized from pages 50-77 of the NARA direct folder scan using the color booklet cover, presidential message, campaign sections, rosters, honor-roll tables, OCR, and rendered-page review.",
+    },
+  ],
   470417389: [
     {
       slug: "presidential-log-selected-congressional-mail",
@@ -8724,6 +9039,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417119",
   "470417135",
   "470417151",
+  "470417227",
   "470418083",
 ]);
 
