@@ -16469,6 +16469,62 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 77-98 of the NARA direct folder scan using the Service Clubs Picnic heading, Jackson Hole Wyoming location, Friday July 17 1992 date, continuous page numbering through page 22, OCR, and rendered-page review.",
     },
   ],
+  470417908: [
+    {
+      slug: "daily-news-clips-july-17-1992",
+      documentType: "Daily News Clips Packet",
+      category: "daily-news-clips",
+      disposition: "itemized-daily-news-clips",
+      title: "Daily News Clips: Friday, July 17, 1992",
+      documentDate: "1992-07-17",
+      pages: 142,
+      excerpt:
+        "The Office of Media Affairs Daily News Clips packet collects July 17 coverage from the Washington Post, Wall Street Journal, USA Today, New York Times, and Washington Times on Ross Perot's withdrawal, Clinton and Gore at the Democratic convention, Bush campaign strategy, NAFTA, AIDS, RU-486, foreign policy, and campaign commentary.",
+      evidence:
+        "Itemized from pages 2-143 of the NARA direct folder scan using the Daily News Clips cover page, Office of Media Affairs source list, Washington Post, Wall Street Journal, USA Today, New York Times, and Washington Times mastheads, clipping sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "susan-petersen-presidential-handwritten-letter",
+      documentType: "Presidential Handwritten Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush handwritten letter to Susan Petersen re meal, support, and Perot",
+      documentDate: "1992-07-17",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Susan Petersen of Kendall Ranch for a meal and words of support, joking that he is glad Perot was off the menu.",
+      evidence:
+        "Itemized from page 144 of the NARA direct folder scan using the White House address block for Ms. Susan Petersen, Kendall Ranch, July 17 1992 handwritten date, Perot off the menu line, Bush signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "falwell-new-covenant-release-bush-note-lynn-martin",
+      documentType: "Press Release with Presidential Note",
+      category: "presidential-note-packet",
+      disposition: "itemized-presidential-note-packet",
+      title:
+        "Jerry Falwell scripture press release with President Bush note to Lynn Martin",
+      documentDate: "1992-07-17",
+      pages: 1,
+      excerpt:
+        "A Jerry Falwell Ministries release responds to Clinton, Gore, and Jackson's use of scripture at the Democratic convention, with President Bush forwarding it to Secretary Lynn Martin as Covenant material.",
+      evidence:
+        "Itemized from page 145 of the NARA direct folder scan using the Jerry Falwell Responds to Misuse of Scripture by Clinton, Gore and Jackson title, Mark DeMoss contact line, President Bush handwritten note to Lynn Martin, White House address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photo-jackson-hole-remarks-july-17-1992",
+      documentType: "Official White House Photograph",
+      category: "official-white-house-photographs",
+      disposition: "itemized-official-white-house-photographs",
+      title:
+        "Official White House photograph of President Bush at Jackson Hole, July 17, 1992",
+      documentDate: "1992-07-17",
+      pages: 2,
+      excerpt:
+        "A color Official White House photograph shows President Bush speaking at an outdoor podium in Jackson Hole with the mountains behind him, with the stamped photo back page attached.",
+      evidence:
+        "Itemized from pages 146-147 of the NARA direct folder scan using the color photograph page, Official White House Photo back page dated 17JUL92, photo identifier, rendered-page review, and low-confidence OCR.",
+    },
+  ],
   470417970: [
     {
       slug: "treasury-forwarding-note-brady-houston-club-materials",
@@ -22326,6 +22382,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417900",
   "470417904",
   "470417907",
+  "470417908",
   "470418083",
 ]);
 
