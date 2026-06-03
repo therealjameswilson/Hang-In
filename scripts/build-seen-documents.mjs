@@ -9204,6 +9204,567 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 151-155 of the NARA direct folder scan using the President Ozal of Turkey sticky-note label, Oval Office and meeting photographs, and rendered-page review.",
     },
   ],
+  470417741: [
+    {
+      slug: "regulation-reform-ceremony-staffing-memo",
+      documentType: "White House Staffing Memorandum",
+      category: "staffing-memorandum",
+      disposition: "itemized-staffing-memorandum",
+      title: "White House staffing memorandum re presidential remarks for regulation reform ceremony",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "A White House staffing memorandum routes presidential remarks for the April 29 regulation reform ceremony, with action and FYI checkmarks for senior staff.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the White House Staffing Memorandum heading, regulation reform ceremony subject, April 29 event time, OCR, and rendered-page review.",
+    },
+    {
+      slug: "duggan-regulation-reform-ceremony-memo",
+      documentType: "Memorandum",
+      category: "presidential-briefing-memorandum",
+      disposition: "itemized-memorandum",
+      title: "Joseph P. Duggan memorandum to the President re regulation reform ceremony",
+      documentDate: "1992-04-27",
+      pages: 1,
+      excerpt:
+        "Joseph P. Duggan briefs the President on the April 29 Rose Garden regulation reform ceremony and the 90-day regulatory review initiative.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using the Memorandum for the President heading, Joseph P. Duggan byline, Regulation Reform Ceremony subject, OCR, and rendered-page review.",
+    },
+    {
+      slug: "regulation-reform-ceremony-draft-five-remarks",
+      documentType: "Speech/Remarks Draft",
+      category: "speech-remarks-draft",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Draft Five presidential remarks for regulation reform ceremony",
+      documentDate: "1992-04-28",
+      pages: 6,
+      excerpt:
+        "The Duggan/Simon Draft Five remarks for the Rose Garden regulation reform ceremony discuss limited government, social engineering, regulatory costs, market-based environmental policy, and extension of the regulatory moratorium.",
+      evidence:
+        "Itemized from pages 4-9 of the NARA direct folder scan using the Duggan/Simon Draft Five heading, Regulation Reform Ceremony title, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "von-weizsaecker-arrival-dinner-toast-staffing-memo",
+      documentType: "White House Staffing Memorandum",
+      category: "staffing-memorandum",
+      disposition: "itemized-staffing-memorandum",
+      title: "White House staffing memorandum re von Weizsaecker arrival ceremony and dinner toast remarks",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "A White House staffing memorandum routes presidential remarks for the arrival ceremony and dinner toast during the visit of German President Richard von Weizsaecker.",
+      evidence:
+        "Itemized from page 10 of the NARA direct folder scan using the White House Staffing Memorandum heading, German President von Weizsaecker subject, action/FYI routing, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hinchliffe-von-weizsaecker-remarks-memo",
+      documentType: "Memorandum",
+      category: "presidential-briefing-memorandum",
+      disposition: "itemized-memorandum",
+      title: "Beth Hinchliffe memorandum to the President re von Weizsaecker welcome and toast remarks",
+      documentDate: "1992-04-27",
+      pages: 1,
+      excerpt:
+        "Beth Hinchliffe briefs the President on welcoming German President von Weizsaecker at the South Lawn ceremony and delivering the state dinner toast.",
+      evidence:
+        "Itemized from page 11 of the NARA direct folder scan using the Memorandum to the President heading, Beth Hinchliffe byline, von Weizsaecker visit text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "von-weizsaecker-arrival-welcome-draft-two",
+      documentType: "Speech/Remarks Draft",
+      category: "speech-remarks-draft",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Draft Two presidential welcome remarks for German President von Weizsaecker",
+      documentDate: "1992-04-27",
+      pages: 4,
+      excerpt:
+        "Draft Two welcome remarks for the South Lawn arrival ceremony discuss German democracy, partnership in leadership, Europe after the Cold War, and von Weizsaecker's moral leadership.",
+      evidence:
+        "Itemized from pages 12-15 of the NARA direct folder scan using the Hinchliffe/Nix Welcome Draft Two heading, South Lawn time, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "von-weizsaecker-state-dinner-toast-draft-two",
+      documentType: "Speech/Remarks Draft",
+      category: "speech-remarks-draft",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Draft Two presidential state dinner toast for German President von Weizsaecker",
+      documentDate: "1992-04-27",
+      pages: 3,
+      excerpt:
+        "Draft Two of the state dinner toast honors President von Weizsaecker, German unity, German-American partnership, and the Washington salute to German culture.",
+      evidence:
+        "Itemized from pages 16-18 of the NARA direct folder scan using the Hinchliffe/Nix Toast Draft Two heading, State Dining Room title, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "regulation-reform-ceremony-final-remarks-cards",
+      documentType: "Speech/Remarks Cards",
+      category: "speech-remarks-cards",
+      disposition: "itemized-speech-remarks-cards",
+      title: "Final presidential remarks cards for regulation reform ceremony",
+      documentDate: "1992-04-29",
+      pages: 11,
+      excerpt:
+        "Final-card text for the April 29 Rose Garden regulation reform ceremony salutes regulatory reform leaders, attacks social engineering and hidden regulatory costs, extends the moratorium, and announces a veto threat against excessive new regulatory burdens.",
+      evidence:
+        "Itemized from pages 19-29 of the NARA direct folder scan using the Regulation Reform Ceremony Rose Garden heading, card-style page numbers, final signature text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "von-weizsaecker-gift-profile-protocol-fax",
+      documentType: "Protocol Fax Packet",
+      category: "protocol-fax-packet",
+      disposition: "itemized-protocol-fax",
+      title: "Protocol fax and gift profile for President von Weizsaecker's gift",
+      documentDate: "1992-04-29",
+      pages: 2,
+      excerpt:
+        "The Office of Protocol fax and attached profile describe President von Weizsaecker's gift, a hand-crafted model of the frigate Berlin.",
+      evidence:
+        "Itemized from pages 30-31 of the NARA direct folder scan using the gift profile heading, Office of Protocol fax cover, Connie Dierman and Robin McLean names, OCR, and rendered-page review.",
+    },
+    {
+      slug: "roone-arledge-phone-call-follow-up-packet",
+      documentType: "Telephone Follow-Up Packet",
+      category: "telephone-follow-up-packet",
+      disposition: "itemized-telephone-follow-up",
+      title: "Roone Arledge telephone follow-up packet",
+      documentDate: "1992-04-29",
+      pages: 3,
+      excerpt:
+        "A phone-call follow-up packet notes that Roone Arledge of ABC News was hospitalized after prostate cancer surgery, gives a Johns Hopkins number, and includes a contact-record page.",
+      evidence:
+        "Itemized from pages 32-34 of the NARA direct folder scan using the Presidential Phone Calls form, Nancy note, Roone Arledge contact record, OCR, and rendered-page review.",
+    },
+    {
+      slug: "von-weizsaecker-state-dinner-toast-final-cards",
+      documentType: "Speech/Remarks Cards",
+      category: "speech-remarks-cards",
+      disposition: "itemized-speech-remarks-cards",
+      title: "Final presidential state dinner toast cards for President von Weizsaecker",
+      documentDate: "1992-04-29",
+      pages: 5,
+      excerpt:
+        "Final-card text for the state dinner toast welcomes President and Mrs. von Weizsaecker, recalls German unification and the Liberty Bell in Berlin, and celebrates German-American partnership.",
+      evidence:
+        "Itemized from pages 35-39 of the NARA direct folder scan using the State Dinner Toast heading, State Dining Room title, card-style page numbers, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rz-note-firestone-brady-meetings",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "RZ note to the President re Laurie Firestone seating charts and Nick Brady meeting",
+      documentDate: "1992-04-29",
+      pages: 1,
+      excerpt:
+        "A note to the President says Laurie Firestone needs time to show seating charts and Nick Brady wants five minutes to discuss the Federal Reserve and money growth.",
+      evidence:
+        "Itemized from page 40 of the NARA direct folder scan using the April 29 date, RZ initials, red checkmarks, Firestone and Brady references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rz-note-scowcroft-yeutter-before-home",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "RZ note to the President re Scowcroft and Yeutter meeting before going home",
+      documentDate: "1992-04-29",
+      pages: 1,
+      excerpt:
+        "A note to the President states that General Brent Scowcroft and Clayton Yeutter would like to see him before he goes home that night.",
+      evidence:
+        "Itemized from page 41 of the NARA direct folder scan using the Mr. President salutation, Scowcroft and Yeutter text, RZ initials, Bush handwriting label, OCR, and rendered-page review.",
+    },
+    {
+      slug: "burton-lee-general-woerner-memo",
+      documentType: "Memorandum",
+      category: "medical-status-memorandum",
+      disposition: "itemized-memorandum",
+      title: "Dr. Burton J. Lee memorandum to the President re General Woerner",
+      documentDate: "1992-04-29",
+      pages: 1,
+      excerpt:
+        "Dr. Burton J. Lee tells the President he reviewed the final documents on General Woerner, discussed Woerner's chemotherapy treatment by telephone, and regards the prognosis as guarded over one year.",
+      evidence:
+        "Itemized from page 42 of the NARA direct folder scan using the White House memorandum heading, Burton J. Lee byline, General Woerner text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-phone-call-note-april-29",
+      documentType: "Telephone Note",
+      category: "telephone-note",
+      disposition: "itemized-telephone-note",
+      title: "Presidential phone-call note page: April 29, 1992",
+      documentDate: "1992-04-29",
+      pages: 1,
+      excerpt:
+        "A handwritten presidential phone-call note page lists April 29 call items, including the Kennedy Association, DOD versus CIA, Toy McLeary, and a call about 'family'.",
+      evidence:
+        "Itemized from page 43 of the NARA direct folder scan using the presidential notepad form, April 29 date, handwritten call checklist, Bush handwriting label, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-april-29-1992-excerpts",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary excerpts: April 29, 1992",
+      documentDate: "1992-04-29",
+      pages: 3,
+      excerpt:
+        "White House News Summary pages cover Rep. Michel and the House Bank subpoena, financial-regulation changes, and Pennsylvania primary results.",
+      evidence:
+        "Itemized from pages 44-46 of the NARA direct folder scan using White House News Summary headings, April 29 date, national news section, OCR, and rendered-page review.",
+    },
+    {
+      slug: "patty-bush-white-house-visit-note",
+      documentType: "Schedule Note",
+      category: "family-schedule-note",
+      disposition: "itemized-family-schedule",
+      title: "Patty Bush White House visit and transportation note",
+      documentDate: "1992-04-29",
+      pages: 1,
+      excerpt:
+        "A schedule note records Patty Bush's April 29-May 1 Washington visit, White House tour group, state dinner attendance, and requested White House car arrangements.",
+      evidence:
+        "Itemized from page 47 of the NARA direct folder scan using the Patty Bush heading, arrival and departure times, White House car references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings-april-29-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's daily press clippings: April 29, 1992",
+      documentDate: "1992-04-29",
+      pages: 12,
+      excerpt:
+        "Mrs. Bush's press-clippings packet includes AP wires on commemorative coins, the President's Dinner fundraiser, and Michael Kojima, plus Washington Post and AP clippings on White House menus, reading, and Hillary Clinton.",
+      evidence:
+        "Itemized from pages 48-59 of the NARA direct folder scan using the Mrs. Bush's Press Office cover, AP wire timestamps, Washington Post clippings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "material-forwarded-to-president-april-29-1992",
+      documentType: "Materials Checklist",
+      category: "material-forwarded-checklist",
+      disposition: "itemized-materials-checklist",
+      title: "Material forwarded to the President: April 29, 1992",
+      documentDate: "1992-04-29",
+      pages: 2,
+      excerpt:
+        "A two-page checklist lists action items, classified responses, remarks, and schedule materials forwarded to the President, including gift letters, regulatory reform materials, and von Weizsaecker event cards.",
+      evidence:
+        "Itemized from pages 60-61 of the NARA direct folder scan using the Material Forwarded to the President heading, action/classified/remarks/schedule sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "von-weizsaecker-official-dinner-sequence-of-events",
+      documentType: "Sequence of Events",
+      category: "state-dinner-sequence",
+      disposition: "itemized-event-sequence",
+      title: "Sequence of events for official dinner honoring President von Weizsaecker",
+      documentDate: "1992-04-29",
+      pages: 2,
+      excerpt:
+        "The official dinner sequence lays out the President and Mrs. Bush's North Portico greeting, receiving line, state dinner toasts, dinner, coffee, and after-dinner guest greeting.",
+      evidence:
+        "Itemized from pages 62-63 of the NARA direct folder scan using the Sequence of Events heading, official dinner title, State Floor location, OCR, and rendered-page review.",
+    },
+    {
+      slug: "von-weizsaecker-state-dinner-guest-list",
+      documentType: "Guest List",
+      category: "state-dinner-guest-list",
+      disposition: "itemized-guest-list",
+      title: "Guest list for state dinner honoring President von Weizsaecker",
+      documentDate: "1992-04-29",
+      pages: 3,
+      excerpt:
+        "The state dinner guest list includes President and Mrs. von Weizsaecker, German officials, U.S. officials, business leaders, cultural figures, and other guests.",
+      evidence:
+        "Itemized from pages 64-66 of the NARA direct folder scan using the State Dinner (Germany) heading, April 29 date, guest-list continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "von-weizsaecker-state-dinner-menu-program",
+      documentType: "Menu and Program",
+      category: "state-dinner-menu-program",
+      disposition: "itemized-menu-program",
+      title: "Menu and program for state dinner honoring President von Weizsaecker",
+      documentDate: "1992-04-29",
+      pages: 4,
+      excerpt:
+        "The state dinner menu and program include the dinner menu, cover pages, and entertainment program featuring Barbara Cook and Wally Harper.",
+      evidence:
+        "Itemized from pages 67-70 of the NARA direct folder scan using the dinner menu, White House program cover, Barbara Cook biography, Wally Harper listing, OCR, and rendered-page review.",
+    },
+    {
+      slug: "barbara-cook-wally-harper-entertainment-card",
+      documentType: "Entertainment Card",
+      category: "state-dinner-entertainment-card",
+      disposition: "itemized-entertainment-card",
+      title: "Entertainment card for Barbara Cook and Wally Harper at von Weizsaecker state dinner",
+      documentDate: "1992-04-29",
+      pages: 1,
+      excerpt:
+        "The entertainment card gives presidential talking points thanking Barbara Cook and Wally Harper for the state dinner performance.",
+      evidence:
+        "Itemized from page 71 of the NARA direct folder scan using the Entertainment Card heading, Barbara Cook and Wally Harper text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidents-schedule-april-29-1992",
+      documentType: "Daily Schedule",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title: "Schedule of the President: April 29, 1992",
+      documentDate: "1992-04-29",
+      pages: 2,
+      excerpt:
+        "The President's April 29 schedule lists staff time, the Taft Institute photo, briefings, the von Weizsaecker arrival ceremony, political and campaign meetings, regulatory reform remarks, and the state dinner.",
+      evidence:
+        "Itemized from pages 72-73 of the NARA direct folder scan using the Schedule of the President heading, April 29 date, tab references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "taft-institute-photo-opportunity-briefing",
+      documentType: "Event Briefing",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Photo opportunity briefing with Robert A. Taft Institute board members",
+      documentDate: "1992-04-28",
+      pages: 2,
+      excerpt:
+        "The briefing describes the April 29 Rose Garden Steps photo opportunity with Robert A. Taft Institute board members and lists participants.",
+      evidence:
+        "Itemized from pages 74-75 of the NARA direct folder scan using the Photo Opportunity with the Taft Institute Board Members heading, Kathy Super byline, board-member list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "von-weizsaecker-arrival-ceremony-sequence",
+      documentType: "Sequence of Events",
+      category: "event-sequence",
+      disposition: "itemized-event-sequence",
+      title: "Sequence of events for von Weizsaecker arrival ceremony, reception, meeting, and coffee",
+      documentDate: "1992-04-29",
+      pages: 2,
+      excerpt:
+        "The sequence covers the April 29 South Lawn arrival ceremony for President and Mrs. von Weizsaecker, Blue Room reception, Oval Office and Cabinet Room meetings, and Mrs. Bush's coffee.",
+      evidence:
+        "Itemized from pages 76-77 of the NARA direct folder scan using the Sequence of Events heading, South Lawn/Blue Room/Oval Office/Cabinet Room locations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "political-speech-meeting-briefing",
+      documentType: "Meeting Briefing",
+      category: "meeting-briefing",
+      disposition: "itemized-meeting-briefing",
+      title: "Political speech meeting briefing with the President",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "Samuel K. Skinner's briefing page sets out the April 29 Oval Office political speech meeting with Peggy Noonan and Bob Teeter.",
+      evidence:
+        "Itemized from page 78 of the NARA direct folder scan using the Political Speech Meeting with the President heading, Skinner byline, participants, OCR, and rendered-page review.",
+    },
+    {
+      slug: "campaign-meeting-briefing",
+      documentType: "Meeting Briefing",
+      category: "meeting-briefing",
+      disposition: "itemized-meeting-briefing",
+      title: "Campaign meeting briefing with the President",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "Samuel K. Skinner's briefing page sets out the April 29 Roosevelt Room campaign meeting to discuss the status of campaign activities.",
+      evidence:
+        "Itemized from page 79 of the NARA direct folder scan using the Campaign Meeting with the President heading, Roosevelt Room location, Skinner byline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "regulatory-reform-moratorium-speech-briefing",
+      documentType: "Event Briefing",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Regulatory reform 90-day moratorium speech briefing",
+      documentDate: "1992-04-28",
+      pages: 2,
+      excerpt:
+        "The briefing prepares the President for the April 29 Rose Garden speech marking the conclusion of the 90-day regulatory moratorium and outlining continuing regulatory reform steps.",
+      evidence:
+        "Itemized from pages 80-81 of the NARA direct folder scan using the Regulatory Reform 90-Day Moratorium Speech heading, Ede Holiday and Sherrie Rollins bylines, participants, OCR, and rendered-page review.",
+    },
+    {
+      slug: "von-weizsaecker-official-dinner-sequence-second-copy",
+      documentType: "Sequence of Events",
+      category: "state-dinner-sequence",
+      disposition: "itemized-event-sequence",
+      title: "Second copy of sequence of events for official dinner honoring President von Weizsaecker",
+      documentDate: "1992-04-29",
+      pages: 2,
+      excerpt:
+        "A second copy of the official dinner sequence repeats the North Portico greeting, receiving line, state dinner toasts, dinner, coffee, and after-dinner greeting plan.",
+      evidence:
+        "Itemized from pages 82-83 of the NARA direct folder scan using the repeated official dinner Sequence of Events heading, State Floor location, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ronald-reagan-declassification-correspondence-phone-note",
+      documentType: "Correspondence and Telephone Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ronald Reagan correspondence and phone note re Soviet documents declassification",
+      documentDate: "1992-04-29",
+      pages: 5,
+      excerpt:
+        "The packet includes the President's reply to Ronald Reagan on May 7 travel, Reagan Library declassification of former Soviet Union records, and family matters, Reagan's April 24 letter, and a presidential phone-call note.",
+      evidence:
+        "Itemized from pages 84-88 of the NARA direct folder scan using the Dear Ron letter, Ronald Reagan letterhead, declassification text, Presidential Phone Calls form, OCR, and rendered-page review.",
+    },
+    {
+      slug: "regulatory-reform-initiative-fact-sheet",
+      documentType: "Fact Sheet",
+      category: "press-release-fact-sheet",
+      disposition: "itemized-press-release",
+      title: "Fact sheet on the President's regulatory reform initiative",
+      documentDate: "1992-04-29",
+      pages: 7,
+      excerpt:
+        "The Office of the Press Secretary fact sheet summarizes the President's regulatory reform initiative, extension of the moratorium, cost-benefit analysis, FDA reforms, worker rights, financing costs, transportation costs, environmental goals, and export barriers.",
+      evidence:
+        "Itemized from pages 89-95 of the NARA direct folder scan using the immediate-release heading, fact-sheet title, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "regulatory-reform-cost-savings-table",
+      documentType: "Cost Savings Table",
+      category: "regulatory-reform-attachment",
+      disposition: "itemized-regulatory-reform-attachment",
+      title: "Estimated annual cost savings table from the 90-day regulatory reform initiative",
+      documentDate: "1992-04-29",
+      pages: 1,
+      excerpt:
+        "A table estimates annual cost savings by department and agency from actions announced during the 90-day regulatory reform initiative.",
+      evidence:
+        "Itemized from page 96 of the NARA direct folder scan using the Estimated Annual Cost Savings heading, agency table, OCR, and rendered-page review.",
+    },
+    {
+      slug: "regulatory-reform-initiative-chronology",
+      documentType: "Chronology",
+      category: "regulatory-reform-attachment",
+      disposition: "itemized-regulatory-reform-attachment",
+      title: "Chronology of the President's regulatory reform initiative as of April 28, 1992",
+      documentDate: "1992-04-28",
+      pages: 3,
+      excerpt:
+        "The chronology lists regulatory reform initiative actions from the January 28 moratorium announcement through late-April agency actions.",
+      evidence:
+        "Itemized from pages 97-99 of the NARA direct folder scan using the Chronology heading, dated entries, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "regulatory-reform-initiative-highlights",
+      documentType: "Highlights Sheet",
+      category: "regulatory-reform-attachment",
+      disposition: "itemized-regulatory-reform-attachment",
+      title: "Highlights of the President's regulatory reform initiative",
+      documentDate: "1992-04-29",
+      pages: 1,
+      excerpt:
+        "The highlights sheet summarizes projected savings, FDA reforms, worker-rights notices, credit-cost reductions, environmental flexibility, export regulation changes, and the 120-day extension.",
+      evidence:
+        "Itemized from page 100 of the NARA direct folder scan using the Highlights heading, regulatory reform bullet points, OCR, and rendered-page review.",
+    },
+    {
+      slug: "generalized-system-preferences-proclamation",
+      documentType: "Proclamation",
+      category: "proclamation",
+      disposition: "itemized-proclamation",
+      title: "Proclamation to amend the Generalized System of Preferences",
+      documentDate: "1992-04-29",
+      pages: 1,
+      excerpt:
+        "The President issues a proclamation amending the Generalized System of Preferences under the Trade Act of 1974.",
+      evidence:
+        "Itemized from page 101 of the NARA direct folder scan using the immediate-release heading, proclamation title, Trade Act and GSP text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "benefits-costs-legislative-proposals-memo",
+      documentType: "Presidential Memorandum",
+      category: "presidential-memorandum",
+      disposition: "itemized-presidential-memorandum",
+      title: "Presidential memorandum for heads of departments and agencies re benefits and costs of legislative proposals",
+      documentDate: "1992-04-29",
+      pages: 1,
+      excerpt:
+        "The President directs departments and agencies to establish procedures disclosing likely benefits and costs of legislative proposals to the public and Congress before enactment.",
+      evidence:
+        "Itemized from page 102 of the NARA direct folder scan using the immediate-release heading, Memorandum for the Heads of Departments and Agencies heading, subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gray-boskin-regulatory-reform-press-briefing",
+      documentType: "Press Briefing Transcript",
+      category: "press-briefing-transcript",
+      disposition: "itemized-press-briefing-transcript",
+      title: "Press briefing by Boyden Gray and Michael Boskin on regulatory reform",
+      documentDate: "1992-04-29",
+      pages: 9,
+      excerpt:
+        "Press briefing transcript with Counsel to the President Boyden Gray and CEA Chairman Michael Boskin covers regulatory reform, cost savings, the moratorium, cost-benefit analysis, OSHA, FDA, and environmental regulation.",
+      evidence:
+        "Itemized from pages 103-111 of the NARA direct folder scan using the immediate-release heading, press briefing title, Briefing Room time stamp, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "von-weizsaecker-arrival-ceremony-press-release",
+      documentType: "Remarks",
+      category: "press-release-remarks",
+      disposition: "itemized-press-release",
+      title: "Press release: remarks by the President at arrival ceremony for President von Weizsaecker",
+      documentDate: "1992-04-29",
+      pages: 2,
+      excerpt:
+        "The Office of the Press Secretary releases the President's South Grounds arrival-ceremony remarks welcoming German President von Weizsaecker.",
+      evidence:
+        "Itemized from pages 112-113 of the NARA direct folder scan using the immediate-release heading, Remarks by the President title, arrival ceremony location, OCR, and rendered-page review.",
+    },
+    {
+      slug: "implementing-regulatory-reforms-memo",
+      documentType: "Presidential Memorandum",
+      category: "presidential-memorandum",
+      disposition: "itemized-presidential-memorandum",
+      title: "Presidential memorandum for certain department and agency heads re implementing regulatory reforms",
+      documentDate: "1992-04-29",
+      pages: 3,
+      excerpt:
+        "The President's memorandum to certain department and agency heads extends implementation of regulatory reforms and directs continued adherence to the regulatory moratorium and substantive standards.",
+      evidence:
+        "Itemized from pages 114-116 of the NARA direct folder scan using the immediate-release heading, Implementing Regulatory Reforms subject, agency-recipient list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chris-evert-andy-mill-visit-schedule-note",
+      documentType: "Visit Schedule Packet",
+      category: "family-visit-schedule",
+      disposition: "itemized-family-visit-schedule",
+      title: "Chris Evert and Andy Mill visit schedule and attachment note",
+      documentDate: "1992-04-28",
+      pages: 2,
+      excerpt:
+        "A Patty Presock note and memorandum for the President and Mrs. Bush lay out Chris Evert and Andy Mill's April 29-May 3 White House visit schedule with their son Alex and nanny.",
+      evidence:
+        "Itemized from pages 117-118 of the NARA direct folder scan using the attachment note, Memorandum for the President and Mrs. Bush heading, visit schedule text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ronald-leighton-recommended-telephone-call",
+      documentType: "Recommended Telephone Call",
+      category: "recommended-telephone-call",
+      disposition: "itemized-recommended-call",
+      title: "Recommended telephone call to Ronald B. Leighton re Western District of Washington judgeship",
+      documentDate: "1992-04-28",
+      pages: 1,
+      excerpt:
+        "A recommended telephone call sheet asks the President to call Ronald B. Leighton to ask him to serve as U.S. District Judge for the Western District of Washington.",
+      evidence:
+        "Itemized from page 119 of the NARA direct folder scan using the Recommended Telephone Call heading, Ronald B. Leighton name, Western District of Washington purpose, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rodney-king-verdict-wire-handwritten-note",
+      documentType: "Wire Story and Handwritten Note",
+      category: "wire-story-handwritten-note",
+      disposition: "itemized-wire-story",
+      title: "AP wire on Rodney King verdict with handwritten note to the President",
+      documentDate: "1992-04-29",
+      pages: 1,
+      excerpt:
+        "An AP wire reports the acquittal of four Los Angeles police officers in the Rodney King beating case; a handwritten note warns the President he may get questions after dinner at the mix-and-mingle.",
+      evidence:
+        "Itemized from page 120 of the NARA direct folder scan using the AP timestamp, Rodney King verdict headline, handwritten note to the President, OCR, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -15878,6 +16439,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417723",
   "470417735",
   "470417739",
+  "470417741",
   "470418083",
 ]);
 
