@@ -11467,6 +11467,254 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 124-128 of the NARA direct folder scan using the color Notre Dame photographs, Notre Dame sticky note, Official White House Photograph line dated 17 May 92, final color meeting photograph, and rendered-page review.",
     },
   ],
+  470417793: [
+    {
+      slug: "kenneth-gilmore-fetal-tissue-research-packet",
+      documentType: "Memorandum and Correspondence Packet",
+      category: "health-policy-correspondence",
+      disposition: "itemized-health-policy-correspondence",
+      title:
+        "Roger Porter memorandum and Kenneth O. Gilmore fetal tissue research correspondence packet",
+      documentDate: "1992-05-21",
+      pages: 10,
+      excerpt:
+        "The packet covers Kenneth O. Gilmore's appeal on fetal tissue transplant research, Roger Porter's memorandum to the President, a White House reply, an executive order establishing a fetal tissue bank, and Gilmore's Parkinson's article.",
+      evidence:
+        "Itemized from pages 2-11 of the NARA direct folder scan using the Roger Porter memorandum, May 22 White House reply to Kenneth O. Gilmore, May 19 executive order on a fetal tissue bank, President-to-Phil Brady note, Gilmore May 12 letter, American Health article, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-ballard-responsible-fatherhood-followup-packet",
+      documentType: "Call Slip and Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Charles A. Ballard responsible fatherhood call slip and Notre Dame speech follow-up packet",
+      documentDate: "1992-05-22",
+      pages: 4,
+      excerpt:
+        "A Document Originally Attached marker leads into a Charles Ballard call slip, a presidential note sending the Notre Dame speech and inviting comments on family values, and National Institute for Responsible Fatherhood material.",
+      evidence:
+        "Itemized from pages 12-15 of the NARA direct folder scan using the Document Originally Attached marker, Charles Ballard call slip, May 22 President-to-Charles letter, National Institute for Responsible Fatherhood letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cleveland-parma-machaskee-white-trip-remarks-packet",
+      documentType: "Correspondence, Trip News, and Remarks Packet",
+      category: "trip-materials-packet",
+      disposition: "itemized-trip-materials",
+      title:
+        "Cleveland and Parma trip packet: Alex Machaskee, Mayor Michael White, Trip News, and Ukrainian Cathedral remarks",
+      documentDate: "1992-05-22",
+      pages: 16,
+      excerpt:
+        "The Cleveland/Parma packet includes the President's Alex Machaskee letter, attached letter to Mayor Michael White, handwritten drafts and routing notes, Trip News clips on family values, and remarks for the St. Josaphat's Ukrainian Cathedral celebration.",
+      evidence:
+        "Itemized from pages 16-31 of the NARA direct folder scan using the May 22 Dear Alex and Dear Mayor White letters, Terry Good envelope-return note, Trip News pages, Bush handwritten drafts, Ukrainian Cathedral remarks pages, Bush Library photocopy labels, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michael-eisner-points-of-light-washingtonian-packet",
+      documentType: "Correspondence and Clipping Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Michael Eisner Points of Light correspondence and Washingtonian campaign-contribution clipping",
+      documentDate: "1992-05-22",
+      pages: 3,
+      excerpt:
+        "The packet records Michael Eisner's concern that a Washingtonian article about campaign contributors might mislead the President, plus the President's reply thanking him for Points of Light support.",
+      evidence:
+        "Itemized from pages 32-34 of the NARA direct folder scan using the May 22 Dear Michael letter, Nancy note about Gregg Petersmeyer and Washingtonian Magazine, Who's Backing Whom clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "yong-kim-koreatown-correspondence-tracking-packet",
+      documentType: "Correspondence and Tracking Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Yong C. Kim Koreatown appreciation correspondence and tracking packet",
+      documentDate: "1992-05-22",
+      pages: 6,
+      excerpt:
+        "The packet includes the President's reply to Yong C. Kim after the Los Angeles riots, Kim's May 11 letter, a White House correspondence tracking worksheet, and earlier correspondence-system query pages for Kim.",
+      evidence:
+        "Itemized from pages 35-40 of the NARA direct folder scan using the May 22 Dear Yong letter, YYK Enterprises letterhead, Kim May 11 letter, White House correspondence tracking worksheet, query printouts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-puelicher-fdic-banking-legislation-packet",
+      documentType: "Correspondence Packet",
+      category: "economic-policy-correspondence",
+      disposition: "itemized-economic-policy-correspondence",
+      title:
+        "John A. Puelicher correspondence packet re FDIC legislation and banking regulation",
+      documentDate: "1992-05-22",
+      pages: 6,
+      excerpt:
+        "The President answers John A. Puelicher's delayed December 1991 letter about the Federal Deposit Insurance Corporation Improvement Act, with Jeff Vogt correspondence and briefing notes attached.",
+      evidence:
+        "Itemized from pages 41-46 of the NARA direct folder scan using the May 22 President-to-Jack letter, Puelicher December 9 letter, May 7 Jeff Vogt reply, May 13 Vogt memorandum for Jan Burmeister, FDIC Act and Section 132 references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-mexico-public-lands-wilderness-act-press-release",
+      documentType: "Press Release and Fact Sheet",
+      category: "environment-policy-packet",
+      disposition: "itemized-environment-policy",
+      title:
+        "Press release and fact sheet on the New Mexico Public Lands Wilderness Act",
+      documentDate: "1992-05-22",
+      pages: 3,
+      excerpt:
+        "The press packet releases the President's transmittal letter to Congress and fact sheet for the New Mexico Public Lands Wilderness Act, including wilderness designation, water-rights language, and BLM acreage figures.",
+      evidence:
+        "Itemized from pages 47-49 of the NARA direct folder scan using the Office of the Press Secretary Kennebunkport header, May 22 text of a letter to Congress, New Mexico Public Lands Wilderness Act title, fact sheet, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-may-22-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "President Bush telephone memoranda for May 22, 1992",
+      documentDate: "1992-05-22",
+      pages: 3,
+      excerpt:
+        "The telephone memoranda list May 22 calls routed through the Signal Switchboard, including Nicholas Calio, Digger Phelps, Rose Zamaria, Richard Darman, Dorothy LeBlond, Jonathan Bush, Marvin Bush, and others.",
+      evidence:
+        "Itemized from pages 50-52 of the NARA direct folder scan using the Telephone Memorandum heading, Signal Switchboard pages, May 22 date, call table entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-kennebunkport-may-22",
+      documentType: "Presidential Movements Log",
+      category: "presidential-movements-log",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: Kennebunkport, Maine, May 22, 1992",
+      documentDate: "1992-05-22",
+      pages: 1,
+      excerpt:
+        "The movements log records President Bush departing Walker's Point by boat, returning to Walker's Point, visiting Cape Arundel Golf Course, and returning by motorcade.",
+      evidence:
+        "Itemized from page 53 of the NARA direct folder scan using the Presidential Movements heading, Kennebunkport location, 22 May 1992 date, Walker's Point and Cape Arundel entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "stuart-martin-lou-bush-campaign-volunteer-packet",
+      documentType: "Correspondence and Routing Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title:
+        "Stuart W. Martin and Lou Bush campaign-volunteer correspondence packet",
+      documentDate: "1992-05-15",
+      pages: 7,
+      excerpt:
+        "The packet follows up on Lou Bush's message that Stuart W. Martin wanted to help the campaign, with President-to-Ron Kaufman routing, Kaufman memoranda, letters to Martin, and a Bush-Quayle '92 response.",
+      evidence:
+        "Itemized from pages 54-60 of the NARA direct folder scan using the Bush-Quayle '92 letter, May 6 Kaufman memoranda and letter, May 5 From the President note, May 4 Rose Zamaria note, routing page to Ronald Kaufman, OCR, and rendered-page review.",
+    },
+    {
+      slug: "arizona-state-convention-delegate-letter-packet",
+      documentType: "Campaign Letter and Routing Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title:
+        "Arizona State Convention delegate letter and Situation Room routing packet",
+      documentDate: "1992-05-21",
+      pages: 4,
+      excerpt:
+        "The packet contains a cleared presidential campaign letter to delegates attending the Arizona State Convention, with Phillip Brady's May 21 note and a Situation Room routing sheet for signature.",
+      evidence:
+        "Itemized from pages 61-64 of the NARA direct folder scan using the May 21 Phillip Brady note, George Bush delegate letter pages, Situation Room message sheet, Arizona Delegates description, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-may-22-noon-update",
+      documentType: "News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: 12:00 P.M. News Update, May 22, 1992",
+      documentDate: "1992-05-22",
+      pages: 1,
+      excerpt:
+        "The noon news summary covers Yugoslavia, military site closings, Peru, economic and political items, and press coverage relevant to the administration.",
+      evidence:
+        "Itemized from page 65 of the NARA direct folder scan using the White House News Summary heading, Friday May 22 1992 date, 12:00 P.M. News Update line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sea-island-jones-photo-inscription-packet",
+      documentType: "Photograph and Correspondence Packet",
+      category: "official-photograph-correspondence",
+      disposition: "itemized-photograph-correspondence",
+      title:
+        "Sea Island Jones family photograph inscription correspondence packet",
+      documentDate: "1992-01-08",
+      pages: 4,
+      excerpt:
+        "A.W. Jones III asks the President to inscribe Sea Island photographs; the packet includes two photograph pages with presidential inscriptions and a Document Originally Attached marker.",
+      evidence:
+        "Itemized from pages 66-69 of the NARA direct folder scan using the Betty and Bill Jones and Sally and Bill Jones photograph pages, Document Originally Attached marker, Alfred W. Jones III January 8 letter, Sea Island Company letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cardinal-law-haiti-refugee-fax-letter",
+      documentType: "Faxed Correspondence",
+      category: "humanitarian-policy-correspondence",
+      disposition: "itemized-humanitarian-policy",
+      title:
+        "Cardinal Bernard Law faxed letter to President Bush re Haitian refugees",
+      documentDate: "1992-05-22",
+      pages: 3,
+      excerpt:
+        "Cardinal Bernard Law urges the President to act quickly on Haitians at sea and to expand in-country refugee processing in Port-au-Prince, with a Cardinal's Residence fax cover sheet.",
+      evidence:
+        "Itemized from pages 70-72 of the NARA direct folder scan using the Cardinal's Residence fax cover sheet, May 22 Bernard Law letter, Haitian refugee text, Archbishop of Boston signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-w-bush-balanced-budget-amendment-memo",
+      documentType: "Memorandum",
+      category: "campaign-strategy-memorandum",
+      disposition: "itemized-campaign-strategy",
+      title:
+        "George W. Bush memorandum on Balanced Budget Amendment momentum",
+      documentDate: "1992-05-21",
+      pages: 1,
+      excerpt:
+        "George W. Bush sends the President, Skinner, Teeter, and Malek an action plan for getting ahead of the Balanced Budget Amendment issue.",
+      evidence:
+        "Itemized from page 73 of the NARA direct folder scan using the Swancourt Hotels fax header, May 21 memorandum from George W., Balanced Budget Amendment text, action-plan bullets, OCR, and rendered-page review.",
+    },
+    {
+      slug: "friday-follies-political-cartoon-packet-may-22",
+      documentType: "Political Cartoon Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Friday Follies political cartoon packet, May 22, 1992",
+      documentDate: "1992-05-22",
+      pages: 20,
+      excerpt:
+        "The Friday Follies packet collects political cartoons and cartoon clippings on Quayle, Clinton, Perot, urban policy, the Rio conference, Gorbachev, Congress, and the 1992 campaign.",
+      evidence:
+        "Itemized from pages 74-93 of the NARA direct folder scan using the blue Friday Follies cover, sequential cartoon pages, campaign and policy cartoon captions, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-may-22-1992",
+      documentType: "Congressional Monitor Issue",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title: "Congressional Monitor issue, May 22, 1992",
+      documentDate: "1992-05-22",
+      pages: 18,
+      excerpt:
+        "The Congressional Monitor issue covers news from the Hill, committee and floor schedules, campaign events, fiscal 1993 appropriations status, House and Senate floor action, and future listings.",
+      evidence:
+        "Itemized from pages 94-111 of the NARA direct folder scan using the Congressional Monitor masthead, Friday May 22 1992 date, page-numbered issue sequence, address cover, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hotline-may-22-1992",
+      documentType: "Hotline Issue",
+      category: "campaign-newsletter",
+      disposition: "itemized-campaign-newsletter",
+      title: "The Hotline issue, May 22, 1992",
+      documentDate: "1992-05-22",
+      pages: 26,
+      excerpt:
+        "The Hotline issue surveys White House '92, Issues '92, Senate Watch, House race briefings, redistricting, hotspots, California cable, poll updates, and morning television coverage.",
+      evidence:
+        "Itemized from pages 112-137 of the NARA direct folder scan using The Hotline May 22 1992 masthead, issue-number line, White House '92 and Issues '92 sections, Senate Watch, House Race Briefings, California Cable, Poll Update, JV Monitor sections, OCR, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -18146,6 +18394,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417766",
   "470417777",
   "470417782",
+  "470417793",
   "470418083",
 ]);
 
