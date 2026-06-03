@@ -10300,6 +10300,411 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 150-208 of the NARA direct folder scan using the Daily News Clips cover page, newspaper mastheads, clipping continuation pages, OCR, and rendered-page review.",
     },
   ],
+  470417766: [
+    {
+      slug: "holiday-los-angeles-outstanding-issues-memo",
+      documentType: "Memorandum",
+      category: "presidential-briefing-memorandum",
+      disposition: "itemized-memorandum",
+      title: "Ede Holiday memorandum to the President re status of outstanding issues in Los Angeles",
+      documentDate: "1992-05-06",
+      pages: 2,
+      excerpt:
+        "Ede Holiday briefs the President on outstanding Los Angeles riot-response issues including Section 8 housing, disaster assistance centers, interpreters, public liaison, Presidential meetings, and business concerns.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the Memorandum for the President heading, Ede Holiday byline, Status of Outstanding Issues in Los Angeles subject, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bush-note-burke-anti-drug-tape",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Bush note to Samuel Skinner re Burke anti-drug tape",
+      documentDate: "1992-05-11",
+      pages: 1,
+      excerpt:
+        "The President comments to Sam Skinner on a Burke tape urging greater presidential involvement in the fight against drugs and asks for follow-up.",
+      evidence:
+        "Itemized from page 4 of the NARA direct folder scan using the From the President form, May 11 date, Sam addressee, Burke tape text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidents-drug-advisory-council-demand-reduction-packet",
+      documentType: "Report and Letter Packet",
+      category: "drug-policy-packet",
+      disposition: "itemized-drug-policy-packet",
+      title: "President's Drug Advisory Council letter and recommended initiative on reducing drug demand",
+      documentDate: "1992-05-05",
+      pages: 4,
+      excerpt:
+        "The President's Drug Advisory Council packet praises the Los Angeles address and recommends a new strategy for reducing drug demand, including drug-treatment funding, a workplace program, and Roper study findings.",
+      evidence:
+        "Itemized from pages 5-8 of the NARA direct folder scan using the President's Drug Advisory Council letterhead, Dear Mr. President letter, Recommended Presidential Initiative heading, Roper Study conclusions, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-phone-call-note-may-11-1992",
+      documentType: "Telephone Note",
+      category: "telephone-note",
+      disposition: "itemized-telephone-note",
+      title: "Presidential phone-call note page: May 11, 1992",
+      documentDate: "1992-05-11",
+      pages: 1,
+      excerpt:
+        "A handwritten Presidential Phone Calls page records May 11 call notes and a follow-up line about Los Angeles.",
+      evidence:
+        "Itemized from page 9 of the NARA direct folder scan using the Presidential Phone Calls form, May 11 date, Bush Library handwriting label, OCR, and rendered-page review.",
+    },
+    {
+      slug: "acting-defense-secretary-weekly-report-may-8-1992",
+      documentType: "Weekly Report",
+      category: "agency-weekly-report",
+      disposition: "itemized-agency-report",
+      title: "Acting Secretary of Defense weekly report to the President",
+      documentDate: "1992-05-08",
+      pages: 1,
+      excerpt:
+        "The Acting Secretary of Defense reports on Los Angeles, Haitian repatriation, congressional rescissions, Sierra Leone evacuations, and a Navy F-18 fatality.",
+      evidence:
+        "Itemized from page 10 of the NARA direct folder scan using the Deputy Secretary of Defense letterhead, Weekly Report subject, President Has Seen stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "looking-ahead-calendar-may-4-17-1992",
+      documentType: "Calendar",
+      category: "looking-ahead-calendar",
+      disposition: "itemized-calendar",
+      title: "Looking Ahead calendar: May 4-17, 1992",
+      documentDate: "1992-05-04",
+      pages: 1,
+      excerpt:
+        "A Looking Ahead calendar tracks major international events, visits to the United States, visits abroad, and dates from May 4 through May 17.",
+      evidence:
+        "Itemized from page 11 of the NARA direct folder scan using the Looking Ahead heading, May 4-17 date range, President Has Seen stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "philadelphia-fundraiser-remarks-staffing-memo",
+      documentType: "White House Staffing Memorandum",
+      category: "staffing-memorandum",
+      disposition: "itemized-staffing-memorandum",
+      title: "White House staffing memorandum re presidential remarks for Bush-Quayle fundraiser in Philadelphia",
+      documentDate: "1992-05-11",
+      pages: 1,
+      excerpt:
+        "A revised White House staffing memorandum routes presidential remarks for the May 11 Bush-Quayle fundraiser in Philadelphia.",
+      evidence:
+        "Itemized from page 12 of the NARA direct folder scan using the White House Staffing Memorandum heading, Philadelphia fundraiser subject, revised stamp, routing marks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mcgroarty-philadelphia-fundraiser-memo",
+      documentType: "Memorandum",
+      category: "presidential-briefing-memorandum",
+      disposition: "itemized-memorandum",
+      title: "Dan McGroarty memorandum to the President re Philadelphia fundraiser remarks",
+      documentDate: "1992-05-11",
+      pages: 1,
+      excerpt:
+        "Dan McGroarty tells the President that the attached Philadelphia fundraiser draft was revised to incorporate reflections on the Los Angeles trip.",
+      evidence:
+        "Itemized from page 13 of the NARA direct folder scan using the Memorandum for the President heading, Dan McGroarty byline, Philadelphia Fundraiser subject, OCR, and rendered-page review.",
+    },
+    {
+      slug: "philadelphia-fundraiser-draft-three-remarks",
+      documentType: "Speech/Remarks Draft",
+      category: "speech-remarks-draft",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Draft Three presidential remarks for Bush-Quayle fundraiser in Philadelphia",
+      documentDate: "1992-05-10",
+      pages: 7,
+      excerpt:
+        "Draft Three remarks for the Philadelphia fundraiser discuss Los Angeles, urban renewal, enterprise zones, education, welfare, litigation reform, health care, family, and Republican principles.",
+      evidence:
+        "Itemized from pages 14-20 of the NARA direct folder scan using the Ferguson/Grossman Draft Three heading, Philadelphia fundraiser title, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "super-veterans-day-national-committee-memo",
+      documentType: "Memorandum",
+      category: "presidential-briefing-memorandum",
+      disposition: "itemized-memorandum",
+      title: "Kathy Super memorandum re honorary chairman of the Veterans Day National Committee",
+      documentDate: "1992-05-08",
+      pages: 1,
+      excerpt:
+        "Kathy Super recommends that the President accept Secretary Ed Derwinski's request to serve as honorary chairman of the Veterans Day National Committee.",
+      evidence:
+        "Itemized from page 21 of the NARA direct folder scan using the Memorandum for the President heading, Kathy Super byline, Veterans Day National Committee subject, approval mark, OCR, and rendered-page review.",
+    },
+    {
+      slug: "super-national-alliance-end-homelessness-memo",
+      documentType: "Memorandum",
+      category: "presidential-briefing-memorandum",
+      disposition: "itemized-memorandum",
+      title: "Kathy Super memorandum re honorary co-chairmen for National Alliance to End Homelessness awards",
+      documentDate: "1992-05-08",
+      pages: 1,
+      excerpt:
+        "Kathy Super recommends that the President and Mrs. Bush serve as honorary co-chairmen for the National Alliance to End Homelessness annual awards ceremony.",
+      evidence:
+        "Itemized from page 22 of the NARA direct folder scan using the Memorandum for the President heading, Kathy Super byline, National Alliance to End Homelessness subject, approval mark, OCR, and rendered-page review.",
+    },
+    {
+      slug: "donald-pilling-appreciation-letter-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Brent Scowcroft memorandum and presidential appreciation letter for Rear Admiral Donald L. Pilling",
+      documentDate: "1992-05-08",
+      pages: 2,
+      excerpt:
+        "Brent Scowcroft asks the President to sign a letter thanking Rear Admiral Donald L. Pilling for NSC service, with the signed appreciation letter attached.",
+      evidence:
+        "Itemized from pages 23-24 of the NARA direct folder scan using the Action memorandum to the President, Brent Scowcroft byline, Letter of Appreciation subject, signed Dear Don letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kaufman-ross-perot-memo",
+      documentType: "Memorandum",
+      category: "political-memorandum",
+      disposition: "itemized-memorandum",
+      title: "Ron Kaufman memorandum to the President re Ross Perot",
+      documentDate: "1992-05-08",
+      pages: 1,
+      excerpt:
+        "Ron Kaufman sends the President a Perot information packet, reports on recent activity, and notes a survey in Ohio.",
+      evidence:
+        "Itemized from page 25 of the NARA direct folder scan using the Memorandum for the President heading, Ron Kaufman byline, Perot subject, OCR, and rendered-page review.",
+    },
+    {
+      slug: "andy-foster-ross-perot-activity-weekly-update",
+      documentType: "Political Report",
+      category: "perot-activity-report",
+      disposition: "itemized-perot-activity-report",
+      title: "Andy Foster H. Ross Perot activity weekly update for Midwest and Southern regions",
+      documentDate: "1992-05-08",
+      pages: 3,
+      excerpt:
+        "Andy Foster summarizes Ross Perot activity in Midwest and Southern states, including ballot-access organization, polling, rallies, and state-by-state political assessments.",
+      evidence:
+        "Itemized from pages 26-28 of the NARA direct folder scan using the Memorandum for Ron Kaufman heading, Andy Foster byline, H. Ross Perot Activity Weekly Update subject, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ross-perot-press-clippings-may-1992",
+      documentType: "Press Clipping Packet",
+      category: "perot-press-clippings",
+      disposition: "itemized-press-clipping-packet",
+      title: "Ross Perot press clipping packet",
+      documentDate: "1992-05-08",
+      pages: 5,
+      excerpt:
+        "The Perot clipping packet includes newspaper coverage on how Ross Perot would conduct business as president, campaign image questions, Dallas municipal history, and Texas ballot activity.",
+      evidence:
+        "Itemized from pages 29-33 of the NARA direct folder scan using the visible Perot clipping headlines, newspaper layouts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hutchinson-ross-perot-southwest-region-briefing",
+      documentType: "Political Report",
+      category: "perot-activity-report",
+      disposition: "itemized-perot-activity-report",
+      title: "Cathy Hutchinson H. Ross Perot activity briefing for Southwest region",
+      documentDate: "1992-05-08",
+      pages: 3,
+      excerpt:
+        "Cathy Hutchinson briefs Ron Kaufman on Ross Perot petition organization and political effects in Arizona, California, New Mexico, and Oklahoma.",
+      evidence:
+        "Itemized from pages 34-36 of the NARA direct folder scan using the Memorandum for Ron Kaufman heading, Cathy Hutchinson byline, H. Ross Perot Activity Southwest Region subject, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "california-perot-petition-committee-fax",
+      documentType: "Fax Packet",
+      category: "perot-petition-fax",
+      disposition: "itemized-fax-packet",
+      title: "California Republican Party fax on Perot Petition Committee organization",
+      documentDate: "1992-05-08",
+      pages: 4,
+      excerpt:
+        "A California Republican Party fax lays out the Perot Petition Committee's canvassing organization, volunteer profile, administration committee, and petition-gathering committee.",
+      evidence:
+        "Itemized from pages 37-40 of the NARA direct folder scan using the CA Republican Party fax headers, Perot Petition Committee headings, committee charts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hoghaug-perot-northwest-overview",
+      documentType: "Political Report",
+      category: "perot-activity-report",
+      disposition: "itemized-perot-activity-report",
+      title: "Erik Hoghaug memorandum re Perot activity in Northwest states",
+      documentDate: "1992-05-08",
+      pages: 3,
+      excerpt:
+        "Erik Hoghaug briefs Ron Kaufman on Ross Perot activity in Northwest states including Alaska, Idaho, Montana, South Dakota, Utah, Washington, and Wyoming.",
+      evidence:
+        "Itemized from pages 41-43 of the NARA direct folder scan using the Memorandum for Ron Kaufman heading, Erik Hoghaug byline, Perot Activity/Northwest Overview subject, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "deland-editorial-board-meetings-memo",
+      documentType: "Memorandum",
+      category: "environmental-policy-memorandum",
+      disposition: "itemized-memorandum",
+      title: "Michael Deland memorandum to the President re editorial board meetings in New York",
+      documentDate: "1992-05-07",
+      pages: 1,
+      excerpt:
+        "Michael Deland reports on environmental-record discussions with Time magazine and New York Times editors and comments on issues including UNCED, wetlands, the Clean Air Act, and endangered species.",
+      evidence:
+        "Itemized from page 44 of the NARA direct folder scan using the Council on Environmental Quality letterhead, Michael Deland byline, Editorial Board Meetings in New York subject, Bush marginalia, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-deland-editorial-board-meetings-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "President's note to Michael Deland re New York editorial board meetings",
+      documentDate: "1992-05-03",
+      pages: 1,
+      excerpt:
+        "The President asks Michael Deland how his New York editorial board meetings went and whether the editors gave credit for the administration's environmental record.",
+      evidence:
+        "Itemized from page 45 of the NARA direct folder scan using the From the President form, May 3 date, Mike Deland addressee, editorial board meetings subject, OCR, and rendered-page review.",
+    },
+    {
+      slug: "maternal-infant-health-event-draft-six-remarks",
+      documentType: "Speech/Remarks Draft",
+      category: "speech-remarks-draft",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Draft Six presidential remarks for maternal and infant health event",
+      documentDate: "1992-05-08",
+      pages: 6,
+      excerpt:
+        "Draft Six remarks for the Rose Garden maternal and infant health event discuss infant mortality, immunization, prenatal care, fathers' roles, drug treatment, volunteer work, and health insurance reform.",
+      evidence:
+        "Itemized from pages 46-51 of the NARA direct folder scan using the Duggan/Nix Draft Six heading, maternal and infant health event title, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "laurie-firestone-gorbachev-dinner-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Bush handwritten note re local Bush children and Gorbachev dinner",
+      documentDate: "1992-05-11",
+      pages: 1,
+      excerpt:
+        "A handwritten note records Laurie Firestone's question about inviting local Bush children to the Gorbachev dinner and includes the President's handwritten response.",
+      evidence:
+        "Itemized from page 52 of the NARA direct folder scan using the Mr. President note, Laurie Firestone reference, Bush family names, Bush Library handwriting label, and rendered-page review.",
+    },
+    {
+      slug: "horner-mack-mattingly-seychelles-personnel-selection",
+      documentType: "Personnel Memorandum",
+      category: "personnel-selection-memorandum",
+      disposition: "itemized-personnel-memorandum",
+      title: "Constance Horner memorandum re Mack F. Mattingly personnel selection for Ambassador to Seychelles",
+      documentDate: "1992-05-05",
+      pages: 1,
+      excerpt:
+        "Constance Horner recommends that the President approve Mack F. Mattingly for possible nomination as Ambassador Extraordinary and Plenipotentiary to the Republic of Seychelles.",
+      evidence:
+        "Itemized from page 53 of the NARA direct folder scan using the Memorandum for the President heading, Constance Horner byline, Personnel Selection subject, Mack F. Mattingly text, approval signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-briefing-american-politics-may-11-1992",
+      documentType: "Political Briefing",
+      category: "political-briefing",
+      disposition: "itemized-political-briefing",
+      title: "The Daily Briefing on American Politics: May 11, 1992",
+      documentDate: "1992-05-11",
+      pages: 22,
+      excerpt:
+        "The APN/Hotline daily briefing summarizes presidential campaign news, Los Angeles aftermath coverage, Ross Perot, Clinton, Buchanan, Senate and gubernatorial races, polling, and morning television.",
+      evidence:
+        "Itemized from pages 54-75 of the NARA direct folder scan using The Daily Briefing on American Politics heading, May 11 date, APN Bulletin Board pages, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "brady-beregovoy-comments-and-golf-note-packet",
+      documentType: "Memorandum and Transcript Packet",
+      category: "treasury-briefing-packet",
+      disposition: "itemized-briefing-packet",
+      title: "Secretary Brady note and Beregovoy comments transcript packet",
+      documentDate: "1992-05-11",
+      pages: 2,
+      excerpt:
+        "A Treasury/Brady packet includes a handwritten note about Beregovoy comments, a Secretary Brady note about practicing on the President's putting green, and a faxed transcript excerpt on economic policy.",
+      evidence:
+        "Itemized from pages 76-77 of the NARA direct folder scan using the Treasury seal note, Secretary Brady note, Treasury Paris fax header, Beregovoy transcript excerpt, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tax-time-1992-signed-photograph",
+      documentType: "Photograph",
+      category: "photograph-packet",
+      disposition: "itemized-photograph",
+      title: "Tax Time '92 signed photograph to Terri",
+      documentDate: "1992-05-11",
+      pages: 1,
+      excerpt:
+        "A photocopied photograph from Tax Time '92 includes a handwritten inscription from President Bush thanking Terri.",
+      evidence:
+        "Itemized from page 78 of the NARA direct folder scan using the photograph, Tax Time '92 notation, handwritten inscription, and rendered-page review.",
+    },
+    {
+      slug: "bush-note-dallas-morning-news-editorial-board",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Bush handwritten note to Kathy and Marlin re Dallas Morning News editorial board",
+      documentDate: "1992-05-11",
+      pages: 1,
+      excerpt:
+        "A Bush handwritten note asks Kathy and Marlin about the Dallas Morning News editorial board and includes comments on political themes and follow-up.",
+      evidence:
+        "Itemized from page 79 of the NARA direct folder scan using the From the President form, May 11 date, Kathy/Marlin addressees, Dallas Morning News text, Bush Library handwriting label, and rendered-page review.",
+    },
+    {
+      slug: "philadelphia-fundraiser-final-remarks-cards",
+      documentType: "Speech/Remarks Cards",
+      category: "speech-remarks-cards",
+      disposition: "itemized-speech-remarks-cards",
+      title: "Final presidential remarks cards for Bush-Quayle fundraiser in Philadelphia",
+      documentDate: "1992-05-11",
+      pages: 11,
+      excerpt:
+        "Final-card text for the Philadelphia Bush-Quayle fundraiser thanks Pennsylvania supporters, reports on Los Angeles, and discusses urban policy, enterprise zones, education, welfare, litigation reform, health care, family, and Republican principles.",
+      evidence:
+        "Itemized from pages 80-90 of the NARA direct folder scan using the Bush-Quayle Fundraiser Philadelphia heading, card-style page numbering, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "richard-moore-picture-note-and-photo",
+      documentType: "President's Note and Photograph",
+      category: "photograph-correspondence",
+      disposition: "itemized-photograph-correspondence",
+      title: "Richard A. Moore note to Mrs. Bush and campaign-help photograph",
+      documentDate: "1992-05-11",
+      pages: 2,
+      excerpt:
+        "A Richard A. Moore note to Mrs. Bush forwards a picture that had arrived with a fundraising letter, with the attached photograph thanking Mrs. Moore for help with the 1992 campaign.",
+      evidence:
+        "Itemized from pages 91-92 of the NARA direct folder scan using the Richard A. Moore note, President Has Seen stamp, attached photograph and inscription, OCR, and rendered-page review.",
+    },
+    {
+      slug: "prescott-bush-letter-may-1-1992",
+      documentType: "Family Letter",
+      category: "family-correspondence",
+      disposition: "itemized-family-correspondence",
+      title: "Letter from Prescott Bush to the President",
+      documentDate: "1992-05-01",
+      pages: 2,
+      excerpt:
+        "Prescott Bush writes the President about a White House visit, Taft trustees, Lamar Alexander, highways, agricultural subsidies, Midwestern farm issues, research recommendations, and the Los Angeles address.",
+      evidence:
+        "Itemized from pages 93-94 of the NARA direct folder scan using the Letter from Prescott Bush heading, May 1 date, page 2 continuation, Bush routing notes, OCR, and rendered-page review.",
+    },
+    {
+      slug: "petersmeyer-andrews-wedding-note-correspondence-packet",
+      documentType: "Correspondence Packet",
+      category: "family-social-correspondence",
+      disposition: "itemized-family-social-correspondence",
+      title: "Gregg Petersmeyer and Julie Andrews wedding note and correspondence packet",
+      documentDate: "1992-05-11",
+      pages: 7,
+      excerpt:
+        "A wedding-related packet includes Bush handwriting about checking with Mrs. Bush and a gift, an RZ decision note, the President's handwritten note to Gregg Petersmeyer and Julie Andrews, a Barbara Bush draft note, and invitation materials.",
+      evidence:
+        "Itemized from pages 95-101 of the NARA direct folder scan using the Bush Library handwriting labels, document-originally-attached marker, Gregg Petersmeyer/Julie Andrews note, White House stationery, invitation pages, OCR, and rendered-page review.",
+    },
+  ],
   470417851: [
     {
       slug: "president-to-lynn-martin-birthday",
@@ -16976,6 +17381,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417739",
   "470417741",
   "470417761",
+  "470417766",
   "470418083",
 ]);
 
