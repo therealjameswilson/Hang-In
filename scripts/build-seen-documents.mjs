@@ -649,6 +649,162 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from Reuters Gulf-Bush fourth-lead wire headings and rendered page review of the NARA direct folder scan.",
     },
   ],
+  470417119: [
+    {
+      slug: "supreme-court-justices-luncheon-cover-schedule",
+      documentType: "Folder Cover and Schedule",
+      category: "camp-david-event-planning",
+      disposition: "itemized-camp-david-event-planning",
+      title:
+        "Camp David Supreme Court Justices luncheon folder cover and schedule",
+      documentDate: "1991-04-20",
+      pages: 1,
+      excerpt:
+        "The folder cover identifies the Camp David Supreme Court Justices luncheon for April 20, 1991, with arrival, luncheon, and departure times.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the folder-cover title block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "supreme-court-justices-luncheon-invitation-drafts",
+      documentType: "Invitation Drafts",
+      category: "camp-david-event-planning",
+      disposition: "itemized-camp-david-event-planning",
+      title:
+        "Draft invitation letters for the Camp David Supreme Court Justices luncheon",
+      documentDate: "",
+      pages: 2,
+      excerpt:
+        "Two draft invitation pages work through language for an informal Camp David outing with the present and former members of the Supreme Court.",
+      evidence:
+        "Itemized from pages 3-4 of the NARA direct folder scan using Camp David letterhead, draft invitation language, edits, OCR, and rendered-page review.",
+    },
+    {
+      slug: "camp-david-chapel-dedication-acceptance-regrets-lists",
+      documentType: "Acceptance and Regrets Lists",
+      category: "camp-david-event-planning",
+      disposition: "itemized-camp-david-event-planning",
+      title:
+        "Camp David Chapel Dedication acceptance and regrets lists",
+      documentDate: "1991-04-21",
+      pages: 2,
+      excerpt:
+        "The lists record acceptances and regrets for directors, supporters, and other guests invited to the Camp David Chapel Dedication.",
+      evidence:
+        "Itemized from pages 5-6 of the NARA direct folder scan using the acceptance and regrets headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rehnquist-notecard-invitation-instruction",
+      documentType: "Invitation Instruction",
+      category: "camp-david-event-planning",
+      disposition: "itemized-camp-david-event-planning",
+      title:
+        "Instruction to put Supreme Court Justices luncheon invitation on Camp David notecards",
+      documentDate: "1991-04-20",
+      pages: 1,
+      excerpt:
+        "A staff instruction asks that the invitation to Chief Justice and Mrs. Rehnquist be put on Camp David notecards, with salutation guidance for Justice Souter.",
+      evidence:
+        "Itemized from page 7 of the NARA direct folder scan using the notecard instruction, Rehnquist salutation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "supreme-court-justices-luncheon-guest-transportation-lists",
+      documentType: "Guest and Transportation Lists",
+      category: "camp-david-event-planning",
+      disposition: "itemized-camp-david-event-planning",
+      title:
+        "Camp David Supreme Court Justices luncheon guest and transportation lists",
+      documentDate: "1991-04-20",
+      pages: 5,
+      excerpt:
+        "The planning packet lists present and former justices, White House guests, additional guests, regrets, court cars, private vehicles, and presidential handwriting on guest arrangements.",
+      evidence:
+        "Itemized from pages 8-12 of the NARA direct folder scan using guest-list headings, additional-guest page, handwriting photocopy markers, OCR, and rendered-page review.",
+    },
+    {
+      slug: "colin-alma-powell-camp-david-luncheon-invitation",
+      documentType: "Invitation Letter",
+      category: "camp-david-invitation",
+      disposition: "itemized-camp-david-invitation",
+      title:
+        "President Bush invitation letter to Colin and Alma Powell for Camp David Supreme Court Justices luncheon",
+      documentDate: "1991-03-29",
+      pages: 1,
+      excerpt:
+        "President Bush invites Colin and Alma Powell to an informal Camp David outing with present and former members of the Supreme Court.",
+      evidence:
+        "Itemized from page 13 of the NARA direct folder scan using Camp David letterhead, addressee line, signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dick-lynne-cheney-camp-david-luncheon-invitation",
+      documentType: "Invitation Letter",
+      category: "camp-david-invitation",
+      disposition: "itemized-camp-david-invitation",
+      title:
+        "President Bush invitation letter to Dick and Lynne Cheney for Camp David Supreme Court Justices luncheon",
+      documentDate: "1991-03-29",
+      pages: 1,
+      excerpt:
+        "President Bush invites Dick and Lynne Cheney to the April 20 Camp David luncheon honoring Supreme Court justices.",
+      evidence:
+        "Itemized from page 14 of the NARA direct folder scan using Camp David letterhead, addressee line, signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jim-susan-baker-camp-david-luncheon-invitation",
+      documentType: "Invitation Letter",
+      category: "camp-david-invitation",
+      disposition: "itemized-camp-david-invitation",
+      title:
+        "President Bush invitation letter to Jim and Susan Baker for Camp David Supreme Court Justices luncheon",
+      documentDate: "1991-03-29",
+      pages: 1,
+      excerpt:
+        "President Bush invites Jim and Susan Baker to the informal Camp David outing with present and former members of the Supreme Court.",
+      evidence:
+        "Itemized from page 15 of the NARA direct folder scan using Camp David letterhead, addressee line, signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-nancy-sununu-camp-david-luncheon-invitation",
+      documentType: "Invitation Letter",
+      category: "camp-david-invitation",
+      disposition: "itemized-camp-david-invitation",
+      title:
+        "President Bush invitation letter to John and Nancy Sununu for Camp David Supreme Court Justices luncheon",
+      documentDate: "1991-03-29",
+      pages: 1,
+      excerpt:
+        "President Bush invites John and Nancy Sununu to the April 20 Camp David luncheon with Supreme Court guests.",
+      evidence:
+        "Itemized from page 16 of the NARA direct folder scan using Camp David letterhead, addressee line, signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kenneth-alice-starr-camp-david-luncheon-invitation",
+      documentType: "Invitation Letter",
+      category: "camp-david-invitation",
+      disposition: "itemized-camp-david-invitation",
+      title:
+        "President Bush invitation letter to Kenneth and Alice Starr for Camp David Supreme Court Justices luncheon",
+      documentDate: "1991-03-29",
+      pages: 1,
+      excerpt:
+        "President Bush invites Kenneth and Alice Starr to the Camp David luncheon and notes the trails for biking and walking.",
+      evidence:
+        "Itemized from page 17 of the NARA direct folder scan using Camp David letterhead, addressee line, signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "boyden-gray-supreme-court-justices-lunch-memo",
+      documentType: "Memorandum with President Bush Handwriting",
+      category: "camp-david-event-planning",
+      disposition: "itemized-camp-david-event-planning",
+      title:
+        "C. Boyden Gray memorandum to the President re invitation to Supreme Court Justices to lunch at Camp David",
+      documentDate: "1991-03-20",
+      pages: 2,
+      excerpt:
+        "Boyden Gray discusses inviting Supreme Court justices and additional guests to lunch at Camp David, with presidential handwriting and an attached guest list.",
+      evidence:
+        "Itemized from pages 18-19 of the NARA direct folder scan using the White House memorandum heading, Bush Library handwriting marker, attached guest list, OCR, and rendered-page review.",
+    },
+  ],
   470417389: [
     {
       slug: "presidential-log-selected-congressional-mail",
@@ -8359,7 +8515,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
 };
 
-const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set(["470418083"]);
+const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set(["470417119", "470418083"]);
 
 function buildDirectSupplementalItemDocuments(folder, packetDoc) {
   const supplementalItems = DIRECT_SCAN_SUPPLEMENTAL_ITEMS[folder.naId] || [];
