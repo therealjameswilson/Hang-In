@@ -6073,6 +6073,330 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from the Office of the Press Secretary News Summary cover page, A/B/C section headings, page numbers, and rendered-page review.",
     },
   ],
+  470418083: [
+    {
+      slug: "ray-price-penn-state-correspondence-speech-attachment",
+      documentType: "Presidential Correspondence and Speech Attachment",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title:
+        "President Bush correspondence with Raymond K. Price Jr. re Penn State with Economic Club speech attachment",
+      documentDate: "1992-09-24",
+      pages: 12,
+      excerpt:
+        "The packet includes President Bush's September 24 note to Ray Price, Price's September 21 Penn State memo, and attached large-type Economic Club speech pages on Clinton, the economy, taxes, and growth.",
+      evidence:
+        "Itemized from pages 2-13 of the NARA direct folder scan using presidential letterhead, the Ray Price memo heading, Economic Club fax pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "frederick-vreeland-morocco-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "diplomatic-correspondence",
+      disposition: "itemized-diplomatic-correspondence",
+      title:
+        "President Bush correspondence with Ambassador Frederick Vreeland re Morocco",
+      documentDate: "1992-09-24",
+      pages: 2,
+      excerpt:
+        "President Bush writes to Ambassador Frederick Vreeland at the American Embassy in Rabat, thanking him for words of encouragement and discussing politics and the people of Morocco.",
+      evidence:
+        "Itemized from pages 14-15 of the NARA direct folder scan using the White House address page, presidential handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "herbert-hoffman-political-supporter-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title:
+        "Herbert S. Hoffman correspondence re a political supporter and President Bush's response",
+      documentDate: "1992-09-24",
+      pages: 4,
+      excerpt:
+        "The packet includes Camp David routing material, Herbert Hoffman's September 18 letter about a supporter, and President Bush's handwritten and typed response.",
+      evidence:
+        "Itemized from pages 16-19 of the NARA direct folder scan using Camp David/White House address pages, Hoffman letterhead, presidential handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "miller-small-business-campaign-spokesman-letter",
+      documentType: "Presidential Letter",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title:
+        "President Bush letter to Miller re small business campaign spokesman role",
+      documentDate: "1992-09-24",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Miller for work on small business, says he wants him involved in a campaign spokesman role, and notes a White House copy with handwriting.",
+      evidence:
+        "Itemized from pages 20-21 of the NARA direct folder scan using presidential letterhead, Bush handwriting marker, self-typed copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chi-chi-rodriguez-initial-call-packet",
+      documentType: "Presidential Memorandum and Call Form",
+      category: "telephone-call-forms",
+      disposition: "itemized-telephone-call-forms",
+      title:
+        "President Bush memo to Roger Porter and phone-call form re Chi Chi Rodriguez Foundation",
+      documentDate: "1992-09-24",
+      pages: 2,
+      excerpt:
+        "President Bush asks Roger Porter to call Bill Hayes of the Chi Chi Rodriguez Foundation, followed by a Camp David presidential phone-call form for Chi Chi Rodriguez.",
+      evidence:
+        "Itemized from pages 22-23 of the NARA direct folder scan using the President's memo, phone-call form, OCR, and rendered-page review.",
+    },
+    {
+      slug: "leon-sullivan-birthday-tribute-clearance-packet",
+      documentType: "White House Memoranda and Invitation Packet",
+      category: "event-invitation-clearance",
+      disposition: "itemized-event-invitation-clearance",
+      title:
+        "Reverend Leon Sullivan 70th birthday tribute honorary co-chairman clearance packet",
+      documentDate: "1992-09-23",
+      pages: 4,
+      excerpt:
+        "The packet includes a Kathy Super memorandum on a special tribute honoring Reverend Leon Sullivan, Gregory Walden clearance material, and American Express Bank invitation correspondence.",
+      evidence:
+        "Itemized from pages 24-27 of the NARA direct folder scan using White House memorandum headings, American Express letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "scowcroft-wallop-sdi-letter-packet",
+      documentType: "National Security Memorandum and Letter Packet",
+      category: "national-security-correspondence",
+      disposition: "itemized-national-security-correspondence",
+      title:
+        "Brent Scowcroft action memorandum and President Bush draft response to Senator Malcolm Wallop on SDI",
+      documentDate: "1992-09-23",
+      pages: 5,
+      excerpt:
+        "Brent Scowcroft sends the President an action memorandum on shoring up congressional support for SDI, with a draft presidential response and Senator Malcolm Wallop's July 31 letter on the ABM Treaty.",
+      evidence:
+        "Itemized from pages 28-32 of the NARA direct folder scan using the Scowcroft action memorandum, draft response, Wallop letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "scott-miller-vanity-fair-firefighter-first-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "Scott Miller Vanity Fair firefighter correspondence packet, first set",
+      documentDate: "1992-09-24",
+      pages: 4,
+      excerpt:
+        "The first Scott Miller packet includes President Bush's note about helping a Los Angeles firefighter, a September 24 presidential letter, Miller's letter to Vanity Fair, and the Barbara Bush article excerpt.",
+      evidence:
+        "Itemized from pages 33-36 of the NARA direct folder scan using presidential letterhead, Scott Miller letter text, Vanity Fair clipping page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-3pm-update-september-24-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 3:00 p.m. news update, September 24, 1992",
+      documentDate: "1992-09-24",
+      pages: 1,
+      excerpt:
+        "The 3:00 p.m. News Update covers Clinton on health care, tax increases, debates, Bush and small business, the Southern strategy, Ross Perot, and congressional activity.",
+      evidence:
+        "Itemized from page 37 of the NARA direct folder scan using the White House News Summary heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tom-coble-small-business-thank-you-letter",
+      documentType: "Presidential Letter",
+      category: "small-business-correspondence",
+      disposition: "itemized-small-business-correspondence",
+      title:
+        "President Bush letter to Thomas Coble re Greensboro small business meeting",
+      documentDate: "1992-09-24",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Thomas Coble, Small Businessman of the Year from Greensboro, North Carolina, for introducing him to the Triad business community.",
+      evidence:
+        "Itemized from page 38 of the NARA direct folder scan using the George Bush letterhead page, address note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lehman-community-service-council-daily-point-of-light-release",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title:
+        "Daily Point of Light release: Lehman Community Service Council of Williamstown, Massachusetts",
+      documentDate: "1992-09-24",
+      pages: 2,
+      excerpt:
+        "The White House release recognizes volunteers of the Lehman Community Service Council of Williamstown, Massachusetts, as the 903rd Daily Point of Light for the Nation.",
+      evidence:
+        "Itemized from pages 39-40 of the NARA direct folder scan using Office of the Press Secretary release headings, duplicate rotated copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "campaign-trail-clipping-packet-huffington-small-business",
+      documentType: "Press Clipping Packet",
+      category: "campaign-press-clippings",
+      disposition: "itemized-campaign-press-clippings",
+      title:
+        "Campaign-trail clipping packet re Michael Huffington, small-business endorsement, and campaign commentary",
+      documentDate: "1992-09-24",
+      pages: 3,
+      excerpt:
+        "The clipping packet includes campaign-trail articles on Michael Huffington and PAC donations, a small-business endorsement page, and the 'Angry Poodle Barbecue' column.",
+      evidence:
+        "Itemized from pages 41-43 of the NARA direct folder scan using clipping mastheads, handwritten notes, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-office-daily-clippings-september-24-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title:
+        "Mrs. Bush's Press Office Daily Press Clippings, Thursday, September 24, 1992",
+      documentDate: "1992-09-24",
+      pages: 20,
+      excerpt:
+        "The First Lady press-clipping packet includes a routing cover sheet and articles on Frank Zappa, George Bush's war record, Hillary Clinton, cable television, women's medical research, women in Congress, Quaker employment benefits, children suing parents, schools, and White House silver dollars.",
+      evidence:
+        "Itemized from pages 44-63 of the NARA direct folder scan using the Mrs. Bush Press Office cover sheet, newspaper mastheads, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lud-ashley-clinton-rolling-stone-banking-fax",
+      documentType: "Incoming Memorandum with President Bush Handwriting",
+      category: "campaign-policy-correspondence",
+      disposition: "itemized-campaign-policy-correspondence",
+      title:
+        "Lud Ashley fax to President Bush re Clinton's Rolling Stone banking interview",
+      documentDate: "1992-09-24",
+      pages: 1,
+      excerpt:
+        "Association of Bank Holding Companies chairman Lud Ashley sends President Bush comments on Clinton's Rolling Stone remarks about banking, with presidential handwriting and routing notes.",
+      evidence:
+        "Itemized from page 64 of the NARA direct folder scan using ABHC fax heading, presidential handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chi-chi-rodriguez-foundation-porter-follow-up-packet",
+      documentType: "Presidential Memorandum and Staff Follow-Up Packet",
+      category: "education-foundation-correspondence",
+      disposition: "itemized-education-foundation-correspondence",
+      title:
+        "Chi Chi Rodriguez Foundation follow-up packet with Roger Porter memorandum",
+      documentDate: "1992-09-25",
+      pages: 3,
+      excerpt:
+        "The packet includes the President's Chi Chi Rodriguez memo and Roger Porter's two-page response describing the foundation's school and public-private partnership model.",
+      evidence:
+        "Itemized from pages 65-67 of the NARA direct folder scan using the President's memo, Porter memorandum, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "scott-miller-firefighter-vanity-fair-follow-up-packet",
+      documentType: "Presidential Correspondence and Staff Follow-Up Packet",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "Scott Miller Los Angeles firefighter and Vanity Fair follow-up packet",
+      documentDate: "1992-09-24",
+      pages: 7,
+      excerpt:
+        "The follow-up packet includes President Bush's note about finding help for Scott Miller, Shirley Green and Sally Kelley follow-up memoranda, a presidential letter to Scott, Miller's Vanity Fair letter, and the Barbara Bush clipping.",
+      evidence:
+        "Itemized from pages 68-74 of the NARA direct folder scan using presidential handwriting, staff follow-up memoranda, Scott Miller letter text, Vanity Fair clipping page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-clipping-packet-september-24-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Washington Post clipping packet on Quayle, Clinton, vetoes, Iran-Contra, POWs, and campaign coverage",
+      documentDate: "1992-09-24",
+      pages: 18,
+      excerpt:
+        "The Washington Post packet includes Jack Anderson on the auto pen and Quayle, campaign-trail coverage, family leave and China vetoes, small business tax plans, Iran-Contra, POW policy, urban aid, television coverage, and Metro/NSF funding.",
+      evidence:
+        "Itemized from pages 75-92 of the NARA direct folder scan using Washington Post mastheads, article starts, rotated pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-clipping-packet-september-24-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "New York Times clipping packet on Bush, Clinton, taxes, foreign affairs, and Greenspan",
+      documentDate: "1992-09-24",
+      pages: 10,
+      excerpt:
+        "The New York Times packet includes articles on the Senate tax bill, Bush's attacks on Clinton, small-business taxes, Bush and bounty politics, Bush's Penn State remarks, foreign affairs, unwed motherhood, and Greenspan pressure.",
+      evidence:
+        "Itemized from pages 93-102 of the NARA direct folder scan using New York Times mastheads, article starts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-clipping-packet-september-24-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "USA Today clipping packet on Bush, Perot, Clinton, family leave, and small business taxes",
+      documentDate: "1992-09-24",
+      pages: 6,
+      excerpt:
+        "The USA Today packet includes items on Bush and Iraq/credibility, family leave, Perot's campaign posture, polling, Clinton's support, and Bush's tax-reduction plan for small businesses.",
+      evidence:
+        "Itemized from pages 103-108 of the NARA direct folder scan using USA Today mastheads, article starts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-washington-edition-clippings-september-24-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Los Angeles Times Washington Edition clipping packet on Iraqi arms, debates, Quayle, Jewish voters, and economic policy",
+      documentDate: "1992-09-24",
+      pages: 6,
+      excerpt:
+        "The Los Angeles Times Washington Edition packet covers Iraqi arms-aid questions, Clinton's debate schedule, Quayle attacks on Clinton, Jewish voters and the GOP, war protest and commander-in-chief politics, and economic policy.",
+      evidence:
+        "Itemized from pages 109-114 of the NARA direct folder scan using Los Angeles Times mastheads, article starts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-clipping-packet-september-24-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Washington Times clipping packet on education, debates, media, taxes, POWs, the United Nations, and torts",
+      documentDate: "1992-09-24",
+      pages: 7,
+      excerpt:
+        "The Washington Times packet includes articles on Lamar Alexander and merit pay, debates, Bush media dividends, tax-break proposals, POW/MIA issues, the United Nations, and tort policy.",
+      evidence:
+        "Itemized from pages 115-121 of the NARA direct folder scan using Washington Times mastheads, article starts, cartoon page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-clipping-packet-september-24-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Wall Street Journal clipping packet on Baker, Perot, Clinton, small-business taxes, veterans, and business leaders",
+      documentDate: "1992-09-24",
+      pages: 5,
+      excerpt:
+        "The Wall Street Journal packet includes articles on James Baker and Ross Perot, Clinton's campaign caution, Bush's break for small firms, a Vietnam veteran's advice to Clinton, and Clinton's strength with business leaders.",
+      evidence:
+        "Itemized from pages 122-126 of the NARA direct folder scan using Wall Street Journal mastheads, article starts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "herbert-hoffman-jan-burmeister-photograph-enclosure",
+      documentType: "Photograph and Correspondence Enclosure",
+      category: "photograph-enclosure",
+      disposition: "itemized-photograph-enclosure",
+      title:
+        "Herbert S. Hoffman and Jan Burmeister photograph enclosure with President Bush note",
+      documentDate: "1992-09-24",
+      pages: 3,
+      excerpt:
+        "The enclosure includes a White House address page for Herbert S. Hoffman with President Bush handwriting, a Jan Burmeister notation, a color photograph, and a backing page.",
+      evidence:
+        "Itemized from pages 127-129 of the NARA direct folder scan using the White House address page, Bush handwriting, color photo page, backing page, and rendered-page review.",
+    },
+  ],
   470418122: [
     {
       slug: "st-louis-railroad-ymca-history",
@@ -8034,6 +8358,8 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
     },
   ],
 };
+
+const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set(["470418083"]);
 
 function buildDirectSupplementalItemDocuments(folder, packetDoc) {
   const supplementalItems = DIRECT_SCAN_SUPPLEMENTAL_ITEMS[folder.naId] || [];
@@ -10027,6 +10353,9 @@ function buildDirectScanDocuments(text, folder) {
   const contentLines = contentLinesFromText(text);
   const packetDoc = buildDirectScanDocument(text, folder);
   if (!packetDoc) return [];
+  if (DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS.has(folder.naId)) {
+    return [packetDoc, ...buildDirectSupplementalItemDocuments(folder, packetDoc)];
+  }
   const letterStarts = packetDoc.needsItemization ? directLetterStarts(contentLines) : [];
   const correspondenceSupplementStarts = packetDoc.needsItemization
     ? directCorrespondenceSupplementStarts(contentLines, letterStarts)
