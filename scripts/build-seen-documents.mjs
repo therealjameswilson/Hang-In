@@ -619,6 +619,398 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from a Treasury examples heading found in full-PDF OCR of the NARA direct folder scan after the cover-listed attachments.",
     },
   ],
+  470417713: [
+    {
+      slug: "billy-graham-convention-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Ron Kaufman re Billy Graham and the Republican convention",
+      documentDate: "1992-04-17",
+      pages: 1,
+      excerpt:
+        "The President tells Ron Kaufman, with copies to Craig Fuller and Bob Teeter, not to pressure Billy Graham about appearing at the convention.",
+      evidence:
+        "Itemized from a Walker's Point presidential note heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "campaign-finance-reform-column",
+      documentType: "Press Column",
+      category: "press-column-item",
+      disposition: "itemized-press-column",
+      title: "Press column by George J. Mitchell on campaign-finance reform",
+      documentDate: "",
+      pages: 2,
+      excerpt:
+        "A newspaper clipping by George J. Mitchell discusses House and Senate action on campaign-finance reform legislation.",
+      evidence:
+        "Itemized from a press-column byline and campaign-finance reform text found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "jon-bush-damato-victory-92-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Ron Kaufman re Jon Bush, Al D'Amato, and Victory '92",
+      documentDate: "1992-04-17",
+      pages: 1,
+      excerpt:
+        "The President reports that Jon Bush called at Al D'Amato's behest in favor of a joint D'Amato-Victory '92 fundraiser and asks Kaufman to advise the campaign.",
+      evidence:
+        "Itemized from a Walker's Point presidential note heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "rosty-chicago-note",
+      documentType: "President's Note",
+      category: "president-note-item",
+      disposition: "itemized-president-note",
+      title: "Note from the President to Sam Skinner re Rosty and Chicago",
+      documentDate: "1992-04-17",
+      pages: 1,
+      excerpt:
+        "The President thanks Sam Skinner for a prompt response to Chicago's troubles and notes Dan Rostenkowski's request to talk money for Chicago.",
+      evidence:
+        "Itemized from a Walker's Point presidential note heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "april-17-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title: "Telephone memoranda and Signal Switchboard log: April 17, 1992",
+      documentDate: "1992-04-17",
+      pages: 2,
+      excerpt:
+        "White House telephone memoranda list calls with Billy Graham, Gordon Zacks, Max Fisher, Roger Ailes, George W. Bush, Brent Scowcroft, Sam Skinner, and others.",
+      evidence:
+        "Itemized from White House telephone memorandum and Signal Switchboard headings found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "april-17-presidential-movements",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-item",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: Kennebunkport, Maine, April 17, 1992",
+      documentDate: "1992-04-17",
+      pages: 1,
+      excerpt:
+        "The movement log records low-key motorcade movements between Walker's Point, North Street Congregational Church, and Kenneth Raynor's residence.",
+      evidence:
+        "Itemized from a Presidential Movements heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "white-house-news-summary-april-17-1992",
+      documentType: "News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: Friday, April 17, 1992, 6 A.M. EDT Edition",
+      documentDate: "1992-04-17",
+      pages: 17,
+      excerpt:
+        "The Office of the Press Secretary news summary opens with education-plan coverage, Clinton economic criticism, Perot ballot coverage, abortion counseling, Bosnia, Libya, Iraq, and network news.",
+      evidence:
+        "Itemized from a White House News Summary heading and continuation pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "political-cartoon-packet-april-17-1992",
+      documentType: "Political Cartoons",
+      category: "political-cartoon-packet",
+      disposition: "itemized-political-cartoon-packet",
+      title: "Political cartoon packet on the 1992 campaign and House Bank scandal",
+      documentDate: "1992-04-17",
+      pages: 23,
+      excerpt:
+        "A packet of clipped political cartoons covers Clinton, Perot, Iran, Boris Yeltsin, House Bank criticism, unemployment, and other campaign subjects.",
+      evidence:
+        "Itemized from a run of political cartoon pages found in full-PDF OCR of the NARA direct folder scan after the White House News Summary.",
+    },
+    {
+      slug: "bud-walton-condolence-letter",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Bud Walton re Sam Walton",
+      documentDate: "1992-04-17",
+      pages: 4,
+      excerpt:
+        "The President sends condolences to Bud Walton after Sam Walton's death and recalls his Bentonville visit before Walton's passing.",
+      evidence:
+        "Itemized from White House letter pages and duplicate/copy pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "rob-walton-condolence-letter",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to Rob Walton re Sam Walton",
+      documentDate: "1992-04-17",
+      pages: 4,
+      excerpt:
+        "The President thanks Rob Walton for his hospitality in Bentonville and sends condolences after Sam Walton's death.",
+      evidence:
+        "Itemized from White House letter pages and duplicate/copy pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "apn-daily-briefing-april-17-1992",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing-item",
+      disposition: "itemized-daily-political-briefing",
+      title: "The Daily Briefing on American Politics: Friday, April 17, 1992",
+      documentDate: "1992-04-17",
+      pages: 23,
+      excerpt:
+        "The American Political Network briefing summarizes Bush and Clinton education/economic coverage, Perot, House Bank fallout, polling, Senate races, and TV monitoring.",
+      evidence:
+        "Itemized from The Daily Briefing on American Politics heading and Hotline sections found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "materials-forwarded-to-president-april-17-1992",
+      documentType: "Forwarded Materials List",
+      category: "forwarded-materials-list",
+      disposition: "itemized-forwarded-materials-list",
+      title: "Materials Forwarded to the President: April 17, 1992, to Kennebunkport",
+      documentDate: "1992-04-17",
+      pages: 1,
+      excerpt:
+        "The forwarded-materials list identifies action, classified, information, remarks, and schedule items, including Cuba policy, Canada beer, a Cabinet report, and an Ohio trip notebook.",
+      evidence:
+        "Itemized from a Materials Forwarded to the President cover list found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "point-of-light-kristen-wunderle",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Press Release: Kristen Wunderle recognized as the 749th Daily Point of Light",
+      documentDate: "1992-04-17",
+      pages: 1,
+      excerpt:
+        "The White House announces Kristen Wunderle of Parma, Ohio, as the 749th Daily Point of Light for her work with residents of the Corinthian Nursing Home.",
+      evidence:
+        "Itemized from an Office of the Press Secretary release heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "pool-report-dinner-for-six",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report: Dinner for Six",
+      documentDate: "1992-04-17",
+      pages: 1,
+      excerpt:
+        "Frank Murray reports on President and Mrs. Bush's dinner at Ken Raynor's Kennebunk residence.",
+      evidence:
+        "Itemized from a Pool Report heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "pool-report-good-friday-services",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #3: The Bushes Attend Good Friday Services",
+      documentDate: "1992-04-17",
+      pages: 1,
+      excerpt:
+        "John Yang reports on President and Mrs. Bush attending Good Friday services at First Congregational Church in Kennebunkport.",
+      evidence:
+        "Itemized from a Pool Report #3 heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "president-to-dunagin-family",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Letter from the President to George and Sandy Dunagin",
+      documentDate: "1992-04-17",
+      pages: 1,
+      excerpt:
+        "The President thanks Mr. and Mrs. Dunagin for support and encloses a signed photograph.",
+      evidence:
+        "Itemized from a White House letter heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "dunagin-family-to-president",
+      documentType: "Letter",
+      category: "constituent-correspondence",
+      disposition: "itemized-constituent-correspondence",
+      title: "Letter from George, Sandy, and Angela Dunagin to President Bush",
+      documentDate: "1992-03-11",
+      pages: 1,
+      excerpt:
+        "The Dunagin family writes after Super Tuesday to encourage President Bush, praise his record, and request an autographed photograph.",
+      evidence:
+        "Itemized from an incoming constituent letter start found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-april-17-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Friday, April 17, 1992",
+      documentDate: "1992-04-17",
+      pages: 22,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet covers Barbara Bush's Los Angeles Mission visit, Millie's Book royalties, Hillary Clinton, and working women.",
+      evidence:
+        "Itemized from a Mrs. Bush's Press Office Daily Press Clippings cover page and clipping run found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "scowcroft-cuba-initiative-memo",
+      documentType: "Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Information Memorandum from Brent Scowcroft to the President re New Presidential Initiative on Cuba",
+      documentDate: "1992-04-17",
+      pages: 2,
+      excerpt:
+        "Brent Scowcroft outlines a plan for a presidential Cuba statement, Torricelli bill modifications, contacts with Mack and Ros-Lehtinen, and a follow-up letter to interested members.",
+      evidence:
+        "Itemized from a confidential information memorandum and Situation Room cover sheet found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "april-17-19-presidential-schedules",
+      documentType: "Presidential Schedule",
+      category: "presidential-schedule-item",
+      disposition: "itemized-presidential-schedule",
+      title: "Schedules of the President: April 17-19, 1992",
+      documentDate: "1992-04-17",
+      pages: 2,
+      excerpt:
+        "The schedule pages list the President in Kennebunkport for Good Friday, Saturday, and Easter Sunday.",
+      evidence:
+        "Itemized from Schedule of the President headings found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "phone-call-slips-handwritten-notes",
+      documentType: "Handwritten Notes and Call Slips",
+      category: "handwritten-notes-packet",
+      disposition: "itemized-handwritten-notes",
+      title: "Presidential phone-call slips and handwritten notes packet",
+      documentDate: "",
+      pages: 9,
+      excerpt:
+        "A Bush Library photocopy packet includes From the Desk of George Bush pages, handwritten notes, presidential phone-call slips, and a message from Rose Zamaria about George DePontis and Luz Santa Romana.",
+      evidence:
+        "Itemized as a mixed handwritten-notes packet from full-PDF OCR and photocopy markers in the NARA direct folder scan; several individual pages have low-confidence OCR.",
+    },
+    {
+      slug: "scowcroft-tv-marti-memo",
+      documentType: "Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Information Memorandum from Brent Scowcroft to the President re Update on TV Marti",
+      documentDate: "",
+      pages: 2,
+      excerpt:
+        "Brent Scowcroft reports that Cuban test-pattern broadcasting interfered with TV Marti and summarizes agency disagreement over whether to broadcast over the Cuban signal.",
+      evidence:
+        "Itemized from a confidential information memorandum heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "ocs-leasing-tracts-memo",
+      documentType: "Memorandum",
+      category: "memorandum-item",
+      disposition: "itemized-memorandum",
+      title: "Memorandum for Sam Skinner re possible withdrawal of OCS tracts from the 1992-97 leasing program",
+      documentDate: "1992-04-06",
+      pages: 2,
+      excerpt:
+        "A memorandum discusses whether to exempt 63 Outer Continental Shelf tracts off the Santa Barbara/San Luis Obispo coast from Interior's 1992-97 leasing program, with a handwritten presidential note at the top.",
+      evidence:
+        "Itemized from a memorandum heading and presidential handwriting found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "lions-international-invitation-packet",
+      documentType: "Correspondence Packet",
+      category: "scheduling-correspondence-packet",
+      disposition: "itemized-scheduling-correspondence",
+      title: "Lions International 75th Anniversary invitation correspondence packet",
+      documentDate: "1992-04-15",
+      pages: 12,
+      excerpt:
+        "The packet includes Robert K. Turner, Kathy Super, Norman Dahl, Donald Banker, and handwritten material regarding a proposed presidential appearance at the Lions International 75th Anniversary banquet.",
+      evidence:
+        "Itemized from Lions Clubs International letterheads, White House correspondence, and handwritten-note pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "ferc-order-636-material",
+      documentType: "News Release and Fact Sheet",
+      category: "regulatory-material",
+      disposition: "itemized-regulatory-material",
+      title: "FERC Order No. 636 news release and fact sheet on natural gas pipeline restructuring",
+      documentDate: "1992-04-09",
+      pages: 7,
+      excerpt:
+        "Federal Energy Regulatory Commission materials announce and summarize Order No. 636, the Restructuring Rule for interstate natural gas pipelines.",
+      evidence:
+        "Itemized from a FERC news release and Summary of Order No. 636 fact sheet found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "don-ritter-quality-competitiveness-correspondence",
+      documentType: "Correspondence and Notes",
+      category: "congressional-correspondence",
+      disposition: "itemized-congressional-correspondence",
+      title: "Don Ritter correspondence and handwritten notes re quality and American competitiveness",
+      documentDate: "",
+      pages: 4,
+      excerpt:
+        "A packet addressed to Representative Don Ritter includes handwritten material discussing quality, competitiveness, administration beacons, and related policy arguments.",
+      evidence:
+        "Itemized from Don Ritter letterhead/address pages and handwritten-note pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "feigenbaum-quality-americas-competitiveness",
+      documentType: "Faxed Report",
+      category: "faxed-report",
+      disposition: "itemized-faxed-report",
+      title: "Faxed report by A. V. Feigenbaum: Quality and America's Competitiveness",
+      documentDate: "1992-04-15",
+      pages: 9,
+      excerpt:
+        "General Systems Company faxed A. V. Feigenbaum's April 1992 essay on quality and America's competitiveness for Representative Don Ritter.",
+      evidence:
+        "Itemized from a General Systems fax cover sheet and report title pages found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "barbara-bush-la-mission-tv-reports",
+      documentType: "Television Reports",
+      category: "television-report-packet",
+      disposition: "itemized-television-report-packet",
+      title: "TV reports and clipping material on Barbara Bush's Los Angeles Mission visit",
+      documentDate: "1992-04-16",
+      pages: 2,
+      excerpt:
+        "TV Reports material for the Social Office summarizes coverage of Barbara Bush visiting and dedicating the Los Angeles Mission Education Center.",
+      evidence:
+        "Itemized from TV Reports and Los Angeles Mission text found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "newstab-wire-reports-april-18-20-1992",
+      documentType: "Wire Reports",
+      category: "wire-report-packet",
+      disposition: "itemized-wire-report-packet",
+      title: "Newstab wire reports on Mark Russell, Ross Perot polling, AMVETS awards, and Points of Light",
+      documentDate: "1992-04-20",
+      pages: 5,
+      excerpt:
+        "Newstab items from April 18-20 cover Mark Russell jokes, Ross Perot polling, AMVETS Silver Helmet awards, and Columbia Savings receiving a Points of Light award.",
+      evidence:
+        "Itemized from Newstab datelines found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "loose-press-clippings-bush-family-matalin-hillary",
+      documentType: "Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Loose press clippings on Bush family business, Mary Matalin, Millie, Marilyn Quayle, Hillary Clinton, and women in politics",
+      documentDate: "1992-04-20",
+      pages: 23,
+      excerpt:
+        "Loose clippings include Jeff Gerth on Bush relatives' business dealings, Mary Matalin profiles, Millie's Book royalties, Marilyn Quayle coverage, Hillary Clinton analysis, and op-eds on women in politics.",
+      evidence:
+        "Itemized from a run of newspaper and magazine clipping starts found in full-PDF OCR of the NARA direct folder scan.",
+    },
+  ],
   470417874: [
     {
       slug: "white-house-news-summary-june-29-1992",
