@@ -29566,6 +29566,268 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 86-87 of the NARA direct folder scan using the handwritten note, envelope addressed to the President, Bush Library handwriting marker, low-confidence OCR, and rendered-page review.",
     },
   ],
+  470418150: [
+    {
+      slug: "ric-flair-campaign-train-correspondence",
+      documentType: "Presidential Correspondence",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Ric Flair campaign train correspondence",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Ric Flair for joining the October 20 campaign train trip and notes Governor Campbell's report of Flair's support for Barbara Bush and him.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the George Bush letterhead, Ric Flair address block, handwritten campaign-train note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-october-23-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Friday, October 23, 1992",
+      documentDate: "1992-10-23",
+      pages: 12,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet includes Barbara Bush suburban campaign coverage, a Fox Morning News interview, First Lady debate comments, Bush-family business reporting, Marilyn Quayle items, women in combat, and William Raspberry on the Revenue Act.",
+      evidence:
+        "Itemized from pages 3-14 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover page, wire headings, newspaper mastheads, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ask-george-bush-wplg-miami-transcript",
+      documentType: "Presidential Remarks Transcript",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title: "Remarks by the President in Ask George Bush in Miami",
+      documentDate: "1992-10-23",
+      pages: 16,
+      excerpt:
+        "The transcript of President Bush's Miami Ask George Bush program covers Cuba, health care, child care, education vouchers, deficit reduction, AIDS, defense, capital gains, family leave, enterprise zones, Haiti, and Clinton's antiwar record.",
+      evidence:
+        "Itemized from pages 15-30 of the NARA direct folder scan using the Office of the Press Secretary Miami heading, Ask George Bush title, transcript page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hr-5006-signing-ceremony-remarks",
+      documentType: "Presidential Remarks Transcript",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title: "Remarks by the President in signing ceremony for H.R. 5006, National Defense Authorization Act",
+      documentDate: "1992-10-23",
+      pages: 3,
+      excerpt:
+        "President Bush's signing remarks for H.R. 5006 discuss the Cuban Democracy Act, human liberty, support for Cuban Americans, and pressure on Castro to let families leave Cuba.",
+      evidence:
+        "Itemized from pages 31-33 of the NARA direct folder scan using the Office of the Press Secretary Miami heading, H.R. 5006 signing ceremony title, transcript page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "first-year-bush-performance-family-clippings-packet",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "First-year Bush performance and Bush-family campaign clippings packet",
+      documentDate: "1992-10-23",
+      pages: 18,
+      excerpt:
+        "A clipping packet combines older January 1990 assessments of President Bush's first year in office, Panama, civil rights, domestic policy, and polls with October 1992 Greenwich Time coverage of Prescott Bush Jr. and Connecticut campaign support.",
+      evidence:
+        "Itemized from pages 34-51 of the NARA direct folder scan using Washington Times, Christian Science Monitor, New York Times, Wall Street Journal, USA Today, and Greenwich Time mastheads, a handwritten routing note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rose-zamaria-ferc-succession-memo",
+      documentType: "Memorandum and Incoming Note",
+      category: "staff-routing-memorandum",
+      disposition: "itemized-staff-routing-memorandum",
+      title: "Rose Zamaria memo forwarding FERC succession material to Jim Baker",
+      documentDate: "1992-10-23",
+      pages: 4,
+      excerpt:
+        "Rose Zamaria forwards FERC succession material to Jim Baker for comments and guidance after the President asked that it be sent along; the packet includes handwritten FERC chairman material and presidential handwriting.",
+      evidence:
+        "Itemized from pages 52-55 of the NARA direct folder scan using the White House memorandum heading, FERC chairman letterhead, handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-speechwriting-siller-campaign-material-fax",
+      documentType: "Speechwriting Fax and Draft Material",
+      category: "campaign-remarks-draft",
+      disposition: "itemized-campaign-remarks-draft",
+      title: "Presidential Speechwriting fax of Siller campaign joke material for October 23, 1992",
+      documentDate: "1992-10-23",
+      pages: 5,
+      excerpt:
+        "A Presidential Speechwriting fax transmits Siller campaign lines on turning clocks back, Clinton and Halloween, and London, Kentucky remarks keyed to the October 23 campaign day.",
+      evidence:
+        "Itemized from pages 56-60 of the NARA direct folder scan using the Presidential Speechwriting facsimile cover sheet, Xerox transmission headers, Siller labels, OCR, and rendered-page review.",
+    },
+    {
+      slug: "orrin-hatch-october-14-letter-reply",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush reply to Orrin G. Hatch re October 14 letter and campaign support",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Senator Orrin G. Hatch for his October 14 letter, suggestions, and support from Hatch and Elaine in the final stretch of the 1992 campaign.",
+      evidence:
+        "Itemized from page 61 of the NARA direct folder scan using the White House letterhead, Orrin Hatch address block, presidential signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-130-pm-october-23-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary 1:30 P.M. update: Friday, October 23, 1992",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "The 1:30 p.m. White House News Summary update covers the campaign trail, Vice President Quayle, Perot's schedule and television buys, and state polling in Maine.",
+      evidence:
+        "Itemized from page 62 of the NARA direct folder scan using the White House News Summary heading, 1:30 P.M. News Update title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-magaw-silverado-russo-clippings-packet",
+      documentType: "Note and Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "John Magaw note and Houston Silverado/Russo clippings packet",
+      documentDate: "1992-10-23",
+      pages: 5,
+      excerpt:
+        "A John Magaw routing note attaches Houston Chronicle and Houston Post clippings on Silverado, James Metz, Joe Russo, Ameriway, Hardin Savings, and S&L fraud allegations connected to Houston figures.",
+      evidence:
+        "Itemized from pages 63-67 of the NARA direct folder scan using the John Magaw attachment marker, Houston Chronicle and Houston Post mastheads, clipping continuations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "treasury-memo-ibm-competitiveness-attachment",
+      documentType: "Memorandum and Attachment",
+      category: "economic-policy-memorandum",
+      disposition: "itemized-economic-policy",
+      title: "Treasury memorandum to the President with IBM competitiveness attachment",
+      documentDate: "1992-10-22",
+      pages: 2,
+      excerpt:
+        "The Secretary of the Treasury sends President Bush an IBM competitiveness sheet from John Akers, emphasizing sourcing, exports, cross-border goods flows, and the political challenge of explaining global business practices.",
+      evidence:
+        "Itemized from pages 68-69 of the NARA direct folder scan using the Memorandum for the President heading, The President Has Seen stamp, IBM competitiveness attachment, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-october-23-campaign-election-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Washington Post campaign, education, passport-file, Perot, and election clippings: October 23, 1992",
+      documentDate: "1992-10-23",
+      pages: 27,
+      excerpt:
+        "Washington Post clippings cover Bush's New Jersey campaign, the Reagan stage incident, education policy, Clinton passport-file searches, Perot, PAC giving, Christian Coalition activity, Iran-Contra, opinion columns, and A Day in the Life of the Campaign.",
+      evidence:
+        "Itemized from pages 70-96 of the NARA direct folder scan using Washington Post mastheads, campaign section headings, rotated clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-october-23-campaign-foreign-policy-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "New York Times campaign, foreign-policy, education, Iran-Contra, and Perot clippings: October 23, 1992",
+      documentDate: "1992-10-23",
+      pages: 21,
+      excerpt:
+        "New York Times clippings cover violence policy, Bush campaign strategy, Middle East talks, education, Vietnam POW/MIA photographs, the V-22 Osprey, tax-bill veto timing, Iraq remarks, State Department file searches, James Baker, Iran-Contra, and Perot's television program.",
+      evidence:
+        "Itemized from pages 97-117 of the NARA direct folder scan using New York Times mastheads, article headings, campaign and opinion section labels, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-october-23-campaign-commentary-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Washington Times campaign, commentary, education, and draft-record clippings: October 23, 1992",
+      documentDate: "1992-10-23",
+      pages: 16,
+      excerpt:
+        "Washington Times clippings include the Bush campaign train, Don Feder, Wesley Pruden, William F. Buckley Jr., William Rusher, Paul Bedard on Bush's comeback strategy, Rush Limbaugh, AIDS campaign coverage, and retired officers on Clinton's draft record.",
+      evidence:
+        "Itemized from pages 118-133 of the NARA direct folder scan using Washington Times mastheads, column bylines, campaign headings, rotated clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-october-23-churchgoers-polls-editorials",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "USA Today churchgoer polling, political bean counters, and election editorials: October 23, 1992",
+      documentDate: "1992-10-23",
+      pages: 2,
+      excerpt:
+        "USA Today clippings cover churchgoers moving from Bush to Clinton, polling jokes and political bean counters, and an editorial framing the presidential election as the voter's choice.",
+      evidence:
+        "Itemized from pages 134-135 of the NARA direct folder scan using USA Today mastheads, October 23 date lines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-october-23-campaign-foreign-policy-military-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Los Angeles Times campaign, Perot, foreign-policy, military, and election clippings: October 23, 1992",
+      documentDate: "1992-10-23",
+      pages: 15,
+      excerpt:
+        "Los Angeles Times clippings cover Perot and wasted-vote arguments, Hanoi's POW/MIA move, Marilyn Quayle, Rush Limbaugh, campaign spin, Clinton passport-file investigations, Latin America, human rights, Schwarzkopf book disputes, youth voting, Clinton's West Coast trip, the Midwest campaign, and military policy.",
+      evidence:
+        "Itemized from pages 136-150 of the NARA direct folder scan using Los Angeles Times mastheads, Washington Edition labels, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-october-23-campaign-economy-bush-family-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Wall Street Journal campaign, economy, coalition, and Bush-family business clippings: October 23, 1992",
+      documentDate: "1992-10-23",
+      pages: 8,
+      excerpt:
+        "Wall Street Journal clippings cover the crumbling Bush coalition, the Journal/NBC poll, Clinton's electorate, industries watching Clinton budget plans, campaign doubt tables, and Jeb and Neil Bush business-career reporting.",
+      evidence:
+        "Itemized from pages 151-158 of the NARA direct folder scan using Wall Street Journal mastheads, article headings, poll graphics, OCR, and rendered-page review.",
+    },
+    {
+      slug: "della-newman-larry-king-call-correspondence",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush reply to Della Newman re Larry King Live call and campaign support",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Della Newman for her prayers, good letter about the Larry King Live show, offer to help, and campaign support in the final stretch.",
+      evidence:
+        "Itemized from page 159 of the NARA direct folder scan using the George Bush letterhead, Della Newman address block, transfer note to the Bush/Quayle Committee, OCR, and rendered-page review.",
+    },
+    {
+      slug: "frederick-reeder-debate-message-correspondence",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush reply to RADM Frederick M. Reeder re debate message",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "President Bush thanks retired Rear Admiral Frederick M. Reeder for his message about the debate and his loyal friendship during the difficult campaign.",
+      evidence:
+        "Itemized from page 160 of the NARA direct folder scan using the George Bush letterhead, RADM Frederick M. Reeder address block, presidential signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photographs-october-1992-pow-air-force-one",
+      documentType: "Official White House Photograph Packet",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title: "Official White House photographs and transfer pages, including POW meeting and Air Force One scenes",
+      documentDate: "1992-10-23",
+      pages: 7,
+      excerpt:
+        "The photograph packet includes color official White House photographs of President Bush at a lectern with senior advisers, aboard Air Force One, and in a White House meeting marked by a POW meeting note, plus photo-transfer backing pages.",
+      evidence:
+        "Itemized from pages 161-167 of the NARA direct folder scan using color photograph pages, White House Photo Office transfer/backing pages, handwritten sticky-note label, low-confidence OCR, and rendered-page review.",
+    },
+  ],
   470418164: [
     {
       slug: "manor-house-reception-acceptances",
@@ -30434,6 +30696,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418144",
   "470418146",
   "470418148",
+  "470418150",
   "646482525",
   "646482521",
   "646482523",
