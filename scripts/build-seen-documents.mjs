@@ -36763,6 +36763,1061 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 39-49 of the NARA direct folder scan using the color photograph pages, official White House photo back labels, handwritten sticky-note captions, OCR, and rendered-page review.",
     },
   ],
+  470418213: [
+    {
+      slug: "alyce-gambal-framed-print-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Alyce B. Gambal framed-print presidential reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Alyce B. Gambal for her kind letter and the framed print.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the outgoing typed reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "suzanne-murphy-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Suzanne Murphy condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Suzanne Murphy after her condolence message about Dorothy Walker Bush, with Murphy's incoming material retained.",
+      evidence:
+        "Itemized from pages 3-5 of the NARA direct folder scan using the outgoing reply, incoming condolence material, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alan-simpson-azalea-gift-unit-condolence-packet",
+      documentType: "Gift Unit Detail and Presidential Reply Packet",
+      category: "gift-unit-correspondence",
+      disposition: "itemized-gift-unit-correspondence",
+      title: "Alan K. Simpson azalea gift-unit condolence packet",
+      documentDate: "1992-11-30",
+      pages: 4,
+      excerpt:
+        "President Bush thanks Senator Alan K. Simpson for the azalea plant sent after Dorothy Walker Bush's death, with Gift Unit detail and card copies attached.",
+      evidence:
+        "Itemized from pages 6-9 of the NARA direct folder scan using the outgoing reply, White House Gift Unit detail, gift-card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fred-travalena-flower-basket-condolence-packet",
+      documentType: "Gift Unit Detail and Presidential Reply Packet",
+      category: "gift-unit-correspondence",
+      disposition: "itemized-gift-unit-correspondence",
+      title: "Fred Travalena flower-basket condolence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Fred Travalena for the flower basket sent in memory of Dorothy Walker Bush, with White House Gift Unit detail and card copy attached.",
+      evidence:
+        "Itemized from pages 10-12 of the NARA direct folder scan using the outgoing reply, Gift Unit detail, attached card copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-melady-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Thomas P. Melady condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Thomas P. Melady for writing about Dorothy Walker Bush and sends love to Margaret, with Melady's Embassy of the United States to the Holy See letter attached.",
+      evidence:
+        "Itemized from pages 13-14 of the NARA direct folder scan using the outgoing reply, incoming Embassy letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "donald-ensenat-brunei-condolence-cable-correspondence",
+      documentType: "Presidential Reply and Incoming Cable",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Donald B. Ensenat Brunei condolence cable correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Donald B. Ensenat for his cable about Dorothy Walker Bush, with the American Embassy Bandar Seri Begawan cable copy retained.",
+      evidence:
+        "Itemized from pages 15-16 of the NARA direct folder scan using the outgoing reply, incoming embassy cable, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lowell-weicker-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Lowell P. Weicker Jr. condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Governor Lowell P. Weicker Jr.'s condolence letter about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 17-18 of the NARA direct folder scan using the outgoing reply, incoming State of Connecticut letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-keeler-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Archbishop William H. Keeler condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush answers Archbishop William H. Keeler's message from the National Conference of Catholic Bishops after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from pages 19-20 of the NARA direct folder scan using the outgoing reply, incoming bishops-conference letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sharon-pratt-kelly-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sharon Pratt Kelly condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Sharon Pratt Kelly for her thoughtful note about Dorothy Walker Bush, with her District of Columbia letter attached.",
+      evidence:
+        "Itemized from pages 21-22 of the NARA direct folder scan using the outgoing reply, incoming District of Columbia letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "norman-schwarzkopf-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "H. Norman Schwarzkopf condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush replies to General H. Norman Schwarzkopf's condolence letter about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 23-24 of the NARA direct folder scan using the outgoing reply, incoming Schwarzkopf letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-narva-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Rear Admiral William M. Narva condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush writes Rear Admiral William M. Narva that he and Dorothy Walker Bush were very close and sends love to Rose, with Narva's incoming handwritten note attached.",
+      evidence:
+        "Itemized from pages 25-26 of the NARA direct folder scan using the outgoing handwritten reply, address block, incoming handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "h-meade-alcorn-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "H. Meade Alcorn condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush writes Maria at Mrs. H. Meade Alcorn's address to thank her for writing about Dorothy Walker Bush and Meade Alcorn.",
+      evidence:
+        "Itemized from pages 27-28 of the NARA direct folder scan using the outgoing handwritten reply, address block, incoming note page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dorothy-height-ncnw-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Dorothy I. Height and National Council of Negro Women condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Dorothy I. Height after the National Council of Negro Women sent condolences on Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from pages 29-30 of the NARA direct folder scan using the outgoing reply, incoming National Council of Negro Women letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "archbishop-iakovos-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Archbishop Iakovos condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Archbishop Iakovos of the Greek Orthodox Archdiocese after Iakovos sent condolences to President and Mrs. Bush.",
+      evidence:
+        "Itemized from pages 31-32 of the NARA direct folder scan using the outgoing reply, incoming MCI Mail condolence message, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rick-skogland-ag-edwards-investment-correspondence",
+      documentType: "Presidential Reply and Incoming Investment Materials",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Rick W. Skogland A.G. Edwards investment-offer correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 4,
+      excerpt:
+        "President Bush thanks Rick W. Skogland for his November 17 note and investment-management offer, with A.G. Edwards materials and Skogland profile pages attached.",
+      evidence:
+        "Itemized from pages 33-36 of the NARA direct folder scan using the outgoing reply, A.G. Edwards fax/memo, profile pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-walker-presidential-library-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-library-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William M. Walker Jr. presidential library contribution correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush thanks William M. Walker Jr. for his campaign support and offer to contribute to the Presidential Library, with a copy routed to George W. Bush.",
+      evidence:
+        "Itemized from pages 37-39 of the NARA direct folder scan using the outgoing reply, routing/file copy, incoming Walker letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-mccance-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Thomas McCance Jr. condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 4,
+      excerpt:
+        "President Bush thanks Thomas McCance Jr. for a loving letter about Dorothy Walker Bush and asks him to thank Maxine, with McCance's incoming handwritten pages attached.",
+      evidence:
+        "Itemized from pages 40-43 of the NARA direct folder scan using the outgoing handwritten reply, incoming handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "condolence-messages-book-2-title-page",
+      documentType: "Diplomatic Condolence Book Title Page",
+      category: "diplomatic-condolence-book",
+      disposition: "itemized-diplomatic-condolence-book",
+      title: "Condolence Messages for President Bush, Book 2 title page",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "Title page for the diplomatic condolence packet labeled Condolence Messages for President Bush, Book 2.",
+      evidence:
+        "Itemized from page 44 of the NARA direct folder scan using the title page, handwritten daily-file date notation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-timothy-donaldson-bahamas",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Timothy Baswell Donaldson of the Bahamas",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Bahamas Ambassador Timothy Baswell Donaldson for his thoughts and prayers after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 45 of the NARA direct folder scan using the outgoing White House reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-shaikh-isa-bahrain",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Shaikh Isa bin Salman Al-Khalifa",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks the Amir of Bahrain for kind words of condolence on Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 46 of the NARA direct folder scan using the outgoing reply copy, address block, George Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-shaikh-khalifa-bahrain-prime-minister",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Shaikh Khalifa bin Salman Al-Khalifa",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush tells Bahrain Prime Minister Shaikh Khalifa bin Salman Al-Khalifa that the warmth of his condolence message was deeply touching.",
+      evidence:
+        "Itemized from page 47 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-khaleda-zia-bangladesh",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Begum Khaleda Zia",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Bangladesh Prime Minister Begum Khaleda Zia for her condolence message about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 48 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-jaime-paz-zamora-bolivia",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Jaime Paz Zamora",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Bolivian President Jaime Paz Zamora for his condolence message and adds a handwritten note recalling Honda.",
+      evidence:
+        "Itemized from page 49 of the NARA direct folder scan using the outgoing reply copy, address block, George Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-jorge-crespo-velasco-bolivia",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Jorge Crespo-Velasco",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Bolivian Ambassador Jorge Crespo-Velasco and Adela for their warm condolence message.",
+      evidence:
+        "Itemized from page 50 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-meles-zenawi-ethiopia",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Meles Zenawi",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Meles Zenawi of Ethiopia's Transitional Government for his condolence message.",
+      evidence:
+        "Itemized from page 51 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-helmut-kohl-germany",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Helmut Kohl",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Chancellor Helmut Kohl and Hannelore for their condolences after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 52 of the NARA direct folder scan using the outgoing reply copy, address block, George Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-chaim-herzog-israel",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Chaim Herzog",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Israeli President Chaim Herzog and Aura for their thoughts and prayers.",
+      evidence:
+        "Itemized from page 53 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-yitzhak-rabin-israel",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Yitzhak Rabin",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Israeli Prime Minister Yitzhak Rabin for his condolence message and adds a handwritten personal note.",
+      evidence:
+        "Itemized from page 54 of the NARA direct folder scan using the outgoing reply copy, address block, George Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-shimon-peres-israel",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Shimon Peres",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Israeli Foreign Minister Shimon Peres for his warm expression of sympathy.",
+      evidence:
+        "Itemized from page 55 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-teddy-kollek-jerusalem",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Teddy Kollek",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Jerusalem Mayor Teddy Kollek for his kind words of sympathy after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 56 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-oscar-luigi-scalfaro-italy",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Oscar Luigi Scalfaro",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Italian President Oscar Luigi Scalfaro for his kind words of condolence.",
+      evidence:
+        "Itemized from page 57 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-roh-tae-woo-korea",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Roh Tae Woo",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks President Roh Tae Woo and Mrs. Roh for their thoughts and prayers after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 58 of the NARA direct folder scan using the outgoing reply copy, address block, George Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-vytautas-landsbergis-lithuania",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Vytautas Landsbergis",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Vytautas Landsbergis of Lithuania's Supreme Council for his condolence message.",
+      evidence:
+        "Itemized from page 59 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-h-kamuzu-banda-malawi",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to H. Kamuzu Banda",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Malawi Life President H. Kamuzu Banda for kind words of condolence.",
+      evidence:
+        "Itemized from page 60 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-cassam-uteem-mauritius",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Cassam Uteem",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks President Cassam Uteem of Mauritius for his thoughts and prayers.",
+      evidence:
+        "Itemized from page 61 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-sir-anerood-jugnauth-mauritius",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Sir Anerood Jugnauth",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush tells Mauritius Prime Minister Sir Anerood Jugnauth that the warmth of his condolence message was deeply touching.",
+      evidence:
+        "Itemized from page 62 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-rainier-iii-monaco",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Rainier III",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Prince Rainier III of Monaco for kind words of condolence.",
+      evidence:
+        "Itemized from page 63 of the NARA direct folder scan using the outgoing reply copy, address block, George Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-sultan-qaboos-oman",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Sultan Qaboos bin Said",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Sultan Qaboos bin Said of Oman for kind words of condolence.",
+      evidence:
+        "Itemized from page 64 of the NARA direct folder scan using the outgoing reply copy, address block, George Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-joao-clemente-baena-soares-oas",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Joao Clemente Baena Soares",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks OAS Secretary General Joao Clemente Baena Soares for his kind words of condolence.",
+      evidence:
+        "Itemized from page 65 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-shaikh-khalifa-qatar-amir",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Shaikh Khalifa bin Hamad Al-Thani",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks the Amir of Qatar for kind words of condolence on Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 66 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-shaikh-hamad-qatar-crown-prince",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Shaikh Hamad bin Khalifa Al-Thani",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush tells Qatar Crown Prince and Minister of Defense Shaikh Hamad bin Khalifa Al-Thani that the warmth of his condolence message was deeply touching.",
+      evidence:
+        "Itemized from page 67 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-hafiz-al-assad-syria",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Hafiz al-Assad",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Syrian President Hafiz al-Assad for his condolence message after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 68 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-zine-el-abidine-ben-ali-tunisia",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Zine El-Abidine Ben Ali",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Tunisian President Zine El-Abidine Ben Ali for kind words of condolence.",
+      evidence:
+        "Itemized from page 69 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-queen-elizabeth-ii",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to Queen Elizabeth II",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Queen Elizabeth II and Prince Philip for their thoughts and prayers after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 70 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-reply-john-paul-ii",
+      documentType: "Outgoing Presidential Diplomatic Reply Copy",
+      category: "diplomatic-condolence-reply",
+      disposition: "itemized-diplomatic-condolence-reply",
+      title: "Book 2 diplomatic condolence reply to John Paul II",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Pope John Paul II for his gracious condolence message and prayers after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 71 of the NARA direct folder scan using the outgoing reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-timothy-donaldson-bahamas",
+      documentType: "Incoming Diplomatic Condolence Message",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence message from Timothy Baswell Donaldson",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "Bahamas Ambassador Timothy Baswell Donaldson expresses sympathy on behalf of the Government and people of the Commonwealth of the Bahamas.",
+      evidence:
+        "Itemized from page 72 of the NARA direct folder scan using the Embassy of the Commonwealth of the Bahamas letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-shaikh-isa-bahrain",
+      documentType: "Incoming Diplomatic Condolence Cable",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence cable from Shaikh Isa bin Salman Al-Khalifa",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "The Amir of Bahrain sends sincere condolences and sympathy on the death of Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 73 of the NARA direct folder scan using the MCI Cable Dispatch page, sender line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-shaikh-khalifa-bahrain-prime-minister",
+      documentType: "Incoming Diplomatic Condolence Cable",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence cable from Shaikh Khalifa bin Salman Al-Khalifa",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "Bahrain Prime Minister Shaikh Khalifa bin Salman Al-Khalifa sends condolences and prayers after the death of Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 74 of the NARA direct folder scan using the MCI Cable Dispatch page, sender line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-khaleda-zia-bangladesh",
+      documentType: "Incoming Diplomatic Condolence Message",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence message from Begum Khaleda Zia",
+      documentDate: "1992-11-23",
+      pages: 1,
+      excerpt:
+        "The Embassy of Bangladesh transmits Prime Minister Begum Khaleda Zia's condolence message to President Bush.",
+      evidence:
+        "Itemized from page 75 of the NARA direct folder scan using the Embassy of Bangladesh transmittal, quoted prime-minister message, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-jaime-paz-zamora-bolivia",
+      documentType: "National Security Council Condolence Message Memorandum",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence message from Jaime Paz Zamora",
+      documentDate: "1992-11-23",
+      pages: 1,
+      excerpt:
+        "A National Security Council memorandum relays the condolence message from Bolivian President Jaime Paz Zamora.",
+      evidence:
+        "Itemized from page 76 of the NARA direct folder scan using the NSC memorandum heading, subject line, State Department cable text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-jorge-crespo-velasco-bolivia",
+      documentType: "Incoming Diplomatic Condolence Letter",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence letter from Jorge Crespo-Velasco",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "Bolivian Ambassador Jorge Crespo-Velasco sends condolences from himself and Adela after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 77 of the NARA direct folder scan using the Ambassador of Bolivia letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-meles-zenawi-ethiopia",
+      documentType: "Incoming Diplomatic Condolence Message",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence message from Meles Zenawi",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "Meles Zenawi sends condolences on behalf of Ethiopia's people, transitional government, and himself.",
+      evidence:
+        "Itemized from page 78 of the NARA direct folder scan using the typed incoming message, sender line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-helmut-kohl-germany",
+      documentType: "Incoming Diplomatic Condolence Message Translation",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence message from Helmut Kohl",
+      documentDate: "1992-11-23",
+      pages: 1,
+      excerpt:
+        "A translation of Chancellor Helmut Kohl's message conveys sympathy from Hannelore Kohl and himself to President Bush and Barbara Bush.",
+      evidence:
+        "Itemized from page 79 of the NARA direct folder scan using the Bundeskanzler translation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-chaim-herzog-israel",
+      documentType: "Incoming Diplomatic Condolence Cable",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence cable from Chaim Herzog",
+      documentDate: "1992-11-23",
+      pages: 1,
+      excerpt:
+        "Israeli President Chaim Herzog sends heartfelt condolences on behalf of Aura Herzog and himself.",
+      evidence:
+        "Itemized from page 80 of the NARA direct folder scan using the cable text, sender line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-yitzhak-rabin-israel",
+      documentType: "Incoming Diplomatic Condolence Message",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence message from Yitzhak Rabin",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "The Embassy of Israel transmits Prime Minister Yitzhak Rabin's condolence message and Ambassador Zalman Shoval adds his personal condolences.",
+      evidence:
+        "Itemized from page 81 of the NARA direct folder scan using Embassy of Israel letterhead, quoted message text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-shimon-peres-israel",
+      documentType: "Incoming Diplomatic Condolence Message",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence message from Shimon Peres",
+      documentDate: "1992-11-23",
+      pages: 1,
+      excerpt:
+        "The Embassy of Israel transmits Foreign Minister Shimon Peres's condolence message to President Bush.",
+      evidence:
+        "Itemized from page 82 of the NARA direct folder scan using Embassy of Israel letterhead, quoted message text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-teddy-kollek-jerusalem",
+      documentType: "Incoming Diplomatic Condolence Cable",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence cable from Teddy Kollek",
+      documentDate: "1992-11-23",
+      pages: 1,
+      excerpt:
+        "Jerusalem Mayor Teddy Kollek sends condolences after learning of Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 83 of the NARA direct folder scan using the incoming cable page, sender line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-oscar-luigi-scalfaro-italy",
+      documentType: "Incoming Diplomatic Condolence Message and Translation",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence message from Oscar Luigi Scalfaro",
+      documentDate: "1992-11-20",
+      pages: 2,
+      excerpt:
+        "The Italian Embassy provides an English translation and Italian text of President Oscar Luigi Scalfaro's condolence message.",
+      evidence:
+        "Itemized from pages 84-85 of the NARA direct folder scan using the unofficial translation, Italian message page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-roh-tae-woo-korea",
+      documentType: "Incoming Diplomatic Condolence Letter",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence letter from Roh Tae Woo",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "President Roh Tae Woo and Mrs. Roh send sympathy after the death of Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 86 of the NARA direct folder scan using the incoming letter text, signature line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-vytautas-landsbergis-lithuania",
+      documentType: "Incoming Diplomatic Condolence Cable",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence cable from Vytautas Landsbergis",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "Vytautas Landsbergis of Lithuania's Supreme Council sends condolences to President Bush and his family.",
+      evidence:
+        "Itemized from page 87 of the NARA direct folder scan using the MCI Cable Dispatch page, sender line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-h-kamuzu-banda-malawi",
+      documentType: "Incoming Diplomatic Condolence Cable",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence cable from H. Kamuzu Banda",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "Malawi President H. Kamuzu Banda joins the government and people of Malawi in sending condolences.",
+      evidence:
+        "Itemized from page 88 of the NARA direct folder scan using the MCI Cable Dispatch page, sender line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-cassam-uteem-mauritius",
+      documentType: "Incoming Diplomatic Condolence Message",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence message from Cassam Uteem",
+      documentDate: "1992-11-20",
+      pages: 2,
+      excerpt:
+        "The Ambassador of Mauritius forwards President Cassam Uteem's condolence message and adds his own condolences.",
+      evidence:
+        "Itemized from pages 89-90 of the NARA direct folder scan using the Ambassador of Mauritius letter, quoted message, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-sir-anerood-jugnauth-mauritius",
+      documentType: "Incoming Diplomatic Condolence Cable",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence cable from Sir Anerood Jugnauth",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "Mauritius Prime Minister Sir Anerood Jugnauth sends sympathy from the government and people of Mauritius.",
+      evidence:
+        "Itemized from page 91 of the NARA direct folder scan using the MCI Cable Dispatch page, sender line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-rainier-iii-monaco",
+      documentType: "Incoming Diplomatic Condolence Cable",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence cable from Rainier III",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "Prince Rainier III of Monaco sends condolences from himself and his children.",
+      evidence:
+        "Itemized from page 92 of the NARA direct folder scan using the MCI Cable Dispatch page, sender line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-sultan-qaboos-oman",
+      documentType: "Incoming Diplomatic Condolence Cable",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence cable from Sultan Qaboos bin Said",
+      documentDate: "1992-11-22",
+      pages: 1,
+      excerpt:
+        "Sultan Qaboos bin Said of Oman sends condolences on the death of Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 93 of the NARA direct folder scan using the MCI Cable Dispatch page, sender line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-joao-clemente-baena-soares-oas",
+      documentType: "Incoming Diplomatic Condolence Letter",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence letter from Joao Clemente Baena Soares",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "OAS Secretary General Joao Clemente Baena Soares sends condolences and prayers after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 94 of the NARA direct folder scan using the Organization of American States letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-shaikh-khalifa-qatar-amir",
+      documentType: "Incoming Diplomatic Condolence Cable",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence cable from Shaikh Khalifa bin Hamad Al-Thani",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "Qatar's Amir Shaikh Khalifa bin Hamad Al-Thani sends condolences on behalf of Qatar's people and government.",
+      evidence:
+        "Itemized from page 95 of the NARA direct folder scan using the MCI Cable Dispatch page, sender line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-shaikh-hamad-qatar-crown-prince",
+      documentType: "Incoming Diplomatic Condolence Cable",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence cable from Shaikh Hamad bin Khalifa Al-Thani",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "Qatar Crown Prince and Minister of Defense Shaikh Hamad bin Khalifa Al-Thani sends sympathy and condolences.",
+      evidence:
+        "Itemized from page 96 of the NARA direct folder scan using the MCI Cable Dispatch page, sender line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-zine-el-abidine-ben-ali-tunisia",
+      documentType: "Incoming Diplomatic Condolence Message",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence message from Zine El-Abidine Ben Ali",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "Tunisian President Zine El-Abidine Ben Ali conveys condolences on behalf of Tunisia's government and people.",
+      evidence:
+        "Itemized from page 97 of the NARA direct folder scan using the incoming typed message, sender line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-hafiz-al-assad-syria",
+      documentType: "Incoming Diplomatic Condolence Letter",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence letter from Hafiz al-Assad",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "Syrian President Hafiz al-Assad sends sympathy and heartfelt condolences to President Bush and his family.",
+      evidence:
+        "Itemized from page 98 of the NARA direct folder scan using the Embassy of the Syrian Arab Republic page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-queen-elizabeth-ii",
+      documentType: "Incoming Diplomatic Condolence Message",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence message from Queen Elizabeth II",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "Queen Elizabeth II, with Prince Philip, sends sincere condolences in a UK restricted message.",
+      evidence:
+        "Itemized from page 99 of the NARA direct folder scan using the message heading, declassification marking, OCR, and rendered-page review.",
+    },
+    {
+      slug: "book-2-incoming-john-paul-ii",
+      documentType: "Incoming Diplomatic Condolence Cable",
+      category: "diplomatic-condolence-message",
+      disposition: "itemized-diplomatic-condolence-message",
+      title: "Book 2 incoming condolence cable from John Paul II",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "Pope John Paul II offers condolences, prayers, and words of consolation after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 100 of the NARA direct folder scan using the Vatican cable page, sender line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-hanson-presidential-library-booklet-correspondence",
+      documentType: "Presidential Reply and Booklet Packet",
+      category: "presidential-library-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robert F. Hanson presidential library booklet correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Opuscula Press editor Robert F. Hanson for his November 6 letter and booklet on establishing a presidential library.",
+      evidence:
+        "Itemized from pages 101-103 of the NARA direct folder scan using the outgoing reply, Opuscula Press incoming letter, booklet title page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "carl-bouckaert-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Carl M. Bouckaert condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Carl M. Bouckaert for his November 20 condolence letter about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 104-105 of the NARA direct folder scan using the outgoing reply, incoming Beaulieu of America letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alvah-chapman-chris-dale-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Alvah H. Chapman Jr. Chris-Dale invitation correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Alvah H. Chapman Jr. for the Chris-Dale invitation and for his thoughtful message about the election.",
+      evidence:
+        "Itemized from pages 106-107 of the NARA direct folder scan using the outgoing reply, incoming Chapman letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "singers-condolence-letter-bush-reply-packet",
+      documentType: "Presidential and Barbara Bush Reply Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "The Singers condolence letter and Bush family reply packet",
+      documentDate: "1992-11-30",
+      pages: 4,
+      excerpt:
+        "President Bush and Barbara Bush send a printed condolence acknowledgment to The Singers, with a Jeb Bush transmittal page and the Singers' November 22 letter about Dorothy Walker Bush and their East Wing performance.",
+      evidence:
+        "Itemized from pages 108-111 of the NARA direct folder scan using the White House reply page, Jeb Bush transmittal page, incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "victor-ashe-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Victor H. Ashe condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Knoxville Mayor Victor H. Ashe for his note about Dorothy Walker Bush, with Ashe's letter recalling her 1980 Tennessee campaign visit attached.",
+      evidence:
+        "Itemized from pages 112-113 of the NARA direct folder scan using the outgoing handwritten reply, incoming City of Knoxville letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "douglas-wilder-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Douglas Wilder condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Virginia Governor Douglas Wilder for his thoughtful note about Dorothy Walker Bush, with Wilder's November 20 letter attached.",
+      evidence:
+        "Itemized from pages 114-115 of the NARA direct folder scan using the outgoing handwritten reply, incoming Commonwealth of Virginia letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-pierce-rogers-family-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mrs. William Pierce Rogers condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Mrs. William Pierce Rogers after her November 20 letter to President and Mrs. Bush about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 116-117 of the NARA direct folder scan using the outgoing handwritten reply page, incoming handwritten letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ted-koppel-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ted Koppel condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Ted Koppel for his note about Dorothy Walker Bush, with Koppel's ABC News Nightline condolence letter attached.",
+      evidence:
+        "Itemized from pages 118-119 of the NARA direct folder scan using the outgoing handwritten reply, incoming ABC News letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sam-johnson-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sam Johnson condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush send a printed condolence acknowledgment to Representative Sam Johnson, with Johnson's handwritten House of Representatives note attached.",
+      evidence:
+        "Itemized from pages 120-121 of the NARA direct folder scan using the White House reply page, incoming handwritten House note, OCR, and rendered-page review.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -37201,6 +38256,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418202",
   "470418206",
   "470418210",
+  "470418213",
   "646482525",
   "646482521",
   "646482523",
