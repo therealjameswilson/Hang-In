@@ -30794,6 +30794,723 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 140-147 of the NARA direct folder scan using color photograph pages, Official White House Photograph transfer pages, sticky-note labels, low-confidence OCR, and rendered-page review.",
     },
   ],
+  470418156: [
+    {
+      slug: "hotline-daily-briefing-october-27-1992",
+      documentType: "Political Briefing",
+      category: "political-briefing",
+      disposition: "itemized-political-briefing",
+      title: "The Hotline Daily Briefing on American Politics: October 27, 1992",
+      documentDate: "1992-10-27",
+      pages: 25,
+      excerpt:
+        "The Hotline briefing covers Perot dirty-tricks coverage, Bush's Denver second-term speech, Clinton and Quayle campaign appearances, Iraq weapons reporting, electoral scoreboards, Senate and House races, polling, and television monitoring.",
+      evidence:
+        "Itemized from pages 2-26 of the NARA direct folder scan using the Hotline Daily Briefing cover, section headings, poll tables, TV Monitor section, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pedersen-bone-marrow-auction-books-packet",
+      documentType: "Memorandum and Address Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Rose Zamaria memorandum and Jeff Pedersen auction-benefit books packet",
+      documentDate: "1992-10-27",
+      pages: 3,
+      excerpt:
+        "Rose Zamaria records a request from Beuhla Miller for presidential auction items to benefit a four-month-old grandson needing a bone marrow transplant; signed books are sent to Mr. and Mrs. Jeff Pedersen.",
+      evidence:
+        "Itemized from pages 27-28 and 53 of the NARA direct folder scan using the Memorandum for the Files page, White House address sheets, handwritten routing note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-october-27-morning-packet",
+      documentType: "White House News Summary",
+      category: "news-summary-item",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary morning packet: October 27, 1992",
+      documentDate: "1992-10-27",
+      pages: 24,
+      excerpt:
+        "The morning news summary covers Bush's second-term vision speech, Albuquerque attacks, Perot allegations, Clinton campaign coverage, the economy, Balkan refugees, Iraq computer exports, Iran-Contra reporting, and network-news transcripts.",
+      evidence:
+        "Itemized from pages 29-52 of the NARA direct folder scan using the upside-down summary cover, Trip News heading, White House News Summary page sequence, Network News section, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-1100-update-october-27-1992",
+      documentType: "News Update",
+      category: "news-summary-item",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: October 27, 1992 11:00 A.M. EDT News Update",
+      documentDate: "1992-10-27",
+      pages: 2,
+      excerpt:
+        "The 11:00 a.m. EDT update covers Iowa Ask George Bush remarks, third-quarter growth figures, the Today show, and the Administration corn purchase for former Soviet republics.",
+      evidence:
+        "Itemized from pages 54-55 of the NARA direct folder scan using the White House News Summary heading, 11:00 A.M. EDT update line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-200-update-october-27-1992",
+      documentType: "News Update",
+      category: "news-summary-item",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: October 27, 1992 2:00 P.M. EDT News Update",
+      documentDate: "1992-10-27",
+      pages: 2,
+      excerpt:
+        "The 2:00 p.m. EDT update covers Middle East peace talks, the President's comments on media treatment at rallies, employment costs, and consumer confidence.",
+      evidence:
+        "Itemized from pages 56-57 of the NARA direct folder scan using the 1:00 P.M. CST / 2:00 P.M. EDT update line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-telephone-memoranda-october-27-1992",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "Presidential telephone memoranda: October 27, 1992",
+      documentDate: "1992-10-27",
+      pages: 3,
+      excerpt:
+        "Telephone memorandum sheets record calls with George W. Bush, Brian Mulroney, Katherine Super, Tom Scott for the Christian radio broadcast, Walter Hickel, David Frost, Barbara Bush, Bob Dole, Richard Darman, James Baker, and Brent Scowcroft.",
+      evidence:
+        "Itemized from pages 58-60 of the NARA direct folder scan using the White House Telephone Memorandum headings, Signal Switchboard pages, call entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-october-27-1992",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: Iowa, Kentucky, and Ohio, October 27, 1992",
+      documentDate: "1992-10-27",
+      pages: 2,
+      excerpt:
+        "The Presidential Movements sheets log President Bush's travel from Des Moines to Fort Campbell, Paducah, Dayton, Kettering, and Lima.",
+      evidence:
+        "Itemized from pages 61-62 of the NARA direct folder scan using the Presidential Movements headings, location lists, date line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-brown-board-dry-tortugas-new-river-boston-harbor",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement on signing S. 2890 re Brown v. Board, Dry Tortugas, New River, and Boston Harbor",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "President Bush signs S. 2890 establishing the Brown v. Board of Education National Historic Site and addressing Dry Tortugas, New River, and Boston Harbor studies.",
+      evidence:
+        "Itemized from page 63 of the NARA direct folder scan using the Paducah Office of the Press Secretary heading, statement text, George Bush signature line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-child-custody-domestic-violence-hr-1253",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement on signing H.R. 1253 re child custody litigation and domestic violence",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "President Bush signs H.R. 1253 authorizing research and training materials for State courts in child-custody litigation involving domestic violence.",
+      evidence:
+        "Itemized from page 64 of the NARA direct folder scan using the Paducah release heading, H.R. 1253 statement title text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-battered-womens-testimony-act-hr-1252",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement on signing H.R. 1252, Battered Women's Testimony Act of 1992",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "President Bush signs the Battered Women's Testimony Act and discusses battered woman's syndrome, domestic violence, and criminal-defense research.",
+      evidence:
+        "Itemized from page 65 of the NARA direct folder scan using the H.R. 1252 title, statement text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-preventive-health-amendments-hr-3635",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement on signing H.R. 3635, Preventive Health Amendments of 1992",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "President Bush signs the Preventive Health Amendments of 1992 and discusses prevention block grants and public-health programs.",
+      evidence:
+        "Itemized from page 66 of the NARA direct folder scan using the H.R. 3635 title, statement text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-delaware-river-port-authority-s-2964",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement on signing S. 2964 re Delaware River Port Authority compact",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "President Bush signs S. 2964 granting congressional consent to a supplemental Pennsylvania-New Jersey compact concerning the Delaware River Port Authority.",
+      evidence:
+        "Itemized from page 67 of the NARA direct folder scan using the S. 2964 statement text, George Bush signature line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "j-michael-farrell-panama-canal-commission-appointment",
+      documentType: "Appointment Release",
+      category: "appointment-release",
+      disposition: "itemized-appointment-release",
+      title: "Appointment of J. Michael Farrell to the Panama Canal alternatives commission",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intention to appoint J. Michael Farrell to the Commission for the Study of Alternatives to the Panama Canal.",
+      evidence:
+        "Itemized from page 68 of the NARA direct folder scan using the Paducah release heading, appointment text, biography paragraph, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-san-diego-rescue-mission",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light-release",
+      disposition: "itemized-daily-point-of-light-release",
+      title: "Daily Point of Light release recognizing San Diego Rescue Mission volunteers",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "President Bush recognizes volunteers of San Diego Rescue Mission as the 935th Daily Point of Light for work with homeless men.",
+      evidence:
+        "Itemized from page 69 of the NARA direct folder scan using the release heading, San Diego Rescue Mission text, Daily Point of Light number, OCR, and rendered-page review.",
+    },
+    {
+      slug: "harold-shapiro-pcast-vice-chairman-designation",
+      documentType: "Appointment Release",
+      category: "appointment-release",
+      disposition: "itemized-appointment-release",
+      title: "Designation of Harold T. Shapiro as PCAST vice chairman",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intention to designate Harold T. Shapiro as Vice Chairman of the President's Council of Advisors on Science and Technology.",
+      evidence:
+        "Itemized from page 70 of the NARA direct folder scan using the appointment release heading, PCAST designation text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-international-dolphin-conservation-act",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement on signing H.R. 5419, International Dolphin Conservation Act of 1992",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "President Bush signs the International Dolphin Conservation Act and notes constitutional understandings about international agreements and foreign affairs.",
+      evidence:
+        "Itemized from page 71 of the NARA direct folder scan using the H.R. 5419 title, statement text, George Bush signature line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-native-american-languages-act",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement on signing S. 2044, Native American Languages Act of 1992",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "President Bush signs the Native American Languages Act and discusses constitutional concerns about race-based classifications and implementation.",
+      evidence:
+        "Itemized from page 72 of the NARA direct folder scan using the S. 2044 title, statement text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "signed-legislation-list-october-27-1992",
+      documentType: "Signed Legislation Release",
+      category: "legislation-signing-material",
+      disposition: "itemized-legislation-signing-material",
+      title: "Signed legislation list: trademarks, children's television, child support, Holocaust Memorial Council, Amtrak, and rail safety",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "The White House lists bills signed by the President, including trademark suits against States, educational television, child-support reporting, Holocaust Memorial Council appropriations, Amtrak, and rail safety.",
+      evidence:
+        "Itemized from page 73 of the NARA direct folder scan using the signed-legislation heading, bill list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "signed-legislation-list-fire-administration-fallen-firefighters",
+      documentType: "Signed Legislation Release",
+      category: "legislation-signing-material",
+      disposition: "itemized-legislation-signing-material",
+      title: "Signed legislation list: Fire Administration and National Fallen Firefighters Foundation",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "The White House lists H.R. 2042 extending Fire Administration authorizations, requiring fire-safety devices, establishing a National Fallen Firefighters Foundation, and requiring a hazardous-substances study.",
+      evidence:
+        "Itemized from page 74 of the NARA direct folder scan using the signed-legislation heading, H.R. 2042 summary, OCR, and rendered-page review.",
+    },
+    {
+      slug: "memorandum-disapproval-lynn-historic-sites-hr-2859",
+      documentType: "Memorandum of Disapproval",
+      category: "veto-message",
+      disposition: "itemized-veto-message",
+      title: "Memorandum of disapproval for H.R. 2859 re Lynn, Massachusetts historic sites",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "President Bush withholds approval of H.R. 2859, concerning a study of historic sites near Lynn, Massachusetts, and explains National Park Service study concerns.",
+      evidence:
+        "Itemized from page 75 of the NARA direct folder scan using the Memorandum of Disapproval heading, H.R. 2859 text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-jfk-assassination-records-act",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement on signing S. 3006, President John F. Kennedy Assassination Records Collection Act",
+      documentDate: "1992-10-26",
+      pages: 2,
+      excerpt:
+        "President Bush signs the JFK assassination records act, supports release of assassination-related records, and states understandings about subpoena enforcement and agency representation.",
+      evidence:
+        "Itemized from pages 76-77 of the NARA direct folder scan using the S. 3006 title, two-page statement sequence, George Bush signature line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "memorandum-disapproval-revere-beach-hr-2109",
+      documentType: "Memorandum of Disapproval",
+      category: "veto-message",
+      disposition: "itemized-veto-message",
+      title: "Memorandum of disapproval for H.R. 2109 re Revere Beach, Massachusetts",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "President Bush withholds approval of H.R. 2109, concerning a study of Revere Beach, Massachusetts, and explains National Park Service study process concerns.",
+      evidence:
+        "Itemized from page 78 of the NARA direct folder scan using the Memorandum of Disapproval heading, H.R. 2109 text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "paducah-welcome-remarks",
+      documentType: "Presidential Remarks Transcript",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title: "Remarks by the President at Paducah Welcome",
+      documentDate: "1992-10-27",
+      pages: 5,
+      excerpt:
+        "President Bush's Paducah remarks praise Gerald McRaney, local Kentucky Republicans, exports, small business, family, character, foreign policy, and his Agenda for America's Renewal.",
+      evidence:
+        "Itemized from pages 79-83 of the NARA direct folder scan using the Paducah Welcome heading, transcript page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ask-george-bush-des-moines-transcript",
+      documentType: "Presidential Remarks Transcript",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title: "Remarks by the President at Des Moines Ask George Bush",
+      documentDate: "1992-10-27",
+      pages: 9,
+      excerpt:
+        "The Des Moines Ask George Bush transcript covers the third-quarter GDP figure, jobs, welfare, government reform, taxes, education, foreign policy, small business regulation, and closing campaign themes.",
+      evidence:
+        "Itemized from pages 84-92 of the NARA direct folder scan using the Des Moines Ask George Bush heading, question-and-answer transcript pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-telecommunications-authorization-act-hr-6180",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement on signing H.R. 6180, Telecommunications Authorization Act of 1992",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "President Bush signs the Telecommunications Authorization Act and notes provisions that he has asked the Secretary of Commerce to address with Congress.",
+      evidence:
+        "Itemized from page 93 of the NARA direct folder scan using the H.R. 6180 title, statement text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-october-27-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: October 27, 1992",
+      documentDate: "1992-10-27",
+      pages: 17,
+      excerpt:
+        "Mrs. Bush's clipping packet covers Barbara Bush campaign travel, candidate family images, sports and World Series remarks, presidential profiles for students, Vogue on political wives, Reliable Source items, Margot Perot, Philadelphia forfeiture and Weed and Seed coverage, and Mary Fisher on AIDS.",
+      evidence:
+        "Itemized from pages 94-110 of the NARA direct folder scan using the Mrs. Bush's Press Office distribution page, Fort Worth Star-Telegram, New York Times, USA Today, Daily News, Vogue, Washington Post, New York Post, Philadelphia Inquirer, and Boston Globe pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-phone-call-forms-and-handwritten-call-notes",
+      documentType: "Presidential Phone Call Forms",
+      category: "presidential-phone-call-note",
+      disposition: "itemized-presidential-phone-call-note",
+      title: "Presidential phone-call forms and handwritten call notes",
+      documentDate: "1992-10-27",
+      pages: 5,
+      excerpt:
+        "The packet includes yellow Presidential Phone Calls forms and low-confidence handwritten call notes, including forms for David Letterman, Charlie Rose, and a radio broadcast.",
+      evidence:
+        "Itemized from pages 111-115 of the NARA direct folder scan using yellow phone-call forms, Bush Library handwriting markers, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "christian-coalition-florida-radio-broadcast-packet",
+      documentType: "Broadcast Request Packet",
+      category: "campaign-broadcast-material",
+      disposition: "itemized-campaign-broadcast-material",
+      title: "Christian Coalition of Florida pre-election radio broadcast packet",
+      documentDate: "1992-10-27",
+      pages: 4,
+      excerpt:
+        "Sally Harrell and Christian Coalition of Florida material requests a presidential call-in to a Florida Christian radio broadcast, with program log and station list for the live satellite event.",
+      evidence:
+        "Itemized from pages 116-119 of the NARA direct folder scan using the memorandum to Warren Tompkins and Dave Carney, Christian Coalition letter, program log, station list, fax headers, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ondcp-digger-phelps-article-packet",
+      documentType: "Article Forwarding Packet",
+      category: "drug-policy-press-clippings",
+      disposition: "itemized-drug-policy-press-clippings",
+      title: "ONDCP forwarding note and Digger Phelps anti-drug article packet",
+      documentDate: "1992-10-27",
+      pages: 2,
+      excerpt:
+        "An Office of National Drug Control Policy note forwards a South Bend Tribune article on Digger Phelps coaching against drug violence and notes that it should be shown to the President.",
+      evidence:
+        "Itemized from pages 120-121 of the NARA direct folder scan using the ONDCP stationery, handwritten Zamaria note, South Bend Tribune article, The President Has Seen stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-grady-boskin-economic-growth-numbers-packet",
+      documentType: "Campaign Economic Message Packet",
+      category: "economic-policy-memorandum",
+      disposition: "itemized-economic-policy",
+      title: "Bob Grady and Michael Boskin economic-growth numbers statement packet",
+      documentDate: "1992-10-27",
+      pages: 4,
+      excerpt:
+        "Bob Grady forwards a quick statement and Michael Boskin talking points on third-quarter GDP growth, with a marked-up comment on economic growth numbers.",
+      evidence:
+        "Itemized from pages 122-125 of the NARA direct folder scan using the Bob Grady note, Michael J. Boskin talking-points page, fax headers, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cobblers-election-poll-clipping",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Cobbler's Election Poll and Fine Print on the Poll clippings",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "A clipping page carries Andrew Malcolm's Cobbler's Election Poll column and The Fine Print on the Poll item from the White House News Summary set.",
+      evidence:
+        "Itemized from page 126 of the NARA direct folder scan using the Our Towns heading, article titles, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-phone-call-form-brian-mulroney",
+      documentType: "Presidential Phone Call Form",
+      category: "presidential-phone-call-note",
+      disposition: "itemized-presidential-phone-call-note",
+      title: "Presidential Phone Calls form re Brian Mulroney",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "A yellow Presidential Phone Calls form marked aboard Air Force One records a call note that OCR renders as involving Brian Mulroney.",
+      evidence:
+        "Itemized from page 127 of the NARA direct folder scan using the yellow phone-call form, aboard Air Force One notation, Bush Library handwriting marker, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-10-des-moines-to-paducah",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #10: Des Moines to Paducah",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "Pool Report #10 describes Fitzwater's comments on media treatment, Newsweek photographer Larry Downing, Paducah logistics, and Fort Campbell transfer.",
+      evidence:
+        "Itemized from page 128 of the NARA direct folder scan using the Pool Report #10 heading, Des Moines-to-Paducah title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-11-paducah-to-kettering",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #11: Paducah to Kettering",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "Pool Report #11 notes a USA Today interview with President Bush, comments by James Baker, and poll speculation from Mary Matalin.",
+      evidence:
+        "Itemized from page 129 of the NARA direct folder scan using the Pool Report #11 heading, Paducah-to-Kettering title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-kettering-to-lima-ohio",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool Report: Kettering to Lima, Ohio",
+      documentDate: "1992-10-27",
+      pages: 2,
+      excerpt:
+        "The Kettering-to-Lima pool report covers Mary Matalin's poll spin, Ohio and Michigan numbers, the Lima rally, Bush's remarks, and limousine movement with Baker.",
+      evidence:
+        "Itemized from pages 130-131 of the NARA direct folder scan using the faxed Pool Report heading, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "statement-mammography-quality-standards-act-hr-6182",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement on signing H.R. 6182, Mammography Quality Standards Act of 1992",
+      documentDate: "1992-10-27",
+      pages: 2,
+      excerpt:
+        "President Bush signs the Mammography Quality Standards Act and discusses breast-cancer screening, FDA standards, State enforcement, and legal interpretations.",
+      evidence:
+        "Itemized from pages 132-133 of the NARA direct folder scan using the Kettering Office of the Press Secretary heading, two-page statement sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "emory-folmar-montgomery-introduction-thank-you",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush thank-you letter to Emory Folmar re Montgomery introduction",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Montgomery Mayor Emory Folmar for a kind introduction at the Saturday Montgomery event and for support during the final campaign week.",
+      evidence:
+        "Itemized from page 134 of the NARA direct folder scan using the George Bush letterhead, Emory Folmar address block, Lima date line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "armando-codina-cuban-democracy-act-thank-you",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush thank-you letter to Armando Codina re Cuban Democracy Act event",
+      documentDate: "1992-10-27",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Armando Codina for introducing him at the Florida Cuban Democracy Act signing event and for campaign support.",
+      evidence:
+        "Itemized from page 135 of the NARA direct folder scan using the George Bush letterhead, Armando Codina address block, Lima date line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tom-bolack-new-mexico-campaign-ad-packet",
+      documentType: "Campaign Correspondence and Ad Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Tom Bolack New Mexico campaign support and newspaper ad packet",
+      documentDate: "1992-10-27",
+      pages: 5,
+      excerpt:
+        "President Bush thanks former New Mexico governor Tom Bolack for support; attached Bolack material includes a proposed message to New Mexico voters and a newspaper placement list.",
+      evidence:
+        "Itemized from pages 136-140 of the NARA direct folder scan using the presidential letter, Tom Bolack letterhead, proposed ad text, handwritten press-placement list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "richard-roan-video-support-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Richard Roan video and campaign support correspondence packet",
+      documentDate: "1992-10-27",
+      pages: 5,
+      excerpt:
+        "President Bush thanks Richard and Mrs. Roan for supportive words and a video, says Clinton cannot get away with unsubstantiated charges, and attaches handwritten incoming pages.",
+      evidence:
+        "Itemized from pages 141-145 of the NARA direct folder scan using the presidential reply, Richard Roan address block, notebook and handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "patrick-mancuso-ridgewood-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Patrick A. Mancuso Ridgewood visit correspondence packet",
+      documentDate: "1992-10-27",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Ridgewood mayor Patrick A. Mancuso for a wonderful letter and for the warm welcome in Ridgewood; Mancuso's October 22 incoming letter is attached.",
+      evidence:
+        "Itemized from pages 146-147 of the NARA direct folder scan using the presidential reply, Village of Ridgewood letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sam-theriot-louisiana-note-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sam Theriot Louisiana note and campaign support correspondence",
+      documentDate: "1992-10-27",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Louisiana state representative Sam Theriot for a note on a business card and for support after a successful Louisiana visit.",
+      evidence:
+        "Itemized from pages 148-149 of the NARA direct folder scan using the presidential reply, Sam Theriot address block, low-confidence handwritten business-card page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "barry-thumma-health-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Barry Thumma health and treatment correspondence packet",
+      documentDate: "1992-10-27",
+      pages: 2,
+      excerpt:
+        "President Bush writes Barry Thumma from Air Force One en route to Paducah after hearing he has not been well and sends good-luck wishes from Barbara and himself.",
+      evidence:
+        "Itemized from pages 150-151 of the NARA direct folder scan using the Air Force One letterhead, Barry Thumma address block, dark attachment page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "supporter-handwritten-note-president-has-seen",
+      documentType: "Handwritten Note Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Handwritten supporter note marked The President Has Seen",
+      documentDate: "1992-10-27",
+      pages: 2,
+      excerpt:
+        "A dark handwritten note packet marked The President Has Seen appears in the October 27 correspondence run, with low-confidence OCR and Bush Library photocopy markers.",
+      evidence:
+        "Itemized from pages 152-153 of the NARA direct folder scan using The President Has Seen stamp, handwritten pages, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "heather-miller-channel-one-election-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Heather Miller Channel One election correspondence packet",
+      documentDate: "1992-10-27",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Heather Miller for a supportive letter, appreciates her vote in the Channel One election, and attaches photo or handwritten enclosure pages.",
+      evidence:
+        "Itemized from pages 154-156 of the NARA direct folder scan using the presidential reply, Heather Miller address block, low-confidence enclosure pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ben-malone-rally-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ben Malone rally correspondence packet",
+      documentDate: "1992-10-27",
+      pages: 3,
+      excerpt:
+        "President Bush sends best wishes to Master Ben Malone and thanks him and his family for coming to a rally, with photo or handwritten enclosure pages attached.",
+      evidence:
+        "Itemized from pages 157-159 of the NARA direct folder scan using the presidential reply, Ben Malone address block, low-confidence photo and handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-october-27-campaign-perot-foreign-policy-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "New York Times campaign, Perot, foreign-policy, economy, and advertising clippings: October 27, 1992",
+      documentDate: "1992-10-27",
+      pages: 30,
+      excerpt:
+        "New York Times clippings cover Perot-Bush dirty-tricks disputes, Bush's attack mode, campaign-question dodging, FBI sting allegations, Europe and foreign policy, EPA acid-rain rules, Iraq computer exports, campaign persuasion, banking, Perot commentary, polls, television ads, Clinton advisers, women candidates, school choice, editorials, and the source of Perot's dirty-tricks claims.",
+      evidence:
+        "Itemized from pages 160-189 of the NARA direct folder scan using New York Times mastheads, article headings, continuation pages, rotated clippings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-october-27-campaign-perot-health-state-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Washington Post campaign, Perot, health-care, State Department, and television clippings: October 27, 1992",
+      documentDate: "1992-10-27",
+      pages: 32,
+      excerpt:
+        "Washington Post clippings cover Bush's conservative-activist speech, Clinton campaign travel, Perot charges and ads, NARAL advertising, attacks on lawyers, Clinton health advisers, State Department file-search inquiry, Scott Barnes, Perot press-conference excerpts, opinion columns, drug prices and long-term care, campaign spin, TV previews, Perot rallies, taxi polling, and TV listings.",
+      evidence:
+        "Itemized from pages 190-221 of the NARA direct folder scan using Washington Post mastheads, article headings, opinion columns, TV listings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-october-27-state-issues-polls-character-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Los Angeles Times state-issues, housing, polls, character, Clinton-team, Perot, and Bush clippings: October 27, 1992",
+      documentDate: "1992-10-27",
+      pages: 10,
+      excerpt:
+        "Los Angeles Times clippings cover California ballot propositions, home sales, minimum-wage debate, poll analysis, presidential character, Clinton's campaign organization, Perot suspicion and smear claims, Clinton/Perot campaign uncertainty, and Bush's conservative activism.",
+      evidence:
+        "Itemized from pages 222-231 of the NARA direct folder scan using Los Angeles Times Washington Edition labels, article headings, rotated pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-october-27-deficit-polling-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "USA Today deficit and polling clippings: October 27, 1992",
+      documentDate: "1992-10-27",
+      pages: 3,
+      excerpt:
+        "USA Today clippings cover candidates ducking the deficit, political resistance to deficit candor, and pre-election polling reliability.",
+      evidence:
+        "Itemized from pages 232-234 of the NARA direct folder scan using USA Today date lines, poll chart, editorial/opposing-view headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "newsweek-october-27-perot-surge-voyeurism-clippings",
+      documentType: "Magazine Clippings Packet",
+      category: "magazine-clippings",
+      disposition: "itemized-magazine-clippings",
+      title: "Newsweek Perot surge and new-voyeurism clippings packet",
+      documentDate: "1992-10-27",
+      pages: 2,
+      excerpt:
+        "Newsweek pages include a Perot-surge cover page and a column on Madonna, media voyeurism, and Ross Perot's late campaign momentum.",
+      evidence:
+        "Itemized from pages 235-236 of the NARA direct folder scan using the Newsweek cover/page design, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-october-27-character-bush-iraq-economy-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Washington Times character, Bush, Iraq, economy, letters, and Vietnam-syndrome clippings: October 27, 1992",
+      documentDate: "1992-10-27",
+      pages: 7,
+      excerpt:
+        "Washington Times clippings cover the character issue, Bush's final campaign posture, Inside the Beltway, Mosbacher and Scowcroft declining Iraq-export testimony, economic-policy comparisons, letters on the Bush campaign, and foreign-policy commentary.",
+      evidence:
+        "Itemized from pages 237-243 of the NARA direct folder scan using Washington Times mastheads, article headings, rotated clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "us-news-world-report-october-27-campaign-economy-science-clippings",
+      documentType: "Magazine Clippings Packet",
+      category: "magazine-clippings",
+      disposition: "itemized-magazine-clippings",
+      title: "U.S. News & World Report campaign, economy, Congress, leadership, and science clippings packet",
+      documentDate: "1992-10-27",
+      pages: 30,
+      excerpt:
+        "U.S. News & World Report clippings cover the Perot factor, Washington Whispers, the weakening Republican coalition, final campaign strategies, Clinton and Congress, the American economy, Clinton's first economic priorities, leadership and political chemistry, the Panic of 1893, Clinton on Wall Street, and get-out-the-vote commentary.",
+      evidence:
+        "Itemized from pages 244-273 of the NARA direct folder scan using the U.S. News cover and section pages, article headings, charts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-october-27-gop-congress-perot-litigation-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Wall Street Journal GOP Congress, Perot, Bush-win, litigation, and Clinton-strategy clippings: October 27, 1992",
+      documentDate: "1992-10-27",
+      pages: 6,
+      excerpt:
+        "Wall Street Journal clippings cover Republican hopes for House gains, Perot's allegations, Mark Helprin on why Bush will win, litigation and Bush speech, and James Carville versus James Baker campaign strategy.",
+      evidence:
+        "Itemized from pages 274-279 of the NARA direct folder scan using Wall Street Journal mastheads, article headings, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photographs-october-27-campaign-events",
+      documentType: "Official White House Photograph Packet",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title: "Official White House photographs and transfer pages from October 27 campaign events",
+      documentDate: "1992-10-27",
+      pages: 7,
+      excerpt:
+        "The photograph packet includes color official White House photographs from campaign events, including a Bush Trust sign scene, Air Force One or motorcade images, and a meeting table photograph, with transfer/backing pages.",
+      evidence:
+        "Itemized from pages 280-286 of the NARA direct folder scan using color photograph pages, Official White House Photo transfer pages, low-confidence OCR, and rendered-page review.",
+    },
+  ],
   470418164: [
     {
       slug: "manor-house-reception-acceptances",
@@ -31665,6 +32382,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418150",
   "470418151",
   "470418154",
+  "470418156",
   "646482525",
   "646482521",
   "646482523",
