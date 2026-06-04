@@ -24256,6 +24256,399 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 98-107 of the NARA direct folder scan using color photograph pages, handwritten location sticky notes, official White House photo backing pages, OCR, and rendered-page review.",
     },
   ],
+  470418094: [
+    {
+      slug: "delbert-latta-job-sharing-correspondence-packet",
+      documentType: "Presidential Correspondence and Policy Attachment",
+      category: "economic-policy-correspondence",
+      disposition: "itemized-economic-policy-correspondence",
+      title:
+        "President Bush correspondence with Delbert L. Latta re job-sharing proposal",
+      documentDate: "1992-09-29",
+      pages: 5,
+      excerpt:
+        "President Bush thanks Delbert Latta for his support and says he will take a good look at the enclosed budget-neutral job-sharing program.",
+      evidence:
+        "Itemized from pages 2-6 of the NARA direct folder scan using the presidential letter, Latta incoming letter, Job Sharing attachment pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-bee-wylly-handwritten-note",
+      documentType: "Presidential Handwritten Note",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "President Bush handwritten note to Charles and Bee Wylly",
+      documentDate: "1992-09-29",
+      pages: 2,
+      excerpt:
+        "President Bush writes Charles and Bee Wylly from Tennessee, thanking them for friendship, encouragement, and steadfast loyal support.",
+      evidence:
+        "Itemized from pages 7-8 of the NARA direct folder scan using the handwritten note, continuation page, White House address page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sonny-montgomery-bemiss-cardinal-law-prescott-phone-summary",
+      documentType: "Presidential Phone and Message Summary",
+      category: "telephone-message",
+      disposition: "itemized-telephone-message",
+      title:
+        "Rose Zamaria phone-message summary re Sonny Montgomery poll, Gerry Bemiss, Cardinal Law, and Chief Prescott",
+      documentDate: "1992-09-29",
+      pages: 1,
+      excerpt:
+        "Rose Zamaria summarizes a Sonny Montgomery Mississippi poll report, Gerry Bemiss's call, Cardinal Law's request, and a Chief Prescott Justice Department appointment note.",
+      evidence:
+        "Itemized from page 9 of the NARA direct folder scan using the phone-call summary heading, handwritten check marks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "clarksville-community-welcome-remarks-release-first",
+      documentType: "Presidential Remarks Release",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Office of the Press Secretary release of remarks at Clarksville community welcome, first copy",
+      documentDate: "1992-09-29",
+      pages: 5,
+      excerpt:
+        "The Clarksville release reproduces President Bush's Austin Peay State University remarks on debates, Tennessee, education, crime, taxes, and Clinton's Arkansas record.",
+      evidence:
+        "Itemized from pages 10-14 of the NARA direct folder scan using the Office of the Press Secretary Clarksville release heading, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "knoxville-alcoa-airport-welcome-remarks-release",
+      documentType: "Presidential Remarks Release",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Office of the Press Secretary release of remarks at Knoxville Airport welcome",
+      documentDate: "1992-09-29",
+      pages: 5,
+      excerpt:
+        "The Knoxville Airport welcome remarks at McGhee-Tyson Airport cover Tennessee supporters, education, the Cold War, the economy, Arkansas comparisons, taxes, and Bush's reelection argument.",
+      evidence:
+        "Itemized from pages 15-19 of the NARA direct folder scan using the Office of the Press Secretary Alcoa release heading, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-holy-angels",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title: "Daily Point of Light release: Holy Angels of Belmont, North Carolina",
+      documentDate: "1992-09-29",
+      pages: 1,
+      excerpt:
+        "The White House release recognizes the volunteers of Holy Angels of Belmont, North Carolina, as the 907th Daily Point of Light.",
+      evidence:
+        "Itemized from page 20 of the NARA direct folder scan using the Office of the Press Secretary Clarksville release and rendered-page review.",
+    },
+    {
+      slug: "tri-cities-airport-welcome-remarks-release",
+      documentType: "Presidential Remarks Release",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Office of the Press Secretary release of remarks at Tri-Cities Airport welcome",
+      documentDate: "1992-09-29",
+      pages: 4,
+      excerpt:
+        "The Tri-Cities Airport welcome remarks in Blountsville, Tennessee, cover Naomi Judd, Lamar Alexander, Howard Baker, Desert Storm, education, crime, taxes, and Bush's campaign themes.",
+      evidence:
+        "Itemized from pages 21-24 of the NARA direct folder scan using the Office of the Press Secretary Blountsville release heading, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "national-institute-building-sciences-report-transmittal",
+      documentType: "Message to Congress",
+      category: "message-to-congress",
+      disposition: "itemized-message-to-congress",
+      title:
+        "Message transmitting the National Institute of Building Sciences annual report",
+      documentDate: "1992-09-29",
+      pages: 1,
+      excerpt:
+        "President Bush transmits the 15th annual report of the National Institute of Building Sciences for fiscal year 1991.",
+      evidence:
+        "Itemized from page 25 of the NARA direct folder scan using the Office of the Press Secretary release and message-to-Congress text.",
+    },
+    {
+      slug: "chattanooga-airport-welcome-remarks-release",
+      documentType: "Presidential Remarks Release",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Office of the Press Secretary release of remarks at Chattanooga Airport welcome",
+      documentDate: "1992-09-29",
+      pages: 5,
+      excerpt:
+        "The Chattanooga Airport welcome remarks cover Tennessee supporters, Ricky Skaggs, Naomi Judd, congressional change, the economy, crime, taxes, Desert Storm, health care, schools, and term limits.",
+      evidence:
+        "Itemized from pages 26-30 of the NARA direct folder scan using the Office of the Press Secretary Chattanooga release heading, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dorothy-koch-tennessee-campaign-flyer-packet",
+      documentType: "Presidential Note and Campaign Flyer",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "President Bush note to Dorothy Koch with Tennessee state representative campaign flyer",
+      documentDate: "1992-09-29",
+      pages: 3,
+      excerpt:
+        "President Bush sends a handwritten note to Dorothy Koch, with an attached Tennessee state representative campaign flyer for Montgomery County.",
+      evidence:
+        "Itemized from pages 31-33 of the NARA direct folder scan using the From the desk of George Bush note, White House address page, campaign flyer pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ray-scott-bass-campaign-support-packet",
+      documentType: "Presidential Correspondence and Campaign Proposal Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title:
+        "Ray Scott B.A.S.S. campaign support packet with President Bush notes",
+      documentDate: "1992-09-29",
+      pages: 8,
+      excerpt:
+        "President Bush thanks Ray Scott for a BASSMASTER editorial and forwards Scott's campaign-support offer, including letters about mobilizing B.A.S.S. members for Bush events.",
+      evidence:
+        "Itemized from pages 34-41 of the NARA direct folder scan using presidential handwriting, Rose Zamaria action note, Ray Scott correspondence, BASSMASTER editorial, facsimile to George Bush Jr., sample letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tennessee-pool-report-four-debate-proposal",
+      documentType: "Pool Report",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report-packet",
+      title:
+        "Pool Report #4 on Clarksville, the debate proposal, and Nashville arrival",
+      documentDate: "1992-09-29",
+      pages: 2,
+      excerpt:
+        "The pool report records Marlin Fitzwater's comments on President Bush's debate proposal, Tennessee prospects, Bush's airport answer, and Mary Matalin's remarks.",
+      evidence:
+        "Itemized from pages 42-43 of the NARA direct folder scan using Pool Report #4 heading, continuation text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "aaron-jay-olson-election-classroom-packet",
+      documentType: "Presidential Letter and Student Packet",
+      category: "student-correspondence",
+      disposition: "itemized-student-correspondence",
+      title:
+        "President Bush letter to Aaron Jay Olson with classroom election materials and photo-signing request",
+      documentDate: "1992-09-29",
+      pages: 7,
+      excerpt:
+        "President Bush thanks third-grader Aaron Jay Olson for his vote, with an attached photo-signing request, student note, Scholastic News page, business card, hotel stationery, and handwritten routing notes.",
+      evidence:
+        "Itemized from pages 44-50 of the NARA direct folder scan using the presidential letter, address page, photo-signing note, student materials, business card, OCR, and rendered-page review.",
+    },
+    {
+      slug: "state-of-small-business-report-transmittal",
+      documentType: "Message to Congress",
+      category: "message-to-congress",
+      disposition: "itemized-message-to-congress",
+      title:
+        "Message transmitting the third annual report on the state of small business",
+      documentDate: "1992-09-29",
+      pages: 2,
+      excerpt:
+        "President Bush submits his third annual report on the state of small business, praising small business owners as innovators, employers, taxpayers, and economic pioneers.",
+      evidence:
+        "Itemized from pages 51-52 of the NARA direct folder scan using the Office of the Press Secretary Clarksville release, rotated continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "clarksville-community-welcome-remarks-release-second",
+      documentType: "Presidential Remarks Release",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Office of the Press Secretary release of remarks at Clarksville community welcome, second copy",
+      documentDate: "1992-09-29",
+      pages: 5,
+      excerpt:
+        "A second copy of the Clarksville community welcome remarks appears later in the packet, including the President's debate challenge and campaign remarks.",
+      evidence:
+        "Itemized from pages 53-57 of the NARA direct folder scan using the Office of the Press Secretary Clarksville release heading, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "trey-miller-dallas-dinner-children-note-packet",
+      documentType: "Presidential Note and Children's Cards",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "President Bush note to Trey Miller with Dallas dinner children's cards",
+      documentDate: "1992-09-29",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Trey Miller for a supportive computer letter and notes that he loved meeting him, with attached children's good-luck cards from the Miller kids at the Dallas dinner.",
+      evidence:
+        "Itemized from pages 58-60 of the NARA direct folder scan using the presidential note, White House address page, children's cards, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chief-prescott-lagomarsino-release-packet",
+      documentType: "Staff Memorandum and Press Release Packet",
+      category: "staff-correspondence",
+      disposition: "itemized-staff-correspondence",
+      title:
+        "Chief Prescott Justice Department note and Bob Lagomarsino write-in campaign release",
+      documentDate: "1992-09-29",
+      pages: 3,
+      excerpt:
+        "The packet includes a Presidential Personnel note about Chief Prescott, a Rose Zamaria memorandum to Barbara Bush, and Congressman Bob Lagomarsino's release foregoing a write-in campaign.",
+      evidence:
+        "Itemized from pages 61-63 of the NARA direct folder scan using staff memoranda, President Bush handwriting, Lagomarsino release heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chattanooga-greeting-list-coker-card",
+      documentType: "Greeting List and Campaign Card",
+      category: "event-logistics",
+      disposition: "itemized-event-logistics",
+      title:
+        "Proposed greeting list for President George Bush in Chattanooga with Friends for Coker card",
+      documentDate: "1992-09-29",
+      pages: 2,
+      excerpt:
+        "The proposed greeting list for President Bush includes Tennessee campaign and civic figures, followed by a Friends for Coker campaign card.",
+      evidence:
+        "Itemized from pages 64-65 of the NARA direct folder scan using the proposed greeting list heading, Coker card, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-clipping-packet-september-29-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Washington Post clipping packet on foreign policy, debates, Perot, deficit politics, executive power, and campaign television",
+      documentDate: "1992-09-29",
+      pages: 27,
+      excerpt:
+        "The Washington Post packet covers Bush and Clinton on foreign policy, GOP Senate races, campaign rhetoric, polling, debate impasse, Ross Perot, NAFTA, deficit politics, opinion columns, executive authority, and television coverage.",
+      evidence:
+        "Itemized from pages 66-92 of the NARA direct folder scan using Washington Post mastheads, article starts, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-clipping-packet-september-29-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "New York Times clipping packet on China veto, veterans, debates, crime, Missouri, vetoes, arms sales, and Clinton taxes",
+      documentDate: "1992-09-29",
+      pages: 10,
+      excerpt:
+        "The New York Times packet covers Bush's China trade veto, veterans issues, debate tactics, crime politics, Missouri jobs, veto power, arms control, and a Mickey Kantor campaign advertisement on taxes.",
+      evidence:
+        "Itemized from pages 93-102 of the NARA direct folder scan using New York Times mastheads, article starts, advertisement continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-clipping-packet-september-29-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Washington Times clipping packet on carjacking, Clinton taxes, Baker, Gore, Quayle, Magic Johnson, competitiveness, and media coverage",
+      documentDate: "1992-09-29",
+      pages: 9,
+      excerpt:
+        "The Washington Times packet covers Bush on carjacking and crime, Clinton's tax plan, Alexander Haig on James Baker, Gore on cable television, Quayle, Magic Johnson, the Competitiveness Council, a campaign cartoon, and media treatment of the First Family.",
+      evidence:
+        "Itemized from pages 103-111 of the NARA direct folder scan using Washington Times mastheads, rotated clipping pages, article starts, cartoon page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "us-news-world-report-october-5-1992-packet",
+      documentType: "Magazine Issue Excerpts",
+      category: "magazine-excerpt-packet",
+      disposition: "itemized-magazine-excerpt-packet",
+      title:
+        "U.S. News & World Report October 5, 1992 packet on Lincoln, campaign warnings, Perot, Bush, poverty, crime, Iran-Contra, and presidential models",
+      documentDate: "1992-10-05",
+      pages: 14,
+      excerpt:
+        "The U.S. News & World Report packet includes the October 5 cover, campaign analysis, Perot coverage, Bush veto commentary, Washington Whispers, poverty and street-crime agenda pieces, Iran-Contra questions, role-model commentary, and David Gergen's Perot editorial.",
+      evidence:
+        "Itemized from pages 112-125 of the NARA direct folder scan using the U.S. News cover, article headings, issue date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-editorial-clippings-september-29-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "USA Today editorial clippings on IRAs and legislative service organizations",
+      documentDate: "1992-09-29",
+      pages: 2,
+      excerpt:
+        "The USA Today editorial packet includes an editorial on IRA expansion and another on legislative service organizations as scandal risks.",
+      evidence:
+        "Itemized from pages 126-127 of the NARA direct folder scan using USA Today editorial layout, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-clipping-packet-september-29-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Wall Street Journal clipping packet on Perot's deficit plan, farm politics, and South Carolina Senate race",
+      documentDate: "1992-09-29",
+      pages: 5,
+      excerpt:
+        "The Wall Street Journal packet covers Ross Perot's deficit plan, Bush's Farm Belt vote, and Ernest Hollings's South Carolina Senate race.",
+      evidence:
+        "Itemized from pages 128-132 of the NARA direct folder scan using Wall Street Journal mastheads, article starts, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-clipping-packet-september-29-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Los Angeles Times Washington Edition clipping packet on Clinton advance, Orange County, Quayle, Gore, Perot, and Bush campaign themes",
+      documentDate: "1992-09-29",
+      pages: 9,
+      excerpt:
+        "The Los Angeles Times Washington Edition packet covers Mort Engelberg and Clinton advance work, Orange County polling, Quayle on health care, Gore and cable television, Perot's budget talks, and Bush's 1988 campaign themes.",
+      evidence:
+        "Itemized from pages 133-141 of the NARA direct folder scan using Los Angeles Times mastheads, article starts, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "christopher-robinson-rnc-correspondence",
+      documentType: "Presidential Letter",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "President Bush letter to Christopher Robinson re RNC job and campaign press coverage",
+      documentDate: "1992-09-29",
+      pages: 1,
+      excerpt:
+        "President Bush tells Christopher Robinson he is glad Robinson is enjoying his job at the RNC, comments on pro-Clinton press coverage, and thanks him for support.",
+      evidence:
+        "Itemized from page 142 of the NARA direct folder scan using the presidential letter, White House address page, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "al-gore-major-gary-gore-allegation-memo",
+      documentType: "Staff Memorandum",
+      category: "campaign-research",
+      disposition: "itemized-campaign-research",
+      title:
+        "Rose Zamaria memorandum re allegation about Senator Al Gore and Major Gary Gore",
+      documentDate: "1992-09-29",
+      pages: 1,
+      excerpt:
+        "A Rose Zamaria memorandum reports a phone call from a source alleging that Senator Al Gore attempted to influence decisions involving his cousin, Major Gary Gore.",
+      evidence:
+        "Itemized from page 143 of the NARA direct folder scan using the dated memorandum text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photographs-tennessee-campaign-travel",
+      documentType: "Official White House Photographs",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title:
+        "Official White House photographs from September 29 Tennessee campaign travel",
+      documentDate: "1992-09-29",
+      pages: 18,
+      excerpt:
+        "The photograph packet includes color images and backing pages from President Bush's September 29 Tennessee campaign travel, including Air Force One, airport rallies, Nashville, and Tennessee campaign scenes.",
+      evidence:
+        "Itemized from pages 144-161 of the NARA direct folder scan using color photograph pages, handwritten location sticky notes, official White House photo backing pages, OCR, and rendered-page review.",
+    },
+  ],
   470418122: [
     {
       slug: "st-louis-railroad-ymca-history",
@@ -26298,6 +26691,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418078",
   "470418083",
   "470418088",
+  "470418094",
   "646482521",
   "646482523",
 ]);
