@@ -23349,6 +23349,48 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470418078: [
     {
+      slug: "white-house-news-summary-930am-news-update-september-22-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 9:30 a.m. CDT/10:30 a.m. EDT news update, September 22, 1992",
+      documentDate: "1992-09-22",
+      pages: 1,
+      excerpt:
+        "The 9:30 a.m. news update covers President Bush's six-state campaign swing, the canceled East Lansing debate, Clinton's debate posture, Ross Perot's morning television comments, housing starts, Kissinger and POW claims, and morning foreign-policy wires.",
+      evidence:
+        "Itemized from the White House News Summary news-update heading, wire-story starts, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-1230pm-news-update-september-22-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 12:30 p.m. CDT/1:30 p.m. EDT news update, September 22, 1992",
+      documentDate: "1992-09-22",
+      pages: 2,
+      excerpt:
+        "The 12:30 p.m. news update covers Bush's Springfield attack on Clinton's record, Quayle and Murphy Brown coverage, Eagleburger on Bosnia, China reaction to the Taiwan helicopter sale, Russian POW statements, Indian chemical exports to Syria, and Brady's lending meeting.",
+      evidence:
+        "Itemized from the White House News Summary news-update heading, numbered continuation page, wire-story starts, and rendered-page review.",
+    },
+    {
+      slug: "daily-briefing-american-politics-september-22-1992",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing",
+      disposition: "itemized-daily-political-briefing",
+      title:
+        "The Daily Briefing on American Politics, September 22, 1992",
+      documentDate: "1992-09-22",
+      pages: 25,
+      excerpt:
+        "The American Political Network daily briefing covers the postponed debate, Bush's Rush Limbaugh interview, U.N. peacekeeping remarks, Clinton business endorsements, Perot's reconsideration, Murphy Brown reaction, Gore environmental litigation, candidate schedules, battleground polling, Senate and House races, and television monitors.",
+      evidence:
+        "Itemized from the Daily Briefing on American Politics cover page, numbered sections, TV Monitor ending page, and rendered-page review.",
+    },
+    {
       slug: "springfield-service-organizations-remarks-release",
       documentType: "Presidential Remarks Release",
       category: "speech-material",
@@ -25989,6 +26031,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418070",
   "470418071",
   "470418075",
+  "470418078",
   "470418083",
   "646482521",
   "646482523",
