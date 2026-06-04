@@ -27925,6 +27925,248 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 148-161 of the NARA direct folder scan using color photograph pages, official White House photo backing pages, handwritten labels, low-confidence OCR, and rendered-page review.",
     },
   ],
+  646482525: [
+    {
+      slug: "billy-graham-personal-letter-support-prayers-before-debates",
+      documentType: "Incoming Personal Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Billy Graham personal letter offering love, support, and prayers before the presidential debates",
+      documentDate: "1992-10-08",
+      pages: 2,
+      excerpt:
+        "Billy Graham writes personally to President Bush from Europe, explains why he has kept quiet politically, expresses love for the Bush family, discusses Ross Perot and the campaign, and says he and Ruth Graham will pray for Bush during the debates.",
+      evidence:
+        "Itemized from pages 1-2 of the NARA direct folder scan using Billy Graham letterhead, the October 8 date, fax footer, signature/address block, OCR, and rendered-page review.",
+    },
+  ],
+  470418141: [
+    {
+      slug: "atlanta-ask-george-bush-audience-qa-abortion-issue-notes",
+      documentType: "Campaign Audience Q&A Packet",
+      category: "campaign-qa",
+      disposition: "itemized-campaign-qa",
+      title:
+        "Jocelyn Dorsey memorandum re Atlanta Ask George Bush audience Q&A, abortion and issue notes",
+      documentDate: "1992-10-19",
+      pages: 4,
+      excerpt:
+        "Jocelyn Dorsey sends Bill Nigut an Atlanta Ask George Bush audience Q&A list covering abortion, Black issues, child care, education, economy and jobs, family values, foreign affairs, airlines, and health care, with presidential handwriting and staff annotations.",
+      evidence:
+        "Itemized from pages 2-5 of the NARA direct folder scan using the Jocelyn Dorsey memorandum heading, Ask George Bush audience Q&A label, issue headings, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "atlanta-ask-george-bush-audience-qa-black-issues-homeless-disabled-veterans",
+      documentType: "Campaign Audience Q&A Packet",
+      category: "campaign-qa",
+      disposition: "itemized-campaign-qa",
+      title:
+        "Jocelyn Dorsey memorandum re Atlanta Ask George Bush audience Q&A, Black issues and voter questions",
+      documentDate: "1992-10-19",
+      pages: 3,
+      excerpt:
+        "A second Atlanta audience Q&A packet lists prospective participant questions on Black issues, child care, education, disabled veterans, economy and jobs, homelessness, politics, and party faith, with presidential handwriting and staff notes.",
+      evidence:
+        "Itemized from pages 6-8 of the NARA direct folder scan using the repeated Jocelyn Dorsey memorandum heading, Black Issues label, issue headings, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-duff-combat-infantry-badge-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Robert W. Duff Combat Infantry Badge correspondence and presidential reply packet",
+      documentDate: "1992-10-19",
+      pages: 5,
+      excerpt:
+        "The packet includes President Bush's signed reply to Robert W. Duff, Claudia Korte routing instructions, Duff's October 2 letter offering to loan his Combat Infantryman Badge, a copy of the Korean War field-order page, and an October 24 return letter.",
+      evidence:
+        "Itemized from pages 9-13 of the NARA direct folder scan using the White House reply, Duff letterhead, stripping-desk note, Combat Infantryman Badge field-order attachment, October 24 return letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "situation-room-nsc-memorandum-ambassador-gerard",
+      documentType: "Situation Room Fax and NSC Memorandum",
+      category: "national-security-council-memorandum",
+      disposition: "itemized-national-security-memorandum",
+      title:
+        "Situation Room fax and NSC memorandum re Ambassador Jean Broward Shevlin Gerard",
+      documentDate: "1992-10-19",
+      pages: 2,
+      excerpt:
+        "A White House Situation Room fax cover sheet transmits an NSC memorandum from Allison M. Wright on Ambassador Jean Broward Shevlin Gerard, including biographical information and a current-address note.",
+      evidence:
+        "Itemized from pages 14-15 of the NARA direct folder scan using the White House Situation Room cover sheet, National Security Council memorandum heading, Ambassador Gerard subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-bush-telephone-memorandum-october-19-1992",
+      documentType: "Telephone Memorandum",
+      category: "telephone-memoranda",
+      disposition: "itemized-telephone-memoranda",
+      title:
+        "Telephone memorandum for President Bush: October 19, 1992",
+      documentDate: "1992-10-19",
+      pages: 1,
+      excerpt:
+        "The White House telephone memorandum lists October 19 calls for President Bush, including C. Boyden Gray, the Usher's Office, Donald Rhodes, and Jimmy Dean.",
+      evidence:
+        "Itemized from page 16 of the NARA direct folder scan using the White House Telephone Memorandum form, President Bush line, call entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "signal-switchboard-telephone-memorandum-october-19-1992",
+      documentType: "Signal Switchboard Telephone Memorandum",
+      category: "telephone-memoranda",
+      disposition: "itemized-telephone-memoranda",
+      title:
+        "Signal Switchboard telephone memorandum: October 19, 1992",
+      documentDate: "1992-10-19",
+      pages: 1,
+      excerpt:
+        "The Signal Switchboard telephone memorandum records October 19 calls involving Maria Eitel, Nicholas Brady, Vice President Dan Quayle, and Secretary Barbara Franklin.",
+      evidence:
+        "Itemized from page 17 of the NARA direct folder scan using the Signal Switchboard heading, October 19 date, call entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-washington-lansing-atlanta-october-19-1992",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title:
+        "Presidential Movements: Washington, Lansing, and Atlanta, October 19, 1992",
+      documentDate: "1992-10-19",
+      pages: 1,
+      excerpt:
+        "The movements page tracks President Bush from the South Grounds and Oval Office through Lansing, Michigan, the Wharton Center, the Civic Center, and Atlanta Hartsfield International Airport.",
+      evidence:
+        "Itemized from page 18 of the NARA direct folder scan using the Presidential Movements heading, Washington/Lansing/Atlanta location line, time entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "davis-robinson-letter-and-president-bush-handwritten-reply",
+      documentType: "Incoming Letter and Presidential Handwritten Reply",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Davis R. Robinson handwritten letter and President Bush handwritten reply",
+      documentDate: "1992-10-19",
+      pages: 2,
+      excerpt:
+        "Davis R. Robinson sends President Bush a handwritten encouragement note; President Bush replies by hand on White House stationery before departing for Michigan, saying the letter brought him cheer.",
+      evidence:
+        "Itemized from pages 19-20 of the NARA direct folder scan using the White House reply page, Robinson address, Davis R. Robinson letterhead, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-october-19-campaign-economy-trade-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "Los Angeles Times campaign, economy, trade, and commentary clippings: October 19, 1992",
+      documentDate: "1992-10-19",
+      pages: 7,
+      excerpt:
+        "Los Angeles Times clippings cover the campaign marriage gap, Iraq loan and independent-counsel law, trade policy, NAFTA commentary, conservative commentary, and related campaign analysis.",
+      evidence:
+        "Itemized from pages 21-27 of the NARA direct folder scan using Los Angeles Times mastheads, October 19 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-october-19-campaign-debate-economy-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "New York Times campaign, debate, economy, and policy clippings: October 19, 1992",
+      documentDate: "1992-10-19",
+      pages: 23,
+      excerpt:
+        "New York Times clippings cover Republican candidates distancing themselves from Bush, campaign debates, Iran-Contra, Ross Perot advertising, Clinton health and Medicaid policy, trade talks, public works, voter registration, and the final debate.",
+      evidence:
+        "Itemized from pages 28-50 of the NARA direct folder scan using New York Times mastheads, October 19 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-october-19-campaign-policy-commentary-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "Washington Post campaign, policy, commentary, and final-debate clippings: October 19, 1992",
+      documentDate: "1992-10-19",
+      pages: 22,
+      excerpt:
+        "Washington Post clippings cover Wilder campaigning for Clinton, post-debate television coverage, Perot and down-ballot politics, Cuba, energy policy, Gore, Quayle, America 2000, ethanol, transfer pricing, Air Force One, White House costs, Iraqi refugees, drug-use survey, GATT, and the last presidential debate.",
+      evidence:
+        "Itemized from pages 51-72 of the NARA direct folder scan using Washington Post mastheads, October 19 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-october-19-final-debate-security-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "Los Angeles Times final debate, security, and Clinton-transition clippings: October 19, 1992",
+      documentDate: "1992-10-19",
+      pages: 5,
+      excerpt:
+        "Los Angeles Times clippings cover media reaction in the year of the voter, post-Cold War security, likely Clinton cabinet talk, Clinton expectations, and Bush preparing for the last debate.",
+      evidence:
+        "Itemized from pages 73-77 of the NARA direct folder scan using Los Angeles Times mastheads, October 19 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-october-19-final-debate-defense-conservative-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "Washington Times final debate, defense, conservative, and campaign cartoon clippings: October 19, 1992",
+      documentDate: "1992-10-19",
+      pages: 10,
+      excerpt:
+        "Washington Times clippings cover the final presidential debate, Bush and Clinton campaign travel, Cold War defense cuts, congressional scorecards, conservative politics, environmental policy, Quayle and Gore, and an October 19 campaign cartoon.",
+      evidence:
+        "Itemized from pages 78-87 of the NARA direct folder scan using Washington Times mastheads, October 19 dates, article headings, cartoon page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-october-19-campaign-economy-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "Wall Street Journal campaign, tax, economy, Perot, and youth-vote clippings: October 19, 1992",
+      documentDate: "1992-10-19",
+      pages: 9,
+      excerpt:
+        "Wall Street Journal clippings cover the expected Bush tax-bill veto, Clintonomics, Ross Perot's plan, Republican messaging, public cynicism, economic forecasts, GOP pessimism before the final debate, and young voters moving toward Clinton.",
+      evidence:
+        "Itemized from pages 88-96 of the NARA direct folder scan using Wall Street Journal mastheads, October 19 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-october-19-campaign-debate-opinion-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "USA Today campaign, debate, and independent-counsel opinion clippings: October 19, 1992",
+      documentDate: "1992-10-19",
+      pages: 2,
+      excerpt:
+        "USA Today clippings include commentary asking whether George Bush is a sacrificial lamb, an opinion piece on independent-counsel investigations, and a campaign debate cartoon.",
+      evidence:
+        "Itemized from pages 97-98 of the NARA direct folder scan using USA Today mastheads, October 19 dates, article headings, cartoon, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photographs-east-lansing-debate-rally",
+      documentType: "Official White House Photograph Packet",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title:
+        "Official White House photographs labeled East Lansing, third presidential debate, and post-debate rally",
+      documentDate: "1992-10-19",
+      pages: 10,
+      excerpt:
+        "The photograph packet includes official White House photographs and backing pages labeled East Lansing, Michigan, third presidential debate, and East Lansing post-debate rally.",
+      evidence:
+        "Itemized from pages 99-108 of the NARA direct folder scan using color photograph pages, official White House photo backing pages, handwritten labels, low-confidence OCR, and rendered-page review.",
+    },
+  ],
   470418144: [
     {
       slug: "linda-price-routing-and-correspondence",
@@ -29128,6 +29370,8 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418125",
   "470418129",
   "470418133",
+  "470418141",
+  "646482525",
   "646482521",
   "646482523",
 ]);
