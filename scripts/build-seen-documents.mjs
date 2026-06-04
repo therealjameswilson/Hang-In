@@ -34764,6 +34764,476 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 162-163 of the NARA direct folder scan using rendered-page review of the color photograph, sticky note, and backing page.",
     },
   ],
+  470418196: [
+    {
+      slug: "mark-calkins-bill-daniels-forwarded-note",
+      documentType: "Correspondence Note with President Bush Handwriting",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mark Calkins note forwarded by Bill Daniels with President Bush handwriting",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "A typed note from Mark Calkins thanks President Bush for his leadership, with President Bush handwriting noting that Bill Daniels's pilot had forwarded it.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the typed note, Mark Calkins signature, Bill Daniels forwarding annotation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "camp-david-private-dinner-musical-vespers-materials",
+      documentType: "Camp David Event Materials",
+      category: "camp-david-event-material",
+      disposition: "itemized-camp-david-event-material",
+      title: "Camp David private dinner and Amy Grant musical vespers materials",
+      documentDate: "1992-11-21",
+      pages: 4,
+      excerpt:
+        "Camp David materials list the Saturday private dinner guests, chapel service, and Amy Grant musical vespers program for the November 21 weekend.",
+      evidence:
+        "Itemized from pages 3-6 of the NARA direct folder scan using the dinner guest list, Camp David Chapel card, Amy Grant program page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-to-president-november-20-21",
+      documentType: "Materials Forwarded List",
+      category: "materials-forwarded-to-president",
+      disposition: "itemized-materials-forwarded",
+      title: "Materials forwarded to the President for November 20-21, 1992",
+      documentDate: "1992-11-21",
+      pages: 2,
+      excerpt:
+        "Two Staff Secretary-style lists show action, classified information, remarks, and schedule materials forwarded to President Bush at Camp David and the Residence.",
+      evidence:
+        "Itemized from pages 7-8 of the NARA direct folder scan using the Materials Forwarded to the President headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jacqueline-tom-collamore-wedding-correspondence",
+      documentType: "Wedding Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jacqueline and Tom Collamore wedding congratulations correspondence",
+      documentDate: "1992-11-21",
+      pages: 2,
+      excerpt:
+        "President Bush sends handwritten congratulations to Jacqueline and Tom Collamore, with the packet including the wedding invitation page.",
+      evidence:
+        "Itemized from pages 9-10 of the NARA direct folder scan using the Camp David reply page, Collamore address block, invitation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jacques-michael-kelly-wedding-invitation-first-lady-reply",
+      documentType: "First Lady Letter Copy",
+      category: "first-lady-correspondence",
+      disposition: "itemized-first-lady-correspondence",
+      title: "Mrs. Jacques Michael Kelly wedding invitation reply from Barbara Bush",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "Barbara Bush replies to Mrs. Jacques Michael Kelly that she and George appreciate the wedding invitation but cannot attend.",
+      evidence:
+        "Itemized from page 11 of the NARA direct folder scan using the White House letter copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bobbie-fitch-camp-david-phone-call-note",
+      documentType: "Presidential Phone Call Note",
+      category: "presidential-phone-call-note",
+      disposition: "itemized-presidential-phone-call-note",
+      title: "Bobbie Fitch Camp David phone-call note",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "A yellow Camp David Presidential Phone Calls sheet records a call with Bobbie Fitch and a note about a place for Peggy near River Oaks.",
+      evidence:
+        "Itemized from page 12 of the NARA direct folder scan using the Camp David phone-call form, Bush Library photocopy notice, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kathy-super-event-invitations-decision-memorandum",
+      documentType: "Scheduling Memorandum",
+      category: "scheduling-memorandum",
+      disposition: "itemized-scheduling-memorandum",
+      title: "Kathy Super event invitations and schedule decision memorandum",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "Kathy Super sends Rose Zamaria a decision list covering Ford's Theater, the Army-Navy game, Aubrey Cookman, the Fires of Kuwait, and a 1948 Yale baseball invitation.",
+      evidence:
+        "Itemized from page 13 of the NARA direct folder scan using the Kathy Super memorandum, annotations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-barbara-abraham-fishing-pond-correspondence-card",
+      documentType: "Correspondence and Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robert and Barbara Abraham fishing-pond correspondence and condolence card",
+      documentDate: "1992-11-21",
+      pages: 6,
+      excerpt:
+        "Robert and Barbara Abraham write about the election, a fishing reel, and sympathy for Dorothy Walker Bush; President Bush replies from Camp David and notes plans to see them before returning to Texas.",
+      evidence:
+        "Itemized from pages 14-19 of the NARA direct folder scan using the Abraham address page, handwritten presidential reply, pressed-flower card, incoming note, typed letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bobbie-fitch-phone-call-note-condolences",
+      documentType: "Presidential Phone Call Note",
+      category: "presidential-phone-call-note",
+      disposition: "itemized-presidential-phone-call-note",
+      title: "Bobbie Fitch condolence phone-call note",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "A Camp David Presidential Phone Calls sheet records a call with Bobbie Fitch concerning condolences on Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 20 of the NARA direct folder scan using the phone-call form, subject line, Bush Library photocopy notice, and rendered-page review.",
+    },
+    {
+      slug: "bishop-browning-condolence-message-memorandum",
+      documentType: "Message Memorandum",
+      category: "phone-and-scheduling-material",
+      disposition: "itemized-administrative-material",
+      title: "Message from Bishop Browning's office for President Bush",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "Kathryn Rust tells Robin MacLean that Presiding Bishop Edmond Browning wants to speak with President Bush about Dorothy Walker Bush's death, with handwritten follow-up notes.",
+      evidence:
+        "Itemized from page 21 of the NARA direct folder scan using the Executive Office message memorandum, annotations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "joseph-paterno-post-election-note",
+      documentType: "Correspondence Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Joseph V. Paterno post-election note with President Bush routing",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "Joseph V. Paterno writes President Bush after the election, saying he and Sue admire the Bushes, with a note that the letter was sent via Bill Schreyer.",
+      evidence:
+        "Itemized from page 22 of the NARA direct folder scan using the Joseph V. Paterno stationery page, President Has Seen stamp, Bush routing note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "donald-riegle-friendship-letter-presidential-reply",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Donald W. Riegle Jr. friendship letter and presidential reply",
+      documentDate: "1992-11-21",
+      pages: 10,
+      excerpt:
+        "Senator Donald W. Riegle Jr. sends a long handwritten letter after the election, and President Bush replies about friendship, public life, and returning to private family time.",
+      evidence:
+        "Itemized from pages 23-32 of the NARA direct folder scan using the Camp David reply, White House address page, Senate stationery pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-abraham-christmas-reception-instruction",
+      documentType: "Presidential Instruction Note",
+      category: "scheduling-memorandum",
+      disposition: "itemized-scheduling-memorandum",
+      title: "President Bush instruction to invite Bob Abraham to a White House Christmas reception",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "President Bush asks Laurie Firestone to invite Mr. and Mrs. Bob Abraham to a White House Christmas reception, noting he has fished at a pond near Camp David on Abraham's place.",
+      evidence:
+        "Itemized from page 33 of the NARA direct folder scan using the presidential instruction note, address text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cia-farewell-event-presidential-note",
+      documentType: "Presidential Note",
+      category: "presidential-note",
+      disposition: "itemized-presidential-note",
+      title: "President Bush note on a CIA farewell event",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "President Bush writes JAB III, Brent, Rose, and Kathy Super about possible farewell events involving the CIA, including going to Langley or inviting senior CIA officials to Camp David.",
+      evidence:
+        "Itemized from page 34 of the NARA direct folder scan using the presidential note, CIA subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-barr-condolence-correspondence-presidential-reply",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William P. Barr condolence correspondence and presidential reply",
+      documentDate: "1992-11-21",
+      pages: 2,
+      excerpt:
+        "Attorney General William P. Barr sends condolences after Dorothy Walker Bush's death, and President Bush replies that Barr's letter helped.",
+      evidence:
+        "Itemized from pages 35-36 of the NARA direct folder scan using the Camp David reply, Attorney General letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "louis-sullivan-condolence-correspondence-presidential-reply",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Louis W. Sullivan condolence correspondence and presidential reply",
+      documentDate: "1992-11-21",
+      pages: 2,
+      excerpt:
+        "Health and Human Services Secretary Louis W. Sullivan and Ginger Sullivan send condolences, and President Bush replies about Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from pages 37-38 of the NARA direct folder scan using the Camp David reply, HHS Secretary letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-anne-bates-condolence-correspondence",
+      documentType: "Correspondence and Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "David and Anne Bates condolence correspondence and presidential reply",
+      documentDate: "1992-11-21",
+      pages: 4,
+      excerpt:
+        "David and Anne Bates send condolence notes and a card after Dorothy Walker Bush's death, and President Bush replies about their kindness and his mother's character.",
+      evidence:
+        "Itemized from pages 39-42 of the NARA direct folder scan using the White House address pages, Camp David reply, condolence card, handwritten notes, OCR, and rendered-page review.",
+    },
+    {
+      slug: "richard-miller-secret-service-condolence-card-reply",
+      documentType: "Correspondence and Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Richard S. Miller Secret Service condolence card and presidential reply",
+      documentDate: "1992-11-21",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Richard S. Miller and the Presidential Protection Division marshals for their sympathy card and concern after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from pages 43-45 of the NARA direct folder scan using the Camp David reply, Special Agent in Charge address page, condolence card, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-foley-condolence-correspondence-presidential-reply",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Thomas S. Foley condolence correspondence and presidential reply",
+      documentDate: "1992-11-21",
+      pages: 2,
+      excerpt:
+        "Speaker Thomas S. Foley sends condolences to President Bush, and Bush replies that the caring note about his mother meant a great deal.",
+      evidence:
+        "Itemized from pages 46-47 of the NARA direct folder scan using the Camp David reply, Speaker's stationery page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "davis-robinson-saudi-arabia-fax-presidential-reply",
+      documentType: "Correspondence and Fax Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Davis R. Robinson Saudi Arabia fax and presidential reply",
+      documentDate: "1992-11-21",
+      pages: 4,
+      excerpt:
+        "Davis R. Robinson sends a condolence fax from Saudi Arabia, and President Bush replies from Camp David with thanks for the supportive letter.",
+      evidence:
+        "Itemized from pages 48-51 of the NARA direct folder scan using the Camp David reply, telefax cover, handwritten fax pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alexander-ellis-election-night-correspondence-reply",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Alexander Ellis III election-night correspondence and presidential reply",
+      documentDate: "1992-11-21",
+      pages: 2,
+      excerpt:
+        "Alexander Ellis III writes President Bush and Aunt Bar about an election-night family vignette, and Bush replies with thanks and a note about moving toward private pursuits.",
+      evidence:
+        "Itemized from pages 52-53 of the NARA direct folder scan using the Camp David reply, Alexander Ellis III letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-telephone-memoranda-november-21",
+      documentType: "Telephone Memoranda and Signal Switchboard Logs",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "White House telephone memoranda and signal switchboard logs, November 21, 1992",
+      documentDate: "1992-11-21",
+      pages: 3,
+      excerpt:
+        "White House and Signal Switchboard telephone memoranda log November 21 calls with Vice President Quayle, John Schorsch, John E. Bush, Digger Phelps, Jonathan Bush, William H. T. Bush, Barbara Bush, and others.",
+      evidence:
+        "Itemized from pages 54-56 of the NARA direct folder scan using the telephone memorandum sheets, Signal Switchboard logs, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-november-21-1992",
+      documentType: "Presidential Movements Log",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential movements at Camp David, November 21, 1992",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "A Presidential Movements sheet for Camp David on November 21 records no movements.",
+      evidence:
+        "Itemized from page 57 of the NARA direct folder scan using the Presidential Movements table, OCR, and rendered-page review.",
+    },
+    {
+      slug: "barbara-walters-friendship-correspondence-presidential-reply",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Barbara Walters friendship correspondence and presidential reply",
+      documentDate: "1992-11-21",
+      pages: 4,
+      excerpt:
+        "Barbara Walters writes President and Mrs. Bush in a personal capacity about friendship and dignity, and President Bush replies that the Bushes will always be friends.",
+      evidence:
+        "Itemized from pages 58-61 of the NARA direct folder scan using the Camp David reply pages, Barbara Walters stationery pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ron-marlenee-race-loss-presidential-reply",
+      documentType: "Outgoing Presidential Reply Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ron Marlenee race-loss presidential reply",
+      documentDate: "1992-11-21",
+      pages: 2,
+      excerpt:
+        "President Bush writes Ron Marlenee that he feels badly about Marlenee's race, praises his early support and loyal friendship, and wishes him luck ahead.",
+      evidence:
+        "Itemized from pages 62-63 of the NARA direct folder scan using the handwritten presidential reply pages, address block, routing notes, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thaddeus-garrett-condolence-correspondence-presidential-reply",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Thaddeus Garrett Jr. condolence correspondence and presidential reply",
+      documentDate: "1992-11-21",
+      pages: 3,
+      excerpt:
+        "Thaddeus Garrett Jr. sends a condolence letter quoting Kahlil Gibran, and President Bush replies about Garrett's friendship, Dorothy Walker Bush, and leaving office.",
+      evidence:
+        "Itemized from pages 64-66 of the NARA direct folder scan using the Camp David reply pages, Garrett & Company incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-office-daily-press-clippings-november-21-23",
+      documentType: "First Lady Daily Press Clippings",
+      category: "first-lady-press-clippings",
+      disposition: "itemized-first-lady-press-clippings",
+      title: "Mrs. Bush Press Office Daily Press Clippings: November 21-23, 1992",
+      documentDate: "1992-11-21",
+      pages: 28,
+      excerpt:
+        "The First Lady press packet compiles weekend coverage of Barbara Bush's White House handoff to Hillary Clinton, the Clintons' Washington transition, and commentary on the incoming First Lady's public role.",
+      evidence:
+        "Itemized from pages 67-94 of the NARA direct folder scan using the Mrs. Bush Press Office cover sheet, Chicago Tribune, Los Angeles Times, Washington Times, New York Post, UPI, AP, Reuters, Boston Globe, and magazine clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-barr-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "William P. Barr condolence presidential reply copy",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "Hole-punched file-copy outgoing reply to William P. Barr thanking him for his letter after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 95 of the NARA direct folder scan using the outgoing reply copy, highlighted address block, and rendered-page review.",
+    },
+    {
+      slug: "david-bates-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "David and Anne Bates condolence presidential reply copy",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "Hole-punched file-copy outgoing reply to David and Anne Bates thanking them for notes about the election and Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 96 of the NARA direct folder scan using the outgoing reply copy, highlighted address block, and rendered-page review.",
+    },
+    {
+      slug: "alexander-ellis-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Alexander Ellis III presidential reply copy",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "Hole-punched file-copy outgoing reply to Alexander Ellis III thanking him for an election-night letter from Brookline.",
+      evidence:
+        "Itemized from page 97 of the NARA direct folder scan using the outgoing handwritten reply copy, highlighted address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-foley-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Thomas S. Foley condolence presidential reply copy",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "Hole-punched file-copy outgoing reply to Speaker Thomas S. Foley thanking him and Heather for a caring note about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 98 of the NARA direct folder scan using the outgoing handwritten reply copy, highlighted address block, and rendered-page review.",
+    },
+    {
+      slug: "thaddeus-garrett-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Thaddeus Garrett Jr. condolence presidential reply copy",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "Hole-punched file-copy outgoing reply to Thaddeus Garrett Jr. thanking him as a true and loving friend after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from page 99 of the NARA direct folder scan using the outgoing handwritten reply copy, highlighted address block, and rendered-page review.",
+    },
+    {
+      slug: "richard-miller-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Richard S. Miller Secret Service condolence presidential reply copy",
+      documentDate: "1992-11-21",
+      pages: 2,
+      excerpt:
+        "Hole-punched file-copy outgoing reply to Richard S. Miller and the Presidential Protection Division marshals thanking them for concern about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 100-101 of the NARA direct folder scan using the outgoing handwritten reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "davis-robinson-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Davis R. Robinson Saudi Arabia presidential reply copy",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "Hole-punched file-copy outgoing reply to Davis R. Robinson thanking him for a letter from Saudi Arabia.",
+      evidence:
+        "Itemized from page 102 of the NARA direct folder scan using the outgoing handwritten reply copy, highlighted address block, and rendered-page review.",
+    },
+    {
+      slug: "louis-sullivan-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Louis W. Sullivan condolence presidential reply copy",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "Hole-punched file-copy outgoing reply to Louis W. Sullivan thanking him and Ginger for their note about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 103 of the NARA direct folder scan using the outgoing handwritten reply copy, highlighted address block, and rendered-page review.",
+    },
+    {
+      slug: "barbara-walters-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Barbara Walters friendship presidential reply copy",
+      documentDate: "1992-11-21",
+      pages: 1,
+      excerpt:
+        "Hole-punched file-copy outgoing reply to Barbara Walters saying the Bushes are and will always be friends.",
+      evidence:
+        "Itemized from page 104 of the NARA direct folder scan using the outgoing handwritten reply copy, highlighted address block, and rendered-page review.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -35198,6 +35668,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418185",
   "470418193",
   "470418195",
+  "470418196",
   "646482525",
   "646482521",
   "646482523",
