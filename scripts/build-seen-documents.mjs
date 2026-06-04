@@ -21686,6 +21686,19 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470418057: [
     {
+      slug: "burrill-lumber-company-medford-speech-draft",
+      documentType: "Speech Draft with President Bush Handwriting",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title: "Marked draft of remarks at Burrill Lumber Company, Medford, Oregon",
+      documentDate: "1992-09-14",
+      pages: 14,
+      excerpt:
+        "The marked speech draft for the President's September 14 visit to Burrill Lumber Company in Medford, Oregon, argues for balancing environmental protection and economic growth, changing Endangered Species Act implementation, lifting timber injunctions, and restoring Pacific Northwest timber jobs.",
+      evidence:
+        "Itemized from pages 2-15 of the NARA direct folder scan using the Burrill Lumber Company speech heading, numbered draft pages, Bush Library photocopy handwriting markers, OCR, and rendered-page review.",
+    },
+    {
       slug: "telephone-memoranda-september-14-1992",
       documentType: "Telephone Memoranda",
       category: "telephone-log",
@@ -25804,6 +25817,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418028",
   "470418030",
   "470418041",
+  "470418057",
   "470418083",
   "646482521",
   "646482523",

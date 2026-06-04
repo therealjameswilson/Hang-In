@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T03:09:19.531Z",
+  "generatedAt": "2026-06-04T03:14:18.808Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
@@ -84,7 +84,7 @@
     "itemized-presidential-message": 18,
     "itemized-daily-political-briefing": 17,
     "itemized-daily-press-clippings": 24,
-    "itemized-speech-remarks-draft": 27,
+    "itemized-speech-remarks-draft": 26,
     "itemized-press-availability-qa": 1,
     "itemized-local-affiliate-qa": 1,
     "itemized-congressional-correspondence": 10,
@@ -184,7 +184,7 @@
     "itemized-television-report-packet": 1,
     "itemized-wire-report-packet": 1,
     "itemized-gift-correspondence": 3,
-    "itemized-speech-material": 22,
+    "itemized-speech-material": 23,
     "itemized-media-analysis": 1,
     "itemized-economic-memorandum": 4,
     "itemized-legal-memorandum": 1,
@@ -31325,6 +31325,21 @@
     {
       "date": "1992-09-14",
       "documentDate": "1992-09-14",
+      "title": "Marked draft of remarks at Burrill Lumber Company, Medford, Oregon",
+      "parentPacketId": "nara-470418057-direct-scan",
+      "naId": "470418057",
+      "folderId": "90717-006",
+      "containerId": "90717",
+      "category": "speech-material",
+      "disposition": "itemized-speech-material",
+      "type": "Speech Draft with President Bush Handwriting",
+      "catalogUrl": "https://catalog.archives.gov/id/470418057",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90717-006.pdf",
+      "excerpt": "The marked speech draft for the President's September 14 visit to Burrill Lumber Company in Medford, Oregon, argues for balancing environmental protection and economic growth, changing Endangered Species Act implementation, lifting timber injunctions, and restoring Pacific Northwest timber jobs."
+    },
+    {
+      "date": "1992-09-14",
+      "documentDate": "1992-09-14",
       "title": "White House telephone memoranda, September 14, 1992",
       "parentPacketId": "nara-470418057-direct-scan",
       "naId": "470418057",
@@ -31696,21 +31711,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418057",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90717-006.pdf",
       "excerpt": "A final transfer cluster includes color photographs labeled Medford, Oregon, with a backing or transfer page between photo pages."
-    },
-    {
-      "date": "1992-09-14",
-      "documentDate": "1992-09-14",
-      "title": "Speech/Remarks Draft: VISIT TO BURRILL LUMBER COMPANY MEDFORD, OREGON MONDAY, SEPTEMBER 14, 1992 6:00 P.M.",
-      "parentPacketId": "nara-470418057-direct-scan",
-      "naId": "470418057",
-      "folderId": "90717-006",
-      "containerId": "90717",
-      "category": "speech-remarks-item",
-      "disposition": "itemized-speech-remarks-draft",
-      "type": "Speech/Remarks Draft",
-      "catalogUrl": "https://catalog.archives.gov/id/470418057",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90717-006.pdf",
-      "excerpt": "VISIT TO BURRILL LUMBER COMPANY MEDFORD, OREGON MONDAY, SEPTEMBER 14, 1992 1 6:00 P.M. THANK YOU, MIKE, FOR THAT INTRODUCTION. AND THANKS TO THE ENTIRE BURRILL FAMILY AND ALL OF YOU FOR LETTING ME VISIT TODAY. LAST WEEK IN DETROIT, I RELEASED MY AGENDA FOR AMERICAN RENEWAL. THE AGENDA WAS BASED ON A FUNDAMENTAL PREMISE: THAT THE CHALLENGES AMERICA FACES -- FOREIGN, DOMESTIC, ECONOMIC, AND, YES, ENVIRONMENTAL -- ARE CONNECTED. THE SOLUTION TO ONE CANNOT BE DIVORCED FROM THE SOLUTION TO THE OTHER. WE NEED AN INTEG..."
     },
     {
       "date": "1992-09-15",
