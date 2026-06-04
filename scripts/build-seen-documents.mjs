@@ -31511,6 +31511,489 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 280-286 of the NARA direct folder scan using color photograph pages, Official White House Photo transfer pages, low-confidence OCR, and rendered-page review.",
     },
   ],
+  470418159: [
+    {
+      slug: "weinberger-indictment-ap-wire-october-30-1992",
+      documentType: "Wire Article",
+      category: "iran-contra-material",
+      disposition: "itemized-iran-contra-material",
+      title: "AP wire article re Weinberger indictment and Bush on Iran-Contra",
+      documentDate: "1992-10-30",
+      pages: 1,
+      excerpt:
+        "A faxed AP wire article reports that the new Casper Weinberger indictment contradicted President Bush's statements about the Iran-Contra arms-for-hostages proposal.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the CommCtr header, AP article text, Weinberger indictment heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "grady-situation-room-cvp-weinberger-briefing-packet",
+      documentType: "Situation Room Transmission and Briefing Packet",
+      category: "campaign-briefing-material",
+      disposition: "itemized-campaign-briefing-material",
+      title: "Robert Grady Situation Room transmission with Central Valley Project and Weinberger briefing material",
+      documentDate: "1992-10-28",
+      pages: 5,
+      excerpt:
+        "A Situation Room transmission from Robert E. Grady to Secretary James Baker and David Bates includes Central Valley Project explanatory material and a fact paper on the Weinberger additional indictment.",
+      evidence:
+        "Itemized from pages 3-7 of the NARA direct folder scan using the Situation Room cover sheet, OMB memorandum, Central Valley Project comparison pages, Fact Paper heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fitzwater-zoellick-grady-boskin-economic-facts-larry-king-packet",
+      documentType: "Memorandum and Chart Packet",
+      category: "economic-briefing-material",
+      disposition: "itemized-economic-briefing-material",
+      title: "Fitzwater-Zoellick-Grady and Boskin economic facts packet for Larry King Live",
+      documentDate: "1992-10-30",
+      pages: 7,
+      excerpt:
+        "Marlin Fitzwater, Robert Zoellick, Robert Grady, and Michael Boskin provide economic facts and charts answering Clinton's Larry King Show claims on GDP growth and the economy.",
+      evidence:
+        "Itemized from pages 8-14 of the NARA direct folder scan using the White House and CEA memoranda, Larry King Show references, GDP growth charts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "late-faxed-iran-contra-news-summary-october-30-1992",
+      documentType: "News Summary Packet",
+      category: "news-summary-item",
+      disposition: "itemized-news-summary",
+      title: "Late faxed Iran-Contra and Weinberger indictment news-summary packet",
+      documentDate: "1992-10-30",
+      pages: 11,
+      excerpt:
+        "A late faxed packet compiles Reuter, AP, and network-news coverage of the Weinberger indictment, Iran-Contra, Bush's response, Clinton and Gore reactions, Perot coverage, polling, and health-care reporting.",
+      evidence:
+        "Itemized from pages 15-25 of the NARA direct folder scan using the Xerox Telecopier headers, White House News Summary continuation pages, Iran-arms and network-news headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-phone-calls-air-force-one-october-30-1992",
+      documentType: "Presidential Phone Calls Note",
+      category: "presidential-phone-call-note",
+      disposition: "itemized-presidential-phone-call-note",
+      title: "Presidential Phone Calls aboard Air Force One form: October 30, 1992",
+      documentDate: "1992-10-30",
+      pages: 1,
+      excerpt:
+        "A Presidential Phone Calls aboard Air Force One form includes Bush Library photocopy and George Bush handwriting markers for an October 30 call note.",
+      evidence:
+        "Itemized from page 26 of the NARA direct folder scan using the Presidential Phone Calls form, Air Force One heading, handwriting marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jeb-note-illinois-gop-oberwetter-chicago-sun-times-clipping",
+      documentType: "Handwritten Note and Clipping Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Jeb Bush note and Illinois Republican State Committee fax with Oberwetter clipping",
+      documentDate: "1992-10-29",
+      pages: 3,
+      excerpt:
+        "A Jeb Bush note to Rose forwards an Illinois Republican State Committee fax and Chicago Sun-Times clipping about Jim Oberwetter and political honesty.",
+      evidence:
+        "Itemized from pages 27-29 of the NARA direct folder scan using the handwritten White House note, Illinois Republican State Committee fax cover, Chicago Sun-Times date line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-nashville-to-st-louis-october-30-1992",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool Report: Nashville to St. Louis",
+      documentDate: "1992-10-30",
+      pages: 1,
+      excerpt:
+        "A pool report follows President Bush from the Opryland Hotel in Nashville through the rope line and onward travel toward St. Louis.",
+      evidence:
+        "Itemized from page 30 of the NARA direct folder scan using the Pool Report heading, Nashville-to-St. Louis title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-20-st-louis-fitzwater-weinberger-note",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #20: St. Louis Fitzwater comments on the Weinberger note",
+      documentDate: "1992-10-30",
+      pages: 1,
+      excerpt:
+        "Pool Report #20 records Marlin Fitzwater's Air Force One comments on the Weinberger note, Iran-Contra, and vice-presidential involvement.",
+      evidence:
+        "Itemized from page 31 of the NARA direct folder scan using the Pool Report #20 heading, St. Louis dateline, Fitzwater comments, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-office-clippings-october-30-1992",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Mrs. Bush Press Office daily press clippings: October 30, 1992",
+      documentDate: "1992-10-30",
+      pages: 8,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet includes distribution names and press items on Barbara Bush, New Hampshire Republicans, the Reliable Source, Washington fashion, Quayle Halloween coverage, and family values.",
+      evidence:
+        "Itemized from pages 32-39 of the NARA direct folder scan using the Mrs. Bush's Press Office cover, clipping mastheads, date lines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "national-medical-staff-services-awareness-week-proclamation-copies",
+      documentType: "Presidential Proclamation Release",
+      category: "presidential-proclamation",
+      disposition: "itemized-presidential-proclamation",
+      title: "National Medical Staff Services Awareness Week proclamation release copies",
+      documentDate: "1992-10-30",
+      pages: 2,
+      excerpt:
+        "Two release-copy pages carry the White House proclamation text for National Medical Staff Services Awareness Week, 1992.",
+      evidence:
+        "Itemized from pages 40-41 of the NARA direct folder scan using the Office of the Press Secretary Nashville heading, proclamation title, duplicate release text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-telephone-memoranda-october-30-1992",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "Presidential telephone memoranda: October 30, 1992",
+      documentDate: "1992-10-30",
+      pages: 4,
+      excerpt:
+        "White House telephone memorandum sheets record October 30 calls with Barbara Bush, C. Boyden Gray, John Schmitz, Jonathan Bush, and other entries.",
+      evidence:
+        "Itemized from pages 42-45 of the NARA direct folder scan using the White House Telephone Memorandum headings, Signal Switchboard sheets, call entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-october-30-1992",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: Racine, Nashville, St. Louis, and Milwaukee, October 30, 1992",
+      documentDate: "1992-10-30",
+      pages: 1,
+      excerpt:
+        "The Presidential Movements sheet logs President Bush's October 30 travel through Racine, Nashville, St. Louis, and Milwaukee.",
+      evidence:
+        "Itemized from page 46 of the NARA direct folder scan using the Presidential Movements heading, location list, movement table, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-ellis-campaign-endgame-harvard-fax-packet",
+      documentType: "Campaign Strategy Memoranda",
+      category: "campaign-strategy-correspondence",
+      disposition: "itemized-campaign-strategy-correspondence",
+      title: "John Ellis campaign endgame memoranda and Harvard Institute fax packet",
+      documentDate: "1992-10-29",
+      pages: 6,
+      excerpt:
+        "A Harvard Institute fax packet forwards John Ellis memoranda to President Bush, Fred Steeper, and George W. Bush on the campaign endgame, Perot, Clinton, the press, and closing strategy.",
+      evidence:
+        "Itemized from pages 47-52 of the NARA direct folder scan using the Harvard Kennedy School fax header, John Ellis memorandum headings, Campaign Endgame and The Campaign titles, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-stein-sunwater-farm-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John E. Stein Sunwater Farm campaign-support correspondence packet",
+      documentDate: "1992-10-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks John E. Stein of Sunwater Farm for an October 23 letter, says his spirits are high in the final stretch, and attaches Stein's handwritten incoming page.",
+      evidence:
+        "Itemized from pages 53-54 of the NARA direct folder scan using the George Bush letterhead, John E. Stein address block, Sunwater Farm incoming page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "elizabeth-rice-younger-companies-support-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Elizabeth Rice Younger Companies support correspondence packet",
+      documentDate: "1992-10-30",
+      pages: 4,
+      excerpt:
+        "President Bush thanks Elizabeth Rice of Younger Companies for supportive words and attaches her October 26 incoming letter plus related document-record pages.",
+      evidence:
+        "Itemized from pages 55-58 of the NARA direct folder scan using the presidential reply, Younger Companies letterhead, Elizabeth Rice document record, low-confidence record page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "morris-chapman-southern-baptist-support-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Morris H. Chapman Southern Baptist support correspondence packet",
+      documentDate: "1992-10-30",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Reverend Morris H. Chapman of the Southern Baptist Convention for prayers and support, with Chapman's October 29 letter and a document-record page attached.",
+      evidence:
+        "Itemized from pages 59-61 of the NARA direct folder scan using the presidential reply, Southern Baptist Convention letterhead, Chapman letter, document-record page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jerry-hart-republican-convention-furniture-thank-you",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jerry Hart Republican National Convention furniture thank-you packet",
+      documentDate: "1992-10-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Jerry Hart for donating furniture to the 1992 Republican National Convention, with Barbara Blackburn's memo requesting the presidential thank-you attached.",
+      evidence:
+        "Itemized from pages 62-63 of the NARA direct folder scan using the presidential letter, Jerry Hart address block, Barbara Blackburn memorandum, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jeb-bush-florida-campaign-note-president-has-seen",
+      documentType: "Handwritten Note",
+      category: "family-correspondence",
+      disposition: "itemized-family-correspondence",
+      title: "Jeb Bush handwritten Florida campaign note marked The President Has Seen",
+      documentDate: "1992-10-25",
+      pages: 1,
+      excerpt:
+        "A Jeb Bush handwritten note to his father predicts victory and comments on Florida, Clinton, Perot, the campaign, and President Bush's leadership.",
+      evidence:
+        "Itemized from page 64 of the NARA direct folder scan using the Jeb Bush Codina-Bush Group heading, The President Has Seen stamp, handwritten text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-susy-young-campaign-support-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John and Susy Young campaign-support correspondence packet",
+      documentDate: "1992-10-30",
+      pages: 4,
+      excerpt:
+        "President Bush writes John and Susy Young that their letters caught up with him on the campaign trail and attaches their incoming letters on NASA, campaign support, and friendship.",
+      evidence:
+        "Itemized from pages 65-68 of the NARA direct folder scan using the presidential reply, John W. Young address block, typed and handwritten incoming pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "monsignor-william-lyons-support-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Monsignor William J. Lyons support correspondence packet",
+      documentDate: "1992-10-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Monsignor William J. Lyons for a kind note and support, with a low-confidence handwritten incoming page attached.",
+      evidence:
+        "Itemized from pages 69-70 of the NARA direct folder scan using the presidential reply, Monsignor William J. Lyons address block, handwritten incoming page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "marvin-bush-family-note-keep-up-the-fight",
+      documentType: "Family Correspondence",
+      category: "family-correspondence",
+      disposition: "itemized-family-correspondence",
+      title: "Marvin Bush family note: Keep up the fight",
+      documentDate: "1992-10-30",
+      pages: 1,
+      excerpt:
+        "A family note to President Bush says to keep up the fight, expresses pride, and predicts victory, with a daily October 30 marking.",
+      evidence:
+        "Itemized from page 71 of the NARA direct folder scan using the handwritten Dad salutation, victory language, daily marking, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "eldred-brown-montana-support-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Eldred Brown Montana support correspondence packet",
+      documentDate: "1992-10-30",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Eldred Brown of Big Timber, Montana, for a supportive letter and includes Brown's incoming handwritten page plus a low-confidence backing or routing page.",
+      evidence:
+        "Itemized from pages 72-74 of the NARA direct folder scan using the presidential reply, Eldred Brown address block, handwritten incoming page, low-confidence backing page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "situation-room-transmission-white-house-news-summary-1000-update",
+      documentType: "Situation Room Transmission and News Update",
+      category: "news-summary-item",
+      disposition: "itemized-news-summary",
+      title: "Situation Room transmission and White House News Summary 10:00 A.M. update",
+      documentDate: "1992-10-30",
+      pages: 2,
+      excerpt:
+        "A Situation Room cover from Robin MacLean to Rose Zamaria forwards the 10:00 a.m. White House News Summary update on Bush's Today interview, the campaign, and polls.",
+      evidence:
+        "Itemized from pages 75-76 of the NARA direct folder scan using the Situation Room cover sheet, Rose Zamaria notation, 10:00 A.M. News Update heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-600-edition-october-30-1992",
+      documentType: "News Summary",
+      category: "news-summary-item",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: Friday, October 30, 1992 6:00 A.M. EST Edition",
+      documentDate: "1992-10-30",
+      pages: 26,
+      excerpt:
+        "The 6:00 a.m. White House News Summary compiles trip, national, international, and network news coverage on Bush, Clinton, Perot, polling, Iran-Contra, campaign rhetoric, media coverage, and early returns.",
+      evidence:
+        "Itemized from pages 77-102 of the NARA direct folder scan using the White House News Summary cover, A- and B-section continuation pages, network-news headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-friday-follies-october-30-1992",
+      documentType: "Political Cartoon Packet",
+      category: "news-summary-item",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary special edition Friday Follies cartoon packet",
+      documentDate: "1992-10-30",
+      pages: 28,
+      excerpt:
+        "The Friday Follies special edition presents political cartoons on Bush, Clinton, Perot, polling, the media, taxes, Halloween, and late-campaign themes.",
+      evidence:
+        "Itemized from pages 103-130 of the NARA direct folder scan using the White House News Summary Special Edition cover, Volume IV Issue 42, cartoon pages, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-130-update-october-30-1992",
+      documentType: "News Update",
+      category: "news-summary-item",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: October 30, 1992 1:30 P.M. EST News Update",
+      documentDate: "1992-10-30",
+      pages: 2,
+      excerpt:
+        "The 1:30 p.m. White House News Summary update covers CNN-USA Today polling, the electoral picture, Pennsylvania polling, Bush in Nashville, and Clinton's final campaign sprint.",
+      evidence:
+        "Itemized from pages 131-132 of the NARA direct folder scan using the 1:30 P.M. EST/12:30 P.M. CST News Update heading, update text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hotline-daily-briefing-october-30-1992",
+      documentType: "Political Briefing",
+      category: "political-briefing",
+      disposition: "itemized-political-briefing",
+      title: "The Hotline Daily Briefing on American Politics: October 30, 1992",
+      documentDate: "1992-10-30",
+      pages: 28,
+      excerpt:
+        "The Hotline briefing covers national polls, the bulletin-board index, Clinton, Perot, Bush, advertising, GOP 1996 speculation, schedules, state races, turnout, Senate and House races, polling, TV monitoring, and the Hotline election pool.",
+      evidence:
+        "Itemized from pages 133-160 of the NARA direct folder scan using the Daily Briefing cover, APN bulletin board, Hotline section headings, poll tables, election-pool form, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-415-update-october-30-1992",
+      documentType: "News Update",
+      category: "news-summary-item",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: October 30, 1992 4:15 P.M. EST News Update",
+      documentDate: "1992-10-30",
+      pages: 2,
+      excerpt:
+        "The 4:15 p.m. White House News Summary update covers Newsweek polling, President Bush's trip, the San Francisco Chronicle endorsement, and the Iran arms story.",
+      evidence:
+        "Itemized from pages 161-162 of the NARA direct folder scan using the 4:15 P.M. EST/3:15 P.M. CST News Update heading, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charley-bartlett-washington-focus-memo",
+      documentType: "Incoming Memorandum",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Charley Bartlett Washington Focus memo to the President",
+      documentDate: "1992-10-29",
+      pages: 1,
+      excerpt:
+        "Charley Bartlett tells President Bush he is red hot, comments on television interviews, a closing ad with undecided voters, and Bush's campaign language.",
+      evidence:
+        "Itemized from page 163 of the NARA direct folder scan using the Coleman/Bartlett's Washington Focus letterhead, Memo to the President heading, handwriting and sticky-note marks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gary-chapman-sarah-cannon-chapman-photo-note-phone-call-form",
+      documentType: "Photograph Note and Phone Call Form",
+      category: "presidential-phone-call-note",
+      disposition: "itemized-presidential-phone-call-note",
+      title: "Gary Chapman and Sarah Cannon Chapman photograph note with Air Force One phone-call form",
+      documentDate: "1992-10-30",
+      pages: 2,
+      excerpt:
+        "A low-confidence photograph or note page identifies Gary Chapman, Sarah Cannon Chapman, and Nashville, followed by a Presidential Phone Calls aboard Air Force One form.",
+      evidence:
+        "Itemized from pages 164-165 of the NARA direct folder scan using the Nashville family-note text, Presidential Phone Calls form, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "griffin-bell-atlanta-journal-support-clipping-record-page",
+      documentType: "Article Clipping and Record Page",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Griffin Bell Atlanta Journal support clipping and record page",
+      documentDate: "1992-10-30",
+      pages: 2,
+      excerpt:
+        "A document-record page and Atlanta Journal or Atlanta Constitution clipping feature Griffin B. Bell explaining why he is sticking with President Bush.",
+      evidence:
+        "Itemized from pages 166-167 of the NARA direct folder scan using the Bell document-record page, Atlanta Journal/Atlanta Constitution masthead, Griffin B. Bell article heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-october-30-campaign-perot-courts-environment-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "New York Times campaign, Perot, courts, environment, and business clippings: October 30, 1992",
+      documentDate: "1992-10-30",
+      pages: 22,
+      excerpt:
+        "New York Times clippings cover the youth vote, Hillary Clinton, Clinton's attack strategy, Quayle's final push, Bush's coalition, Perot, campaign ads, Washington appointees, Supreme Court appointments, Arkansas environmental issues, Iran-Contra commentary, the economy, and executives backing Bush.",
+      evidence:
+        "Itemized from pages 168-189 of the NARA direct folder scan using New York Times mastheads, article headings, rotated clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-october-30-courts-treasurer-china-perot-bush-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Los Angeles Times courts, U.S. Treasurer, China, Perot, Bush, and campaign clippings: October 30, 1992",
+      documentDate: "1992-10-30",
+      pages: 15,
+      excerpt:
+        "Los Angeles Times clippings cover workers and government, the Catalina Vasquez Villalpando investigation, Supreme Court stakes, Jesse Jackson, Clinton finances, network projections, China and the World Bank, Ross Perot, Tom Bethell, Bush in Grand Rapids, and Clinton's underdog appeals.",
+      evidence:
+        "Itemized from pages 190-204 of the NARA direct folder scan using Los Angeles Times Washington Edition mastheads, column labels, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-october-30-perot-economy-clinton-bush-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Wall Street Journal Perot, economy, Clinton tax, Bush, and campaign clippings: October 30, 1992",
+      documentDate: "1992-10-30",
+      pages: 7,
+      excerpt:
+        "Wall Street Journal clippings cover Perot's support, the three-way choice among Bush, Clinton, and Perot, Clinton's tax plan, Bush economic trust, Tennessee and Indiana campaign notes, and related late-campaign commentary.",
+      evidence:
+        "Itemized from pages 205-211 of the NARA direct folder scan using Wall Street Journal mastheads, Dow Jones notices, article headings, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-october-30-usair-schaefer-clinton-perot-hillary-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Washington Post USAir, Schaefer, Clinton, Perot, Hillary Clinton, and opinion clippings: October 30, 1992",
+      documentDate: "1992-10-30",
+      pages: 15,
+      excerpt:
+        "Washington Post clippings cover the USAir-British Airways deal, Governor Schaefer and Bush, women voters, the Cold War, voter organizing, Molly Ivins, health insurance, polling, religious letters against Clinton, Clinton campaign financing, Clinton's coalition, Perot, and Hillary Clinton.",
+      evidence:
+        "Itemized from pages 212-226 of the NARA direct folder scan using Washington Post mastheads, article headings, opinion pages, rotated clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-october-30-character-voting-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "USA Today character and voting clippings: October 30, 1992",
+      documentDate: "1992-10-30",
+      pages: 2,
+      excerpt:
+        "USA Today clippings include an Election 92 piece on character and personal attacks and a column urging voting before election day.",
+      evidence:
+        "Itemized from pages 227-228 of the NARA direct folder scan using USA Today date lines, Election 92 heading, column text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photographs-october-30-campaign-events",
+      documentType: "Official White House Photograph Packet",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title: "Official White House photographs and transfer pages from October 30 campaign events",
+      documentDate: "1992-10-30",
+      pages: 8,
+      excerpt:
+        "The photograph packet includes color official White House photographs from October 30 campaign events with transfer or backing pages and Official White House Photo source markings.",
+      evidence:
+        "Itemized from pages 229-236 of the NARA direct folder scan using color photograph pages, transfer/backing pages, Official White House Photo source markings, low-confidence OCR, and rendered-page review.",
+    },
+  ],
   470418164: [
     {
       slug: "manor-house-reception-acceptances",
@@ -32383,6 +32866,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418151",
   "470418154",
   "470418156",
+  "470418159",
   "646482525",
   "646482521",
   "646482523",
