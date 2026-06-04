@@ -29174,6 +29174,398 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 124-132 of the NARA direct folder scan using color photograph pages, official White House photo backing pages, handwritten labels, low-confidence OCR, and rendered-page review.",
     },
   ],
+  470418148: [
+    {
+      slug: "hilaria-piniera-asian-american-concerns-correspondence",
+      documentType: "Presidential Correspondence and Suggested Response",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Hilaria T. Piniera Asian American concerns correspondence and suggested response",
+      documentDate: "1992-10-23",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Hilaria T. Piniera about Asian American economic, health-care, and civil-rights concerns; the packet includes Piniera's question and a suggested response with presidential handwriting.",
+      evidence:
+        "Itemized from pages 2-4 of the NARA direct folder scan using the signed presidential reply, Piniera question page, Suggested Response: Asian American Concerns page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-bush-handwritten-campaign-issue-notes-october-23-1992",
+      documentType: "Handwritten Campaign Notes",
+      category: "handwritten-note-item",
+      disposition: "itemized-handwritten-note",
+      title: "President Bush handwritten campaign and issue notes after the final debate",
+      documentDate: "1992-10-23",
+      pages: 8,
+      excerpt:
+        "A run of presidential handwritten notes covers Vietnam and antiwar protest, Arkansas job growth, luxury-tax repeal, abortion and sex-selection points, welfare, and other final-campaign issue arguments.",
+      evidence:
+        "Itemized from pages 5-12 of the NARA direct folder scan using the handwritten notecards and loose notes, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "vessey-mccain-kerry-pow-mia-press-briefing",
+      documentType: "Press Briefing Transcript",
+      category: "press-briefing-transcript",
+      disposition: "itemized-press-briefing-transcript",
+      title: "Press briefing by General Vessey, Senator John McCain, and Senator John Kerry re Vietnam POW/MIA accounting",
+      documentDate: "1992-10-23",
+      pages: 9,
+      excerpt:
+        "The White House press briefing transcript records General John Vessey, Senator John McCain, and Senator John Kerry discussing Vietnam cooperation, recovered photographs, live-sighting cases, and POW/MIA accounting.",
+      evidence:
+        "Itemized from pages 13-21 of the NARA direct folder scan using the Press Briefing heading, speaker names, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ask-george-bush-wwor-tv-transcript",
+      documentType: "Presidential Remarks Transcript",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title: "Remarks by the President in Ask George Bush at WWOR-TV Studios",
+      documentDate: "1992-10-22",
+      pages: 15,
+      excerpt:
+        "The transcript of President Bush's Ask George Bush program in Secaucus covers health care, education, vouchers, the economy, taxes, character, cable legislation, forests, bilingual education, and campaign themes.",
+      evidence:
+        "Itemized from pages 22-36 of the NARA direct folder scan using the Ask George Bush heading, WWOR-TV Studios location, transcript page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "open-bidding-construction-projects-fact-sheet",
+      documentType: "Fact Sheet",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Fact sheet on Executive Order to Promote Open Bidding on Federal construction projects",
+      documentDate: "1992-10-23",
+      pages: 2,
+      excerpt:
+        "The White House fact sheet explains the executive order restricting discriminatory project labor agreements and promoting open bidding on Federal and federally funded construction projects.",
+      evidence:
+        "Itemized from pages 37-38 of the NARA direct folder scan using the fact-sheet heading, Miami dateline, page number, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lydia-flores-perkins-daily-point-of-light-release",
+      documentType: "Daily Point of Light Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Daily Point of Light release recognizing Lydia Flores Perkins",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "The White House release recognizes Lydia Flores Perkins of Pharr, Texas, as the 933rd Daily Point of Light for her Special Olympics volunteer work and support for athletes with disabilities.",
+      evidence:
+        "Itemized from page 39 of the NARA direct folder scan using the rotated Daily Point of Light release, Lydia Flores Perkins name, embargo line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "emergency-appropriations-andrew-iniki-omar-release",
+      documentType: "Press Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "White House release on emergency appropriations for Hurricanes Andrew and Iniki and Typhoon Omar",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "The White House announces emergency appropriations for Agriculture, Commerce, HUD, Interior, and Labor to aid victims of Hurricanes Andrew and Iniki and Typhoon Omar.",
+      evidence:
+        "Itemized from page 40 of the NARA direct folder scan using the Miami Office of the Press Secretary heading, emergency appropriations text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "helen-shapiro-daily-point-of-light-release",
+      documentType: "Daily Point of Light Release",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "Daily Point of Light release recognizing Helen Shapiro",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "The White House release recognizes Helen Shapiro of Cleveland Heights, Ohio, as the 932nd Daily Point of Light for adult tutoring, citizenship classes, and Russian-language assistance.",
+      evidence:
+        "Itemized from page 41 of the NARA direct folder scan using the London, Kentucky Daily Point of Light release, Helen Shapiro name, embargo line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "national-defense-authorization-act-statement-duplicate-copies",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "President Bush statement on signing the FY 1993 National Defense Authorization Act, duplicate scanned copies",
+      documentDate: "1992-10-23",
+      pages: 4,
+      excerpt:
+        "President Bush's statement on H.R. 5006 discusses defense priorities, the Cuban Democracy Act, foreign-policy authority, troop levels, honoraria restrictions, technology data collection, and export controls; the scan contains two complete two-page copies.",
+      evidence:
+        "Itemized from pages 42-45 of the NARA direct folder scan using the Statement by the President heading, H.R. 5006 title, repeated two-page copy sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "canada-free-trade-rules-of-origin-letter-text",
+      documentType: "Presidential Letter Text",
+      category: "presidential-message",
+      disposition: "itemized-presidential-message",
+      title: "Text of President Bush letter to Finance and Ways and Means chairmen re Canada free-trade rules of origin",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "The released text transmits a report and related documents concerning an amendment to Annex 301.2 of the United States-Canada Free-Trade Agreement rules of origin.",
+      evidence:
+        "Itemized from page 46 of the NARA direct folder scan using the Text of a Letter from the President heading, committee-chairmen title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "richard-wall-board-of-visitors-appointment-release",
+      documentType: "Appointment Announcement",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "White House release announcing Richard J. Wall appointment to the West Point Board of Visitors",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intention to appoint Richard J. Wall to the Board of Visitors to the United States Military Academy for a term expiring December 30, 1994.",
+      evidence:
+        "Itemized from page 47 of the NARA direct folder scan using the appointment announcement, Richard J. Wall name, OCR, and rendered-page review.",
+    },
+    {
+      slug: "depository-institutions-disaster-relief-act-statement",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "President Bush statement on signing the Depository Institutions Disaster Relief Act",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "President Bush's statement on H.R. 6050 says the Act gives banking regulators limited discretion to waive rules restricting credit services in areas hit by Hurricanes Andrew and Iniki and the Los Angeles riots.",
+      evidence:
+        "Itemized from page 48 of the NARA direct folder scan using the Statement by the President heading, H.R. 6050 title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "asian-pacific-american-heritage-month-statement",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "President Bush statement on Asian Pacific American Heritage Month",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "President Bush's statement notes his signing of legislation designating May of each year as Asian/Pacific American Heritage Month and praises Asian Pacific Americans' contributions to the nation.",
+      evidence:
+        "Itemized from page 49 of the NARA direct folder scan using the rotated Statement by the President page, Asian/Pacific American Heritage Month text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "open-bidding-construction-projects-executive-order",
+      documentType: "Executive Order",
+      category: "executive-order",
+      disposition: "itemized-executive-order",
+      title: "Executive Order: Open Bidding on Federal and Federally Funded Construction Projects",
+      documentDate: "1992-10-23",
+      pages: 3,
+      excerpt:
+        "The executive order directs open bidding on Federal and federally funded construction projects and bars certain union-only or discriminatory project-agreement requirements.",
+      evidence:
+        "Itemized from pages 50-52 of the NARA direct folder scan using the Executive Order heading, section sequence, George Bush signature line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wild-bird-conservation-act-statement",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "President Bush statement on signing the Wild Bird Conservation Act",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "President Bush's statement on H.R. 5013 praises the Wild Bird Conservation Act for promoting conservation of wild exotic birds and supporting global wildlife-protection efforts.",
+      evidence:
+        "Itemized from page 53 of the NARA direct folder scan using the Statement by the President heading, H.R. 5013 title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "laurel-county-welcome-remarks",
+      documentType: "Presidential Remarks Transcript",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title: "Remarks by the President at Laurel County Welcome in London, Kentucky",
+      documentDate: "1992-10-23",
+      pages: 5,
+      excerpt:
+        "President Bush's remarks at South Laurel High School Football Stadium praise Mitch McConnell and Kentucky supporters, attack Clinton's Arkansas record, and lay out final campaign themes on crime, education, the economy, and foreign policy.",
+      evidence:
+        "Itemized from pages 54-58 of the NARA direct folder scan using the Laurel County Welcome heading, transcript page sequence, London dateline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "edward-lacey-ambassador-rank-appointment-release",
+      documentType: "Appointment Announcement",
+      category: "press-release-item",
+      disposition: "itemized-press-release",
+      title: "White House release announcing Edward L. Lacey personal rank of Ambassador",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intention to accord Edward L. Lacey the personal rank of Ambassador while serving as Head of Delegation to a biological and toxin weapons verification conference.",
+      evidence:
+        "Itemized from page 59 of the NARA direct folder scan using the appointment announcement, Edward L. Lacey name, OCR, and rendered-page review.",
+    },
+    {
+      slug: "october-23-legislation-signed-release",
+      documentType: "Legislation Signing Release",
+      category: "press-release-item",
+      disposition: "itemized-legislation-signing-release",
+      title: "White House release listing legislation signed by President Bush on October 23, 1992",
+      documentDate: "1992-10-23",
+      pages: 4,
+      excerpt:
+        "The release lists legislation signed by President Bush, including Braille Literacy Week, National Medical Staff Services Awareness Week, Religious Freedom Day, Wild and Scenic Rivers measures, private relief bills, courthouse designations, and education and science measures.",
+      evidence:
+        "Itemized from pages 60-63 of the NARA direct folder scan using the signed-legislation heading, four-page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bill-hodgdon-presidential-eagle-repair-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Bill Hodgdon correspondence re repairing the Walker's Point presidential eagle",
+      documentDate: "1992-10-23",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Bill Hodgdon for repairing the broken wing of the Walker's Point presidential eagle after storm damage; the packet includes Ed Flynn's note and a repair invoice.",
+      evidence:
+        "Itemized from pages 64-66 of the NARA direct folder scan using the presidential reply, PPD/Kennebunkport fax, Ed Flynn note, repair invoice, OCR, and rendered-page review.",
+    },
+    {
+      slug: "james-robinson-american-express-replacement-card-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "James D. Robinson III correspondence re replacement American Express cards",
+      documentDate: "1992-10-23",
+      pages: 2,
+      excerpt:
+        "President Bush thanks American Express chairman James D. Robinson III for issuing replacement cards after the President's card was visible during a Larry King appearance; Robinson's incoming letter is attached.",
+      evidence:
+        "Itemized from pages 67-68 of the NARA direct folder scan using the presidential reply, American Express letterhead, incoming Robinson letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-atkinson-american-express-disclosure-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robert B. Atkinson correspondence re inadvertent disclosure of President Bush's American Express card",
+      documentDate: "1992-10-23",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Robert B. Atkinson for warning him that his American Express card number had been visible during the Larry King Live broadcast, with Atkinson's incoming letter attached.",
+      evidence:
+        "Itemized from pages 69-70 of the NARA direct folder scan using the presidential reply, Atkinson incoming letter, presidential handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-gates-flowers-young-republicans-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "David E. Gates flowers and Young Republicans correspondence packet",
+      documentDate: "1992-10-23",
+      pages: 2,
+      excerpt:
+        "President Bush thanks David E. Gates for flowers sent to his Spartanburg hotel room and praises Young Republicans' election work, with the florist card and handwritten enclosure attached.",
+      evidence:
+        "Itemized from pages 71-72 of the NARA direct folder scan using the presidential reply, Westgate Magnolia Flowers card, David Gates note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robby-adam-palo-flag-pins-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robby and Adam Palo U.S. flag pins correspondence packet",
+      documentDate: "1992-10-23",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Robby and Adam Palo for U.S. flag pins, says he will give one to Barbara Bush, and comments on his North Carolina visit; the children's pin note is attached.",
+      evidence:
+        "Itemized from pages 73-74 of the NARA direct folder scan using the presidential reply, flag-pin note, Concord address, OCR, and rendered-page review.",
+    },
+    {
+      slug: "georgia-hill-birthday-correspondence-and-drawings",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Georgia Hill birthday correspondence, drawing, and signed photograph packet",
+      documentDate: "1992-10-23",
+      pages: 4,
+      excerpt:
+        "President Bush wishes seven-year-old Georgia Hill a happy birthday, apologizes for missing her party, and sends a signed photograph of himself with Millie and Ranger; Georgia's drawing and handwritten note are attached.",
+      evidence:
+        "Itemized from pages 75-78 of the NARA direct folder scan using the presidential reply, signed photograph, Georgia Hill drawing, handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-1-lexington-london-kentucky",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #1: Air Force One to Lexington and Marine One to London",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "Pool Report #1 describes President Bush's Lexington arrival, rope line, Mr. Microphone remarks, Marlin Fitzwater's comments on the tax bill and campaign themes, and the South Laurel stadium crowd.",
+      evidence:
+        "Itemized from page 79 of the NARA direct folder scan using the Pool Report #1 heading, reporter names, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-2-london-lexington-miami",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #2: London to Lexington and Miami",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "Pool Report #2 covers the helicopter ride from London to Lexington, supporters at the airport, the Florida Police Benevolent Association endorsement in Fort Lauderdale, and the motorcade to a fundraiser.",
+      evidence:
+        "Itemized from page 80 of the NARA direct folder scan using the Pool Report #2 heading, route line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-wplg-tv-air-force-one-montgomery",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool report: Motorcade to WPLG-TV and Air Force One to Montgomery",
+      documentDate: "1992-10-23",
+      pages: 1,
+      excerpt:
+        "The pool report covers President Bush after the Ask George Bush program, protesters outside the television studio, Ron Kaufman's comments on the fundraiser, and Marlin Fitzwater's reaction to a state-by-state poll.",
+      evidence:
+        "Itemized from page 81 of the NARA direct folder scan using the Pool Report heading, WPLG-TV route line, handwritten date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "diane-mitchell-harwood-good-luck-tie-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Diane and Mitchell Harwood good-luck tie correspondence packet",
+      documentDate: "1992-10-23",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Diane and Mitchell Harwood for a good-luck tie, recalls North Carolina warmth, and says only ten more days remain; the Harwood handwritten note and business-card page are attached.",
+      evidence:
+        "Itemized from pages 82-83 of the NARA direct folder scan using the presidential reply, Harwood note, Mitchell L. Harwood business-card text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alec-poitevint-georgia-republicans-correspondence",
+      documentType: "Campaign Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Alec Poitevint Georgia Republicans correspondence packet",
+      documentDate: "1992-10-23",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Alec Poitevint for the Georgia Republicans' support and predicts victory in the final campaign stretch; Poitevint's September 24 handwritten note on Georgia campaign help is attached.",
+      evidence:
+        "Itemized from pages 84-85 of the NARA direct folder scan using the presidential reply, Georgia Republicans letterhead, Poitevint incoming note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ray-handwritten-encouragement-note-and-envelope",
+      documentType: "Handwritten Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ray handwritten encouragement note and envelope after the final debate",
+      documentDate: "1992-10-23",
+      pages: 2,
+      excerpt:
+        "A handwritten note signed Ray thanks President Bush for dinner and theater, says the Big Mo is back after the debate, and sends best wishes to Barbara Bush; the accompanying envelope is preserved as a Bush Library photocopy.",
+      evidence:
+        "Itemized from pages 86-87 of the NARA direct folder scan using the handwritten note, envelope addressed to the President, Bush Library handwriting marker, low-confidence OCR, and rendered-page review.",
+    },
+  ],
   470418164: [
     {
       slug: "manor-house-reception-acceptances",
@@ -30041,6 +30433,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418143",
   "470418144",
   "470418146",
+  "470418148",
   "646482525",
   "646482521",
   "646482523",
