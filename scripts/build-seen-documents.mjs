@@ -18860,6 +18860,21 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 124-138 of the NARA direct folder scan using color photograph pages, official White House photograph metadata backs, Friends of Dan Coats sign text, OCR, and rendered-page review.",
     },
   ],
+  646482521: [
+    {
+      slug: "pat-boone-nbc-oval-office-interview-letter",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Pat Boone letter commending President Bush's NBC Oval Office interview",
+      documentDate: "1992-08-12",
+      pages: 1,
+      excerpt:
+        "Pat Boone writes President Bush that his NBC Oval Office interview was an attempted ambush and praises the President's decency, common sense, and backbone.",
+      evidence:
+        "Itemized from the one-page NARA direct folder scan using Pat Boone Enterprises letterhead, fax date line, signature, OCR, PDF page count, and rendered-page review.",
+    },
+  ],
   470417997: [
     {
       slug: "marked-branson-rally-remarks",
@@ -24422,6 +24437,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417985",
   "470417986",
   "470418083",
+  "646482521",
 ]);
 
 function buildDirectSupplementalItemDocuments(folder, packetDoc) {

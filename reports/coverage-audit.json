@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T00:19:28.209Z",
+  "generatedAt": "2026-06-04T00:23:21.004Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
@@ -55,7 +55,7 @@
     "itemized-legislative-issues-update": 3,
     "itemized-aids-policy-memo": 1,
     "itemized-press-clipping": 4,
-    "itemized-presidential-correspondence": 299,
+    "itemized-presidential-correspondence": 300,
     "itemized-capital-gains-press-article": 1,
     "itemized-title-x-pregnancy-counseling": 5,
     "itemized-title-x-pregnancy-counseling-press": 6,
@@ -317,10 +317,10 @@
     "itemized-white-house-photographs": 1,
     "itemized-vfw-convention-remarks": 4,
     "itemized-campaign-press-clipping": 2,
-    "itemized-correspondence-letter": 194,
     "itemized-press-clipping-routing": 1,
     "itemized-event-remarks-notes": 1,
     "itemized-white-house-photo": 2,
+    "itemized-correspondence-letter": 193,
     "itemized-campaign-rebuttal-talking-points": 1,
     "itemized-campaign-strategy-memorandum": 3,
     "itemized-briefing-binder": 1,
@@ -27538,6 +27538,21 @@
     },
     {
       "date": "1992-08-17",
+      "documentDate": "1992-08-12",
+      "title": "Pat Boone letter commending President Bush's NBC Oval Office interview",
+      "parentPacketId": "nara-646482521-direct-scan",
+      "naId": "646482521",
+      "folderId": "90707-007",
+      "containerId": "90707",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Letter",
+      "catalogUrl": "https://catalog.archives.gov/id/646482521",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/a250-batch002/41-bpr-daily_files-90707-007_Pat_Boone.pdf",
+      "excerpt": "Pat Boone writes President Bush that his NBC Oval Office interview was an attempted ambush and praises the President's decency, common sense, and backbone."
+    },
+    {
+      "date": "1992-08-17",
       "documentDate": "1992-08-10",
       "title": "ALEC annual meeting memorandum and Colorado press clippings",
       "parentPacketId": "nara-470417985-direct-scan",
@@ -28210,21 +28225,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417985",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90707-007.pdf",
       "excerpt": "A Bush Library photocopy of the VFW Convention speech includes a cover page and fourteen pages of remarks with President Bush handwriting visible throughout the copy."
-    },
-    {
-      "date": "1992-08-17",
-      "documentDate": "1992-08-12",
-      "title": "Letter: Dear Mr. President",
-      "parentPacketId": "nara-646482521-direct-scan",
-      "naId": "646482521",
-      "folderId": "90707-007",
-      "containerId": "90707",
-      "category": "letter-item",
-      "disposition": "itemized-correspondence-letter",
-      "type": "Letter",
-      "catalogUrl": "https://catalog.archives.gov/id/646482521",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/a250-batch002/41-bpr-daily_files-90707-007_Pat_Boone.pdf",
-      "excerpt": "The White House Washington D.C. 20500 Dear Mr. President: I saw your interview last night on NBC, from the Oval Office. In fact, it was not an interview - it was an attempted ambush. you handled it so adroitly, though it was obvious he had surprised and offended you, even as you were extending to this reporter the hospitality and dignity of the Oval Office itself, as well as your own trust in his decency and professionalism. He deliberatcly and meanly soiled the whole occasion - and I'm sure it took everything i..."
     },
     {
       "date": "1992-08-18",
