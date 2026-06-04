@@ -39618,6 +39618,307 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 107-108 of the NARA direct folder scan using the presidential handwritten note to Bill Kime, Andy Card/Rose routing note, OCR, and rendered-page review.",
     },
   ],
+  470418243: [
+    {
+      slug: "national-medal-freedom-awards-remarks-staffing-packet",
+      documentType: "Staffing Memorandum, Proposed Remarks Memorandum, and Remarks Draft",
+      category: "speech-remarks",
+      disposition: "itemized-speech-remarks-draft",
+      title: "National Medal of Freedom Awards remarks staffing packet",
+      documentDate: "1992-12-11",
+      pages: 6,
+      excerpt:
+        "A White House staffing memorandum and Ed Walters memorandum forward proposed presidential remarks for the National Medal of Freedom Awards in the Rose Garden.",
+      evidence:
+        "Itemized from pages 2-7 of the NARA direct folder scan using the staffing memorandum, Ed Walters proposed-remarks memorandum, remarks draft pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-laughter-gerald-ford-recommendation-correspondence",
+      documentType: "Routing Note and Recommendation Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "David C. Laughter and Gerald Ford recommendation correspondence packet",
+      documentDate: "1992-12-11",
+      pages: 3,
+      excerpt:
+        "A routing note precedes David C. Laughter's request and Gerald Ford's recommendation letter for Laughter.",
+      evidence:
+        "Itemized from pages 8-10 of the NARA direct folder scan using the Rose Zamaria routing note, David C. Laughter letter, Gerald Ford recommendation letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "elizabeth-dole-somalia-return-meeting-phone-note",
+      documentType: "Telephone Message Note",
+      category: "telephone-note-item",
+      disposition: "itemized-telephone-message",
+      title: "Elizabeth Dole phone note re Somalia return meeting",
+      documentDate: "1992-12-11",
+      pages: 1,
+      excerpt:
+        "A phone note records Elizabeth Dole calling on her way to Somalia and asking for an off-the-record meeting with President Bush after her return.",
+      evidence:
+        "Itemized from page 11 of the NARA direct folder scan using the Elizabeth Dole phone note, Somalia and December 21/22 meeting references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-president-december-11-1992",
+      documentType: "Materials Forwarded List",
+      category: "materials-forwarded-list",
+      disposition: "itemized-materials-forwarded-list",
+      title: "Materials Forwarded to the President: December 11, 1992",
+      documentDate: "1992-12-11",
+      pages: 1,
+      excerpt:
+        "The forwarding list inventories a mail sample, Thomas Jefferson Commission personnel material, and a memorandum for the Postmaster General sent to President Bush.",
+      evidence:
+        "Itemized from page 12 of the NARA direct folder scan using the Materials Forwarded to the President heading, December 11 date, listed entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "leonard-garment-willis-conover-medal-freedom-correspondence",
+      documentType: "Presidential Note and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Leonard Garment correspondence re Willis Conover Medal of Freedom case",
+      documentDate: "1992-12-11",
+      pages: 4,
+      excerpt:
+        "President Bush writes Leonard Garment about the Willis Conover Medal of Freedom case, with incoming appeals from Stephen Garment and Bill Gavin retained.",
+      evidence:
+        "Itemized from pages 13-16 of the NARA direct folder scan using the presidential handwritten note to Leonard Garment, incoming Stephen Garment and Bill Gavin pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "grace-holden-dorothy-bush-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Condolence Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Grace M. Holden condolence correspondence re Dorothy Walker Bush",
+      documentDate: "1992-12-11",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Grace M. Holden after her handwritten condolence note about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 17-18 of the NARA direct folder scan using the presidential handwritten reply, Grace Holden incoming condolence note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lacey-dorn-dorothy-bush-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Condolence Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Lacey Dorn condolence correspondence re Dorothy Walker Bush",
+      documentDate: "1992-12-11",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Lacey Neuhaus Dorn after her handwritten condolence note about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 19-21 of the NARA direct folder scan using the outgoing presidential note, Lacey Neuhaus Dorn handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "carl-kuttler-book-gift-correspondence",
+      documentType: "Presidential Reply, Routing Note, and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Carl M. Kuttler Jr. book-gift correspondence packet",
+      documentDate: "1992-12-11",
+      pages: 4,
+      excerpt:
+        "President Bush thanks Carl M. Kuttler Jr. for the book My Utmost for His Highest, with a Jeb Bush forwarding note and Kuttler's incoming letter attached.",
+      evidence:
+        "Itemized from pages 22-25 of the NARA direct folder scan using the presidential reply, Jeb Bush forwarding note, Carl Kuttler incoming pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "december-11-telephone-memoranda-presidential-movements",
+      documentType: "Telephone Memoranda and Presidential Movements Packet",
+      category: "presidential-daily-file-log",
+      disposition: "itemized-daily-file-log",
+      title: "White House telephone memoranda and presidential movements for December 11, 1992",
+      documentDate: "1992-12-11",
+      pages: 4,
+      excerpt:
+        "White House telephone memorandum forms, a Signal Switchboard sheet, and a Presidential Movements sheet record President Bush's December 11 calls and movements.",
+      evidence:
+        "Itemized from pages 26-29 of the NARA direct folder scan using the Telephone Memorandum forms, Signal Switchboard sheet, Presidential Movements sheet, OCR, and rendered-page review.",
+    },
+    {
+      slug: "beth-mike-paynter-condolence-football-hall-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Beth and Mike Paynter condolence and Pro Football Hall of Fame correspondence",
+      documentDate: "1992-12-11",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Beth and Mike Paynter after their condolence note and Pro Football Hall of Fame invitation.",
+      evidence:
+        "Itemized from pages 30-31 of the NARA direct folder scan using the presidential reply, Mike Paynter incoming letter, Pro Football Hall of Fame reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bill-leblond-dorothy-bush-election-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Bill LeBlond condolence and election correspondence packet",
+      documentDate: "1992-12-11",
+      pages: 3,
+      excerpt:
+        "President Bush writes Bill LeBlond about Dorothy Walker Bush, the election, and returning to Texas on January 20.",
+      evidence:
+        "Itemized from pages 32-34 of the NARA direct folder scan using the presidential handwritten reply, Bill LeBlond incoming pages, election and Texas-return references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "barrington-boardman-dorothy-bush-holiday-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Barrington Boardman condolence and holiday correspondence packet",
+      documentDate: "1992-12-11",
+      pages: 4,
+      excerpt:
+        "President Bush writes Sandy Boardman about Dorothy Walker Bush and fishing, with the incoming holiday and condolence note retained.",
+      evidence:
+        "Itemized from pages 35-38 of the NARA direct folder scan using the presidential handwritten note, Barrington/Sandy Boardman incoming pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "v-carrol-kriticos-houston-staff-position-correspondence",
+      documentType: "Presidential Reply, Incoming Correspondence, and Resume Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "V. Carrol Kriticos Houston staff-position correspondence packet",
+      documentDate: "1992-12-11",
+      pages: 5,
+      excerpt:
+        "President Bush replies to V. Carrol Kriticos about her interest in working for him in Houston, with her incoming letter and resume pages attached.",
+      evidence:
+        "Itemized from pages 39-43 of the NARA direct folder scan using the presidential reply, Kriticos incoming letter, resume pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gene-stallings-football-keepsake-correspondence",
+      documentType: "Presidential Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Gene Stallings football keepsake correspondence",
+      documentDate: "1992-12-11",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Gene Stallings and Frank Spell for the autographed football keepsake as the Crimson Tide rolls on.",
+      evidence:
+        "Itemized from page 44 of the NARA direct folder scan using the presidential handwritten reply, Gene Stallings and Frank Spell references, football keepsake text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-december-11-1992",
+      documentType: "First Lady Press Clippings Packet",
+      category: "first-lady-press-clippings",
+      disposition: "itemized-first-lady-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: December 11, 1992",
+      documentDate: "1992-12-11",
+      pages: 11,
+      excerpt:
+        "The First Lady press clipping packet collects December 11 coverage on Somalia, the Clinton transition, books, New Haven, landscape awards, teen girls, and prostate research.",
+      evidence:
+        "Itemized from pages 45-55 of the NARA direct folder scan using the Mrs. Bush's Press Office cover sheet, clipping pages and mastheads, OCR, and rendered-page review.",
+    },
+    {
+      slug: "december-11-signal-switchboard-movements-loose-copy",
+      documentType: "Signal Switchboard and Presidential Movements Sheets",
+      category: "presidential-daily-file-log",
+      disposition: "itemized-daily-file-log",
+      title: "Signal Switchboard and Presidential Movements loose copy for December 11, 1992",
+      documentDate: "1992-12-11",
+      pages: 2,
+      excerpt:
+        "A Signal Switchboard telephone-memorandum sheet and Presidential Movements sheet preserve an additional December 11 daily-file log copy.",
+      evidence:
+        "Itemized from pages 56-57 of the NARA direct folder scan using the Signal Switchboard memorandum sheet, Presidential Movements sheet, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wayne-anderson-gala-photograph-correspondence",
+      documentType: "Presidential Reply, Incoming Correspondence, and Photograph Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Wayne C. Anderson Gala photograph correspondence packet",
+      documentDate: "1992-12-11",
+      pages: 6,
+      excerpt:
+        "President Bush replies to Wayne C. Anderson about a Houston Gala and an autographed official photograph, with incoming letter and photograph pages retained.",
+      evidence:
+        "Itemized from pages 58-63 of the NARA direct folder scan using the presidential reply, Wayne Anderson incoming letter, official photograph pages, rotated photo material, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michael-brooks-pintlala-baptist-church-correspondence",
+      documentType: "Presidential Reply, Staff Note, and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Michael J. Brooks Pintlala Baptist Church correspondence packet",
+      documentDate: "1992-12-11",
+      pages: 6,
+      excerpt:
+        "President Bush replies to Rev. Michael J. Brooks about Pintlala Baptist Church and the election, with a staff note and Brooks's incoming handwritten pages retained.",
+      evidence:
+        "Itemized from pages 64-69 of the NARA direct folder scan using the presidential reply, staff routing note, Rev. Michael Brooks handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "harold-robbins-service-gratitude-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Harold Robbins service-gratitude correspondence packet",
+      documentDate: "1992-12-11",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Mr. and Mrs. Harold Robbins for kind words about his service and integrity.",
+      evidence:
+        "Itemized from pages 70-71 of the NARA direct folder scan using the presidential reply, Harold Robbins incoming letter, service and integrity references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "janet-uzzell-dick-names-san-jacinto-correspondence",
+      documentType: "Presidential Reply, Incoming Correspondence, and Related Letter Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Janet Uzzell, Dick Names, and San Jacinto correspondence packet",
+      documentDate: "1992-12-11",
+      pages: 4,
+      excerpt:
+        "President Bush replies to Janet Uzzell about Dick Names and the George Bush World War II Years program, with related San Jacinto and Puyallop Presbyterian Church correspondence retained.",
+      evidence:
+        "Itemized from pages 72-75 of the NARA direct folder scan using the presidential reply, Janet Uzzell incoming letter, Dick Names and San Jacinto references, related church letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "brian-donnelly-birth-certificate-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Brian J. Donnelly birth-certificate gift correspondence packet",
+      documentDate: "1992-12-11",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Representative Brian J. Donnelly for a framed copy of his birth certificate from Milton.",
+      evidence:
+        "Itemized from pages 76-77 of the NARA direct folder scan using the presidential reply, Donnelly incoming note, Milton birth-certificate reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "december-11-1991-presidential-schedule-copy",
+      documentType: "Presidential Schedule Copy",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title: "Schedule of the President: December 11, 1991 copy",
+      documentDate: "1991-12-11",
+      pages: 2,
+      excerpt:
+        "A retained copy of President Bush's Wednesday, December 11, 1991 schedule appears in the December 11, 1992 memorandum packet.",
+      evidence:
+        "Itemized from pages 78-79 of the NARA direct folder scan using the Schedule of the President heading, Wednesday December 11 1991 date, handwritten notes, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rnc-daily-news-summary-december-11-1992",
+      documentType: "Daily News Summary and Press Clipping Packet",
+      category: "daily-news-summary",
+      disposition: "itemized-news-summary",
+      title: "The Daily News Summary: December 11, 1992",
+      documentDate: "1992-12-11",
+      pages: 33,
+      excerpt:
+        "The Daily News Summary packet collects December 11 coverage of the Clinton economic team, BNL/Iraq loans, Packwood, Moynihan, Aspin, speech limits, Wall Street Journal items, and Washington political columns.",
+      evidence:
+        "Itemized from pages 80-112 of the NARA direct folder scan using the Daily News Summary cover, clipping mastheads, article headlines, OCR, and rendered-page review.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -40060,6 +40361,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418214",
   "470418215",
   "470418239",
+  "470418243",
   "646482525",
   "646482521",
   "646482523",
