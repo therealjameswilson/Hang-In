@@ -32492,6 +32492,281 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 153-159 of the NARA direct folder scan using color photograph pages, official photo transfer/backing pages, sticky-note labels, low-confidence OCR, and rendered-page review.",
     },
   ],
+  470418174: [
+    {
+      slug: "alan-bunny-burke-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Alan and Bunny Burke post-election correspondence and handwritten presidential reply",
+      documentDate: "1992-11-04",
+      pages: 5,
+      excerpt:
+        "The packet includes the President's handwritten reply to Alan and Bunny Burke and two incoming November 4 notes from Daniel B. Burke and from Bunny and Dan about the election, the economy, and the Bushes' White House years.",
+      evidence:
+        "Itemized from pages 2-6 of the NARA direct folder scan using the handwritten presidential reply, Daniel B. Burke note, Bunny and Dan note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-to-robert-goodwin-new-zealand",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Handwritten letter from the President to Robert F. Goodwin re New Zealand ambassadorship",
+      documentDate: "1992-11-09",
+      pages: 1,
+      excerpt:
+        "The President thanks Robert F. Goodwin for what he has done and says he is sorry the New Zealand ambassadorship did not work out.",
+      evidence:
+        "Itemized from page 7 of the NARA direct folder scan using the handwritten presidential letter, Robert F. Goodwin address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "paulette-jonathan-toellner-card-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Paulette and Jonathan Toellner card correspondence and presidential reply",
+      documentDate: "1992-11-09",
+      pages: 2,
+      excerpt:
+        "The President replies to Paulette and Jonathan Toellner's supportive card, saying winning was not in the cards but he and Mrs. Bush gave it their best shot.",
+      evidence:
+        "Itemized from pages 8-9 of the NARA direct folder scan using the presidential letter to Paulette and Jonathan Toellner, handwritten card page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "paul-overstreet-cd-gift-correspondence",
+      documentType: "Gift Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Paul Overstreet CD gift correspondence and White House gift register",
+      documentDate: "1992-11-09",
+      pages: 2,
+      excerpt:
+        "The President thanks Paul Overstreet for a CD with a kind inscription, and the attached White House gift register records the CD presentation at a Bush-Quayle rally.",
+      evidence:
+        "Itemized from pages 10-11 of the NARA direct folder scan using the presidential thank-you letter, White House gift register, OCR, and rendered-page review.",
+    },
+    {
+      slug: "donald-keough-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Donald R. Keough post-election correspondence and presidential reply",
+      documentDate: "1992-11-04",
+      pages: 2,
+      excerpt:
+        "Donald R. Keough thanks the President and Barbara Bush for their service, and the President replies that Keough's November 4 letter meant a lot to them.",
+      evidence:
+        "Itemized from pages 12-13 of the NARA direct folder scan using the presidential letter, Donald R. Keough letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "frederick-reeder-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Frederick M. Reeder post-election correspondence and presidential reply",
+      documentDate: "1992-11-04",
+      pages: 2,
+      excerpt:
+        "Rear Admiral Frederick M. Reeder writes after the election, and the President replies with thanks for Reeder's support during the tough political year.",
+      evidence:
+        "Itemized from pages 14-15 of the NARA direct folder scan using the presidential letter, Reeder incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michael-forbes-small-business-administration-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Michael P. Forbes Small Business Administration correspondence and presidential reply",
+      documentDate: "1992-11-05",
+      pages: 4,
+      excerpt:
+        "Michael P. Forbes writes on Small Business Administration letterhead about the privilege of serving in the Bush administration and also sends Rose Zamaria a note; the President replies with thanks.",
+      evidence:
+        "Itemized from pages 16-19 of the NARA direct folder scan using the presidential reply, Michael P. Forbes handwritten note and continuation, Rose Zamaria note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "victor-hancock-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Victor J. Hancock post-election correspondence and presidential reply",
+      documentDate: "1992-11-03",
+      pages: 3,
+      excerpt:
+        "Victor J. Hancock writes about President Bush's service and the November 3 concession speech, and the President replies that Hancock and Jo Ann lifted up this friend of yours.",
+      evidence:
+        "Itemized from pages 20-22 of the NARA direct folder scan using the presidential letter to Victor Hancock, two-page incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "peter-leblond-chiquita-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Peter LeBlond Chiquita Brands post-election correspondence and presidential reply",
+      documentDate: "1992-11-05",
+      pages: 2,
+      excerpt:
+        "Peter LeBlond of Chiquita Brands writes that he is saddened President Bush will not be leading the country for the next four years, and the President replies with thanks and best wishes.",
+      evidence:
+        "Itemized from pages 23-24 of the NARA direct folder scan using the presidential reply, Chiquita Brands handwritten letterhead page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "james-cahill-truman-story-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "James D. Cahill III correspondence re President Truman story and presidential reply",
+      documentDate: "1992-10-20",
+      pages: 2,
+      excerpt:
+        "James D. Cahill III writes about a President Truman anecdote and offers election-day best wishes, and the President replies on November 9.",
+      evidence:
+        "Itemized from pages 25-26 of the NARA direct folder scan using the presidential letter, J.D. Cahill Co. incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jerry-webber-ed-lawson-election-tribute-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jerry Webber and Ed Lawson election tribute correspondence with extra presidential reply copy",
+      documentDate: "1992-11-09",
+      pages: 4,
+      excerpt:
+        "The President thanks Jerry Webber for a positive assessment of the administration that Ed Lawson passed along, with the KJRH Jerry Webber's Perspective statement, Lawson fax cover, and a second copy of the presidential reply.",
+      evidence:
+        "Itemized from pages 27-29 and 123 of the NARA direct folder scan using the presidential reply, KJRH statement, Edward C. Lawson fax cover, duplicate reply copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "elizabeth-vaughan-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Elizabeth R. Vaughan post-election correspondence and presidential reply",
+      documentDate: "1992-11-03",
+      pages: 2,
+      excerpt:
+        "Elizabeth R. Vaughan writes that it is by the grace of God that President Bush would not be re-elected, and the President replies with appreciation for her support.",
+      evidence:
+        "Itemized from pages 30-31 of the NARA direct folder scan using the presidential letter, Elizabeth R. Vaughan ophthalmology letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dame-eugenia-charles-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Dame Eugenia Charles post-election correspondence and presidential reply",
+      documentDate: "1992-11-04",
+      pages: 6,
+      excerpt:
+        "Dame Eugenia Charles sends a November 4 note and handwritten support after the election, with an attached photograph page; the President replies that he was deeply touched by her note.",
+      evidence:
+        "Itemized from pages 32-37 of the NARA direct folder scan using the handwritten presidential reply, Dame Eugenia Charles letter pages, attached photograph page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lewis-frumkes-favorite-words-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Lewis B. Frumkes correspondence re My Favorite Words and Jeb Bush routing note",
+      documentDate: "1992-10-04",
+      pages: 4,
+      excerpt:
+        "Jeb Bush forwards Lewis B. Frumkes's request for the President to contribute words to My Favorite Words; the White House reply declines because the President could not take on new commitments.",
+      evidence:
+        "Itemized from pages 38-41 of the NARA direct folder scan using the Jeb Bush handwritten routing note, White House reply, Frumkes incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-november-9-1992-6am",
+      documentType: "News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: Monday, November 9, 1992 6:00 A.M. EST Edition",
+      documentDate: "1992-11-09",
+      pages: 15,
+      excerpt:
+        "The White House News Summary covers food labeling, Iran-Contra pardons, thrift supervision, European trade tensions, Mideast peace talks, network news, and Sunday public-affairs programming after the election.",
+      evidence:
+        "Itemized from pages 42-56 of the NARA direct folder scan using the White House News Summary cover, A/B/C-section continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "breakfast-association-houston-gift-correspondence",
+      documentType: "Gift Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Breakfast Association of Houston gift correspondence and presidential reply",
+      documentDate: "1992-11-05",
+      pages: 3,
+      excerpt:
+        "The Breakfast Association of Houston sends President Bush a tiny TV camera for recording grandchildren and recreation; the President replies to William H. Watson that the gift is absolutely perfect.",
+      evidence:
+        "Itemized from pages 57-59 of the NARA direct folder scan using the presidential reply, William H. Watson letter, gift-cost note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alan-hall-bill-harbert-presidential-pen-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Alan Hall and Bill Harbert International Construction correspondence re presidential pen",
+      documentDate: "1992-11-04",
+      pages: 5,
+      excerpt:
+        "Alan Hall asks President Bush for a presidential pen and sends Rose Zamaria a cover letter; the President replies that he is delighted to send the pen with appreciation for Hall's support.",
+      evidence:
+        "Itemized from pages 60-64 of the NARA direct folder scan using the attachment marker, presidential reply, Rose Zamaria cover letter, Alan Hall incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dennis-ross-campaign-work-handwritten-reply",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Dennis B. Ross campaign-work note and handwritten presidential reply",
+      documentDate: "1992-11-09",
+      pages: 3,
+      excerpt:
+        "A George Bush desk note asks that Ross receive the attached material, and the President writes Dennis Ross a handwritten reply thanking him for productive campaign work.",
+      evidence:
+        "Itemized from pages 65-67 of the NARA direct folder scan using the Bush desk note, handwritten presidential letter to Dennis Ross, OCR, and rendered-page review.",
+    },
+    {
+      slug: "us-news-thinking-about-tomorrow-transition-feature",
+      documentType: "Magazine Article",
+      category: "transition-news-clipping",
+      disposition: "itemized-transition-news-clipping",
+      title: "U.S. News & World Report feature: Thinking About Tomorrow, The Clinton era begins",
+      documentDate: "1992-11-16",
+      pages: 11,
+      excerpt:
+        "A U.S. News & World Report feature titled Thinking About Tomorrow covers the beginning of the Clinton era, the transition, Hillary Clinton, personnel fights, and early governing questions.",
+      evidence:
+        "Itemized from pages 68-78 of the NARA direct folder scan using the U.S. News & World Report November 16, 1992 page marks, article headline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rnc-daily-news-summary-november-9-1992",
+      documentType: "Daily News Summary",
+      category: "daily-news-summary",
+      disposition: "itemized-news-summary",
+      title: "Republican National Committee Daily News Summary: Monday, November 9, 1992",
+      documentDate: "1992-11-09",
+      pages: 44,
+      excerpt:
+        "The Republican National Committee Daily News Summary compiles post-election articles on President Bush's radio address and retirement, Dole and Quayle, Iran-Contra, the Clinton transition, the Democratic Congress, and Republican futures.",
+      evidence:
+        "Itemized from pages 79-122 of the NARA direct folder scan using the Daily News Summary cover, newspaper clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photograph-page-november-9",
+      documentType: "Official White House Photograph Packet",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title: "Official White House photograph transfer page from November 9 file",
+      documentDate: "1992-11-09",
+      pages: 2,
+      excerpt:
+        "The packet includes a color official White House photograph transfer page labeled transition and an Official White House Photo backing page.",
+      evidence:
+        "Itemized from pages 124-125 of the NARA direct folder scan using the color photograph transfer page, Official White House Photo backing page, low-confidence OCR, and rendered-page review.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -32921,6 +33196,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418159",
   "470418164",
   "470418165",
+  "470418174",
   "646482525",
   "646482521",
   "646482523",
