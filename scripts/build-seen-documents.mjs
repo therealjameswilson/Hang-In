@@ -498,6 +498,22 @@ function excerptFromLines(lines) {
   return excerpt.length > 520 ? `${excerpt.slice(0, 517).trim()}...` : excerpt;
 }
 
+function familyCenterMemorialReply(slug, recipient, salutation, page) {
+  return {
+    slug,
+    documentType: "Outgoing Presidential Letter Copy",
+    category: "outgoing-correspondence-copy",
+    disposition: "itemized-outgoing-correspondence-copy",
+    title: `${recipient} Family Center memorial contribution reply copy`,
+    documentDate: "1992-12-16",
+    pages: 1,
+    excerpt:
+      `President Bush thanks ${salutation} for a Family Center contribution in memory of Dorothy Walker Bush and sends Christmas wishes.`,
+    evidence:
+      `Itemized from page ${page} of the NARA direct folder scan using the outgoing presidential reply copy, Family Center contribution text, recipient address block, OCR, and rendered-page review.`,
+  };
+}
+
 const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   470417059: [
     {
@@ -40246,6 +40262,464 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 62-65 of the NARA direct folder scan using the color photograph pages, official White House photo reverse pages, OCR, and rendered-page review.",
     },
   ],
+  470418251: [
+    {
+      slug: "peggy-swift-family-travel-plans-christmas-1992",
+      documentType: "Staff Memorandum",
+      category: "staff-memorandum",
+      disposition: "itemized-staff-memorandum",
+      title: "Peggy Swift memorandum re Bush family travel plans for Christmas 1992",
+      documentDate: "1992-12-16",
+      pages: 2,
+      excerpt:
+        "Peggy Swift sends Susan Porter Rose the Christmas 1992 travel plans for the Jeb Bush, Neil Bush, and George W. Bush families.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the Peggy Swift memorandum, family travel entries, White House routing copies, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lupe-lod-cook-phone-call-follow-up-note",
+      documentType: "Phone Call Follow-Up Note",
+      category: "telephone-note-item",
+      disposition: "itemized-telephone-message",
+      title: "Lupe and Lod Cook phone-call follow-up note",
+      documentDate: "1992-12-16",
+      pages: 1,
+      excerpt:
+        "A phone-call follow-up note asks about the time of Lod Cook's December 16 meeting with President Bush, with handwritten guidance and follow-up annotations.",
+      evidence:
+        "Itemized from page 4 of the NARA direct folder scan using the phone-call follow-up form, Lod Cook meeting question, handwritten notes, OCR, and rendered-page review.",
+    },
+    {
+      slug: "december-16-telephone-memoranda-signal-switchboard",
+      documentType: "Telephone Memoranda and Signal Switchboard Packet",
+      category: "presidential-daily-file-log",
+      disposition: "itemized-daily-file-log",
+      title: "White House telephone memoranda and Signal Switchboard sheets for December 16, 1992",
+      documentDate: "1992-12-16",
+      pages: 3,
+      excerpt:
+        "Telephone memorandum sheets and a Signal Switchboard no-calls sheet record President Bush's December 16 calls.",
+      evidence:
+        "Itemized from pages 5-7 of the NARA direct folder scan using the Telephone Memorandum forms, Signal Switchboard sheet, call entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "december-16-presidential-movements",
+      documentType: "Presidential Movements Sheet",
+      category: "presidential-daily-file-log",
+      disposition: "itemized-daily-file-log",
+      title: "Presidential movements for December 16, 1992",
+      documentDate: "1992-12-16",
+      pages: 1,
+      excerpt:
+        "The Presidential Movements sheet records President Bush's December 16 movements between the South Grounds, Oval Office, OEOB, Residence, North Grounds, and State Floor.",
+      evidence:
+        "Itemized from page 8 of the NARA direct folder scan using the Presidential Movements heading, December 16 date, movement entries, OCR, and rendered-page review.",
+    },
+    ...[
+      ["gillespie-montgomery-family-center-contribution-reply", "Gillespie V. Montgomery", "Sonny", 9],
+      ["barbara-franklin-wallace-barnes-family-center-contribution-reply", "Barbara H. Franklin and Wallace Barnes", "Barbara and Wally", 10],
+      ["raymond-siller-family-center-contribution-reply", "Raymond Siller", "Ray", 11],
+      ["nancy-palin-family-center-contribution-reply", "Nancy Palin", "Nancy", 12],
+      ["peter-malkin-family-center-contribution-reply", "Isabel and Peter Malkin", "Isabel and Peter", 13],
+      ["rana-mahmoud-es-said-family-center-contribution-reply", "Rana and Mahmoud Es-Said", "Rana and Mahmoud", 14],
+      ["mariette-daniel-badger-family-center-contribution-reply", "Mariette and Daniel B. Badger", "Mariette and Dan", 15],
+      ["hope-david-agg-family-center-contribution-reply", "Hope and David Agg", "Hope and David", 16],
+      ["eleanor-george-champion-family-center-contribution-reply", "Eleanor and George Champion", "Eleanor and George", 17],
+      ["peter-tesei-family-center-contribution-reply", "Peter J. Tesei", "Peter", 18],
+      ["joan-warburg-family-center-contribution-reply", "Joan M. Warburg", "Mrs. Warburg", 19],
+      ["marjorie-arsht-family-center-contribution-reply", "Marjorie Arsht", "Marjorie", 20],
+      ["betty-leland-baker-family-center-contribution-reply", "Betty and Leland D. Baker", "Betty and Leland", 21],
+      ["stanhope-goddard-family-center-contribution-reply", "Stanhope S. Goddard Jr.", "Mr. and Mrs. Goddard", 22],
+      ["lawrence-crutcher-family-center-contribution-reply", "Lawrence M. Crutcher", "Mr. Crutcher", 23],
+      ["ursula-coates-family-center-contribution-reply", "Ursula Coates", "Ursula", 24],
+      ["margot-john-cater-family-center-contribution-reply", "Margot and John T. Cater", "Margot and John", 25],
+      ["melia-hartley-peavey-family-center-contribution-reply", "Melia and Hartley Peavey", "Melia and Hartley", 26],
+      ["betsy-lake-family-center-contribution-reply", "Betsy Lake", "Betsy", 27],
+      ["jesse-miles-family-center-contribution-reply", "Jesse Miles", "Mr. Miles", 28],
+      ["thomas-hartch-family-center-contribution-reply", "Thomas F. Hartch", "Mr. Hartch", 29],
+      ["holly-barry-williamson-family-center-contribution-reply", "Holly and Barry A. Williamson", "Holly and Barry", 30],
+      ["marguerite-zapoleon-family-center-contribution-reply", "Marguerite W. Zapoleon", "Ms. Zapoleon", 31],
+    ].map(([slug, recipient, salutation, page]) =>
+      familyCenterMemorialReply(slug, recipient, salutation, page)
+    ),
+    {
+      slug: "peter-gilmore-family-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Peter Gilmore family condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 4,
+      excerpt:
+        "President Bush and Barbara Bush send a sympathy acknowledgment to Peter Gilmore and family, with the incoming Christmas and condolence card pages retained.",
+      evidence:
+        "Itemized from pages 32-35 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Peter Gilmore family address block, incoming card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-christmas-letter-aunt-dotty-spiritual-freedom",
+      documentType: "Incoming Christmas Letter Packet",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "George Christmas letter re Aunt Dotty and spiritual freedom",
+      documentDate: "1992-12-16",
+      pages: 3,
+      excerpt:
+        "A Christmas letter to George and Barbara Bush reflects on freedom, Vietnam, faith, and Aunt Dotty's kindness, with family updates and handwritten notes.",
+      evidence:
+        "Itemized from pages 36-38 of the NARA direct folder scan using the typed Christmas letter, Aunt Dotty references, George signature, family-update lines, handwritten notes, OCR, and rendered-page review.",
+    },
+    {
+      slug: "billy-disalvo-holiday-card",
+      documentType: "Incoming Holiday Card",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Billy DiSalvo holiday card",
+      documentDate: "1992-12-16",
+      pages: 1,
+      excerpt:
+        "Billy DiSalvo sends President and Mrs. Bush holiday wishes and notes that his mother is always with them and their family.",
+      evidence:
+        "Itemized from page 39 of the NARA direct folder scan using the Mamma DiSalvo's Ristorante holiday card, handwritten message, business-card attachment, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-bakst-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "M. Charles Bakst condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush acknowledge M. Charles Bakst's sympathy note about Dorothy Walker Bush, with Bakst's holiday card and handwritten message retained.",
+      evidence:
+        "Itemized from pages 40-42 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Providence Journal-Bulletin address block, holiday card page, Bakst handwritten condolence message, OCR, and rendered-page review.",
+    },
+    {
+      slug: "claude-payne-st-martins-return-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Claude E. Payne St. Martin's return-to-Houston correspondence packet",
+      documentDate: "1992-12-16",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Reverend Claude Payne about returning quietly to St. Martin's Episcopal Church and possible informal greetings after services.",
+      evidence:
+        "Itemized from pages 43-45 of the NARA direct folder scan using the presidential reply, St. Martin's Episcopal Church incoming letter pages, Houston return and Vestry dinner references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-mcdonald-southwest-pacific-guadalcanal-report-correspondence",
+      documentType: "Presidential Reply and Southwest Pacific Report Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John C. McDonald Southwest Pacific and Guadalcanal report correspondence packet",
+      documentDate: "1992-12-16",
+      pages: 18,
+      excerpt:
+        "President Bush thanks John C. McDonald for his Southwest Pacific Report, especially the Guadalcanal observations, with McDonald's long anniversary and memorial report attached.",
+      evidence:
+        "Itemized from pages 46-63 of the NARA direct folder scan using the presidential reply, Southwest Pacific Report heading, Guadalcanal and ABMC memorial text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-mckenzie-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Holiday Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William A. McKenzie condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush send William and Sally McKenzie a sympathy acknowledgment, with the McKenzies' Christmas card retained.",
+      evidence:
+        "Itemized from pages 64-65 of the NARA direct folder scan using the outgoing sympathy acknowledgment, McKenzie address block, incoming holiday card, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alonzo-see-dorothy-bush-condolence-correspondence",
+      documentType: "Sympathy Acknowledgment Card and Incoming Condolence Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Alonzo B. See II condolence correspondence re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush send Alonzo B. See II a sympathy acknowledgment, with See's handwritten condolence letter retained.",
+      evidence:
+        "Itemized from pages 66-67 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Alonzo B. See letterhead, incoming handwritten condolence letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "anthony-bevilacqua-dorothy-bush-condolence-correspondence",
+      documentType: "Sympathy Acknowledgment Card and Incoming Condolence Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Cardinal Anthony Bevilacqua condolence correspondence re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush acknowledge Cardinal Anthony Bevilacqua's condolence letter about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 68-69 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Cardinal Bevilacqua incoming letter, condolence annotations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "linnet-deily-houston-banking-welcome-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Linnet F. Deily Houston banking welcome correspondence packet",
+      documentDate: "1992-12-16",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Linnet F. Deily of First Interstate Bank of Texas about returning to Houston and notes that his banking needs are currently satisfied.",
+      evidence:
+        "Itemized from pages 70-71 of the NARA direct folder scan using the presidential reply, First Interstate Bank incoming letter, Houston return and banking references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "harmonized-tariff-schedule-proclamation-december-16-1992",
+      documentType: "Presidential Proclamation",
+      category: "presidential-proclamation",
+      disposition: "itemized-presidential-proclamation",
+      title: "Presidential proclamation modifying the Harmonized Tariff Schedule",
+      documentDate: "1992-12-16",
+      pages: 4,
+      excerpt:
+        "A presidential proclamation modifies the Harmonized Tariff Schedule, extends tariff reductions on tropical products, reduces duties on certain jams, and makes related conforming changes.",
+      evidence:
+        "Itemized from pages 72-75 of the NARA direct folder scan using the Office of the Press Secretary release, proclamation heading, HTS and tariff-reduction text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-light-comsat-jefferson-junior-high",
+      documentType: "Daily Point of Light Press Release",
+      category: "points-of-light-material",
+      disposition: "itemized-points-of-light-material",
+      title: "Daily Point of Light release: COMSAT-Jefferson Junior High Education Alliance",
+      documentDate: "1992-12-16",
+      pages: 1,
+      excerpt:
+        "The White House recognizes COMSAT Corporation and Jefferson Junior High School volunteers as the 985th Daily Point of Light.",
+      evidence:
+        "Itemized from page 76 of the NARA direct folder scan using the Office of the Press Secretary release, COMSAT-Jefferson Junior High heading, 985th Daily Point of Light text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sean-okeefe-secretary-navy-recess-appointment-release",
+      documentType: "Appointment Press Release",
+      category: "appointment-release",
+      disposition: "itemized-appointment-release",
+      title: "Sean Charles O'Keefe recess appointment as Secretary of the Navy release",
+      documentDate: "1992-12-16",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intention to recess appoint Sean Charles O'Keefe as Secretary of the Navy.",
+      evidence:
+        "Itemized from page 77 of the NARA direct folder scan using the Office of the Press Secretary release, Sean Charles O'Keefe heading, recess appointment text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-light-youth-service-bridge-builders",
+      documentType: "Daily Point of Light Press Release",
+      category: "points-of-light-material",
+      disposition: "itemized-points-of-light-material",
+      title: "Daily Point of Light release: Youth Service Bridge Builders Program",
+      documentDate: "1992-12-18",
+      pages: 1,
+      excerpt:
+        "An embargoed White House release recognizes volunteers of the Youth Service Bridge Builders Program of Memphis as the 988th Daily Point of Light.",
+      evidence:
+        "Itemized from page 78 of the NARA direct folder scan using the Office of the Press Secretary release, embargo line, Youth Service Bridge Builders Program heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "advisory-committee-trade-policy-negotiations-appointments-release",
+      documentType: "Appointment Press Release",
+      category: "appointment-release",
+      disposition: "itemized-appointment-release",
+      title: "Appointments to Advisory Committee for Trade Policy and Negotiations",
+      documentDate: "1992-12-16",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intention to appoint Robert Allen, Remedios Diaz-Oliver, John Rollwagen, and Gordon Zacks to the Advisory Committee for Trade Policy and Negotiations.",
+      evidence:
+        "Itemized from page 79 of the NARA direct folder scan using the Office of the Press Secretary release, advisory committee heading, appointment names, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ronald-reagan-presidential-medal-freedom-announcement",
+      documentType: "Presidential Medal of Freedom Announcement",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Announcement of Presidential Medal of Freedom for Ronald Reagan",
+      documentDate: "1992-12-16",
+      pages: 1,
+      excerpt:
+        "The White House announces that President Bush will award the Presidential Medal of Freedom to former President Ronald Reagan on January 13, 1993.",
+      evidence:
+        "Itemized from page 80 of the NARA direct folder scan using the Office of the Press Secretary release, Ronald Reagan Medal of Freedom announcement, OCR, and rendered-page review.",
+    },
+    {
+      slug: "press-secretary-statement-king-hussein-meeting",
+      documentType: "Press Secretary Statement",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Statement by the Press Secretary re President Bush meeting with King Hussein",
+      documentDate: "1992-12-16",
+      pages: 1,
+      excerpt:
+        "The Press Secretary states that President Bush met with King Hussein of Jordan and discussed Iraq sanctions, the Middle East peace process, and Somalia.",
+      evidence:
+        "Itemized from page 81 of the NARA direct folder scan using the Office of the Press Secretary statement, King Hussein meeting text, Iraq sanctions and Somalia references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "claiborne-pell-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Claiborne Pell condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush send Claiborne and Nuala Pell a sympathy acknowledgment, with the Pells' condolence card pages retained.",
+      evidence:
+        "Itemized from pages 82-84 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Claiborne Pell address block, incoming Senate card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "philip-guarino-dorothy-bush-condolence-correspondence",
+      documentType: "Sympathy Acknowledgment Card and Incoming Condolence Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Philip A. Guarino condolence correspondence re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush send Philip and Sarah Guarino a sympathy acknowledgment, with Philip Guarino's condolence letter retained.",
+      evidence:
+        "Itemized from pages 85-86 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Philip Guarino incoming letter, Rittenhouse address, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jo-dwight-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jo Dwight condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 4,
+      excerpt:
+        "President Bush and Barbara Bush send Jo Dwight a sympathy acknowledgment, with Dwight's multi-page handwritten condolence card retained.",
+      evidence:
+        "Itemized from pages 87-90 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Jo Dwight address block, incoming handwritten card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-goedecke-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William S. Goedecke condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush send William S. Goedecke a sympathy acknowledgment, with Goedecke's handwritten condolence card retained.",
+      evidence:
+        "Itemized from pages 91-93 of the NARA direct folder scan using the outgoing sympathy acknowledgment, William S. Goedecke address block, incoming handwritten card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "elizabeth-cook-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Elizabeth S. Cook condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush send Elizabeth S. Cook a sympathy acknowledgment, with Cook's incoming condolence card retained.",
+      evidence:
+        "Itemized from pages 94-96 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Elizabeth S. Cook address block, incoming card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "winthrop-crane-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Winthrop Murray Crane condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush send Winthrop Murray Crane a sympathy acknowledgment, with Crane's incoming condolence card retained.",
+      evidence:
+        "Itemized from pages 97-99 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Winthrop Murray Crane address block, incoming card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "joseph-cohen-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Joseph Cohen condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush send Joseph Cohen a sympathy acknowledgment, with the Cohens' incoming condolence card retained.",
+      evidence:
+        "Itemized from pages 100-102 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Joseph Cohen address block, incoming card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "james-burch-family-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "James Burch family condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush send the James Burch family a sympathy acknowledgment, with the family's incoming sympathy card retained.",
+      evidence:
+        "Itemized from pages 103-104 of the NARA direct folder scan using the outgoing sympathy acknowledgment, James Burch family address block, incoming sympathy card page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-patterson-dorothy-bush-condolence-correspondence",
+      documentType: "Sympathy Acknowledgment Card and Incoming Condolence Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mrs. David C. Patterson condolence correspondence re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush send Mrs. David C. Patterson a sympathy acknowledgment, with her incoming condolence letter about Dorothy Walker Bush retained.",
+      evidence:
+        "Itemized from pages 105-107 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Mrs. David C. Patterson address block, incoming handwritten letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ethan-shepley-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mrs. Ethan A. H. Shepley Jr. condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush send Mrs. Ethan A. H. Shepley Jr. a sympathy acknowledgment, with her incoming condolence card pages retained.",
+      evidence:
+        "Itemized from pages 108-110 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Mrs. Ethan A. H. Shepley Jr. address block, incoming card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "toddy-atwater-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Toddy Atwater condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush send Toddy Atwater a sympathy acknowledgment, with Atwater's incoming condolence card retained.",
+      evidence:
+        "Itemized from pages 111-112 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Toddy Atwater address block, incoming card page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "james-collins-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mrs. James M. Collins condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-16",
+      pages: 4,
+      excerpt:
+        "President Bush and Barbara Bush send Mrs. James M. Collins a sympathy acknowledgment, with her incoming condolence card pages retained.",
+      evidence:
+        "Itemized from pages 113-116 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Mrs. James M. Collins address block, incoming card pages, OCR, and rendered-page review.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -40690,6 +41164,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418239",
   "470418243",
   "470418248",
+  "470418251",
   "646482525",
   "646482521",
   "646482523",
