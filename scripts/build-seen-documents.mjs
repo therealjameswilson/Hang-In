@@ -19606,6 +19606,328 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 58-72 of the NARA direct folder scan using color photo pages, handwritten sticky labels, Official White House Photo stamp backs, OCR, and rendered-page review.",
     },
   ],
+  470417998: [
+    {
+      slug: "owen-palmer-bronson-rescue-correspondence",
+      documentType: "Presidential Correspondence and Press Article",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Aboard Air Force One letter to Owen T. Palmer with Sun Herald article on the USS Bronson rescue",
+      documentDate: "1992-08-23",
+      pages: 3,
+      excerpt:
+        "President Bush writes to Owen T. Palmer aboard Air Force One about Palmer's Sun Herald article on the USS C.K. Bronson rescue of Bush, Nadeau, and Delaney in June 1944.",
+      evidence:
+        "Itemized from pages 2-4 of the NARA direct folder scan using the Aboard Air Force One letter, Owen Palmer address block, Sun Herald clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "illinois-fundraiser-skinner-baker-handwritten-notes",
+      documentType: "Presidential Handwritten Notes",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title:
+        "Presidential handwritten notes on an Illinois fundraiser, Skinner, and Baker campaign responsibilities",
+      documentDate: "1992-08-23",
+      pages: 1,
+      excerpt:
+        "A handwritten page headed Mr. President notes that Illinois friends will be present at a fundraiser and frames comments about Sam Skinner, Jim Baker, and campaign-chairman responsibilities.",
+      evidence:
+        "Itemized from page 5 of the NARA direct folder scan using the Bush Library handwriting marker, handwritten Mr. President heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "springfield-farmers-ethanol-talking-points",
+      documentType: "Talking Points with President Bush Handwriting",
+      category: "event-talking-points",
+      disposition: "itemized-event-talking-points",
+      title:
+        "Talking points for meeting with farmers, Springfield, Illinois",
+      documentDate: "1992-08-23",
+      pages: 1,
+      excerpt:
+        "Talking points for the Springfield farmers meeting list ethanol actions, including the gas-tax exemption, research and development funding, the National Energy Strategy, and federal fleet alternative-fuel vehicles.",
+      evidence:
+        "Itemized from page 6 of the NARA direct folder scan using the talking-points heading, Bush Library handwriting marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "eurasia-foundation-board-trustees-selection",
+      documentType: "Personnel Memorandum",
+      category: "personnel-selection-memorandum",
+      disposition: "itemized-personnel-selection-memorandum",
+      title:
+        "Constance Horner memorandum on personnel selections for the Board of Trustees of the Eurasia Foundation",
+      documentDate: "1992-08-08",
+      pages: 2,
+      excerpt:
+        "Constance Horner forwards nominees for the Eurasia Foundation Board of Trustees and president position, including Vernon Jordan, William Bader, and Andrew Falkiewicz.",
+      evidence:
+        "Itemized from pages 7-8 of the NARA direct folder scan using the White House memorandum heading, Eurasia Foundation subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ede-holiday-watkins-reilly-ethanol-transmittal",
+      documentType: "Transmittal Memorandum",
+      category: "ethanol-policy-memorandum",
+      disposition: "itemized-ethanol-policy-memorandum",
+      title:
+        "Ede Holiday memorandum forwarding Watkins and Reilly correspondence on ethanol remarks",
+      documentDate: "1992-08-21",
+      pages: 1,
+      excerpt:
+        "Ede Holiday forwards Secretary James Watkins and Administrator William Reilly's concern about an ethanol options paper and their proposed Springfield speech language.",
+      evidence:
+        "Itemized from page 9 of the NARA direct folder scan using the White House memorandum heading, Ede Holiday signature block, subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "watkins-reilly-ethanol-use-reformulated-gasoline",
+      documentType: "Cabinet Memorandum",
+      category: "ethanol-policy-memorandum",
+      disposition: "itemized-ethanol-policy-memorandum",
+      title:
+        "Watkins and Reilly memorandum on ethanol use in reformulated gasoline",
+      documentDate: "1992-08-21",
+      pages: 2,
+      excerpt:
+        "Secretary James Watkins and Administrator William Reilly urge a revised ethanol posture for the Illinois State Fair and recommend National Academy of Sciences review, ETBE credits, and demand monitoring.",
+      evidence:
+        "Itemized from pages 10-11 of the NARA direct folder scan using the Secretary of Energy letterhead, subject line, Watkins and Reilly signatures, OCR, and rendered-page review.",
+    },
+    {
+      slug: "illinois-state-fair-revised-ethanol-remarks",
+      documentType: "Speech Draft",
+      category: "event-remarks-draft",
+      disposition: "itemized-event-remarks-draft",
+      title:
+        "Revised ethanol remarks for the Illinois State Fair",
+      documentDate: "1992-08-21",
+      pages: 2,
+      excerpt:
+        "The revised Illinois State Fair remarks present the administration's ethanol record, Clean Air Act oxygenate requirements, National Academy of Sciences review, ETBE tax-credit legislation, and demand monitoring.",
+      evidence:
+        "Itemized from pages 12-13 of the NARA direct folder scan using the Revised 8/21 remarks heading, page continuation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bo-schembechler-condolence-phone-call-sheet",
+      documentType: "Presidential Phone Call Sheet with President Bush Handwriting",
+      category: "presidential-phone-call-sheet",
+      disposition: "itemized-presidential-phone-call-sheet",
+      title:
+        "Presidential phone-call sheet for Bo Schembechler condolence call",
+      documentDate: "1992-08-23",
+      pages: 1,
+      excerpt:
+        "The handwritten presidential phone-call sheet records a 10 p.m. call to Bo Schembechler about condolences on a death in his wife's family and a possible follow-up.",
+      evidence:
+        "Itemized from page 14 of the NARA direct folder scan using the Presidential Phone Calls form, Bush Library handwriting marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-michel-phone-call-sheet",
+      documentType: "Presidential Phone Call Sheet with President Bush Handwriting",
+      category: "presidential-phone-call-sheet",
+      disposition: "itemized-presidential-phone-call-sheet",
+      title: "Presidential phone-call sheet for Bob Michel",
+      documentDate: "1992-08-23",
+      pages: 1,
+      excerpt:
+        "The presidential phone-call sheet records an August 23 call to Bob Michel, with a brief handwritten subject note.",
+      evidence:
+        "Itemized from page 15 of the NARA direct folder scan using the Presidential Phone Calls form, Bob Michel entry, Bush Library handwriting marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "craig-fuller-recommended-phone-call-bob-michel",
+      documentType: "Memorandum with President Bush Handwriting",
+      category: "recommended-phone-call-memorandum",
+      disposition: "itemized-recommended-phone-call-memorandum",
+      title:
+        "Craig Fuller memorandum recommending a presidential thank-you call to Bob Michel",
+      documentDate: "1992-08-19",
+      pages: 1,
+      excerpt:
+        "Craig Fuller recommends that President Bush call Bob Michel to thank him for serving as permanent chairman of the convention and supplies hotel and trailer contact numbers.",
+      evidence:
+        "Itemized from page 16 of the NARA direct folder scan using the Fuller memorandum heading, recommended phone call subject line, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "marked-illinois-state-fair-remarks",
+      documentType: "Speech Draft with President Bush Handwriting",
+      category: "campaign-event-remarks",
+      disposition: "itemized-campaign-event-remarks",
+      title:
+        "Marked presidential remarks for the Illinois State Fair, Springfield",
+      documentDate: "1992-08-23",
+      pages: 14,
+      excerpt:
+        "Marked Springfield remarks thank Illinois officials, argue for Bush's post-convention campaign themes, discuss ethanol, foreign policy, taxes, education, welfare, family values, and the Gulf War, with George Bush handwriting throughout.",
+      evidence:
+        "Itemized from pages 17-30 of the NARA direct folder scan using the Illinois State Fair heading, internal speech page numbers, Bush Library handwriting markers, OCR, and rendered-page review.",
+    },
+    {
+      slug: "air-force-one-note-jab-nuclear-waste-baker-requests",
+      documentType: "Presidential Handwritten Note",
+      category: "presidential-handwritten-note",
+      disposition: "itemized-presidential-handwritten-note",
+      title:
+        "Aboard Air Force One handwritten note to JAB on nuclear waste and Baker request handling",
+      documentDate: "1992-08-23",
+      pages: 1,
+      excerpt:
+        "An Aboard Air Force One handwritten page asks JAB for a short answer on nuclear waste from nuclear plants and asks how requests should be routed through Baker or Phil Brady.",
+      evidence:
+        "Itemized from page 31 of the NARA direct folder scan using a rotated rendered-page review, the Aboard Air Force One heading, From the desk of George Bush text, and OCR.",
+    },
+    {
+      slug: "rose-caron-jackson-baker-request-routing",
+      documentType: "Staff Memorandum",
+      category: "staff-routing-memorandum",
+      disposition: "itemized-staff-routing-memorandum",
+      title:
+        "Rose memorandum to Caron Jackson on how Baker wants to handle requests",
+      documentDate: "1992-08-24",
+      pages: 1,
+      excerpt:
+        "Rose asks Caron Jackson how Mr. Baker wants to handle requests of this nature and whether they should continue through Phil Brady or go directly to him.",
+      evidence:
+        "Itemized from page 32 of the NARA direct folder scan using the White House memorandum heading, Rose-to-Caron routing, OCR, and rendered-page review.",
+    },
+    {
+      slug: "howard-cannon-goldwater-foundation-reappointment",
+      documentType: "Personnel Memorandum with President Bush Handwriting",
+      category: "personnel-action-memorandum",
+      disposition: "itemized-personnel-action-memorandum",
+      title:
+        "Constance Horner memorandum on Howard Cannon's reappointment to the Goldwater Excellence in Education Foundation",
+      documentDate: "1992-08-21",
+      pages: 1,
+      excerpt:
+        "Constance Horner tells President Bush that Sonny Montgomery urged Howard Cannon's reappointment to the Goldwater Excellence in Education Foundation and that the nomination is moving forward.",
+      evidence:
+        "Itemized from page 33 of the NARA direct folder scan using the White House memorandum heading, Horner signature block, subject text, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-17-dallas-church-illinois-state-fair",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #17 continued: Dallas Church and Illinois State Fair, duplicate copies",
+      documentDate: "1992-08-23",
+      pages: 4,
+      excerpt:
+        "Pool Report #17 continued covers Bush's comments at the Illinois State Fair, ethanol discussion, the Pork Ave. Cafe stop, Teeter comments on Perot and Gingrich, and the Dallas church service.",
+      evidence:
+        "Itemized from pages 34-35 and 37-38 of the NARA direct folder scan using duplicate Pool Report #17 headings, Dallas Church and Illinois State Fair dateline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-16-back-up-plane-trip-springfield",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #16: Back up plane trip to Springfield after church in Dallas",
+      documentDate: "1992-08-23",
+      pages: 1,
+      excerpt:
+        "Pool Report #16 records Marlin Fitzwater's comments about a possible southern Iraq no-fly-zone announcement, Baker's swearing-in, staff arrangements, and Bush's post-convention energy.",
+      evidence:
+        "Itemized from page 36 of the NARA direct folder scan using the Pool Report #16 heading, Springfield trip title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gay-cohen-hat-store-bush-letter-and-envelope",
+      documentType: "Presidential Letter and Envelope",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Handwritten presidential letter to Gay Cohen of The Hat Store with envelope",
+      documentDate: "1992-08-23",
+      pages: 2,
+      excerpt:
+        "President Bush writes from the Dallas-to-Springfield flight thanking Gay Cohen for a special present and saying the convention went well, with an accompanying White House envelope.",
+      evidence:
+        "Itemized from pages 39-40 of the NARA direct folder scan using the Gay Cohen address block, handwritten letter, envelope page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "family-values-hillary-clinton-quayle-clipping-packet",
+      documentType: "Press Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Press clipping packet on family values, Hillary Clinton, Dan Quayle, candidate spouses, and single fathers",
+      documentDate: "1992-08-24",
+      pages: 27,
+      excerpt:
+        "The clipping packet collects August 21-24 newspaper and magazine coverage on Republican convention rhetoric, family values, Hillary Clinton, Marilyn Quayle, candidate spouses, single fathers, and the Murphy Brown debate.",
+      evidence:
+        "Itemized from pages 41-67 of the NARA direct folder scan using newspaper mastheads, article headlines, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "august-23-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "Telephone memoranda for President Bush, August 23, 1992",
+      documentDate: "1992-08-23",
+      pages: 2,
+      excerpt:
+        "Two White House telephone memorandum pages record calls involving James Baker, John E. Bush, Edward Lawson, Marvin Bush, Bob Michel, Bo Schembechler, and Richard Miller.",
+      evidence:
+        "Itemized from pages 68-69 of the NARA direct folder scan using White House telephone memorandum forms, signal switchboard entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "august-23-presidential-movements",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-log",
+      disposition: "itemized-presidential-movements",
+      title:
+        "Presidential movements log: Dallas, Springfield, Andrews, and White House residence, August 23, 1992",
+      documentDate: "1992-08-23",
+      pages: 1,
+      excerpt:
+        "The presidential movements log records Bush's August 23 travel from the Hyatt Regency in Dallas to First Baptist Church, Dallas Love Field, Springfield, Andrews Air Force Base, and the White House residence.",
+      evidence:
+        "Itemized from page 70 of the NARA direct folder scan using the Presidential Movements form, Dallas and Springfield location headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-daly-request-cover-note-kathy",
+      documentType: "Staff Cover Note",
+      category: "staff-routing-note",
+      disposition: "itemized-staff-routing-note",
+      title:
+        "Patty Presock cover note to Kathy on John Daly Oval Office photo-op request",
+      documentDate: "",
+      pages: 1,
+      excerpt:
+        "Patty Presock sends Kathy information on John Daly, noting that President Bush had wanted to play golf with him in Maine and asking that an Oval Office photo-op request be checked and handled.",
+      evidence:
+        "Itemized from page 71 of the NARA direct folder scan using the Kathy salutation, John Daly request text, Patty Presock signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-daly-golf-maine-white-house-request",
+      documentType: "Memorandum with President Bush Handwriting",
+      category: "presidential-request-memorandum",
+      disposition: "itemized-presidential-request-memorandum",
+      title:
+        "Patty Presock memorandum to President Bush on John Daly golf and White House visit request",
+      documentDate: "1991-08-23",
+      pages: 1,
+      excerpt:
+        "Patty Presock reports that pro golfer John Daly would like to play golf with Bush in Maine or visit Washington, with a contact for Lawrence Field and a note that no action is necessary unless Bush wants Daly in Maine.",
+      evidence:
+        "Itemized from page 72 of the NARA direct folder scan using the dated memorandum to Mr. President, John Daly text, Bush Library handwriting marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photo-packet-august-23-illinois-state-fair",
+      documentType: "Official White House Photo Packet",
+      category: "white-house-photo",
+      disposition: "itemized-white-house-photo",
+      title:
+        "Official White House photo packet from August 23, 1992 Illinois State Fair trip",
+      documentDate: "1992-08-23",
+      pages: 6,
+      excerpt:
+        "Official White House photo pages and backing sheets show August 23 campaign-event scenes from the Illinois trip, including crowds, Bush-Quayle signs, and Mrs. Bush at the fair.",
+      evidence:
+        "Itemized from pages 73-78 of the NARA direct folder scan using color photo pages, Official White House Photo backing pages, visible August 23 metadata, OCR, and rendered-page review.",
+    },
+  ],
   470418007: [
     {
       slug: "response-to-claims-clinton-is-raising-again",
@@ -24975,6 +25297,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417989",
   "470417996",
   "470417997",
+  "470417998",
   "470418083",
   "646482521",
 ]);
