@@ -22989,6 +22989,20 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470418075: [
     {
+      slug: "daily-briefing-american-politics-september-21-1992",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing",
+      disposition: "itemized-daily-political-briefing",
+      title:
+        "The Daily Briefing on American Politics, September 21, 1992",
+      documentDate: "1992-09-21",
+      pages: 25,
+      excerpt:
+        "The American Political Network daily briefing surveys the Clinton and Quayle draft issues, Murphy Brown, Clinton economy ads, Bush's working-women pitch, the U.N. address, Perot, debates, battleground polling, Senate races, California cable items, Newsweek polling, and television monitors.",
+      evidence:
+        "Itemized from the Daily Briefing on American Politics cover page, numbered sections, TV Monitor ending page, and rendered-page review.",
+    },
+    {
       slug: "conference-presidents-closed-meeting-clinton-fax",
       documentType: "Faxed Memorandum",
       category: "campaign-outreach-correspondence",
@@ -25974,6 +25988,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418060",
   "470418070",
   "470418071",
+  "470418075",
   "470418083",
   "646482521",
   "646482523",

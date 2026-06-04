@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T03:32:05.210Z",
+  "generatedAt": "2026-06-04T03:36:01.353Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
@@ -32754,6 +32754,21 @@
     {
       "date": "1992-09-21",
       "documentDate": "1992-09-21",
+      "title": "The Daily Briefing on American Politics, September 21, 1992",
+      "parentPacketId": "nara-470418075-direct-scan",
+      "naId": "470418075",
+      "folderId": "90720-004",
+      "containerId": "90720",
+      "category": "daily-political-briefing",
+      "disposition": "itemized-daily-political-briefing",
+      "type": "Daily Political Briefing",
+      "catalogUrl": "https://catalog.archives.gov/id/470418075",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90720-004.pdf",
+      "excerpt": "The American Political Network daily briefing surveys the Clinton and Quayle draft issues, Murphy Brown, Clinton economy ads, Bush's working-women pitch, the U.N. address, Perot, debates, battleground polling, Senate races, California cable items, Newsweek polling, and television monitors."
+    },
+    {
+      "date": "1992-09-21",
+      "documentDate": "1992-09-21",
       "title": "Conference of Presidents fax re closed meeting with Governor Clinton",
       "parentPacketId": "nara-470418075-direct-scan",
       "naId": "470418075",
@@ -33125,21 +33140,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418075",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90720-004.pdf",
       "excerpt": "The photo-transfer packet includes color photographs and official White House photo labels from the President's September 21 Rush Limbaugh interview and United Nations visit."
-    },
-    {
-      "date": "1992-09-21",
-      "documentDate": "1992-09-21",
-      "title": "Daily Political Briefing: 1992-09-21",
-      "parentPacketId": "nara-470418075-direct-scan",
-      "naId": "470418075",
-      "folderId": "90720-004",
-      "containerId": "90720",
-      "category": "daily-political-briefing-item",
-      "disposition": "itemized-daily-political-briefing",
-      "type": "Daily Political Briefing",
-      "catalogUrl": "https://catalog.archives.gov/id/470418075",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90720-004.pdf",
-      "excerpt": "--- THE DAILY BRIEFING ON AMERICAN POLITICS --- Updated Each Morning At 11:50 (c) The American Political Network, Inc. 282 North Washington Street, Falls Church, VA (703) 237-5130 QUAYLE DRAFT ISSUE RETURNS SPOTLIGHT N.Y. TIMES cites \"favoritism\" in '69 IN Natl Guard spot. (#2) ENJOY THE VIEW TUNE IN TONIGHT: CBS couldn't buy more free press With new \"comparative\" for \"Murphy\" premiere. (#3) ads, the campaign's high- water mark might have been MIDWESTERN MANIFESTO yesterday. Once you TV- IL: Clinton 19-point lea..."
     },
     {
       "date": "1992-09-22",
