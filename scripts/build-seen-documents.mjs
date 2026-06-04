@@ -19928,6 +19928,302 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 73-78 of the NARA direct folder scan using color photo pages, Official White House Photo backing pages, visible August 23 metadata, OCR, and rendered-page review.",
     },
   ],
+  470418006: [
+    {
+      slug: "daily-briefing-american-politics-august-25-1992",
+      documentType: "Political Briefing Newsletter",
+      category: "daily-political-briefing",
+      disposition: "itemized-daily-political-briefing",
+      title:
+        "The Daily Briefing on American Politics, August 25, 1992",
+      documentDate: "1992-08-25",
+      pages: 25,
+      excerpt:
+        "The American Political Network Daily Briefing covers Bush and Clinton campaign themes, job training, convention reaction, candidate schedules, state polling, House and Senate races, and morning television coverage.",
+      evidence:
+        "Itemized from pages 2-26 of the NARA direct folder scan using the Daily Briefing masthead, APN Bulletin Board page, section headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-5pm-wires-august-25",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary, 5:00 p.m. wires, August 25, 1992",
+      documentDate: "1992-08-25",
+      pages: 10,
+      excerpt:
+        "The 5:00 p.m. White House News Summary wires include stories on the chemical arms ban, Clinton tax claims, Clinton's Vietnam record and Bush's Gulf service, Iraq missile guidance, Neil Bush, U.N. inspectors, and Sarajevo fighting.",
+      evidence:
+        "Itemized from pages 27-36 of the NARA direct folder scan using the White House News Summary masthead, 5:00 p.m. wires label, article starts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-6pm-wires-august-25",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary, 6:00 p.m. wires, August 25, 1992",
+      documentDate: "1992-08-25",
+      pages: 5,
+      excerpt:
+        "The 6:00 p.m. White House News Summary wires include stories on Bush's criticism of Clinton mileage standards, Iraq moving military planes from southern Iraq, and Rabin's caution on the Golan Heights.",
+      evidence:
+        "Itemized from pages 37-41 of the NARA direct folder scan using the White House News Summary masthead, 6:00 p.m. wires label, article starts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "marked-faxed-campaign-news-summary-page",
+      documentType: "Faxed News Summary Page with President Bush Handwriting",
+      category: "campaign-news-summary-page",
+      disposition: "itemized-campaign-news-summary-page",
+      title:
+        "Marked faxed campaign news-summary page on Quayle and Clinton attacks",
+      documentDate: "1992-08-25",
+      pages: 1,
+      excerpt:
+        "A White House communications-center faxed news-summary page carries President Bush handwriting alongside items on Dan Quayle, Clinton's attacks after the convention, Willie Horton, and campaign strategy.",
+      evidence:
+        "Itemized from page 42 of the NARA direct folder scan using the White House COMMCTR fax header, Bush Library handwriting marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jab-note-bob-zoellick-ethanol-questions",
+      documentType: "Staff Note with President Bush Handwriting",
+      category: "ethanol-policy-routing-note",
+      disposition: "itemized-ethanol-policy-routing-note",
+      title:
+        "JAB note to the President on sending ethanol questions to Bob Zoellick",
+      documentDate: "1992-08-25",
+      pages: 1,
+      excerpt:
+        "JAB tells President Bush that he gave Bob Zoellick the sealed envelope containing ethanol questions and asked him to handle it.",
+      evidence:
+        "Itemized from page 43 of the NARA direct folder scan using the Note for the President heading, The President Has Seen stamp, White House COMMCTR header, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-baker-ethanol-recusal-memorandum",
+      documentType: "Presidential Memorandum",
+      category: "ethanol-policy-memorandum",
+      disposition: "itemized-ethanol-policy-memorandum",
+      title:
+        "President Bush memorandum to James Baker on ethanol questions and Baker's energy recusal",
+      documentDate: "1992-08-24",
+      pages: 1,
+      excerpt:
+        "President Bush writes James Baker that because Baker is recused from energy matters, Bush is sending ethanol questions in a sealed envelope and asks whom Baker wants to handle the issue.",
+      evidence:
+        "Itemized from page 44 of the NARA direct folder scan using the From the President memorandum, ethanol subject line, White House COMMCTR header, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fema-situation-report-3-hurricane-andrew",
+      documentType: "FEMA Situation Report",
+      category: "hurricane-andrew-situation-report",
+      disposition: "itemized-hurricane-andrew-situation-report",
+      title:
+        "FEMA Situation Report #3 on Hurricane Andrew, August 25, 1992",
+      documentDate: "1992-08-25",
+      pages: 5,
+      excerpt:
+        "FEMA Situation Report #3 covers Hurricane Andrew's impact in South Florida and Gulf Coast states, casualty estimates, weather forecast, declarations, response operations, National Guard support, evacuations, and federal briefings.",
+      evidence:
+        "Itemized from pages 45-49 of the NARA direct folder scan using the FEMA fax header, Situation Report #3 heading, The President Has Seen stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "aunt-marge-clement-campaign-contribution-correspondence",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Aunt Marge Clement campaign-contribution correspondence and presidential reply",
+      documentDate: "1992-08-25",
+      pages: 2,
+      excerpt:
+        "The correspondence includes Mrs. Stuart H. Clement's August 12 note about campaign contribution checks and President Bush's Aboard Air Force One handwritten reply thanking Aunt Marge.",
+      evidence:
+        "Itemized from pages 50-51 of the NARA direct folder scan using the Clement address block, Aunt Marge letter transcription, Aboard Air Force One reply, OCR, and rendered-page review.",
+    },
+    {
+      slug: "joan-cravens-national-debt-reply",
+      documentType: "Presidential Letter and Routing Material",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Presidential reply to Joan Cravens on lowering the national debt",
+      documentDate: "1992-08-25",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Joan Cravens for encouragement and support, says he is glad she liked his idea for lowering the national debt, and notes that the convention went well.",
+      evidence:
+        "Itemized from pages 52-53 of the NARA direct folder scan using the President letterhead, Joan Cravens envelope/address text, routing note page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-determination-92-42-yugoslavia-refugee-assistance",
+      documentType: "Presidential Determination",
+      category: "presidential-determination",
+      disposition: "itemized-presidential-determination",
+      title:
+        "Presidential Determination No. 92-42 on emergency refugee and migration assistance for the former Yugoslavia",
+      documentDate: "1992-08-25",
+      pages: 1,
+      excerpt:
+        "Presidential Determination No. 92-42 makes up to $12 million available from the U.S. Emergency Refugee and Migration Assistance Fund for refugees, conflict victims, and displaced persons from the former Yugoslavia.",
+      evidence:
+        "Itemized from page 54 of the NARA direct folder scan using the Office of the Press Secretary release, Presidential Determination number, subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-determination-92-44-organization-african-unity",
+      documentType: "Presidential Determination",
+      category: "presidential-determination",
+      disposition: "itemized-presidential-determination",
+      title:
+        "Presidential Determination No. 92-44 on defense articles and services for the Organization of African Unity",
+      documentDate: "1992-08-25",
+      pages: 1,
+      excerpt:
+        "Presidential Determination No. 92-44 finds that furnishing defense articles and services to the Organization of African Unity will strengthen U.S. security and promote world peace.",
+      evidence:
+        "Itemized from page 55 of the NARA direct folder scan using the Office of the Press Secretary release, Presidential Determination number, subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-determination-92-43-africa-refugee-assistance",
+      documentType: "Presidential Determination",
+      category: "presidential-determination",
+      disposition: "itemized-presidential-determination",
+      title:
+        "Presidential Determination No. 92-43 on emergency refugee and migration assistance for Africa",
+      documentDate: "1992-08-25",
+      pages: 1,
+      excerpt:
+        "Presidential Determination No. 92-43 makes up to $15.2 million available from the U.S. Emergency Refugee and Migration Assistance Fund for refugees, conflict victims, and displaced persons in Africa.",
+      evidence:
+        "Itemized from page 56 of the NARA direct folder scan using the Office of the Press Secretary release, Presidential Determination number, subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-kenneth-mackenzie",
+      documentType: "Press Release",
+      category: "daily-point-of-light-release",
+      disposition: "itemized-daily-point-of-light-release",
+      title:
+        "Press release recognizing Kenneth MacKenzie as the 872nd Daily Point of Light",
+      documentDate: "1992-08-25",
+      pages: 1,
+      excerpt:
+        "The Chicago press release recognizes Kenneth MacKenzie of Gulf Breeze, Florida, as the 872nd Daily Point of Light for work with disabled bowlers, scouting, and public awareness.",
+      evidence:
+        "Itemized from page 57 of the NARA direct folder scan using the Office of the Press Secretary release heading, Daily Point of Light text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "clinton-detroit-economic-club-speech-transmittal",
+      documentType: "Presidential Transmittal and Speech Transcript",
+      category: "campaign-opposition-research",
+      disposition: "itemized-campaign-opposition-research",
+      title:
+        "President Bush transmittal to James Baker with Bill Clinton Detroit Economic Club speech transcript",
+      documentDate: "1992-08-25",
+      pages: 17,
+      excerpt:
+        "President Bush sends James Baker Clinton's defining speech to the Detroit Economic Club and asks for point-by-point true-or-false analysis, with the attached August 21 Clinton transcript and a handwritten Bush note.",
+      evidence:
+        "Itemized from pages 58-74 of the NARA direct folder scan using the From the President transmittal, Detroit Economists Club transcript heading, handwritten Bush note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fred-steeper-negativism-bush-campaign-memo",
+      documentType: "Campaign Strategy Memorandum",
+      category: "campaign-strategy-memorandum",
+      disposition: "itemized-campaign-strategy-memorandum",
+      title:
+        "Fred Steeper memorandum on negativism of the Bush campaign while home in Michigan",
+      documentDate: "1992-08-24",
+      pages: 1,
+      excerpt:
+        "Fred Steeper writes James Baker, Bob Teeter, and Fred Malek that media coverage makes the campaign seem too negative and urges a more optimistic domestic agenda.",
+      evidence:
+        "Itemized from page 75 of the NARA direct folder scan using the Market Strategies fax header, memorandum heading, Bush Library handwriting marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-reports-chicago-canton-august-25",
+      documentType: "Pool Reports",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Reports #1-#2 from Chicago and Canton, Michigan, August 25, 1992",
+      documentDate: "1992-08-25",
+      pages: 2,
+      excerpt:
+        "Pool Reports #1 and #2 cover Fitzwater comments on Iraq and the American Legion speech, O'Hare and Meigs Field greetings, Sheraton Chicago, the trip to Canton, and Bush's Willow Run rope line.",
+      evidence:
+        "Itemized from pages 76-77 of the NARA direct folder scan using the Pool Report #1 and #2 headings, locations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nuclear-waste-response-baker-routing-packet",
+      documentType: "Memorandum and Routing Notes with President Bush Handwriting",
+      category: "nuclear-waste-response-packet",
+      disposition: "itemized-nuclear-waste-response-packet",
+      title:
+        "Nuclear waste disposal response packet for Secretary Baker",
+      documentDate: "1992-08-25",
+      pages: 3,
+      excerpt:
+        "The packet includes Ede Holiday's nuclear-waste disposal response for Baker, an Aboard Air Force One handwritten note from Bush to JAB asking for a concise answer, and a Phil Brady forwarding note.",
+      evidence:
+        "Itemized from pages 78-80 of the NARA direct folder scan using the Ede Holiday memorandum, Aboard Air Force One handwriting page, Brady routing note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sharon-miller-health-care-plan-information-packet",
+      documentType: "Presidential Correspondence and Routing Notes",
+      category: "health-care-correspondence",
+      disposition: "itemized-health-care-correspondence",
+      title:
+        "Health-care plan information packet for Sharon Miller",
+      documentDate: "1992-08-25",
+      pages: 4,
+      excerpt:
+        "The Sharon Miller packet includes an Aboard Air Force One letter supplying health-care plan information, an attachment marker, a handwritten Bush note, and a George Bush note card asking Gail Wilensky for health-care plan information.",
+      evidence:
+        "Itemized from pages 81-84 of the NARA direct folder scan using the Sharon Miller letter, document-attached marker, Aboard Air Force One handwriting, George Bush note card, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ronald-harris-saint-bernard-high-school-letter-photo-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Ronald Harris Saint Bernard High School letter and photograph packet",
+      documentDate: "1992-08-25",
+      pages: 13,
+      excerpt:
+        "The Ronald Harris packet includes the signed presidential reply on education choice and Saint Bernard High School, a signed photograph inscription, draft letter materials, Jane Barnett routing, photo/mailing request, and Harris's incoming handwritten letter.",
+      evidence:
+        "Itemized from pages 85-97 of the NARA direct folder scan using the White House reply, signed photograph page, draft letter cover sheet, routing form, photo request, incoming handwritten letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-office-daily-press-clippings-august-25",
+      documentType: "Daily Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Mrs. Bush's Press Office daily press clippings, August 25, 1992",
+      documentDate: "1992-08-25",
+      pages: 20,
+      excerpt:
+        "The Mrs. Bush's Press Office clipping packet includes August 23-25 coverage and commentary on Quayle, family values, Hillary Clinton, Kennebunkport, Buchanan, and education or family-structure debates.",
+      evidence:
+        "Itemized from pages 98-117 of the NARA direct folder scan using the daily press clippings distribution page, newspaper mastheads, clipping headlines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "american-legion-chicago-remarks",
+      documentType: "Speech Draft",
+      category: "event-remarks-draft",
+      disposition: "itemized-event-remarks-draft",
+      title:
+        "Presidential remarks to the American Legion in Chicago, August 25, 1992",
+      documentDate: "1992-08-25",
+      pages: 22,
+      excerpt:
+        "The American Legion remarks discuss Hurricane Andrew, veterans health care, POW/MIA accounting, the Gulf War, the Cold War, Iraq, chemical weapons, force readiness, trade, and American values.",
+      evidence:
+        "Itemized from pages 118-139 of the NARA direct folder scan using the American Legion Chicago heading, internal page numbers, OCR, and rendered-page review.",
+    },
+  ],
   470418007: [
     {
       slug: "response-to-claims-clinton-is-raising-again",
@@ -25298,6 +25594,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417996",
   "470417997",
   "470417998",
+  "470418006",
   "470418083",
   "646482521",
 ]);
