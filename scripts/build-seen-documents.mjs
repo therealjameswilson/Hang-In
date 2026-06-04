@@ -22638,6 +22638,48 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from the President's note to JAB III, Teeter-office follow-up note, Stanton fax page, and rendered-page review.",
     },
     {
+      slug: "president-bush-telephone-memorandum-september-19-1992",
+      documentType: "Telephone Memorandum",
+      category: "presidential-telephone-log",
+      disposition: "itemized-presidential-telephone-log",
+      title:
+        "President Bush telephone memorandum for September 19, 1992",
+      documentDate: "1992-09-19",
+      pages: 2,
+      excerpt:
+        "The telephone memorandum includes a no-calls sheet and a Signal Switchboard call log for President Bush at Camp David, including calls with Eileen Borrell, James A. Baker III, Brent Scowcroft, Edward Lawson, and military aides.",
+      evidence:
+        "Itemized from the Telephone Memorandum heading, Signal Switchboard log page, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-no-movements-september-19-1992",
+      documentType: "Presidential Movements Form",
+      category: "presidential-movement-log",
+      disposition: "itemized-presidential-movement-log",
+      title:
+        "Presidential movements form: no movements, September 19, 1992",
+      documentDate: "1992-09-19",
+      pages: 1,
+      excerpt:
+        "The WHCA Form 15 movement record lists Washington, D.C., for September 19, 1992, and records no presidential movements.",
+      evidence:
+        "Itemized from the Presidential Movements heading, WHCA Form 15 label, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-camp-david-september-19-1992",
+      documentType: "Materials Forwarded List",
+      category: "presidential-materials-forwarded",
+      disposition: "itemized-presidential-materials-forwarded",
+      title:
+        "Materials forwarded to President Bush at Camp David, September 19, 1992",
+      documentDate: "1992-09-19",
+      pages: 1,
+      excerpt:
+        "The materials-forwarded sheet lists action, information, remarks, schedule, and briefing-book items sent to Camp David and the Residence, including the IMF reception, U.N. General Assembly, Korean-American rally, goldline, and September 21 trip book.",
+      evidence:
+        "Itemized from the Materials Forwarded to the President heading, listed action and schedule categories, and rendered-page review.",
+    },
+    {
       slug: "reuters-maastricht-wire-and-marked-imf-insertion",
       documentType: "Wire Story and Speech Draft Page",
       category: "economic-policy-speech-material",
@@ -22664,6 +22706,62 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Phillip D. Brady tells the President that speech cards for Sunday, September 20 will be at the residence upon his return.",
       evidence:
         "Itemized from the White House note by Phillip D. Brady and rendered-page review.",
+    },
+    {
+      slug: "sunday-schedule-finance-ministers-central-bank-governors",
+      documentType: "Schedule of the President",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title:
+        "Schedule of the President: finance ministers and central bank governors address",
+      documentDate: "1992-09-20",
+      pages: 1,
+      excerpt:
+        "The Sunday schedule places the President at Camp David, then at the White House South Lawn and State Floor for an address to finance ministers and central bank governors followed by a reception.",
+      evidence:
+        "Itemized from the Schedule of the President heading, State Floor event line, and rendered-page review.",
+    },
+    {
+      slug: "scowcroft-briefing-finance-ministers-central-bank-governors",
+      documentType: "Event Briefing",
+      category: "economic-policy-event-briefing",
+      disposition: "itemized-economic-policy-event-briefing",
+      title:
+        "Brent Scowcroft briefing for finance ministers and central bank governors address",
+      documentDate: "1992-09-19",
+      pages: 2,
+      excerpt:
+        "Brent Scowcroft briefs the President for a September 20 East Room address to IMF and World Bank annual-meeting participants, noting European exchange-rate turmoil, the Maastricht vote, press plan, sequence, and a pending Zoellick points sheet.",
+      evidence:
+        "Itemized from the Scowcroft event-briefing heading, attachments list, Zoellick points page, and rendered-page review.",
+    },
+    {
+      slug: "imf-world-bank-participant-list-september-20-1992",
+      documentType: "Participant List",
+      category: "economic-policy-event-briefing",
+      disposition: "itemized-economic-policy-event-briefing",
+      title:
+        "Participant list for IMF and World Bank annual-meeting reception",
+      documentDate: "1992-09-20",
+      pages: 6,
+      excerpt:
+        "The participant list identifies finance ministers, central-bank governors, international-organization officials, and U.S. government attendees for the IMF and World Bank annual-meeting reception.",
+      evidence:
+        "Itemized from the participant names and role headings across the Tab B list and rendered-page review.",
+    },
+    {
+      slug: "sequence-events-imf-interim-committee-reception",
+      documentType: "Sequence of Events",
+      category: "official-event-sequence",
+      disposition: "itemized-official-event-sequence",
+      title:
+        "Sequence of events for International Monetary Fund Interim Committee reception",
+      documentDate: "1992-09-20",
+      pages: 1,
+      excerpt:
+        "Laurie Firestone's sequence of events lays out the State Floor reception for members of the IMF Interim Committee, including guest arrival, the President's remarks, receiving line, refreshments, and departure.",
+      evidence:
+        "Itemized from the Sequence of Events heading, timed event script, and rendered-page review.",
     },
     {
       slug: "imf-statement-speech-cards-drafts",
@@ -25875,6 +25973,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418057",
   "470418060",
   "470418070",
+  "470418071",
   "470418083",
   "646482521",
   "646482523",
