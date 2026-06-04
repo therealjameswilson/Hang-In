@@ -34216,6 +34216,554 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 129-176 of the NARA direct folder scan using the RNC Daily News Summary cover, Washington Times, Washington Post, New York Times, Wall Street Journal, and other clipping pages, OCR, and rendered-page review.",
     },
   ],
+  470418195: [
+    {
+      slug: "phone-call-condolences-for-president-november-20",
+      documentType: "Phone Call Condolences List",
+      category: "phone-and-scheduling-material",
+      disposition: "itemized-administrative-material",
+      title: "Phone call condolences for the President, November 20, 1992",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "A White House list records condolence calls for President Bush after Dorothy Walker Bush's death, including Alec and Louise, Bobby and Joanie Holt, William O'Neill, Velma Childers, Milt Pappas, and Ed and Patty Haggar.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the phone-condolence heading, recipient list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-chafee-white-house-visit-request-note",
+      documentType: "Telephone Note with President Bush Handwriting",
+      category: "phone-and-scheduling-material",
+      disposition: "itemized-administrative-material",
+      title: "Senator John Chafee White House visit request note with President Bush handwriting",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "Senator John Chafee asks to come to the White House to thank President Bush and say hello; the page includes Bush Library photocopied handwriting.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using the Chafee telephone note, Bush handwriting notice, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dorothy-bush-greenwich-service-arrangements",
+      documentType: "Service Arrangement Memorandum",
+      category: "family-service-arrangements",
+      disposition: "itemized-administrative-material",
+      title: "Arrangements for Dorothy Walker Bush Greenwich service",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "A White House arrangements note sets President Bush's instructions for the November 23 private service for Mrs. Bush Sr. in Greenwich, including family travel, staff, and photography limits.",
+      evidence:
+        "Itemized from page 4 of the NARA direct folder scan using the service-arrangements heading, instructions, OCR, and rendered-page review.",
+    },
+    {
+      slug: "camp-david-visit-report-november-20-22-1992",
+      documentType: "Camp David Visit Report",
+      category: "camp-david-visit-report",
+      disposition: "itemized-camp-david-material",
+      title: "Camp David visit report for November 20-22, 1992",
+      documentDate: "1992-11-22",
+      pages: 4,
+      excerpt:
+        "The Naval Support Facility Thurmont visit report records arrivals, departures, guest activities, chapel services, and support details for President Bush's November 20-22 Camp David weekend.",
+      evidence:
+        "Itemized from pages 5-8 of the NARA direct folder scan using the visit-report memorandum, Camp David activity pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "camp-david-cabin-assignments-november-20-22-1992",
+      documentType: "Cabin Assignments",
+      category: "camp-david-visit-report",
+      disposition: "itemized-camp-david-material",
+      title: "Camp David cabin assignments for November 20-22, 1992",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "A cabin-assignment grid lists the President and Mrs. Bush, Republican governors and spouses, Amy Grant, Gary Chapman, and other Camp David guests.",
+      evidence:
+        "Itemized from page 9 of the NARA direct folder scan using the cabin-assignment table, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-telephone-memoranda-november-20",
+      documentType: "Telephone Memoranda and Signal Switchboard Logs",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "White House telephone memoranda and signal switchboard logs, November 20, 1992",
+      documentDate: "1992-11-20",
+      pages: 4,
+      excerpt:
+        "White House telephone records log calls with Thomas Ludlow Ashley, Peter Flanigan, Jesse Jackson, Jonathan Bush, Neil Bush, Prime Minister John Major, Brent Scowcroft, and other contacts.",
+      evidence:
+        "Itemized from pages 10-13 of the NARA direct folder scan using White House telephone memorandum pages, Signal Switchboard logs, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-november-20-1992",
+      documentType: "Presidential Movements Log",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential movements for Washington and Camp David, November 20, 1992",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "A Presidential Movements sheet tracks President Bush's November 20 movements between the Residence, Oval Office, Press Room, South Grounds, and Camp David.",
+      evidence:
+        "Itemized from page 14 of the NARA direct folder scan using the Presidential Movements table, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-office-daily-press-clippings-november-20",
+      documentType: "First Lady Daily Press Clippings",
+      category: "first-lady-press-clippings",
+      disposition: "itemized-first-lady-press-clippings",
+      title: "Mrs. Bush Press Office Daily Press Clippings: Friday, November 20, 1992",
+      documentDate: "1992-11-20",
+      pages: 25,
+      excerpt:
+        "The First Lady press packet compiles coverage of Barbara Bush's White House tour for Hillary Clinton, post-White House housing in Houston, and early coverage of Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from pages 15-39 of the NARA direct folder scan using the Mrs. Bush Press Office cover sheet, clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jesse-jackson-condolence-phone-call-note",
+      documentType: "Presidential Phone Call Note",
+      category: "presidential-phone-call-note",
+      disposition: "itemized-presidential-phone-call-note",
+      title: "Jesse Jackson condolence phone-call note",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "A Presidential Phone Calls note records a condolence call with Jesse Jackson after Dorothy Walker Bush's death, with handwritten follow-up notes.",
+      evidence:
+        "Itemized from page 40 of the NARA direct folder scan using the Presidential Phone Calls form, OCR, and rendered-page review.",
+    },
+    {
+      slug: "additional-phone-call-condolences-november-20",
+      documentType: "Phone Call Condolences List",
+      category: "phone-and-scheduling-material",
+      disposition: "itemized-administrative-material",
+      title: "Additional phone call condolences for the President, November 20, 1992",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "A second condolence-call list records messages from Congressman Sonny Montgomery, Bill Moss, and Rabbi Arthur Schneier's office.",
+      evidence:
+        "Itemized from page 41 of the NARA direct folder scan using the condolence-call list, Bush Library photocopy notice, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dustin-luciano-boca-grande-correspondence-photo-card",
+      documentType: "Correspondence, Photograph, and Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Dustin Luciano Boca Grande correspondence, signed photo, and card pages",
+      documentDate: "1992-11-20",
+      pages: 4,
+      excerpt:
+        "President Bush replies to Dustin Luciano about Boca Grande, grandkids, school, and a picture with Millie and Ranger; the packet includes a signed photo page and Dustin's card pages.",
+      evidence:
+        "Itemized from pages 42-45 of the NARA direct folder scan using the presidential reply, signed photograph page, child card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "frederick-ryan-reagan-transition-assistance-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Frederick J. Ryan Jr. Reagan transition-assistance correspondence and presidential reply",
+      documentDate: "1992-11-20",
+      pages: 2,
+      excerpt:
+        "Frederick J. Ryan Jr. offers Ronald Reagan transition experience as Bush prepares to leave office, and President Bush replies with thanks for the helpful material.",
+      evidence:
+        "Itemized from pages 46-47 of the NARA direct folder scan using the presidential reply, Office of Ronald Reagan incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gerald-whitburn-fond-du-lac-rally-photo-article-correspondence",
+      documentType: "Correspondence, Photograph, and Article Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Gerald Whitburn Fond du Lac rally photograph and article correspondence",
+      documentDate: "1992-11-20",
+      pages: 4,
+      excerpt:
+        "Gerald Whitburn sends a Fond du Lac rally photograph, handwritten note, and local article; President Bush replies with thanks for the picture and support.",
+      evidence:
+        "Itemized from pages 48-51 of the NARA direct folder scan using the presidential reply, photograph page, handwritten note, article clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "edward-kennedy-condolence-note-presidential-reply",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Edward M. Kennedy condolence note and presidential handwritten reply",
+      documentDate: "1992-11-20",
+      pages: 3,
+      excerpt:
+        "President Bush sends a handwritten reply to Senator Edward M. Kennedy after Kennedy's condolence note and quotation on the death of Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 52-54 of the NARA direct folder scan using the White House address page, Kennedy stationery, handwritten note page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "r-christopher-ott-campaign-team-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "R. Christopher Ott campaign-team correspondence and presidential reply",
+      documentDate: "1992-11-20",
+      pages: 3,
+      excerpt:
+        "R. Christopher Ott writes after the election about campaign work and loyalty, and President Bush replies with thanks for Ott's help.",
+      evidence:
+        "Itemized from pages 55-57 of the NARA direct folder scan using the presidential reply, incoming handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mark-corallo-supporter-correspondence-presidential-reply",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mark C. Corallo supporter correspondence and presidential reply",
+      documentDate: "1992-11-20",
+      pages: 5,
+      excerpt:
+        "Mark C. Corallo sends a supporter letter after the election, and President Bush replies with thanks for friendship, help, and encouragement.",
+      evidence:
+        "Itemized from pages 58-62 of the NARA direct folder scan using the presidential reply, address page, incoming letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "frank-ikard-condolence-correspondence-presidential-reply",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mrs. Frank N. Ikard condolence correspondence and presidential reply",
+      documentDate: "1992-11-20",
+      pages: 2,
+      excerpt:
+        "Mrs. Frank N. Ikard sends a handwritten message after Dorothy Walker Bush's death, and President Bush replies with a handwritten note.",
+      evidence:
+        "Itemized from pages 63-64 of the NARA direct folder scan using the White House address page, incoming handwritten page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-kinard-boca-grande-golf-correspondence-photo",
+      documentType: "Correspondence and Photograph Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Bob Kinard Boca Grande golf correspondence and photograph packet",
+      documentDate: "1992-11-20",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Boca Grande golf pro Bob Kinard after returning to the golf course; the packet includes a photograph page with a note to Bob.",
+      evidence:
+        "Itemized from pages 65-67 of the NARA direct folder scan using the presidential reply, Boca Grande golf-pro page, photograph page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-poindexter-naval-academy-photo-autograph-correspondence",
+      documentType: "Correspondence and Photograph Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John Poindexter Naval Academy photograph autograph correspondence",
+      documentDate: "1992-11-20",
+      pages: 3,
+      excerpt:
+        "John Poindexter asks President Bush to autograph a Naval Academy graduation photograph for his son Thomas M. Poindexter, and Bush sends a handwritten response.",
+      evidence:
+        "Itemized from pages 68-70 of the NARA direct folder scan using the handwritten presidential reply, photograph page, incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jerry-falwell-condolence-service-correspondence",
+      documentType: "Correspondence and Enclosure Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jerry Falwell condolence and service correspondence packet",
+      documentDate: "1992-11-20",
+      pages: 3,
+      excerpt:
+        "Jerry Falwell sends condolences and prayer after Dorothy Walker Bush's death, with a service-of-gratitude enclosure; the packet includes a White House address and reply page.",
+      evidence:
+        "Itemized from pages 71-73 of the NARA direct folder scan using the White House address page, service enclosure, Liberty University letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "harry-walker-future-speaking-invitation-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Harry Walker Agency future speaking invitation correspondence",
+      documentDate: "1992-11-20",
+      pages: 2,
+      excerpt:
+        "Harry Walker writes about post-presidency speaking invitations and the Case Western invitation, and the packet includes White House routing material.",
+      evidence:
+        "Itemized from pages 74-75 of the NARA direct folder scan using the White House address page, Harry Walker Agency letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sophia-keller-correspondence-photograph-packet",
+      documentType: "Correspondence and Photograph Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sophia Keller correspondence and photograph packet",
+      documentDate: "1992-11-20",
+      pages: 3,
+      excerpt:
+        "Sophia Keller writes after the election about Bush's campaign, family, and a photograph from the American Legion Convention; the packet includes White House routing and photograph material.",
+      evidence:
+        "Itemized from pages 76-78 of the NARA direct folder scan using the White House address page, photograph page, incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "houston-retirement-home-camp-david-wire-stories",
+      documentType: "Wire Service Press Packet",
+      category: "wire-service-press-material",
+      disposition: "itemized-wire-service-press-material",
+      title: "Houston retirement home and Camp David governors wire stories",
+      documentDate: "1992-11-20",
+      pages: 4,
+      excerpt:
+        "AP and UPI wire stories report on the Bushes' planned Houston residence after leaving the White House and the Republican governors spending the weekend at Camp David.",
+      evidence:
+        "Itemized from pages 79-82 of the NARA direct folder scan using AP and UPI wire-story datelines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "georgia-senate-runoff-barbara-bush-campaign-press",
+      documentType: "Press Packet",
+      category: "georgia-senate-runoff-press",
+      disposition: "itemized-press-packet",
+      title: "Georgia Senate runoff and Barbara Bush campaign press packet",
+      documentDate: "1992-11-20",
+      pages: 7,
+      excerpt:
+        "Press clippings and wire stories cover the Wyche Fowler-Paul Coverdell Georgia Senate runoff, Bill Clinton's political capital, and Barbara Bush's return to the campaign trail for Coverdell.",
+      evidence:
+        "Itemized from pages 83-89 of the NARA direct folder scan using USA Today, New York Times, AP, and UPI pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dorothy-walker-bush-death-memorial-press-packet",
+      documentType: "Press Packet",
+      category: "dorothy-walker-bush-press",
+      disposition: "itemized-press-packet",
+      title: "Dorothy Walker Bush death and memorial press packet",
+      documentDate: "1992-11-20",
+      pages: 19,
+      excerpt:
+        "A press packet gathers obituaries, profiles, and wire coverage on Dorothy Walker Bush's death, Greenwich funeral preparations, Bush family grief, and reflections on her influence on President Bush.",
+      evidence:
+        "Itemized from pages 90-108 of the NARA direct folder scan using newspaper clippings, AP, UPI, Reuters, and Susan Cornwell wire pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kathy-super-sununu-camp-david-lunch-request-memorandum",
+      documentType: "Scheduling Memorandum",
+      category: "scheduling-memorandum",
+      disposition: "itemized-scheduling-memorandum",
+      title: "Kathy Super memorandum re Governor Sununu Camp David visit and lunch request",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "Kathy Super tells Rose Zamaria that Governor John Sununu will see President Bush at Camp David and would like lunch during the week of November 30.",
+      evidence:
+        "Itemized from page 109 of the NARA direct folder scan using the Kathy Super memorandum, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lamar-alexander-minnie-pearl-piece-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Lamar Alexander Minnie Pearl piece presidential reply copy",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Lamar Alexander thanking him for a note and the Minnie Pearl piece.",
+      evidence:
+        "Itemized from page 110 of the NARA direct folder scan using the outgoing presidential letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "w-tom-arnold-fishing-trip-offer-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "W. Tom Arnold fishing trip offer presidential reply copy",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to W. Tom Arnold thanking him for his election message and kind fishing trip offer.",
+      evidence:
+        "Itemized from page 111 of the NARA direct folder scan using the outgoing presidential letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-chapoton-post-election-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "John E. Chapoton post-election presidential reply copy",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to John E. 'Buck' Chapoton thanking him for his message about the election and friendship.",
+      evidence:
+        "Itemized from page 112 of the NARA direct folder scan using the outgoing presidential letter copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jerry-falwell-handwritten-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Jerry Falwell handwritten presidential reply copy",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing handwritten reply to Jerry Falwell, with White House address and routing marks.",
+      evidence:
+        "Itemized from page 113 of the NARA direct folder scan using the outgoing handwritten reply copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "roberto-goizueta-points-of-light-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Roberto C. Goizueta Points of Light presidential reply copy",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Roberto C. Goizueta thanking him for his letter, Points of Light Foundation work, and post-election support.",
+      evidence:
+        "Itemized from page 114 of the NARA direct folder scan using the outgoing presidential letter copy, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "howard-barbara-goldenfarb-post-election-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Howard and Barbara Goldenfarb post-election presidential reply copy",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Howard and Barbara Goldenfarb thanking them for friendship and support after the election.",
+      evidence:
+        "Itemized from page 115 of the NARA direct folder scan using the outgoing presidential letter copy, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ermalee-walter-hickel-post-election-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Ermalee and Walter J. Hickel post-election presidential reply copy",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Ermalee and Walter J. Hickel thanking them for election support and loyal friendship.",
+      evidence:
+        "Itemized from page 116 of the NARA direct folder scan using the outgoing presidential letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "frank-ikard-handwritten-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Mrs. Frank N. Ikard handwritten presidential reply copy",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing handwritten reply to Mrs. Frank N. Ikard, with White House address and routing marks.",
+      evidence:
+        "Itemized from page 117 of the NARA direct folder scan using the outgoing handwritten reply copy and rendered-page review.",
+    },
+    {
+      slug: "edward-robinson-foreign-policy-record-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Edward Robinson foreign-policy record presidential reply copy",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Edward Robinson thanking him for remarks about President Bush's foreign-policy record.",
+      evidence:
+        "Itemized from page 118 of the NARA direct folder scan using the outgoing presidential letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-mickelson-post-election-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "George S. Mickelson post-election presidential reply copy",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to South Dakota Governor George S. Mickelson thanking him for friendship and post-election support.",
+      evidence:
+        "Itemized from page 119 of the NARA direct folder scan using the outgoing presidential letter copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pat-tom-purvis-election-analysis-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Pat and Tom Purvis election-analysis presidential reply copy",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Pat and Tom Purvis thanking them for election analysis, long support, and Texas friendship, with Bush handwriting about returning to Houston.",
+      evidence:
+        "Itemized from page 120 of the NARA direct folder scan using the outgoing presidential letter copy, highlighted address block, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "harry-walker-handwritten-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Harry Walker Agency handwritten presidential reply copy",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing handwritten reply to Harry Walker about future speaking inquiries, with White House address and routing marks.",
+      evidence:
+        "Itemized from page 121 of the NARA direct folder scan using the outgoing handwritten reply copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-welch-ge-post-election-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "John F. Welch Jr. General Electric post-election presidential reply copy",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to General Electric chairman John F. Welch Jr. thanking him for his election message and sending regards to Jane.",
+      evidence:
+        "Itemized from page 122 of the NARA direct folder scan using the outgoing presidential letter copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-alan-wright-post-election-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Charles Alan Wright post-election presidential reply copy",
+      documentDate: "1992-11-20",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Charles Alan Wright thanking him and Custis for long friendship and support after the election.",
+      evidence:
+        "Itemized from page 123 of the NARA direct folder scan using the outgoing presidential letter copy, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rnc-daily-news-summary-november-20-1992",
+      documentType: "Daily News Summary",
+      category: "daily-news-summary",
+      disposition: "itemized-news-summary",
+      title: "Republican National Committee Daily News Summary: Friday, November 20, 1992",
+      documentDate: "1992-11-20",
+      pages: 38,
+      excerpt:
+        "The Republican National Committee Daily News Summary compiles coverage of Dorothy Walker Bush's death, Bush's Houston home, the White House transition, burrowing-in allegations, Republican politics, and national news.",
+      evidence:
+        "Itemized from pages 124-161 of the NARA direct folder scan using the RNC Daily News Summary cover sheet, newspaper clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photograph-transfer-page-november-20",
+      documentType: "Transferred Photograph Page",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title: "Official White House photograph transfer page from the November 20 daily file",
+      documentDate: "1992-11-20",
+      pages: 2,
+      excerpt:
+        "The folder ends with a color Official White House photograph page showing President Bush at a podium and a backing page identifying the White House photo envelope.",
+      evidence:
+        "Itemized from pages 162-163 of the NARA direct folder scan using rendered-page review of the color photograph, sticky note, and backing page.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -34649,6 +35197,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418180",
   "470418185",
   "470418193",
+  "470418195",
   "646482525",
   "646482521",
   "646482523",
