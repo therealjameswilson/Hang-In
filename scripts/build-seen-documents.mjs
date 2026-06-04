@@ -24649,6 +24649,596 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 144-161 of the NARA direct folder scan using color photograph pages, handwritten location sticky notes, official White House photo backing pages, OCR, and rendered-page review.",
     },
   ],
+  470418117: [
+    {
+      slug: "air-force-one-phone-call-thanks-note",
+      documentType: "Presidential Phone Calls Note with President Bush Handwriting",
+      category: "telephone-call-follow-up",
+      disposition: "itemized-telephone-call-follow-up",
+      title:
+        "Presidential Phone Calls aboard Air Force One note re supporters' thanks and follow-up",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "A Presidential Phone Calls aboard Air Force One form carries George Bush handwriting about supporters thanking the President and returning to make a difference.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the Presidential Phone Calls form, Bush Library handwriting marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "victory-92-celebrity-athlete-attendance-fax",
+      documentType: "Campaign Memorandum and Fax Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title:
+        "Bush-Quayle '92 Victory '92 celebrity and athlete attendance fax packet",
+      documentDate: "1992-10-12",
+      pages: 3,
+      excerpt:
+        "Percy Reynolds sends Rose Zamaria a Bush-Quayle '92 memorandum and attendance list for celebrities and athletes involved in or attending Victory '92 events.",
+      evidence:
+        "Itemized from pages 3-5 of the NARA direct folder scan using the Bush-Quayle '92 facsimile transmittal, memorandum, attendance-list heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kathleen-bohne-photo-signing-correspondence",
+      documentType: "Presidential Letter and Incoming Correspondence",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "President Bush letter to Kathleen Bohne with photograph and incoming signing request",
+      documentDate: "1992-10-08",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Kathleen Bohne for her letter and signs her photograph, with Kathleen's handwritten letter and her father's signing request attached.",
+      evidence:
+        "Itemized from pages 6-8 of the NARA direct folder scan using the presidential letter, signed photograph, incoming handwritten request, OCR, and rendered-page review.",
+    },
+    {
+      slug: "steve-provost-port-new-orleans-remarks-memo",
+      documentType: "Speech Memorandum",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Steve Provost memorandum to the President re remarks at Port of New Orleans",
+      documentDate: "1992-10-07",
+      pages: 1,
+      excerpt:
+        "Steve Provost briefs the President on the Port of New Orleans remarks, explaining the NAFTA theme, Clinton critique, and New Orleans pronunciation note.",
+      evidence:
+        "Itemized from page 9 of the NARA direct folder scan using the October 7, 1992 memorandum heading, subject line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-weinmann-surgery-letter",
+      documentType: "Presidential Letter",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "President Bush letter to John G. Weinmann after surgery",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "President Bush tells Jack Weinmann that Barbara and he were glad to hear the operation was a success and sends family love to the Weinmanns.",
+      evidence:
+        "Itemized from page 10 of the NARA direct folder scan using the White House address page, presidential letter text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "water-bill-presidential-phone-call-notes",
+      documentType: "Presidential Phone Calls Notes with President Bush Handwriting",
+      category: "telephone-call-follow-up",
+      disposition: "itemized-telephone-call-follow-up",
+      title:
+        "Presidential Phone Calls notes re water bill, Pete Wilson, and congressional contacts",
+      documentDate: "1992-10-08",
+      pages: 4,
+      excerpt:
+        "Four Presidential Phone Calls forms carry George Bush handwriting on the water bill, Pete Wilson, the Senate, California jobs, polls, and follow-up contacts.",
+      evidence:
+        "Itemized from pages 11-14 of the NARA direct folder scan using the Presidential Phone Calls forms, Bush Library handwriting markers, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-to-president-october-8",
+      documentType: "Materials Forwarded List",
+      category: "staffing-record",
+      disposition: "itemized-staffing-record",
+      title:
+        "Materials Forwarded to the President list for October 8, 1992",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "The list records materials forwarded to the President, including a Florida disaster declaration, a national police endorsement, and October 9 briefing papers.",
+      evidence:
+        "Itemized from page 15 of the NARA direct folder scan using the Materials Forwarded to the President heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-1pm-update",
+      documentType: "White House News Summary Update",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: Thursday, October 8, 1992, 1:00 P.M. CDT/2:00 P.M. EDT News Update",
+      documentDate: "1992-10-08",
+      pages: 2,
+      excerpt:
+        "The news update covers President Bush on Clinton, patriotism, NAFTA, the energy bill, debate panelists, and other campaign news.",
+      evidence:
+        "Itemized from pages 16-17 of the NARA direct folder scan using the White House News Summary heading, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hotline-daily-briefing-october-8",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing",
+      disposition: "itemized-daily-political-briefing",
+      title:
+        "The Hotline daily briefing on American politics for October 8, 1992",
+      documentDate: "1992-10-08",
+      pages: 27,
+      excerpt:
+        "The Hotline packet covers the electoral scoreboard, Bush on Clinton patriotism and Iraq, Clinton and Perot coverage, Senate races, House races, California cable, polls, and television monitoring.",
+      evidence:
+        "Itemized from pages 18-44 of the NARA direct folder scan using The Hotline masthead, dated issue pages, topical headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-october-8",
+      documentType: "Congressional Monitor",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title:
+        "Congressional Monitor for October 8, 1992",
+      documentDate: "1992-10-08",
+      pages: 22,
+      excerpt:
+        "The Congressional Monitor issue covers Senate floor action, water and energy bills, events, appropriations status, House and Senate floor action, and future listings.",
+      evidence:
+        "Itemized from pages 45-66 of the NARA direct folder scan using the Congressional Monitor masthead, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-930am-update",
+      documentType: "White House News Summary Update",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: Thursday, October 8, 1992, 9:30 A.M. CDT/10:30 A.M. EDT News Update",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "The morning news update covers Clinton on education, jobless claims, Bush remarks on Clinton and patriotism, NAFTA, and congressional developments.",
+      evidence:
+        "Itemized from page 67 of the NARA direct folder scan using the White House News Summary heading and OCR.",
+    },
+    {
+      slug: "white-house-news-summary-6am-edition",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: Thursday, October 8, 1992, 6:00 A.M. EDT Edition",
+      documentDate: "1992-10-08",
+      pages: 21,
+      excerpt:
+        "The 6:00 a.m. edition covers trip news, NAFTA, Bush on Clinton, national and international news, and network-news excerpts.",
+      evidence:
+        "Itemized from pages 68-88 of the NARA direct folder scan using the 6:00 A.M. EDT edition heading, A and B continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "port-new-orleans-staffing-memo-remarks-schedule",
+      documentType: "Staffing Memorandum and Speech Draft",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "White House Staffing Memorandum and presidential remarks packet for Port of New Orleans",
+      documentDate: "1992-10-07",
+      pages: 11,
+      excerpt:
+        "The packet includes a White House Staffing Memorandum forwarding Port of New Orleans remarks, Steve Provost's memorandum, the remarks draft, and the President's October 8 schedule.",
+      evidence:
+        "Itemized from pages 89-99 of the NARA direct folder scan using the staffing memorandum, faxed speech draft pages, schedule page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "physical-fitness-sports-council-appointments",
+      documentType: "Press Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "Press release announcing intended appointments to the President's Council on Physical Fitness and Sports",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to appoint individuals to the President's Council on Physical Fitness and Sports, including Harris John Frank and Kevin Vaughn Saunders.",
+      evidence:
+        "Itemized from page 100 of the NARA direct folder scan using the Office of the Press Secretary New Orleans release heading and OCR.",
+    },
+    {
+      slug: "daily-point-of-light-917-kinship-greater-minneapolis",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title:
+        "Daily Point of Light release: Kinship of Greater Minneapolis, Minnesota",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "The White House recognizes Kinship of Greater Minneapolis as the 917th Daily Point of Light for the Nation.",
+      evidence:
+        "Itemized from page 101 of the NARA direct folder scan using the Office of the Press Secretary release heading and OCR.",
+    },
+    {
+      slug: "david-brewer-federal-agricultural-mortgage-nomination",
+      documentType: "Press Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "Press release announcing intended nomination of David M. Brewer to the Federal Agricultural Mortgage Corporation board",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "The President announces his intention to nominate David M. Brewer to the Board of Directors of the Federal Agricultural Mortgage Corporation.",
+      evidence:
+        "Itemized from page 102 of the NARA direct folder scan using the Office of the Press Secretary release heading and OCR.",
+    },
+    {
+      slug: "daily-point-of-light-915-gwynette-hatcher",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title:
+        "Daily Point of Light release: Gwynette Hatcher of North Charleston, South Carolina",
+      documentDate: "1992-10-07",
+      pages: 1,
+      excerpt:
+        "The White House recognizes Gwynette Hatcher as the 915th Daily Point of Light for recreational work with blind and visually impaired persons.",
+      evidence:
+        "Itemized from page 103 of the NARA direct folder scan using the Office of the Press Secretary release heading and OCR.",
+    },
+    {
+      slug: "daily-point-of-light-916-williams-claassen",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title:
+        "Daily Point of Light release: Robert Williams and Dwayne Claassen of Lakewood, Colorado",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "The White House recognizes Robert Williams and Dwayne Claassen as the 916th Daily Point of Light for providing health care to low-income individuals and families.",
+      evidence:
+        "Itemized from page 104 of the NARA direct folder scan using the Office of the Press Secretary release heading and OCR.",
+    },
+    {
+      slug: "pool-report-7-new-orleans-tarmac-matalin",
+      documentType: "Pool Report",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report-packet",
+      title:
+        "Pool Report #7 from NAS New Orleans tarmac with Mary Matalin",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "Mary Matalin discusses Clinton, Moscow, and Vietnam War protesting with the traveling press on the New Orleans tarmac.",
+      evidence:
+        "Itemized from page 105 of the NARA direct folder scan using the Pool Report #7 heading, date line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "air-force-one-pool-san-antonio-new-orleans",
+      documentType: "Pool Report",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report-packet",
+      title:
+        "Air Force One pool report from San Antonio to New Orleans",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "Marlin Fitzwater responds to questions about President Bush's comments on Clinton, Moscow, and Vietnam War protesting during the Air Force One leg to New Orleans.",
+      evidence:
+        "Itemized from page 106 of the NARA direct folder scan using the Air Force One pool heading, byline note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-5-alamo-stadium-jog",
+      documentType: "Pool Report",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report-packet",
+      title:
+        "Pool Report #5: President Bush's stand at the Alamo Stadium",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "The pool report covers President Bush's two-mile jog at Alamo Stadium, his visit with students at Sunshine Cottage School for the Deaf, and comments before the run.",
+      evidence:
+        "Itemized from page 107 of the NARA direct folder scan using the Pool Report #5 heading, date line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "patricia-presock-telephone-memorandum",
+      documentType: "Telephone Memorandum",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title:
+        "Telephone memorandum for President Bush call with Patricia A. Presock",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "The White House telephone memorandum records an 11:11 a.m. call placed from San Antonio with Patricia A. Presock.",
+      evidence:
+        "Itemized from page 108 of the NARA direct folder scan using the White House telephone memorandum heading, call entry, OCR, and rendered-page review.",
+    },
+    {
+      slug: "signal-switchboard-telephone-memorandum-october-8",
+      documentType: "Telephone Memorandum",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title:
+        "Signal Switchboard telephone memorandum for October 8, 1992",
+      documentDate: "1992-10-08",
+      pages: 2,
+      excerpt:
+        "The Signal Switchboard memorandum lists President Bush calls with Nicholas Calio, Mary Matalin, Steven Provost, Scott Paisant, John Seymour, Barbara Bush, Craig Fuller, Boyden Gray, Donald Rhodes, Robert Teeter, Nicholas Brady, Marlin Fitzwater, and Pete Wilson.",
+      evidence:
+        "Itemized from pages 109-110 of the NARA direct folder scan using the Signal Switchboard telephone memorandum headings, call rows, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-san-antonio-new-orleans-houston",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title:
+        "Presidential movements for San Antonio, New Orleans, and Houston, October 8, 1992",
+      documentDate: "1992-10-08",
+      pages: 2,
+      excerpt:
+        "The movements log records President Bush's October 8 travel from the Plaza San Antonio Hotel through New Orleans and Houston to the Air Force One departure.",
+      evidence:
+        "Itemized from pages 111-112 of the NARA direct folder scan using the Presidential Movements heading, location line, time entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-loose-pages-gatt-senate",
+      documentType: "White House News Summary Loose Pages",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary loose pages on GATT progress, Perot, and Senate adjournment",
+      documentDate: "1992-10-08",
+      pages: 2,
+      excerpt:
+        "Two loose White House News Summary pages include coverage of GATT prospects, a Perot assassination warning report, and Senate adjournment struggles.",
+      evidence:
+        "Itemized from pages 113-114 of the NARA direct folder scan using White House News Summary page headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings-october-8",
+      documentType: "Mrs. Bush Daily Press Clippings",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Mrs. Bush's Press Office daily press clippings for October 8, 1992",
+      documentDate: "1992-10-08",
+      pages: 10,
+      excerpt:
+        "The Mrs. Bush clipping packet includes a press-office distribution sheet and articles on Barbara Bush campaign travel, ABC's Home broadcast from the White House, adult literacy, and children's attitudes on racial integration.",
+      evidence:
+        "Itemized from pages 115-124 of the NARA direct folder scan using the Mrs. Bush's Press Office daily press clippings sheet, newspaper mastheads, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "plaza-san-antonio-handwritten-notes-case-debate",
+      documentType: "President Bush Handwritten Notes",
+      category: "presidential-handwriting",
+      disposition: "itemized-presidential-handwriting",
+      title:
+        "Handwritten notes on Plaza San Antonio stationery re a case and Sunday debate procedures",
+      documentDate: "1992-10-08",
+      pages: 2,
+      excerpt:
+        "Two handwritten notes on Plaza San Antonio stationery refer to a case and to Sunday night debate procedure, including winning the toss, taking the third question, and getting the closing statement.",
+      evidence:
+        "Itemized from pages 125-126 of the NARA direct folder scan using Plaza San Antonio stationery, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "digger-phelps-weed-and-seed-strategy-packet",
+      documentType: "Crime Policy Memorandum Packet",
+      category: "crime-policy",
+      disposition: "itemized-crime-policy",
+      title:
+        "Richard Digger Phelps Weed and Seed strategy packet for the President",
+      documentDate: "1992-10-07",
+      pages: 7,
+      excerpt:
+        "Richard Digger Phelps sends Rose Zamaria and the President a Weed and Seed summary and strategy outline for debate preparation.",
+      evidence:
+        "Itemized from pages 127-133 of the NARA direct folder scan using the Office of National Drug Control Policy cover letter, President-has-seen marker, attached summary pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "situation-room-duplicate-weed-and-seed-packet",
+      documentType: "Situation Room Transmittal and Crime Policy Packet",
+      category: "crime-policy",
+      disposition: "itemized-crime-policy",
+      title:
+        "White House Situation Room transmittal and duplicate Weed and Seed strategy packet",
+      documentDate: "1992-10-07",
+      pages: 8,
+      excerpt:
+        "A Situation Room transmittal forwards a duplicate copy of Richard Digger Phelps's Weed and Seed cover letter, summary, and strategy outline.",
+      evidence:
+        "Itemized from pages 134-141 of the NARA direct folder scan using the Situation Room transmittal sheet, duplicate ONDCP letter, attached strategy pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fred-malek-right-to-work-mailing-memo",
+      documentType: "Campaign Strategy Memo",
+      category: "campaign-strategy",
+      disposition: "itemized-campaign-strategy",
+      title:
+        "Fred Malek memorandum to the President re Right to Work mailing",
+      documentDate: "1992-10-07",
+      pages: 2,
+      excerpt:
+        "Fred Malek briefs the President on a proposed national Right to Work direct mail piece in targeted counties and selected states.",
+      evidence:
+        "Itemized from pages 142-143 of the NARA direct folder scan using the memorandum heading, President-has-seen marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mike-boskin-initial-state-claims-memo",
+      documentType: "Economic Briefing Note",
+      category: "economic-briefing",
+      disposition: "itemized-economic-briefing",
+      title:
+        "Mike Boskin memorandum to the President re initial state claims for unemployment insurance",
+      documentDate: "1992-10-07",
+      pages: 1,
+      excerpt:
+        "Mike Boskin tells the President that Labor Department initial claims data will show a better-than-expected decline.",
+      evidence:
+        "Itemized from page 144 of the NARA direct folder scan using the Council of Economic Advisers memorandum heading, President-has-seen marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-5pm-update",
+      documentType: "White House News Summary Update",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: Thursday, October 8, 1992, 5:00 P.M. CDT/6:00 P.M. EDT News Update",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "The evening news update covers President Bush's New Orleans attack on Clinton over free trade, continuing debate over Clinton's Moscow trip, and related campaign coverage.",
+      evidence:
+        "Itemized from page 145 of the NARA direct folder scan using the White House News Summary heading and OCR.",
+    },
+    {
+      slug: "marjorie-arsht-correspondence-support-column",
+      documentType: "Presidential Correspondence and Press Article",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "President Bush correspondence with Marjorie M. Arsht and support column",
+      documentDate: "1992-10-08",
+      pages: 3,
+      excerpt:
+        "The packet includes a White House address page and Marjorie Meyer Arsht's published expression of support for President Bush.",
+      evidence:
+        "Itemized from pages 146-148 of the NARA direct folder scan using the White House address page, attached column pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "phone-messages-bucky-bush-john-chafee",
+      documentType: "Phone Messages",
+      category: "telephone-message",
+      disposition: "itemized-telephone-message",
+      title:
+        "Phone messages for the President from Bucky Bush and Senator and Mrs. John Chafee",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "The phone-message page reports Bucky Bush's praise for Larry King and Senator and Mrs. John Chafee's supportive comments.",
+      evidence:
+        "Itemized from page 149 of the NARA direct folder scan using the Phone Messages for the President heading and OCR.",
+    },
+    {
+      slug: "reed-hart-norman-book-photo-correspondence-packet",
+      documentType: "Presidential Note and Photograph Packet",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "Reed Hart Norman book, photograph, article, and President Bush notes packet",
+      documentDate: "1992-10-08",
+      pages: 8,
+      excerpt:
+        "The Reed Hart Norman packet includes a Glowing Comments page with President Bush handwriting, Air Force One and Ranger photographs, a signed photo page, a San Antonio Express-News article, a family card, and a Rose Zamaria delivery note.",
+      evidence:
+        "Itemized from pages 150-157 of the NARA direct folder scan using the Glowing Comments sheet, George Bush notes, photographs, article clipping, incoming note, staff note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-clippings-october-8-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Washington Post clipping packet on Bush, Clinton, NAFTA, Perot, Congress, courts, economy, and television",
+      documentDate: "1992-10-08",
+      pages: 30,
+      excerpt:
+        "The Washington Post packet covers Bush hitting Clinton's patriotism, trade policy, Quayle, Perot, Congress, Supreme Court issues, economic policy, Washington television coverage, and related columns.",
+      evidence:
+        "Itemized from pages 158-187 of the NARA direct folder scan using Washington Post mastheads, article starts, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-clippings-october-8-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "New York Times clipping packet on Iraqgate, Clinton, Perot television, Little Rock, NAFTA, and debate preparation",
+      documentDate: "1992-10-08",
+      pages: 7,
+      excerpt:
+        "The New York Times packet includes William Safire on Iraqgate, a Clinton schoolmate profile, campaign television and Perot coverage, Little Rock campaign-economy coverage, NAFTA, and debate-prep stories.",
+      evidence:
+        "Itemized from pages 188-194 of the NARA direct folder scan using New York Times mastheads, article starts, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-clippings-october-8-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Washington Times clipping packet on Clinton's Moscow trip, Mrs. Bush campaign travel, education, and race politics",
+      documentDate: "1992-10-08",
+      pages: 8,
+      excerpt:
+        "The Washington Times packet covers Bush pressing Clinton over Moscow and Vietnam protests, Barbara Bush campaign travel, Weekly Reader results, education legislation, and campaign discussion of race issues.",
+      evidence:
+        "Itemized from pages 195-202 of the NARA direct folder scan using Washington Times mastheads, article starts, rotated clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-homelessness-editorial",
+      documentType: "Editorial",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "USA Today editorial: Federal leadership needed to help the homeless",
+      documentDate: "1992-10-08",
+      pages: 1,
+      excerpt:
+        "USA Today argues that federal leadership and national commitment are needed to support effective programs for the homeless.",
+      evidence:
+        "Itemized from page 203 of the NARA direct folder scan using the USA Today masthead, editorial heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-clippings-october-8-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Wall Street Journal clipping packet on Iraq, Clinton, Perot, NAFTA, biodiversity, protest politics, and Bush campaign economics",
+      documentDate: "1992-10-08",
+      pages: 7,
+      excerpt:
+        "The Wall Street Journal packet covers Saddam and the debate, Clinton's hometown editor, Perot's television audience, small business and NAFTA, biodiversity policy, Clinton's student protests, and Bush economic policy and special-interest campaigning.",
+      evidence:
+        "Itemized from pages 204-210 of the NARA direct folder scan using Wall Street Journal mastheads, article starts, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-clippings-october-8-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Los Angeles Times Washington Edition clipping packet on taxes, Iraq, Clinton ads, trade, Moscow, Congress, health histories, executions, and water",
+      documentDate: "1992-10-08",
+      pages: 12,
+      excerpt:
+        "The Los Angeles Times Washington Edition packet covers Republican tax politics, the BNL/Iraq case, Clinton advertising, opinion columns, NAFTA, Clinton's Moscow trip, Congress, candidate medical histories, death-row litigation, and California water legislation.",
+      evidence:
+        "Itemized from pages 211-222 of the NARA direct folder scan using Los Angeles Times mastheads, article starts, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photographs-victory-houston-san-antonio",
+      documentType: "Official White House Photographs",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title:
+        "Official White House photographs from Victory '92 Houston and San Antonio",
+      documentDate: "1992-10-08",
+      pages: 3,
+      excerpt:
+        "The photograph packet includes color images and backing-page material from Victory '92 in Houston and President Bush jogging in San Antonio.",
+      evidence:
+        "Itemized from pages 223-225 of the NARA direct folder scan using color photograph pages, sticky-note labels, official photograph backing page, OCR, and rendered-page review.",
+    },
+  ],
   470418122: [
     {
       slug: "st-louis-railroad-ymca-history",
@@ -26692,6 +27282,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418083",
   "470418088",
   "470418094",
+  "470418117",
   "646482521",
   "646482523",
 ]);
