@@ -20745,6 +20745,22 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from rendered-page review of color photo pages and blank/backing transfer pages at the end of the NARA direct folder scan.",
     },
   ],
+  470418024: [
+    {
+      slug: "global-humanitarian-relief-efforts-briefing-binder",
+      documentType: "Briefing Binder",
+      category: "briefing-binder-item",
+      disposition: "itemized-briefing-binder",
+      title:
+        "Global Humanitarian Relief Efforts briefing binder on DoD humanitarian operations",
+      documentDate: "1992-09-01",
+      pages: 17,
+      excerpt:
+        "A FEMA, Department of Defense, and Army Initiatives Group briefing binder describes global humanitarian relief efforts and DoD humanitarian operations, including Provide Comfort, Hurricane Andrew relief in Florida and Louisiana, fires, Guam, Bosnia-Herzegovina, Somalia, United Nations peacekeeping operations, damage tracking, command and control, relief operations, recovery operations, reconstruction, and personnel drawdown objectives.",
+      evidence:
+        "Itemized from pages 2-18 of the NARA direct folder scan using the FEMA/Department of Defense title slide, DoD Humanitarian Operations map, slide headings, PDF page count, OCR, and rendered-page review.",
+    },
+  ],
   470418028: [
     {
       slug: "richard-vigilante-bush-economic-record-column",
@@ -25640,6 +25656,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418006",
   "470418007",
   "470418010",
+  "470418024",
   "470418083",
   "646482521",
   "646482523",
