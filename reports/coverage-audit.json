@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T02:37:13.107Z",
+  "generatedAt": "2026-06-04T02:45:08.986Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
@@ -40,7 +40,7 @@
     "itemized-wire-story": 18,
     "itemized-presidential-handwriting": 1,
     "itemized-speech-draft": 6,
-    "itemized-white-house-news-summary": 61,
+    "itemized-white-house-news-summary": 62,
     "itemized-camp-david-event-planning": 6,
     "itemized-camp-david-invitation": 5,
     "itemized-nafta-fast-track-report": 1,
@@ -157,7 +157,7 @@
     "itemized-presidential-schedule": 13,
     "itemized-reading-copy": 1,
     "itemized-photo-opportunity-briefing": 1,
-    "itemized-news-summary": 29,
+    "itemized-news-summary": 28,
     "itemized-call-note": 1,
     "itemized-phone-call-request": 1,
     "itemized-policy-correspondence": 1,
@@ -29840,6 +29840,21 @@
     {
       "date": "1992-08-26",
       "documentDate": "1992-08-26",
+      "title": "White House News Summary: 6:00 p.m. wires, August 26, 1992",
+      "parentPacketId": "nara-470418010-direct-scan",
+      "naId": "470418010",
+      "folderId": "90711-002",
+      "containerId": "90711",
+      "category": "white-house-news-summary",
+      "disposition": "itemized-white-house-news-summary",
+      "type": "White House News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470418010",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90711-002.pdf",
+      "excerpt": "The White House News Summary 6:00 p.m. wires packet covers Bush's tax-cut proposal, debt-reduction checkbox plan, election polling, Albania trade status, public television legislation, Clinton and Gore campaigning, and Iraq's response to the allied no-fly-zone warning."
+    },
+    {
+      "date": "1992-08-26",
+      "documentDate": "1992-08-26",
       "title": "Text of a letter to Congress reporting one budget-authority deferral",
       "parentPacketId": "nara-470418010-direct-scan",
       "naId": "470418010",
@@ -30226,21 +30241,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418010",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90711-002.pdf",
       "excerpt": "A final photo-transfer cluster includes color photographs and backing or transfer pages from an Oval Office or White House meeting sequence."
-    },
-    {
-      "date": "1992-08-26",
-      "documentDate": "1992-08-26",
-      "title": "News Summary: Wednesday, August 26, 1992 6:00 P.M. WIRES",
-      "parentPacketId": "nara-470418010-direct-scan",
-      "naId": "470418010",
-      "folderId": "90711-002",
-      "containerId": "90711",
-      "category": "news-summary-item",
-      "disposition": "itemized-news-summary",
-      "type": "News Summary",
-      "catalogUrl": "https://catalog.archives.gov/id/470418010",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90711-002.pdf",
-      "excerpt": "White House News Summary Wednesday, August 26, 1992 6:00 P.M. WIRES Bush Declines to 'Get Bogged Down in Detail' of Tax Cut Plan By MIKE FEINSILBER Associated Press Writer WASHINGTON (AP) President Bush declined to specify Wednesday where he would cut spending to pay for the tax cut he proposed last week at the Republican National Convention. He said he did not want to get \"all bogged down in a lot of detail.\" \"We already have specific spending cuts recommended up there in the Congress, and so how specific I'll..."
     },
     {
       "date": "1992-08-30",

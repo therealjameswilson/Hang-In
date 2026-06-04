@@ -20364,6 +20364,19 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470418010: [
     {
+      slug: "white-house-news-summary-august-26-1992-6pm-wires",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 6:00 p.m. wires, August 26, 1992",
+      documentDate: "1992-08-26",
+      pages: 12,
+      excerpt:
+        "The White House News Summary 6:00 p.m. wires packet covers Bush's tax-cut proposal, debt-reduction checkbox plan, election polling, Albania trade status, public television legislation, Clinton and Gore campaigning, and Iraq's response to the allied no-fly-zone warning.",
+      evidence:
+        "Itemized from pages 2-13 of the NARA direct folder scan using the White House News Summary masthead, 6:00 p.m. wires line, OCR, and rendered-page review.",
+    },
+    {
       slug: "letter-to-congress-budget-deferral",
       documentType: "Presidential Letter to Congress",
       category: "presidential-message",
@@ -25610,6 +25623,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417998",
   "470418006",
   "470418007",
+  "470418010",
   "470418083",
   "646482521",
 ]);
