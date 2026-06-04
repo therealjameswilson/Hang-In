@@ -19185,6 +19185,232 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 122-145 of the NARA direct folder scan using the repeated News Summary masthead, A- and B-section pagination, OCR, and rendered-page review.",
     },
   ],
+  470417996: [
+    {
+      slug: "mrs-bush-press-office-clippings-august-21-1992",
+      documentType: "Mrs. Bush Press Office Daily Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Mrs. Bush's Press Office daily press clippings on convention family night, Barbara Bush, and Marilyn Quayle",
+      documentDate: "1992-08-21",
+      pages: 50,
+      excerpt:
+        "The clipping run includes New York Times and USA Today columns, a Mrs. Bush Press Office circulation sheet, and newspaper coverage of Barbara Bush, Marilyn Quayle, family night, the GOP convention, and family-values campaign themes.",
+      evidence:
+        "Itemized from pages 2-51 of the NARA direct folder scan using the Mrs. Bush's Press Office cover sheet, newspaper mastheads, August 20-21 date lines, clipping headlines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "friends-party-handwritten-note-cards",
+      documentType: "Handwritten Presidential Note Cards",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title:
+        "President Bush handwritten note cards thanking Friends party hosts after the convention",
+      documentDate: "1992-08-21",
+      pages: 5,
+      excerpt:
+        "President Bush writes short handwritten thanks to Charles and Sally, Hugh and Betty, Bobbie and Jack, Bonnie and John, and Brian and Mildred about the Friends party and convention events.",
+      evidence:
+        "Itemized from pages 52-56 of the NARA direct folder scan using President note-card stationery, August 21 dates, visible recipient names, presidential handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rnc-meeting-remarks-staffing-draft",
+      documentType: "Speech Draft and Staffing Packet",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "RNC meeting presidential remarks staffing packet and draft pages",
+      documentDate: "1992-08-19",
+      pages: 6,
+      excerpt:
+        "The Situation Room and staffing packet circulates presidential remarks for the August 21 RNC meeting in Houston, including a Jennifer Grossman memorandum and draft language about rallying the troops after the convention.",
+      evidence:
+        "Itemized from pages 57-62 of the NARA direct folder scan using the White House Situation Room cover sheet, staffing memorandum, Jennifer Grossman memo, draft remarks pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kenneth-lay-convention-thanks-letter",
+      documentType: "Presidential Letter with Handwritten Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush letter to Kenneth L. Lay thanking him for Houston convention work",
+      documentDate: "1992-08-21",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Kenneth Lay for tireless efforts on the Houston Host Committee and adds a personal handwritten note about Lay's leadership and the convention.",
+      evidence:
+        "Itemized from pages 63-64 of the NARA direct folder scan using the handwritten presidential note to Ken, typed George Bush letterhead response, Kenneth L. Lay address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ben-love-convention-thanks-letter",
+      documentType: "Presidential Letter with Handwritten Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush letter to Ben Love thanking him for Houston convention work",
+      documentDate: "1992-08-21",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Ben Love for helping make the 1992 Republican National Convention an unparalleled success and adds a handwritten note thanking him for getting it done right.",
+      evidence:
+        "Itemized from pages 65-66 of the NARA direct folder scan using the handwritten presidential note to Ben, typed George Bush letterhead response, Texas Commerce Bancshares address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "craig-fuller-convention-handwritten-note",
+      documentType: "Handwritten Presidential Note",
+      category: "presidential-handwritten-notes",
+      disposition: "itemized-presidential-handwritten-notes",
+      title:
+        "President Bush handwritten note to Craig Fuller after the Houston convention",
+      documentDate: "1992-08-21",
+      pages: 2,
+      excerpt:
+        "President Bush tells Craig Fuller the last balloon has dropped, says Fuller should be proud of what he conceived and wrought, and thanks him for making the convention work.",
+      evidence:
+        "Itemized from pages 67-68 of the NARA direct folder scan using From the desk of George Bush stationery, Craig Fuller recipient notation, presidential handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-air-force-one-enroute-indianapolis",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool report: Air Force One en route Indianapolis with Robert Teeter and Marlin Fitzwater",
+      documentDate: "1992-08-21",
+      pages: 2,
+      excerpt:
+        "The pool report records Robert Teeter and Marlin Fitzwater speaking aboard Air Force One about Iraq, the campaign, abortion, the tax pledge, and post-convention strategy.",
+      evidence:
+        "Itemized from pages 69-70 of the NARA direct folder scan using the Pool Report Air Force One Enroute Indianapolis heading, reporter names, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-8-teeter-air-force-one",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #8: Robert Teeter on Air Force One after the acceptance speech",
+      documentDate: "1992-08-21",
+      pages: 3,
+      excerpt:
+        "Judy Keen and Clara Bingham report Teeter's Air Force One comments on the tax proposal, Bush's acceptance speech, Clinton, polling, speechwriters, and an unscheduled visit with Houston police.",
+      evidence:
+        "Itemized from pages 71-73 of the NARA direct folder scan using the Pool Report #8 heading, page 2-2-2 and 3-3-3 continuations, bylines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-9-gulfport-springfield-branson",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #9: Gulfport, Springfield, and Branson campaign stops",
+      documentDate: "1992-08-21",
+      pages: 1,
+      excerpt:
+        "Harwood reports from the Gulfport-to-Springfield-Branson leg on rally estimates, Bush and Quayle rope lines, the Springfield arrival, and post-convention tax-message comments.",
+      evidence:
+        "Itemized from page 74 of the NARA direct folder scan using the Pool Report #9 heading, Gulfport-to-Branson dateline, Wall Street Journal byline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-10-branson-jog",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #10: President Bush jog near Lake Taneycomo in Branson",
+      documentDate: "1992-08-21",
+      pages: 1,
+      excerpt:
+        "Clara Bingham and Ruth Marcus report that President Bush went jogging after campaigning, running three laps around a grassy park near Lake Taneycomo before saying he felt good.",
+      evidence:
+        "Itemized from page 75 of the NARA direct folder scan using the Pool Report #10 heading, August 21 date, bylines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-11-moe-bandy-americana-theatre",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #11: President Bush evening at Moe Bandy's Americana Theatre",
+      documentDate: "1992-08-21",
+      pages: 1,
+      excerpt:
+        "Ruth Marcus reports on President and Mrs. Bush's motorcade to Moe Bandy's Americana Theatre, the evening's performance, family-literacy fundraiser, and crowd comments.",
+      evidence:
+        "Itemized from page 76 of the NARA direct folder scan using the Pool Report #11 heading, Branson dateline, Washington Post byline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "branson-bush-quayle-rally-transcript",
+      documentType: "Official Remarks Transcript",
+      category: "campaign-rally-remarks",
+      disposition: "itemized-campaign-rally-remarks",
+      title:
+        "Remarks by the President to Bush-Quayle '92 Rally, Silver Dollar City, Branson",
+      documentDate: "1992-08-21",
+      pages: 4,
+      excerpt:
+        "The Branson press office transcript records President Bush's Silver Dollar City rally remarks on country music, Clinton, foreign policy, taxes, health care, litigation, and the economy.",
+      evidence:
+        "Itemized from pages 77-80 of the NARA direct folder scan using the Office of the Press Secretary transcript heading, Silver Dollar City location, page continuations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rnc-meeting-houston-transcript",
+      documentType: "Official Remarks Transcript",
+      category: "rnc-meeting-remarks",
+      disposition: "itemized-rnc-meeting-remarks",
+      title:
+        "Remarks by the President to Republican National Committee meeting, Hyatt Regency Hotel",
+      documentDate: "1992-08-21",
+      pages: 3,
+      excerpt:
+        "The transcript records President Bush's morning remarks to the Republican National Committee in Houston, thanking convention organizers and discussing tax cuts, family values, Congress, and the campaign ahead.",
+      evidence:
+        "Itemized from pages 81-83 of the NARA direct folder scan using the Office of the Press Secretary transcript heading, Hyatt Regency Hotel location, page continuations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gulfport-bush-quayle-rally-transcript",
+      documentType: "Official Remarks Transcript",
+      category: "campaign-rally-remarks",
+      disposition: "itemized-campaign-rally-remarks",
+      title:
+        "Remarks by the President at Bush-Quayle Rally, Jones Park, Gulfport",
+      documentDate: "1992-08-21",
+      pages: 4,
+      excerpt:
+        "The Gulfport press office transcript records President Bush's Jones Park rally remarks on the convention, taxes, foreign policy, tort reform, term limits, Clinton, and Republican campaign themes.",
+      evidence:
+        "Itemized from pages 84-87 of the NARA direct folder scan using the Office of the Press Secretary transcript heading, Jones Park location, page continuations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "august-21-newspaper-clipping-packet",
+      documentType: "Press Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Newspaper clipping packet on Bush's acceptance speech, the convention, campaign strategy, Iraq, and the Balkans",
+      documentDate: "1992-08-21",
+      pages: 95,
+      excerpt:
+        "The clipping packet collects August 21 coverage and commentary from the Los Angeles Times, Washington Post, Wall Street Journal, New York Times, Washington Times, and USA Today on Bush's acceptance speech, taxes, family values, Quayle, Clinton, Congress, Iraq, the Balkans, and campaign strategy.",
+      evidence:
+        "Itemized from pages 88-182 of the NARA direct folder scan using newspaper mastheads, August 21 date lines, clipping headlines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "august-21-white-house-photograph-photocopies",
+      documentType: "White House Photograph Photocopy Packet",
+      category: "white-house-photographs",
+      disposition: "itemized-white-house-photographs",
+      title:
+        "White House photograph photocopies from August 21, 1992 campaign events",
+      documentDate: "1992-08-21",
+      pages: 8,
+      excerpt:
+        "The packet contains color White House photograph photocopies and metadata pages from August 21 campaign events, including rally crowds and Bush-Quayle supporters.",
+      evidence:
+        "Itemized from pages 183-190 of the NARA direct folder scan using color photograph pages, official White House photograph metadata backs, OCR, and rendered-page review.",
+    },
+  ],
   470417997: [
     {
       slug: "marked-branson-rally-remarks",
@@ -24747,6 +24973,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417985",
   "470417986",
   "470417989",
+  "470417996",
   "470418083",
   "646482521",
 ]);
