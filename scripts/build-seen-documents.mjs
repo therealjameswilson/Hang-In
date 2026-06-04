@@ -29828,6 +29828,593 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 161-167 of the NARA direct folder scan using color photograph pages, White House Photo Office transfer/backing pages, handwritten sticky-note label, low-confidence OCR, and rendered-page review.",
     },
   ],
+  470418151: [
+    {
+      slug: "george-janice-kettle-debate-telegram-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "George and Janice Kettle debate telegram and President Bush reply",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "President Bush thanks George and Janice Kettle for their October 20 telegram praising his debate performance, answers Janice's tie question, and notes the final 10-day campaign push.",
+      evidence:
+        "Itemized from pages 2-4 of the NARA direct folder scan using the White House reply, incoming telegram, contact-query page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lee-kuan-yew-campaign-encouragement-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "foreign-policy-correspondence",
+      disposition: "itemized-foreign-policy-correspondence",
+      title: "Lee Kuan Yew campaign encouragement correspondence packet",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "President Bush writes Senior Minister Lee Kuan Yew from Montgomery about Lee's October 22 encouragement, the press mood, and his own determination in the closing campaign.",
+      evidence:
+        "Itemized from pages 5-7 of the NARA direct folder scan using the George Bush letterhead, attachment marker, low-confidence incoming page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "air-force-one-lee-kuan-yew-privacy-channel-fax",
+      documentType: "Air Force One Fax and Presidential Cable Text",
+      category: "foreign-policy-correspondence",
+      disposition: "itemized-foreign-policy-correspondence",
+      title: "Air Force One fax forwarding President Bush cable text to Lee Kuan Yew",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "Admiral Howe asks the White House Situation Room to send President Bush's Lee Kuan Yew letter by privacy channel, with the cable text and a dark photocopy page attached.",
+      evidence:
+        "Itemized from pages 8-10 of the NARA direct folder scan using the Air Force One fax cover, Situation Room routing text, Lee Kuan Yew cable text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "betty-liedtke-memorial-service-program",
+      documentType: "Memorial Service Program",
+      category: "memorial-service-material",
+      disposition: "itemized-memorial-service-material",
+      title: "Betty Lyn Dirickson Liedtke memorial service program",
+      documentDate: "1992-10-24",
+      pages: 2,
+      excerpt:
+        "The First Presbyterian Church-Houston program for Betty Lyn Dirickson Liedtke's memorial service includes the order of service, hymns, readings, and Psalm 23.",
+      evidence:
+        "Itemized from pages 11-12 of the NARA direct folder scan using the memorial service title page, Psalm page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ramesh-murarka-tie-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ramesh Murarka tie correspondence packet",
+      documentDate: "1992-10-24",
+      pages: 2,
+      excerpt:
+        "President Bush thanks India West publisher Ramesh Murarka for presenting him with a colorful tie and for supporting the final campaign.",
+      evidence:
+        "Itemized from pages 13-14 of the NARA direct folder scan using the presidential reply, India West business-card page, handwritten routing note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "brent-robinson-kentucky-campaign-comments",
+      documentType: "Presidential Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Brent Robinson Kentucky campaign comments packet",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Brent Robinson for comments, says he will remember them during the final 10 days, and includes attached notes on Kentucky, Arkansas, and campaign arguments.",
+      evidence:
+        "Itemized from pages 15-17 of the NARA direct folder scan using the presidential reply, From the Desk of George Bush note, Arkansas issue note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jonathon-stewart-kentucky-comments-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Jonathon Stewart Kentucky comments correspondence packet",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Jonathon Stewart for comments and ideas after the Kentucky visit and attaches handwritten campaign notes on Arkansas and federal money.",
+      evidence:
+        "Itemized from pages 18-20 of the NARA direct folder scan using the presidential reply, attached handwritten note pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "joey-shepherd-florida-letter-photo-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Joey Shepherd letter and Millie-Ranger photo correspondence packet",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Joey Shepherd for a warm letter after his Florida visit, sends good luck in school, and encloses a photo of himself with Millie and Ranger.",
+      evidence:
+        "Itemized from pages 21-23 of the NARA direct folder scan using the presidential reply, low-confidence photo or enclosure pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mary-institute-dorothy-walker-bush-magazine-request",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mary Institute and Saint Louis Country Day School Dorothy Walker Bush magazine request",
+      documentDate: "1992-10-22",
+      pages: 2,
+      excerpt:
+        "J. Wade Rouse and Joni A. Albrecht send President Bush copies of From Mary To You featuring Dorothy Walker Bush and ask him to autograph copies for display at the school.",
+      evidence:
+        "Itemized from pages 24-25 of the NARA direct folder scan using the White House address sheet, school letterhead, Dorothy Walker Bush note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "omb-enrolled-bill-hr-776-energy-policy-act-recommendation",
+      documentType: "Enrolled Bill Memorandum",
+      category: "legislation-signing-material",
+      disposition: "itemized-legislation-signing-material",
+      title: "OMB enrolled-bill recommendation for H.R. 776, Energy Policy Act of 1992",
+      documentDate: "1992-10-21",
+      pages: 5,
+      excerpt:
+        "OMB recommends President Bush approve H.R. 776, summarizes agency views, major Energy Policy Act provisions, efficiency measures, oil and gas provisions, and proposed signing-statement issues.",
+      evidence:
+        "Itemized from pages 26-30 of the NARA direct folder scan using the Executive Office of the President/OMB enrolled-bill heading, agency comments, conclusion page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "parker-montgomery-campaign-message-script-correspondence",
+      documentType: "Campaign Correspondence and Script Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Parker G. Montgomery campaign message and television-script packet",
+      documentDate: "1992-10-24",
+      pages: 9,
+      excerpt:
+        "President Bush thanks Parker Montgomery for encouragement and suggestions; the packet includes Montgomery's faxed advice, a proposed television script, substance-abuse and national-service ideas, and contact pages.",
+      evidence:
+        "Itemized from pages 31-39 of the NARA direct folder scan using the presidential reply, Parker Montgomery fax pages, script headings, contact records, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daniel-prosser-campaign-speaking-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Daniel F. Prosser campaign speaking advice correspondence packet",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Daniel F. Prosser for a good letter and for taking time to write; Prosser's incoming pages advise the President on communicating his campaign position and connecting with voters.",
+      evidence:
+        "Itemized from pages 40-42 of the NARA direct folder scan using the presidential reply, Daniel Prosser letterhead pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "james-longmore-emergency-medicine-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "James L. Longmore emergency medicine letter and President Bush reply",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Dr. James L. Longmore for a strong letter and says Longmore has made the case better than he could; Longmore's emergency-medicine letter is attached.",
+      evidence:
+        "Itemized from pages 43-45 of the NARA direct folder scan using the presidential reply, James L. Longmore letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fred-starr-thomasville-chair-replica-correspondence",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Fred Starr and Thomas Bille Furniture chair replica thank-you letter",
+      documentDate: "1992-10-24",
+      pages: 1,
+      excerpt:
+        "President Bush asks Fred Starr to thank the Thomas Bille Furniture Industries staff for a wood replica of the world's largest chair and jokes about keeping his seat.",
+      evidence:
+        "Itemized from page 46 of the NARA direct folder scan using the White House reply, Thomas Bille Furniture address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "steven-solarz-gulf-war-primary-defeat-letter",
+      documentType: "Incoming Letter",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Steven J. Solarz letter to President Bush re primary defeat and Gulf War support",
+      documentDate: "1992-09-24",
+      pages: 1,
+      excerpt:
+        "Representative Steven J. Solarz thanks President Bush for a personal expression of sympathy after his primary defeat and reflects on supporting the President's Gulf War policy.",
+      evidence:
+        "Itemized from page 47 of the NARA direct folder scan using the House of Representatives letterhead, The President Has Seen stamp, Solarz signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "prescott-bush-jr-robert-bartley-debate-encouragement-packet",
+      documentType: "Family Correspondence and Press Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Prescott Bush Jr. debate encouragement and Robert Bartley Wall Street Journal packet",
+      documentDate: "1992-10-23",
+      pages: 3,
+      excerpt:
+        "Prescott Bush Jr. praises President Bush's debate and Secaucus performance, offers a Reagan/Congress argument, forwards Robert Bartley's Wall Street Journal reply, and sends encouragement for the final campaign.",
+      evidence:
+        "Itemized from pages 48-50 of the NARA direct folder scan using the Prescott Bush fax, Wall Street Journal publisher letterhead, attached clipping page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kilberg-lukens-annoy-media-bumper-sticker-memo",
+      documentType: "Staff Memorandum",
+      category: "staff-routing-memorandum",
+      disposition: "itemized-staff-routing-memorandum",
+      title: "Bobbie Kilberg and Mel Lukens memo re Annoy The Media bumper sticker",
+      documentDate: "1992-10-22",
+      pages: 1,
+      excerpt:
+        "Bobbie Kilberg and Mel Lukens tell Rose Zamaria that Robert McDowell authored the Annoy The Media: Re-Elect Bush bumper sticker and ask whether the President could sign a matted copy for him.",
+      evidence:
+        "Itemized from page 51 of the NARA direct folder scan using the White House memorandum heading, Kilberg and Lukens signatures, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-4-liedtke-memorial-service-lafayette",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #4: Liedtke Memorial Service in Lafayette, Louisiana",
+      documentDate: "1992-10-24",
+      pages: 1,
+      excerpt:
+        "Pool Report #4 describes President Bush's Houston stop for Betty Liedtke's memorial service, Air Force One interviews, Marlin Fitzwater comments, Texas polling, and Ron Kaufman's campaign spin.",
+      evidence:
+        "Itemized from page 52 of the NARA direct folder scan using the Pool Report #4 heading, Lafayette/Liedtke title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-3-montgomery-jog-soccer-stop",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #3: Montgomery jog and soccer stop",
+      documentDate: "1992-10-24",
+      pages: 1,
+      excerpt:
+        "Pool Report #3 covers President Bush's morning jog through Wynton M. Blount Cultural Park, his soccer stop with children, and Mr. Microphone remarks.",
+      evidence:
+        "Itemized from page 53 of the NARA direct folder scan using the Pool Report #3 heading, Montgomery title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "richard-demarco-medal-debate-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Richard P. DeMarco medal and debate correspondence packet",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "President Bush tells Richard P. DeMarco he carried DeMarco's Republic of Vietnam Service Medal during the last debate and says it worked again; the packet includes press coverage and an earlier October 19 reply.",
+      evidence:
+        "Itemized from pages 54-56 of the NARA direct folder scan using the presidential reply, Plain Dealer article, earlier White House letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mr-duff-combat-infantry-badge-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mr. Duff Combat Infantry Badge correspondence packet",
+      documentDate: "1992-10-19",
+      pages: 2,
+      excerpt:
+        "A registered/certified-mail instruction accompanies President Bush's October 19 letter thanking Mr. Duff for a message enclosing his Combat Infantry Badge.",
+      evidence:
+        "Itemized from pages 57-58 of the NARA direct folder scan using the mail-out instruction, White House reply, Combat Infantry Badge text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "shirley-cole-barbara-hunter-commemorative-towel-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Shirley Cole and Barbara Hunter commemorative towel correspondence packet",
+      documentDate: "1992-10-24",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Shirley Cole and Barbara Hunter of Fieldcrest Cannon for commemorative towels tied to the Georgia and Carolinas whistle-stop tour.",
+      evidence:
+        "Itemized from pages 59-60 of the NARA direct folder scan using the presidential replies, Fieldcrest Cannon address blocks, gift-unit notes, OCR, and rendered-page review.",
+    },
+    {
+      slug: "st-andrews-college-republicans-rally-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "St. Andrew's Presbyterian College Republicans rally correspondence packet",
+      documentDate: "1992-10-24",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Michael Zaccaro, Ralph Powell, and Chris Lindstrom, says he cannot attend their Sunday rally because he will be in South Dakota, and thanks College Republicans for their work.",
+      evidence:
+        "Itemized from pages 61-62 of the NARA direct folder scan using the White House reply, attached low-confidence incoming page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ben-roberson-debate-support-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ben B. Roberson debate support correspondence packet",
+      documentDate: "1992-10-24",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Dr. Ben B. Roberson for kind words about the debate, Convention support, and encouragement from Ben and Shirley Roberson.",
+      evidence:
+        "Itemized from pages 63-64 of the NARA direct folder scan using the presidential reply, Ben Roberson letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kenny-cody-fishing-bait-thank-you",
+      documentType: "Presidential Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Kenny Cody special fishing bait thank-you letter",
+      documentDate: "1992-10-24",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Kenny Cody for special fishing bait delivered through Velma Childers and says he cannot wait to go fishing.",
+      evidence:
+        "Itemized from page 65 of the NARA direct folder scan using the presidential reply, Kenny Cody address block, gift-unit note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "patrick-ryan-bush-oval-office-photo-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Patrick Ryan Bush letter and Oval Office photo correspondence packet",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Patrick Ryan Bush for his letter after the North Carolina train trip and sends a picture from the Oval Office, with Patrick's low-confidence incoming pages attached.",
+      evidence:
+        "Itemized from pages 66-68 of the NARA direct folder scan using the presidential reply, incoming child-note pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jonathan-bush-child-letter-photo-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jonathan Bush child letter, drawing, and photo correspondence packet",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Jonathan Bush for a letter and drawing, notes that he has a younger brother named Jonathan Bush, and sends an inscribed photograph.",
+      evidence:
+        "Itemized from pages 69-71 of the NARA direct folder scan using the presidential reply, inscribed photograph, child drawing, OCR, and rendered-page review.",
+    },
+    {
+      slug: "elizabeth-schussler-family-values-letter-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Elizabeth J. Schussler family-values letter and President Bush replies",
+      documentDate: "1992-10-24",
+      pages: 6,
+      excerpt:
+        "President Bush replies to Elizabeth J. Schussler's October 21 letter about patriotism, the Gulf War, interest rates, family values, abortion, Clinton, and military service; the scan includes duplicate reply and incoming-letter copies.",
+      evidence:
+        "Itemized from pages 72-77 of the NARA direct folder scan using two White House reply copies, faxed Schussler letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "andrew-egbert-cds-sweatshirts-tie-clip-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Andrew Egbert CDs, sweatshirts, and tie clip correspondence packet",
+      documentDate: "1992-10-24",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Andrew Egbert for CDs and sweatshirts, recalls the North Carolina train trip, and sends a tie clip, with a dark photocopy enclosure page attached.",
+      evidence:
+        "Itemized from pages 78-79 of the NARA direct folder scan using the presidential reply, Charles Free gift note, dark enclosure page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "carolyn-carpenter-cabarrus-county-plaque-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Carolyn Carpenter Cabarrus County plaque correspondence packet",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Carolyn Carpenter for a card and plaque from the Cabarrus County Commissioners, congratulates her as first woman chairman, and comments on Republican gains.",
+      evidence:
+        "Itemized from pages 80-82 of the NARA direct folder scan using the presidential reply, handwritten card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lynne-novack-women-voters-campaign-message-fax",
+      documentType: "Campaign Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Lynne D. Novack fax re women voters and Bush appointments",
+      documentDate: "1992-10-22",
+      pages: 2,
+      excerpt:
+        "Lynne D. Novack urges President Bush to target women voters with a positive message about his record on women appointments and women's issues, with routing notes to Baker and Kaufman.",
+      evidence:
+        "Itemized from pages 83-84 of the NARA direct folder scan using the White House address sheet, faxed Novack letter, personal-fax routing notes, OCR, and rendered-page review.",
+    },
+    {
+      slug: "anthony-dolan-liberal-message-memo-packet",
+      documentType: "Campaign Correspondence and Memorandum Packet",
+      category: "campaign-strategy-memorandum",
+      disposition: "itemized-campaign-strategy-memorandum",
+      title: "Anthony Dolan campaign strategy letter and liberal-message memorandum",
+      documentDate: "1992-10-22",
+      pages: 5,
+      excerpt:
+        "Anthony Dolan writes President Bush that Clinton is weakening and sends a memorandum urging the campaign to stress the ideological liberal-conservative contrast, taxes, judges, prayer, flag, and big government.",
+      evidence:
+        "Itemized from pages 85-89 of the NARA direct folder scan using the White House address sheet, AEI faxed letter, Tony Dolan memorandum to J.A.B., duplicate continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "edward-gaylord-sunday-oklahoman-endorsement-packet",
+      documentType: "Press and Correspondence Packet",
+      category: "campaign-press-clippings",
+      disposition: "itemized-campaign-press-clippings",
+      title: "Edward L. Gaylord and Sunday Oklahoman endorsement packet",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "The packet routes material to Edward L. Gaylord and includes a Sunday Oklahoman endorsement of President Bush, with an Edward C. Lawson Jr. facsimile cover sheet.",
+      evidence:
+        "Itemized from pages 90-92 of the NARA direct folder scan using the White House address sheet, Sunday Oklahoman masthead and editorial, fax cover sheet, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hugh-liedtke-family-handwritten-condolence-note",
+      documentType: "Handwritten Note Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush handwritten condolence note to Hugh Liedtke and family",
+      documentDate: "1992-10-24",
+      pages: 4,
+      excerpt:
+        "A handwritten note from President Bush to Hugh Liedtke and family appears after the Betty Liedtke memorial material, reflecting affection and sympathy on Air Force One stationery or photocopy pages.",
+      evidence:
+        "Itemized from pages 93-96 of the NARA direct folder scan using the handwritten pages, Bush Library photocopy markers, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "vincent-fatta-conservative-leadership-declaration-packet",
+      documentType: "Campaign Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Vincent Fatta Conservative Leadership Caucus declaration packet",
+      documentDate: "1992-10-24",
+      pages: 5,
+      excerpt:
+        "Vincent Fatta sends President Bush a Conservative Leadership Caucus proposal and declaration arguing for a renewed conservative fight against liberal Democrats in the final campaign.",
+      evidence:
+        "Itemized from pages 97-101 of the NARA direct folder scan using the fax pages, Conservative Leadership Caucus declaration page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "barbara-groome-wool-vest-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Barbara Groome wool vest correspondence packet",
+      documentDate: "1992-10-24",
+      pages: 5,
+      excerpt:
+        "President Bush thanks Barbara Groome of The Wool Shop for knitting him a wool vest and invites her to call Rose Zamaria when she comes to Washington; postcard and photocopy enclosure pages follow.",
+      evidence:
+        "Itemized from pages 102-106 of the NARA direct folder scan using the presidential reply, Aunt Sara notation, postcard/enclosure pages, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "daniel-eramian-sba-nbc-dateline-foia-response-packet",
+      documentType: "Agency Response Packet",
+      category: "media-response-memorandum",
+      disposition: "itemized-media-response-memorandum",
+      title: "Daniel Eramian SBA response packet re NBC Dateline and FOIA requests",
+      documentDate: "1992-10-20",
+      pages: 4,
+      excerpt:
+        "Daniel G. Eramian sends President Bush thoughts on Bob Wright's reply and explains SBA responses to NBC requests involving Apex, Wood River, Bridger Capital, FOIA exemptions, and Dateline coverage.",
+      evidence:
+        "Itemized from pages 107-110 of the NARA direct folder scan using the attachment marker, U.S. Small Business Administration letterhead, The President Has Seen stamp, FOIA-exemption page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "montgomery-welcome-remarks",
+      documentType: "Presidential Remarks Transcript",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title: "Remarks by the President at Montgomery Welcome",
+      documentDate: "1992-10-24",
+      pages: 5,
+      excerpt:
+        "President Bush's Montgomery welcome remarks invoke Barbara Bush, the final campaign, Alabama supporters, the economy, crime, line-item veto, family values, and the contrast with Clinton and Gore.",
+      evidence:
+        "Itemized from pages 111-115 of the NARA direct folder scan using the Office of the Press Secretary Montgomery heading, transcript page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "energy-policy-act-signing-remarks-lafayette",
+      documentType: "Presidential Remarks Transcript",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title: "Remarks by the President in signing the Energy Policy Act in Lafayette",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "President Bush's Energy Policy Act signing remarks in Lafayette praise Louisiana energy leaders, discuss jobs, natural gas, drilling, wildcatting, regulatory reform, and the Administration's energy strategy.",
+      evidence:
+        "Itemized from pages 116-118 of the NARA direct folder scan using the Office of the Press Secretary Lafayette heading, Energy Act signing title, transcript pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ask-george-bush-lafayette-transcript",
+      documentType: "Presidential Remarks Transcript",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title: "Remarks by the President in Ask George Bush in Lafayette",
+      documentDate: "1992-10-24",
+      pages: 9,
+      excerpt:
+        "The Lafayette Ask George Bush transcript covers the campaign, global recession, taxes, crime, disability rights, small business, youth, health care, ads, Ross Perot, foreign policy, education, and energy.",
+      evidence:
+        "Itemized from pages 119-127 of the NARA direct folder scan using the Office of the Press Secretary Lafayette heading, Ask George Bush title, transcript page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "energy-policy-act-signing-statement",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title: "Statement by the President on signing H.R. 776, Energy Policy Act of 1992",
+      documentDate: "1992-10-24",
+      pages: 3,
+      excerpt:
+        "President Bush's signing statement for H.R. 776 discusses the Energy Policy Act, regulatory relief, natural gas, coal, renewable energy, nuclear power, constitutional implementation issues, and agency authority.",
+      evidence:
+        "Itemized from pages 128-130 of the NARA direct folder scan using the Statement by the President heading, Energy Policy Act title, George Bush signature line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-telephone-memoranda-october-24-1992",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "Presidential telephone memoranda: October 24, 1992",
+      documentDate: "1992-10-24",
+      pages: 2,
+      excerpt:
+        "Telephone memorandum sheets record President Bush and Signal Switchboard call information for October 24, 1992.",
+      evidence:
+        "Itemized from pages 131-132 of the NARA direct folder scan using the White House telephone memorandum headings, Signal Switchboard title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-october-24-1992",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: Montgomery, Houston, Lafayette, and Washington, October 24, 1992",
+      documentDate: "1992-10-24",
+      pages: 1,
+      excerpt:
+        "The Presidential Movements sheet logs October 24 locations and timing for Montgomery, Houston, Lafayette, and Washington.",
+      evidence:
+        "Itemized from page 133 of the NARA direct folder scan using the Presidential Movements heading, location list, date line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-october-24-26-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: October 24-26, 1992",
+      documentDate: "1992-10-24",
+      pages: 22,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet covers late-October campaign and family-values coverage, Barbara Bush and Marilyn Quayle items, Lee Atwater family stories, women and AIDS features, and related press and magazine pages.",
+      evidence:
+        "Itemized from pages 134-155 of the NARA direct folder scan using the Mrs. Bush's Press Office cover page, Daily News, USA Weekend, Washington Post, Newsday, Washington Times, New York Daily News, and New York Times mastheads, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photograph-montgomery-alabama-campaign-event",
+      documentType: "Official White House Photograph",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title: "Official White House photograph from Montgomery, Alabama campaign event",
+      documentDate: "1992-10-24",
+      pages: 1,
+      excerpt:
+        "A color official White House photograph shows President Bush greeting or waving to supporters at a Montgomery, Alabama campaign event, with a handwritten Montgomery, Ala. sticky note.",
+      evidence:
+        "Itemized from page 156 of the NARA direct folder scan using the color photograph, Montgomery, Ala. sticky-note label, rendered-page review, and low-confidence OCR.",
+    },
+  ],
   470418164: [
     {
       slug: "manor-house-reception-acceptances",
@@ -30697,6 +31284,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418146",
   "470418148",
   "470418150",
+  "470418151",
   "646482525",
   "646482521",
   "646482523",
