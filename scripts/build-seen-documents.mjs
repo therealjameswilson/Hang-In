@@ -28167,6 +28167,320 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 99-108 of the NARA direct folder scan using color photograph pages, official White House photo backing pages, handwritten labels, low-confidence OCR, and rendered-page review.",
     },
   ],
+  470418143: [
+    {
+      slug: "bart-starr-correspondence-and-president-bush-reply",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Bart Starr incoming fax and President Bush reply",
+      documentDate: "1992-10-20",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Bart Starr aboard the Spirit of America train after Starr's October 19 faxed note, thanking him for his personal encouragement during the closing campaign stretch.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the White House reply, Bart Starr fax page, October 19-20 dates, OCR, and rendered-page review.",
+    },
+    {
+      slug: "roger-ailes-tie-and-debate-help-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to Roger Ailes enclosing a tie and thanking him for debate help",
+      documentDate: "1992-10-20",
+      pages: 1,
+      excerpt:
+        "President Bush writes Roger Ailes aboard the train, encloses a tie, and thanks him for his help with the debates and campaign.",
+      evidence:
+        "Itemized from page 4 of the NARA direct folder scan using the presidential letter, Roger Ailes salutation, train reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jonathan-tollett-flag-picture-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jonathan Tollett flag-picture correspondence and President Bush handwritten reply",
+      documentDate: "1992-10-20",
+      pages: 3,
+      excerpt:
+        "President Bush sends a handwritten note to Jonathan Tollett thanking him for a flag picture, with the White House address page, envelope addressing, and Tollett's incoming drawing attached.",
+      evidence:
+        "Itemized from pages 5-7 of the NARA direct folder scan using the White House address page, handwritten presidential note, Tollett drawing, American Resurgens letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-october-20-1992-6am-edition",
+      documentType: "News Summary",
+      category: "news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: Tuesday, October 20, 1992, 6:00 a.m. EDT edition",
+      documentDate: "1992-10-20",
+      pages: 24,
+      excerpt:
+        "The White House News Summary covers national and international news, network-news coverage, campaign developments, editorials, columns, and 10:30 a.m. and 3:00 p.m. updates.",
+      evidence:
+        "Itemized from pages 8-31 of the NARA direct folder scan using the 6:00 a.m. edition heading, A/B/C section pagination, update headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "apn-daily-briefing-american-politics-october-20-1992",
+      documentType: "Daily Political Briefing",
+      category: "daily-political-briefing-item",
+      disposition: "itemized-daily-political-briefing",
+      title: "The Daily Briefing on American Politics: Tuesday, October 20, 1992",
+      documentDate: "1992-10-20",
+      pages: 25,
+      excerpt:
+        "The American Political Network briefing includes APN Bulletin Board items, debate coverage, White House and Clinton campaign sections, Iraq-gate material, Senate and House watches, polling, and television monitoring.",
+      evidence:
+        "Itemized from pages 32-56 of the NARA direct folder scan using The Daily Briefing on American Politics heading, APN Bulletin Board, section labels, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-october-20-1992-530pm-update",
+      documentType: "News Summary Update",
+      category: "news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: Tuesday, October 20, 1992, 5:30 p.m. news update",
+      documentDate: "1992-10-20",
+      pages: 2,
+      excerpt:
+        "The 5:30 p.m. news update summarizes coverage of the Spirit of America train trip, Vice President Quayle, campaign stops, and related political coverage.",
+      evidence:
+        "Itemized from pages 57-58 of the NARA direct folder scan using the White House News Summary update heading, October 20 date, story labels, OCR, and rendered-page review.",
+    },
+    {
+      slug: "remarks-president-norcross-welcome-october-20-1992",
+      documentType: "Press Release Transcript",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title: "Remarks by the President at Norcross welcome, October 20, 1992",
+      documentDate: "1992-10-20",
+      pages: 3,
+      excerpt:
+        "The Office of the Press Secretary release prints President Bush's Norcross, Georgia welcome remarks during the Spirit of America train tour.",
+      evidence:
+        "Itemized from pages 59-61 of the NARA direct folder scan using the Remarks by the President at Norcross Welcome heading, location line, release formatting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "remarks-president-ask-george-bush-atlanta-october-20-1992",
+      documentType: "Press Release Transcript",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title: "Remarks by the President in Ask George Bush, Atlanta, October 20, 1992",
+      documentDate: "1992-10-20",
+      pages: 12,
+      excerpt:
+        "The Office of the Press Secretary release prints President Bush's Ask George Bush remarks and audience exchange at WSB-TV Studios in Atlanta.",
+      evidence:
+        "Itemized from pages 62-73 of the NARA direct folder scan using the Remarks by the President in Ask George Bush heading, WSB-TV Studios location line, transcript pagination, OCR, and rendered-page review.",
+    },
+    {
+      slug: "remarks-president-gainesville-welcome-october-20-1992",
+      documentType: "Press Release Transcript",
+      category: "presidential-remarks-release",
+      disposition: "itemized-presidential-remarks-release",
+      title: "Remarks by the President at Gainesville welcome, October 20, 1992",
+      documentDate: "1992-10-20",
+      pages: 4,
+      excerpt:
+        "The Office of the Press Secretary release prints President Bush's Gainesville, Georgia welcome remarks during the Spirit of America train tour.",
+      evidence:
+        "Itemized from pages 74-77 of the NARA direct folder scan using the Remarks by the President at Gainesville Welcome heading, release typography, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-october-21-1992-530pm-update",
+      documentType: "News Summary Update",
+      category: "news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: Wednesday, October 21, 1992, 5:30 p.m. news update",
+      documentDate: "1992-10-21",
+      pages: 2,
+      excerpt:
+        "The October 21 news update, included in the October 20 folder scan, covers the train trip, newspaper endorsements, and late campaign news.",
+      evidence:
+        "Itemized from pages 78-79 of the NARA direct folder scan using the October 21 White House News Summary update heading, story labels, OCR, and rendered-page review.",
+    },
+    {
+      slug: "october-20-1992-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title: "White House telephone memoranda and Signal Switchboard log: October 20, 1992",
+      documentDate: "1992-10-20",
+      pages: 2,
+      excerpt:
+        "The telephone memoranda include a President Bush telephone sheet and a Signal Switchboard log recording calls involving Roger Ailes, Jonathan E. Bush, Ray Seitz, and James Baker.",
+      evidence:
+        "Itemized from pages 80-81 of the NARA direct folder scan using the White House Telephone Memorandum forms, October 20 date, call entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-spirit-of-america-train-october-20-1992",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-item",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: Atlanta, Norcross, Gainesville, Cornelia, and Spartanburg, October 20, 1992",
+      documentDate: "1992-10-20",
+      pages: 1,
+      excerpt:
+        "The movements log tracks President Bush from Atlanta through Norcross, Gainesville, Cornelia, and Spartanburg by motorcade and the Spirit of America train.",
+      evidence:
+        "Itemized from page 82 of the NARA direct folder scan using the Presidential Movements heading, Georgia and South Carolina location list, time entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-mobile-aids-support-services",
+      documentType: "Daily Point of Light Press Release",
+      category: "daily-point-of-light-release",
+      disposition: "itemized-daily-point-of-light-release",
+      title: "Daily Point of Light 928: Mobile AIDS Support Services of Mobile, Alabama",
+      documentDate: "1992-10-20",
+      pages: 1,
+      excerpt:
+        "The White House recognizes the volunteers of Mobile AIDS Support Services of Mobile, Alabama, as the 928th Daily Point of Light for support work with individuals with HIV or AIDS.",
+      evidence:
+        "Itemized from page 83 of the NARA direct folder scan using the Office of the Press Secretary release heading, Daily Point of Light text, organization name, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-union-south-carolina-drugs-clipping",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "USA Today clipping on Union, South Carolina, drugs, and small-town crime",
+      documentDate: "1992-10-20",
+      pages: 3,
+      excerpt:
+        "USA Today clippings by Mark Mayfield describe narcotics, alcohol abuse, teenage drug use, and community anti-drug efforts in Union, South Carolina.",
+      evidence:
+        "Itemized from pages 84-86 of the NARA direct folder scan using the USA Today masthead, October 20 date, article heading, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "spirit-of-america-train-tour-arrival-program-memos",
+      documentType: "Campaign Program Memoranda",
+      category: "campaign-program",
+      disposition: "itemized-campaign-program",
+      title: "Spirit of America train tour arrival program memoranda for Georgia and South Carolina stops",
+      documentDate: "1992-10-19",
+      pages: 4,
+      excerpt:
+        "Four program pages assign campaign teams and outline advance responsibilities for Spirit of America train tour arrivals and stops in Georgia and South Carolina.",
+      evidence:
+        "Itemized from pages 87-90 of the NARA direct folder scan using the Spirit of America Train Tour heading, October 19 creation timestamp, team addressees, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-5-norcross-georgia-october-20-1992",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #5: Norcross, Georgia, October 20, 1992",
+      documentDate: "1992-10-20",
+      pages: 1,
+      excerpt:
+        "Pool Report #5 describes the President's Norcross, Georgia campaign stop during the Spirit of America train tour.",
+      evidence:
+        "Itemized from page 91 of the NARA direct folder scan using the Pool Report #5 heading, Norcross location line, October 20 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-october-20-campaign-iraq-policy-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "New York Times campaign, Iraq, economy, and policy clippings: October 20, 1992",
+      documentDate: "1992-10-20",
+      pages: 18,
+      excerpt:
+        "New York Times clippings cover the presidential campaign, debate aftermath, Iraq-related investigations, economic and policy stories, opinion columns, and election analysis.",
+      evidence:
+        "Itemized from pages 92-109 of the NARA direct folder scan using New York Times mastheads, October 20 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-october-20-campaign-iraq-policy-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Washington Post campaign, Iraq, policy, media, and commentary clippings: October 20, 1992",
+      documentDate: "1992-10-20",
+      pages: 32,
+      excerpt:
+        "Washington Post clippings cover debate aftermath, campaign themes, Clinton and Perot, Iraq and Iran-Contra issues, space policy, media coverage, fiscal policy, and commentary.",
+      evidence:
+        "Itemized from pages 110-141 of the NARA direct folder scan using Washington Post mastheads, October 20 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-october-20-deficit-and-debate-opinion-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "USA Today deficit and presidential-debate opinion clippings: October 20, 1992",
+      documentDate: "1992-10-20",
+      pages: 2,
+      excerpt:
+        "USA Today clippings include a feature explaining the federal deficit and an editorial arguing that the presidential debates benefited voters.",
+      evidence:
+        "Itemized from pages 142-143 of the NARA direct folder scan using USA Today mastheads, October 20 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-october-20-campaign-economy-policy-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Los Angeles Times campaign, economy, and policy clippings: October 20, 1992",
+      documentDate: "1992-10-20",
+      pages: 15,
+      excerpt:
+        "Los Angeles Times clippings cover the campaign, debate aftermath, economic policy, national politics, candidate strategy, and related opinion pieces.",
+      evidence:
+        "Itemized from pages 144-158 of the NARA direct folder scan using Los Angeles Times mastheads, October 20 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-october-20-campaign-iraqgate-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Washington Times campaign, Iraqgate, television, and commentary clippings: October 20, 1992",
+      documentDate: "1992-10-20",
+      pages: 8,
+      excerpt:
+        "Washington Times clippings cover Iraqi assets, debate aftermath, Bush backers' morale, television coverage, Clinton, Iraqgate, campaign commentary, and election analysis.",
+      evidence:
+        "Itemized from pages 159-166 of the NARA direct folder scan using Washington Times mastheads, October 20 dates, article headings, rotated page review, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-october-20-campaign-and-economy-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Wall Street Journal campaign and economy clippings: October 20, 1992",
+      documentDate: "1992-10-20",
+      pages: 3,
+      excerpt:
+        "Wall Street Journal clippings cover campaign strategy, economics, election-year policy, and related political analysis.",
+      evidence:
+        "Itemized from pages 167-169 of the NARA direct folder scan using Wall Street Journal mastheads, October 20 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "newsweek-president-clinton-cover-and-table-of-contents",
+      documentType: "Magazine Cover and Table of Contents",
+      category: "magazine-issue",
+      disposition: "itemized-magazine-issue",
+      title: "Newsweek cover and table of contents: President Clinton? How He Would Govern",
+      documentDate: "1992-10-26",
+      pages: 2,
+      excerpt:
+        "The Newsweek pages include the October 26 cover asking 'President Clinton? How He Would Govern' and the table of contents pointing to national-affairs articles on Clinton, Gore, Bush, Perot, and Cuba.",
+      evidence:
+        "Itemized from pages 170-171 of the NARA direct folder scan using the Newsweek cover, October 26 issue footer, table of contents, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photographs-train-tour-and-meetings",
+      documentType: "Official White House Photograph Packet",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title: "Official White House photographs from the Spirit of America train tour and White House meetings",
+      documentDate: "1992-10-20",
+      pages: 16,
+      excerpt:
+        "The photograph packet includes color official White House photographs and backing sheets labeled Gainesville, Norcross, Spartanburg, and South Carolina, along with White House meeting photographs.",
+      evidence:
+        "Itemized from pages 172-187 of the NARA direct folder scan using color photograph pages, official White House photo backing pages, handwritten location labels, low-confidence OCR, and rendered-page review.",
+    },
+  ],
   470418144: [
     {
       slug: "linda-price-routing-and-correspondence",
@@ -29371,6 +29685,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418129",
   "470418133",
   "470418141",
+  "470418143",
   "646482525",
   "646482521",
   "646482523",
