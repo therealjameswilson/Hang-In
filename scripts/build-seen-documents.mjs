@@ -22031,6 +22031,34 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470418060: [
     {
+      slug: "james-baker-note-national-guard-speech-draft",
+      documentType: "Speech Routing Note with President Bush Handwriting",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "James A. Baker III note forwarding the Utah National Guard speech draft",
+      documentDate: "1992-09-14",
+      pages: 1,
+      excerpt:
+        "James A. Baker III sends POTUS the reviewed National Guard speech draft, notes that Dick Cheney is also receiving it, explains the strengthened section on cutting the Guard and Clinton's draft actions, and asks for any major changes before the Utah stop.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the White House Note for POTUS page, Baker signature, attachment marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "initial-marked-utah-national-guard-speech-draft",
+      documentType: "Speech Draft with President Bush Handwriting",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Initial marked draft of presidential remarks to the Utah National Guard",
+      documentDate: "1992-09-14",
+      pages: 8,
+      excerpt:
+        "The first marked draft of the Salt Lake City Utah National Guard remarks frames the Guard's Cold War and Desert Storm service, defense downsizing, Clinton's draft record, responsibility in wartime, and citizen-soldier sacrifice.",
+      evidence:
+        "Itemized from pages 3-10 of the NARA direct folder scan using the Utah National Guard speech heading, McGroarty/Aarhus draft timestamp, numbered speech pages, Bush Library handwriting markers, OCR, and rendered-page review.",
+    },
+    {
       slug: "cea-economic-briefing-pages-september-15-1992",
       documentType: "Economic Briefing Pages",
       category: "economic-briefing",
@@ -22077,11 +22105,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-domestic-policy-talking-points",
       title: "White House fax packet on family and medical leave talking points",
       documentDate: "1992-09-15",
-      pages: 5,
+      pages: 4,
       excerpt:
-        "A White House communications fax packet transmits alternative and draft talking points on family and medical leave during the September 15 campaign day.",
+        "A White House communications fax packet transmits Baker's note, a memorandum for the President, an alternative proposal, and talking points on family and medical leave during the September 15 campaign day.",
       evidence:
-        "Itemized from White House COMMCTR fax headers, talking-points headings, and rendered-page review of the direct scan.",
+        "Itemized from pages 31-34 of the NARA direct folder scan using White House COMMCTR fax headers, Baker routing note, memorandum heading, talking-points heading, OCR, and rendered-page review.",
     },
     {
       slug: "severe-mental-illness-health-insurance-packet",
@@ -22089,13 +22117,27 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       category: "health-policy-correspondence",
       disposition: "itemized-health-policy-correspondence",
       title:
-        "Severe mental illness health-insurance packet with handwritten note",
+        "Severe mental illness health-insurance request packet with President Bush note",
       documentDate: "1992-09-14",
-      pages: 7,
+      pages: 5,
       excerpt:
-        "The packet includes a handwritten note, National Alliance for the Mentally Ill petition material, a message to the President, and section-by-section analysis of S. 2696, the Equitable Health Care for Severe Mental Illnesses Act of 1992.",
+        "President Bush asks staff to check a health-care request, and the attached material includes National Alliance for the Mentally Ill petition pages and a section-by-section analysis of S. 2696, the Equitable Health Care for Severe Mental Illnesses Act of 1992.",
       evidence:
-        "Itemized from the rotated handwritten note, NAMI petition page, S. 2696 analysis, White House seen marker, and rendered-page review.",
+        "Itemized from pages 35-39 of the NARA direct folder scan using the Air Force One handwritten note, Rose Zamaria routing note, NAMI petition pages, S. 2696 analysis page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "vashchenko-family-messages-september-14-1992",
+      documentType: "Personal Messages with President Bush Handwriting",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "Augustina and Liuba Vashchenko messages to President and Mrs. Bush",
+      documentDate: "1992-09-14",
+      pages: 2,
+      excerpt:
+        "Augustina Vashchenko thanks President and Mrs. Bush for visiting her family in the American Embassy basement in Moscow, while Liuba Vashchenko-Luton thanks them for their prayers, says she will vote for the first time, and asks the President to care for hard-working Americans.",
+      evidence:
+        "Itemized from pages 40-41 of the NARA direct folder scan using the typed Vashchenko messages, sticky-note instruction, President Bush handwriting, OCR, and rendered-page review.",
     },
     {
       slug: "michael-deland-washington-focus-packet",
@@ -22103,13 +22145,13 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       category: "environment-policy-correspondence",
       disposition: "itemized-environment-policy-correspondence",
       title:
-        "Michael Deland and Coleman/Bartlett Washington Focus fax packet",
+        "Phillip Brady, Michael Deland, and Coleman/Bartlett environmental speech packet",
       documentDate: "1992-09-10",
-      pages: 2,
+      pages: 3,
       excerpt:
-        "Council on Environmental Quality Chairman Michael R. Deland forwards a Coleman/Bartlett Washington Focus item for the President's attention.",
+        "Phillip D. Brady sends the President a Deland environmental memorandum and Coleman/Bartlett Washington Focus item for September campaign remarks on balancing economic development and the environment.",
       evidence:
-        "Itemized from Council on Environmental Quality letterhead, Deland note markings, Coleman/Bartlett fax page, and rendered-page review.",
+        "Itemized from pages 42-44 of the NARA direct folder scan using the President-has-seen Brady cover note, Council on Environmental Quality letterhead, Deland note markings, Coleman/Bartlett fax page, OCR, and rendered-page review.",
     },
     {
       slug: "personal-correspondence-packet-september-15-1992",
@@ -25818,6 +25860,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418030",
   "470418041",
   "470418057",
+  "470418060",
   "470418083",
   "646482521",
   "646482523",
