@@ -28496,6 +28496,19 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from the White House routing page and Price letterhead found in full-PDF OCR and rendered page review of the NARA direct folder scan.",
     },
     {
+      slug: "white-house-news-summary-october-21-1992-6am-edition",
+      documentType: "News Summary",
+      category: "news-summary",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: Wednesday, October 21, 1992, 6:00 a.m. EDT edition",
+      documentDate: "1992-10-21",
+      pages: 22,
+      excerpt:
+        "The White House News Summary covers the President's whistlestop campaign tour, national and international news, network-news coverage, and 11:30 a.m. and 2:00 p.m. updates.",
+      evidence:
+        "Itemized from pages 3-24 of the NARA direct folder scan using the 6:00 a.m. edition heading, A/B section pagination, update headings, OCR, and rendered-page review.",
+    },
+    {
       slug: "apn-daily-briefing-october-21-1992",
       documentType: "Daily Political Briefing",
       category: "daily-political-briefing-item",
@@ -29686,6 +29699,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418133",
   "470418141",
   "470418143",
+  "470418144",
   "646482525",
   "646482521",
   "646482523",
