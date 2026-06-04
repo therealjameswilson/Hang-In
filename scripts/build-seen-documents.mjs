@@ -25239,6 +25239,428 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 223-225 of the NARA direct folder scan using color photograph pages, sticky-note labels, official photograph backing page, OCR, and rendered-page review.",
     },
   ],
+  470418120: [
+    {
+      slug: "scowcroft-voinovich-kuwait-truck-note-memo",
+      documentType: "National Security Memorandum and Ohio Issues Briefing",
+      category: "state-issues-briefing",
+      disposition: "itemized-state-issues-briefing",
+      title:
+        "Brent Scowcroft forwarding note and Bobbie Kilberg-Hiroshi Wald memorandum re Governor Voinovich",
+      documentDate: "1992-10-09",
+      pages: 3,
+      excerpt:
+        "Scowcroft advises that the administration can only urge Kuwait to buy American trucks, forwarding a Kilberg and Wald briefing memo on Governor Voinovich's Ohio issues.",
+      evidence:
+        "Itemized from pages 2-4 of the NARA direct folder scan using the Scowcroft note, Governor Voinovich memorandum, highlighted issue list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-5pm-update",
+      documentType: "White House News Summary Update",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: Friday, October 9, 1992, 5:00 P.M. EDT News Update",
+      documentDate: "1992-10-09",
+      pages: 2,
+      excerpt:
+        "The news update covers U.S.-Vietnam contacts, Middle East multilateral talks, EC/GATT, Veterans Day, and campaign developments.",
+      evidence:
+        "Itemized from pages 5-6 of the NARA direct folder scan using the White House News Summary heading, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-920-dorothy-william-pahl",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title:
+        "Daily Point of Light release: Dorothy and William Pahl of Bridgeport, Ohio",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "The White House recognizes Dorothy and William Pahl as the 920th Daily Point of Light for community care, shelter, transportation, and food assistance.",
+      evidence:
+        "Itemized from page 7 of the NARA direct folder scan using the Office of the Press Secretary release heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-918-grace-hiddleson",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title:
+        "Daily Point of Light release: Grace Hiddleson of Woodland, California",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "The White House recognizes Grace Hiddleson as the 918th Daily Point of Light for hospice care and support for critically ill individuals and their families.",
+      evidence:
+        "Itemized from page 8 of the NARA direct folder scan using the Office of the Press Secretary release heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-919-mary-dell-robinson",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light",
+      disposition: "itemized-daily-point-of-light",
+      title:
+        "Daily Point of Light release: Mary Dell Robinson of Lumberton, Mississippi",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "The White House recognizes Mary Dell Robinson as the 919th Daily Point of Light for helping youth and neighbors resist drugs and crime.",
+      evidence:
+        "Itemized from page 9 of the NARA direct folder scan using the Office of the Press Secretary release heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "october-9-legislation-signed-release",
+      documentType: "Legislation Signing Press Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "Press release listing legislation signed by the President on October 9, 1992",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "The White House announces the President signed S. 1216, H.R. 3379, and S. 2344.",
+      evidence:
+        "Itemized from page 10 of the NARA direct folder scan using the Office of the Press Secretary release heading, bill list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "willy-brandt-press-secretary-statement",
+      documentType: "Press Secretary Statement",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "Statement by the Press Secretary on the death of Willy Brandt",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "The Press Secretary states that the President was deeply saddened by the passing of German statesman Willy Brandt and praises Brandt's role in freedom, democracy, and reconciliation.",
+      evidence:
+        "Itemized from page 11 of the NARA direct folder scan using the Statement by the Press Secretary heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rocky-mountain-arsenal-refuge-signing-statement",
+      documentType: "Presidential Statement",
+      category: "presidential-statement",
+      disposition: "itemized-presidential-statement",
+      title:
+        "Statement by the President on signing the Rocky Mountain Arsenal National Wildlife Refuge Act of 1992",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "President Bush signs H.R. 1435 and describes the future Rocky Mountain Arsenal National Wildlife Refuge outside Denver.",
+      evidence:
+        "Itemized from page 12 of the NARA direct folder scan using the Statement by the President heading, statutory title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-200th-anniversary-proclamation",
+      documentType: "Presidential Proclamation",
+      category: "presidential-proclamation",
+      disposition: "itemized-presidential-proclamation",
+      title:
+        "In Celebration of the 200th Anniversary of the White House proclamation",
+      documentDate: "1992-10-09",
+      pages: 2,
+      excerpt:
+        "The proclamation commemorates the 200th anniversary of the laying of the White House cornerstone and celebrates the democratic system symbolized by the President's house.",
+      evidence:
+        "Itemized from pages 13-14 of the NARA direct folder scan using the proclamation heading, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-ashley-signal-switchboard-memo",
+      documentType: "Telephone Memorandum",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title:
+        "Signal Switchboard telephone memorandum for President Bush call with Thomas L. Ashley",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "The White House Signal Switchboard memorandum records an October 9 secure satellite call with Thomas L. Ashley.",
+      evidence:
+        "Itemized from page 15 of the NARA direct folder scan using the telephone memorandum heading, call row, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-washington-cincinnati-columbus",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title:
+        "Presidential movements for Washington, Cincinnati, and Columbus, October 9, 1992",
+      documentDate: "1992-10-09",
+      pages: 2,
+      excerpt:
+        "The movements log records President Bush's October 9 schedule from Andrews and the White House through Cincinnati and Columbus and back to Washington.",
+      evidence:
+        "Itemized from pages 16-17 of the NARA direct folder scan using the Presidential Movements headings, time entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "from-the-president-police-photos-follow-up",
+      documentType: "President's Note",
+      category: "presidential-handwriting",
+      disposition: "itemized-presidential-handwriting",
+      title:
+        "From the President note re police photograph follow-up",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "A From the President page asks whether all the policemen have received their photos, with staff handwriting noting that Mara is coordinating action.",
+      evidence:
+        "Itemized from page 18 of the NARA direct folder scan using the From the President page, staff handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sheriff-john-seay-signed-photograph",
+      documentType: "Signed Photograph",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "President Bush signed photograph for Sheriff John Seay",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "A photograph of President Bush with Sheriff John Seay of Woodstock, Georgia, is signed with best wishes.",
+      evidence:
+        "Itemized from page 19 of the NARA direct folder scan using the photograph caption, presidential inscription, OCR, and rendered-page review.",
+    },
+    {
+      slug: "indian-education-conference-report-transmittal",
+      documentType: "Text of Presidential Letter",
+      category: "message-to-congress",
+      disposition: "itemized-message-to-congress",
+      title:
+        "Text of letter transmitting the White House Conference on Indian Education report",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "The President transmits the final report of the White House Conference on Indian Education, recommendations, and an executive summary to congressional leaders.",
+      evidence:
+        "Itemized from page 20 of the NARA direct folder scan using the Office of the Press Secretary Cincinnati release heading, letter text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "national-childrens-day-1992-proclamation",
+      documentType: "Presidential Proclamation",
+      category: "presidential-proclamation",
+      disposition: "itemized-presidential-proclamation",
+      title:
+        "National Children's Day, 1992 proclamation",
+      documentDate: "1992-10-09",
+      pages: 2,
+      excerpt:
+        "The proclamation designates October 11, 1992 as National Children's Day and calls for programs honoring children and promoting their well-being.",
+      evidence:
+        "Itemized from pages 21-22 of the NARA direct folder scan using the proclamation heading, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fraternal-order-police-endorsement-remarks-release",
+      documentType: "Presidential Remarks Release",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Office of the Press Secretary release of remarks at Fraternal Order of Police endorsement",
+      documentDate: "1992-10-09",
+      pages: 4,
+      excerpt:
+        "The Columbus release reproduces President Bush's Cincinnati remarks accepting the Fraternal Order of Police endorsement and discussing crime, law enforcement, and Clinton's record.",
+      evidence:
+        "Itemized from pages 23-26 of the NARA direct folder scan using the Office of the Press Secretary Columbus release heading, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "port-columbus-airport-rally-remarks-release",
+      documentType: "Presidential Remarks Release",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Office of the Press Secretary release of remarks at Port Columbus International Airport rally",
+      documentDate: "1992-10-09",
+      pages: 3,
+      excerpt:
+        "The Columbus airport rally remarks cover Ohio, George Voinovich, Mike DeWine, Debbie Price, campaign themes, crime, civil rights, and Bush's reelection argument.",
+      evidence:
+        "Itemized from pages 27-29 of the NARA direct folder scan using the Office of the Press Secretary Columbus release heading, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-daily-press-clippings-october-9",
+      documentType: "Mrs. Bush Daily Press Clippings",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Mrs. Bush's Press Office daily press clippings for October 9, 1992",
+      documentDate: "1992-10-09",
+      pages: 23,
+      excerpt:
+        "The Mrs. Bush clipping packet includes a press-office distribution sheet and articles on Barbara Bush campaign travel, Hillary Clinton, literacy programs, Victory '92 events, and related campaign coverage.",
+      evidence:
+        "Itemized from pages 30-52 of the NARA direct folder scan using the Mrs. Bush's Press Office daily press clippings sheet, newspaper mastheads, wire headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rose-zamaria-debate-tape-wallach-call-note",
+      documentType: "President's Note with Staff Follow-Up",
+      category: "debate-prep-notes",
+      disposition: "itemized-debate-prep-notes",
+      title:
+        "Rose Zamaria note to the President re debate practice tape and John Wallach call",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "A note tells the President a debate-practice tape is in Tim McBride's safe and that John Wallach would appreciate a call before the debate about Iran-Contra and Iraqgate.",
+      evidence:
+        "Itemized from page 53 of the NARA direct folder scan using the dated note, Bush Library handwriting marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jocelyn-levi-straus-correspondence-packet",
+      documentType: "Presidential Letter and Incoming Correspondence",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "President Bush note to Jocelyn Levi Straus with incoming letter",
+      documentDate: "1992-10-09",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Jocelyn Levi Straus for her note after the NAFTA event, with Straus's handwritten letter welcoming him back to San Antonio.",
+      evidence:
+        "Itemized from pages 54-55 of the NARA direct folder scan using the White House address page, presidential note, incoming handwritten letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jim-jason-efthimiou-correspondence-packet",
+      documentType: "Presidential Letter and Incoming Correspondence",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "President Bush letter to Jim and Jason Efthimiou with incoming letters",
+      documentDate: "1992-10-09",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Jim and Jason Efthimiou for letters, a banquet program, and photos of George P. as bat boy, with attached ARAMCO Corporation incoming letters.",
+      evidence:
+        "Itemized from pages 56-58 of the NARA direct folder scan using the presidential letter, White House address page, incoming ARAMCO letters, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-clippings-october-9-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "New York Times clipping packet on Congress, Clinton, Texas, Iraq loans, South Korea, debates, Perot, energy, China, and editorials",
+      documentDate: "1992-10-09",
+      pages: 23,
+      excerpt:
+        "The New York Times packet covers the end of Congress, Vietnam War-era campaign disputes, Texas polling, Baghdad loan warnings, Korea troop withdrawals, Clinton and Bush debate strategy, Perot, energy policy, China, Bosnia, tax breaks, and editorial commentary.",
+      evidence:
+        "Itemized from pages 59-81 of the NARA direct folder scan using New York Times mastheads, article starts, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-clippings-october-9-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Washington Post clipping packet on character politics, Clinton, debates, Congress, AIDS, POWs, Victory '92, and campaign television",
+      documentDate: "1992-10-09",
+      pages: 25,
+      excerpt:
+        "The Washington Post packet covers Bush and Clinton on character, campaign ads, Vietnam-era attacks, debate history, tax and water bills, AIDS, foreign policy, POW investigations, Victory '92, Mrs. Bush, and television listings.",
+      evidence:
+        "Itemized from pages 82-106 of the NARA direct folder scan using Washington Post mastheads, article starts, rotated clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-clippings-october-9-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "USA Today clipping packet on campaign ethics, working women, and political cartoons",
+      documentDate: "1992-10-09",
+      pages: 4,
+      excerpt:
+        "The USA Today packet includes campaign-ethics commentary on Bush's attacks on Clinton, a Barbara Reynolds column on working women and media standards, and political cartoons.",
+      evidence:
+        "Itemized from pages 107-110 of the NARA direct folder scan using USA Today mastheads, article headings, cartoons, OCR, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-clippings-october-9-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Los Angeles Times Washington Edition clipping packet on water, polling, energy, taxes, Clinton's patriotism, debates, and campaign ads",
+      documentDate: "1992-10-09",
+      pages: 15,
+      excerpt:
+        "The Los Angeles Times packet covers Central Valley water reform, voter issue polling, energy and tax legislation, the Bush-Clinton patriotism fight, Soviet travel, debate coverage, campaign strategy, Murphy Brown, and advertising credibility.",
+      evidence:
+        "Itemized from pages 111-125 of the NARA direct folder scan using Los Angeles Times mastheads, article starts, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-clippings-october-9-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Washington Times clipping packet on Clinton, Bush campaign strategy, GOP candidates, Columba Bush, cable, Iran-Contra, economy, and debates",
+      documentDate: "1992-10-09",
+      pages: 10,
+      excerpt:
+        "The Washington Times packet covers escalating campaign attacks, GOP concern about Bush coattails, the Bush campaign's Clinton offensive, Columba Bush, cable regulation, Iran-Contra letters, economic misery ratings, debate strategy, and trade.",
+      evidence:
+        "Itemized from pages 126-135 of the NARA direct folder scan using Washington Times mastheads, article starts, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-clippings-october-9-1992",
+      documentType: "Press Clipping Packet",
+      category: "press-article-packet",
+      disposition: "itemized-press-article-packet",
+      title:
+        "Wall Street Journal clipping packet on executive pay, Quayle, polls, and debate themes",
+      documentDate: "1992-10-09",
+      pages: 6,
+      excerpt:
+        "The Wall Street Journal packet covers Clinton on executive pay, Quayle's second campaign, Washington Wire items, polling, and Bush-Clinton debate themes.",
+      evidence:
+        "Itemized from pages 136-141 of the NARA direct folder scan using Wall Street Journal mastheads, article starts, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "october-9-president-schedule-with-handwriting",
+      documentType: "Presidential Schedule with Handwritten Timing Notes",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title:
+        "Schedule of the President for Friday, October 9, 1992, with handwritten timing notes",
+      documentDate: "1992-10-09",
+      pages: 2,
+      excerpt:
+        "The President's October 9 schedule lists interview, debate rehearsal, debate preparation, Cincinnati and Columbus travel, and evening events, with handwritten timing annotations.",
+      evidence:
+        "Itemized from pages 142-143 of the NARA direct folder scan using the Schedule of the President heading, supplementary briefing material tabs, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "october-10-president-schedule-with-handwriting",
+      documentType: "Presidential Schedule with Handwritten Notes",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title:
+        "Schedule of the President for Saturday, October 10, 1992, with handwritten notes",
+      documentDate: "1992-10-10",
+      pages: 1,
+      excerpt:
+        "The October 10 schedule lists photo opportunities and debate briefing and rehearsal, with handwritten notes on participants and timing.",
+      evidence:
+        "Itemized from page 144 of the NARA direct folder scan using the Schedule of the President heading, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "debate-prep-audiovisual-transfer-photographs",
+      documentType: "Audiovisual Transfer Sheet and Debate Prep Photographs",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title:
+        "Debate prep audiovisual transfer sheet and official White House photographs",
+      documentDate: "1992-10-09",
+      pages: 5,
+      excerpt:
+        "The closing packet includes a George Bush Presidential Library transfer sheet for two debate-prep VHS tapes and official White House photograph pages labeled Debate Prep.",
+      evidence:
+        "Itemized from pages 145-149 of the NARA direct folder scan using the transfer sheet, official photograph backing pages, color photograph pages, OCR, and rendered-page review.",
+    },
+  ],
   470418122: [
     {
       slug: "st-louis-railroad-ymca-history",
@@ -27283,6 +27705,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418088",
   "470418094",
   "470418117",
+  "470418120",
   "646482521",
   "646482523",
 ]);
