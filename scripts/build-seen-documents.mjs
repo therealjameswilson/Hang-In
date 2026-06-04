@@ -23992,6 +23992,270 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 127-129 of the NARA direct folder scan using the White House address page, Bush handwriting, color photo page, backing page, and rendered-page review.",
     },
   ],
+  470418088: [
+    {
+      slug: "robert-stuart-mary-galvin-kennedy-center-packet",
+      documentType: "Presidential Correspondence and Memorandum Packet",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "Robert D. Stuart Jr. correspondence and President Bush notes re Mary Galvin and Kennedy Center Board",
+      documentDate: "1992-09-24",
+      pages: 4,
+      excerpt:
+        "The packet includes a White House address page, President Bush's note to Bob Stuart, Stuart's September 24 letter recommending Mary Galvin for the Kennedy Center Board, and the President's September 28 memorandum to Connie Horner.",
+      evidence:
+        "Itemized from pages 2-5 of the NARA direct folder scan using the address page, presidential handwriting, Stuart letterhead, White House memorandum heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chi-chi-rodriguez-foundation-follow-up-packet",
+      documentType: "Presidential Correspondence and Memorandum Packet",
+      category: "telephone-call-follow-up",
+      disposition: "itemized-telephone-call-follow-up",
+      title:
+        "President Bush and Roger Porter follow-up packet re Chi Chi Rodriguez Foundation",
+      documentDate: "1992-09-25",
+      pages: 4,
+      excerpt:
+        "President Bush writes Chi Chi Rodriguez that Roger Porter followed up with Bill Hayes, attaches Porter's memorandum on the foundation's school-retention program, and includes the President's September 24 request that Porter contact Hayes.",
+      evidence:
+        "Itemized from pages 6-9 of the NARA direct folder scan using the President's note to Chi Chi Rodriguez, White House address page, Roger Porter memorandum, presidential memo to Porter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kenneth-raynor-fishing-note-packet",
+      documentType: "Presidential Note and Enclosure",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "President Bush note to Kenneth C. Raynor with fishing enclosure",
+      documentDate: "1992-09-26",
+      pages: 3,
+      excerpt:
+        "President Bush writes Kenneth C. Raynor from Columbus that he thought of him after sending trout to New Zealand, with a handwritten continuation and a fishing enclosure marked for Raynor at Cape Arundel Golf Club.",
+      evidence:
+        "Itemized from pages 10-12 of the NARA direct folder scan using the White House address page, presidential handwriting, rotated continuation note, fishing enclosure page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "arlington-marysville-remarks-staffing-packet",
+      documentType: "Staffing Memorandum and Speech Drafts",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "White House staffing memorandum and remarks drafts for Arlington picnic and Marysville Main Street",
+      documentDate: "1992-09-25",
+      pages: 11,
+      excerpt:
+        "The speech packet forwards presidential remarks for the Arlington picnic and Marysville Main Street stops on the September 26 Ohio whistle-stop tour.",
+      evidence:
+        "Itemized from pages 13-23 of the NARA direct folder scan using the White House staffing memorandum, Arlington remarks draft pages, Marysville remarks draft pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "findlay-ohio-impromptu-pool-report",
+      documentType: "Pool Report",
+      category: "pool-report-packet",
+      disposition: "itemized-pool-report-packet",
+      title: "Pool report from the impromptu stop in Findlay, Ohio",
+      documentDate: "1992-09-26",
+      pages: 2,
+      excerpt:
+        "The pool report describes President and Mrs. Bush at the low-key Findlay stop, including crowd signs, the rope line, local police, and the train's departure.",
+      evidence:
+        "Itemized from pages 24-25 of the NARA direct folder scan using the Pool Report heading, Findlay text, faint verso/duplicate page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "council-american-ambassadors-franklin-award-packet",
+      documentType: "Incoming Letter with President Bush Handwriting",
+      category: "event-invitation-clearance",
+      disposition: "itemized-event-invitation-clearance",
+      title:
+        "Council of American Ambassadors Benjamin Franklin Award invitation packet with President Bush note",
+      documentDate: "1992-09-23",
+      pages: 4,
+      excerpt:
+        "President Bush sends Kathy Super a note about the Council of American Ambassadors' invitation to honor him with the Benjamin Franklin Award, with the incoming September 23 letter from Angier Biddle Duke.",
+      evidence:
+        "Itemized from pages 26-29 of the NARA direct folder scan using the presidential note, continuation handwriting, Council of American Ambassadors letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-telephone-memoranda-september-26-1992",
+      documentType: "Presidential Telephone Memoranda",
+      category: "telephone-memoranda",
+      disposition: "itemized-telephone-memoranda",
+      title:
+        "Presidential telephone memoranda and Signal Switchboard log, September 26, 1992",
+      documentDate: "1992-09-26",
+      pages: 2,
+      excerpt:
+        "The telephone material includes a blank President Bush telephone memorandum sheet and a Signal Switchboard log of calls with Rita Downey, George W. Bush, Francis Bagnell, James A. Baker III, and Timothy McBride.",
+      evidence:
+        "Itemized from pages 30-31 of the NARA direct folder scan using telephone memorandum headings, Signal Switchboard log entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-september-26-1992",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title:
+        "Presidential movements for the Spirit of America train trip, September 26, 1992",
+      documentDate: "1992-09-26",
+      pages: 1,
+      excerpt:
+        "The movements sheet tracks the President from the Columbus Sheraton Inn through Marysville, Arlington, Findlay, Bowling Green, Plymouth, and Livonia.",
+      evidence:
+        "Itemized from page 32 of the NARA direct folder scan using the Presidential Movements heading, Spirit of America location line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jack-caveney-panduit-free-enterprise-letter-packet",
+      documentType: "Incoming Letter with President Bush Handwriting",
+      category: "economic-policy-correspondence",
+      disposition: "itemized-economic-policy-correspondence",
+      title:
+        "Jack Caveney Panduit correspondence re the Free Enterprise System",
+      documentDate: "1992-03-16",
+      pages: 5,
+      excerpt:
+        "Jack Caveney of Panduit sends President Bush a March 16 letter and essay, 'The Free Enterprise System - A Bountiful Garden,' with President Bush handwriting on the packet.",
+      evidence:
+        "Itemized from pages 33-37 of the NARA direct folder scan using the White House address page, Panduit letterhead, presidential handwriting marker, essay pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "columbus-send-off-rally-remarks-staffing-packet",
+      documentType: "Staffing Memorandum and Speech Draft",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "White House staffing memorandum and remarks draft for the Columbus send-off rally",
+      documentDate: "1992-09-25",
+      pages: 5,
+      excerpt:
+        "The speech packet forwards the President's remarks for the September 26 Columbus send-off rally, with a Curt Smith memorandum and draft remarks for the Buckeye whistle-stop opening.",
+      evidence:
+        "Itemized from pages 38-42 of the NARA direct folder scan using the White House staffing memorandum, Curt Smith memorandum, Columbus remarks draft pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-september-26-28-1992",
+      documentType: "Mrs. Bush Press Clippings",
+      category: "mrs-bush-press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Mrs. Bush's Press Office Daily Press Clippings: September 26-28, 1992",
+      documentDate: "1992-09-26",
+      pages: 30,
+      excerpt:
+        "Mrs. Bush's press clipping packet for September 26-28 includes Flower & Garden coverage, literacy coverage, Ohio and Michigan whistle-stop stories, Bush-Clinton-Perot campaign coverage, debate analysis, Vietnam-service articles, and First Family commentary.",
+      evidence:
+        "Itemized from pages 43-72 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover, article mastheads, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-september-29-1992",
+      documentType: "Mrs. Bush Press Clippings",
+      category: "mrs-bush-press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Mrs. Bush's Press Office Daily Press Clippings: Tuesday, September 29, 1992",
+      documentDate: "1992-09-29",
+      pages: 12,
+      excerpt:
+        "Mrs. Bush's press clipping packet for Tuesday, September 29 includes Marysville coverage, California polling on Barbara Bush and Hillary Clinton, fundraising, family and campaign commentary, children's reading, and gay-tolerance curriculum coverage.",
+      evidence:
+        "Itemized from pages 73-84 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover, article mastheads, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fire-prevention-week-1992-proclamation",
+      documentType: "Presidential Proclamation",
+      category: "presidential-proclamation",
+      disposition: "itemized-presidential-proclamation",
+      title: "Fire Prevention Week, 1992 proclamation",
+      documentDate: "1992-09-26",
+      pages: 2,
+      excerpt:
+        "The proclamation designates October 4-10, 1992, as Fire Prevention Week and urges Americans to participate in fire-prevention activities.",
+      evidence:
+        "Itemized from pages 85-86 of the NARA direct folder scan using the Office of the Press Secretary release heading, proclamation title, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "leif-erikson-day-1992-proclamation",
+      documentType: "Presidential Proclamation",
+      category: "presidential-proclamation",
+      disposition: "itemized-presidential-proclamation",
+      title: "Leif Erikson Day, 1992 proclamation",
+      documentDate: "1992-09-26",
+      pages: 1,
+      excerpt:
+        "The proclamation designates October 9, 1992, as Leif Erikson Day and invites Americans to observe the day with appropriate programs and activities.",
+      evidence:
+        "Itemized from page 87 of the NARA direct folder scan using the Office of the Press Secretary release heading, Leif Erikson Day title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "child-health-day-1992-proclamation",
+      documentType: "Presidential Proclamation",
+      category: "presidential-proclamation",
+      disposition: "itemized-presidential-proclamation",
+      title: "Child Health Day, 1992 proclamation",
+      documentDate: "1992-09-26",
+      pages: 2,
+      excerpt:
+        "The proclamation designates October 5, 1992, as Child Health Day and renews the national commitment to protecting young children's health.",
+      evidence:
+        "Itemized from pages 88-89 of the NARA direct folder scan using the Office of the Press Secretary release heading, proclamation title, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gary-carter-retirement-correspondence-packet",
+      documentType: "Presidential Correspondence and Press Article",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "President Bush note to Gary Carter with retirement article",
+      documentDate: "1992-09-26",
+      pages: 2,
+      excerpt:
+        "President Bush writes Gary Carter about his retirement announcement and contributions to baseball, with an attached Columbus Dispatch article on Carter hanging up his catching gear.",
+      evidence:
+        "Itemized from pages 90-91 of the NARA direct folder scan using the White House address page, presidential handwriting, Columbus Dispatch clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sam-noble-condolence-correspondence-packet",
+      documentType: "Presidential Condolence Note and Obituary",
+      category: "personal-correspondence",
+      disposition: "itemized-personal-correspondence",
+      title:
+        "President Bush condolence note to Mrs. Sam Noble with Oklahoma obituary",
+      documentDate: "1992-09-26",
+      pages: 3,
+      excerpt:
+        "President Bush sends condolences to Mary Jane Noble after the death of Samuel R. Noble, with attached Daily Oklahoman obituary coverage.",
+      evidence:
+        "Itemized from pages 92-94 of the NARA direct folder scan using the White House address page, presidential handwriting, Oklahoma newspaper clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rita-downey-tony-snow-op-ed-phone-note-packet",
+      documentType: "Presidential Phone Call Form and Press Clipping",
+      category: "telephone-call-follow-up",
+      disposition: "itemized-telephone-call-follow-up",
+      title:
+        "Rita Downey phone-call form, Frederick Post letter, and President Bush note to Tony Snow",
+      documentDate: "1992-09-26",
+      pages: 3,
+      excerpt:
+        "President Bush notes Rita Downey's call about her pro-Bush letter to the editor, asks that she receive a call, and sends Tony Snow the material with a request for more op-ed pages.",
+      evidence:
+        "Itemized from pages 95-97 of the NARA direct folder scan using the Presidential Phone Calls form, Frederick Post clipping, From the desk of George Bush note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photographs-ohio-michigan-whistle-stop-tour",
+      documentType: "Official White House Photographs",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title:
+        "Official White House photographs from the Ohio and Michigan whistle-stop train tour",
+      documentDate: "1992-09-26",
+      pages: 10,
+      excerpt:
+        "The photograph packet includes color images and backing pages from the Spirit of America train tour, including Marysville, Bowling Green, Plymouth, Arlington, and Ohio train-ride scenes.",
+      evidence:
+        "Itemized from pages 98-107 of the NARA direct folder scan using color photograph pages, handwritten location sticky notes, official White House photo backing pages, OCR, and rendered-page review.",
+    },
+  ],
   470418122: [
     {
       slug: "st-louis-railroad-ymca-history",
@@ -26033,6 +26297,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418075",
   "470418078",
   "470418083",
+  "470418088",
   "646482521",
   "646482523",
 ]);
