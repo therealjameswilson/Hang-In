@@ -30415,6 +30415,385 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from page 156 of the NARA direct folder scan using the color photograph, Montgomery, Ala. sticky-note label, rendered-page review, and low-confidence OCR.",
     },
   ],
+  470418154: [
+    {
+      slug: "hotline-daily-briefing-october-26-1992",
+      documentType: "Political Briefing",
+      category: "political-briefing",
+      disposition: "itemized-political-briefing",
+      title: "The Hotline Daily Briefing on American Politics: October 26, 1992",
+      documentDate: "1992-10-26",
+      pages: 27,
+      excerpt:
+        "The Hotline briefing surveys Perot's dirty-tricks claims, Bush and Quayle appeals to Perot supporters, Clinton strategy, Iran-Contra coverage, endorsements, electoral scoreboards, Senate races, California contests, polling, and morning television appearances.",
+      evidence:
+        "Itemized from pages 2-28 of the NARA direct folder scan using the Hotline Daily Briefing cover, section headings, poll tables, OCR, and rendered-page review; page 29 is a blank separator and is not counted.",
+    },
+    {
+      slug: "white-house-news-summary-1030-update-october-26-1992",
+      documentType: "News Update",
+      category: "news-summary-item",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: October 26, 1992 10:30 A.M. EDT News Update",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "The 10:30 a.m. EDT White House News Summary update covers campaign-trail reporting, the Vice President, Perot, the economy, and national-security or foreign-policy items.",
+      evidence:
+        "Itemized from page 30 of the NARA direct folder scan using the White House News Summary heading, 8:30 A.M. MST / 10:30 A.M. EDT update line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-500-update-october-26-1992",
+      documentType: "News Update",
+      category: "news-summary-item",
+      disposition: "itemized-news-summary",
+      title: "White House News Summary: October 26, 1992 5:00 P.M. EDT News Update",
+      documentDate: "1992-10-26",
+      pages: 2,
+      excerpt:
+        "The afternoon White House News Summary update covers Bush's western campaign travel, Clinton, Perot, campaign polling, and legal or national-security items.",
+      evidence:
+        "Itemized from pages 31-32 of the NARA direct folder scan using the White House News Summary heading, 3:00 P.M. MST / 5:00 P.M. EDT update line, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "notice-continuation-iran-emergency",
+      documentType: "Presidential Notice",
+      category: "presidential-notice",
+      disposition: "itemized-presidential-notice",
+      title: "Notice on continuation of the national emergency with respect to Iran",
+      documentDate: "1992-10-25",
+      pages: 1,
+      excerpt:
+        "The White House releases President Bush's notice continuing the national emergency with respect to Iran beyond November 14, 1992.",
+      evidence:
+        "Itemized from page 33 of the NARA direct folder scan using the Office of the Press Secretary Denver heading, Continuation of Iran Emergency title, October 25 notice date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "letter-speaker-senate-president-iran-emergency",
+      documentType: "Presidential Letter Text",
+      category: "presidential-letter-release",
+      disposition: "itemized-presidential-letter-release",
+      title: "Text of President Bush letter to the Speaker and President of the Senate re Iran emergency",
+      documentDate: "1992-10-25",
+      pages: 1,
+      excerpt:
+        "President Bush transmits to Congress the notice continuing the Iran national emergency under the National Emergencies Act.",
+      evidence:
+        "Itemized from page 34 of the NARA direct folder scan using the Text of a Letter from the President heading, congressional addressees, October 25 letter date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "stuart-bernstein-kennedy-center-trustees-appointment",
+      documentType: "Appointment Release",
+      category: "appointment-release",
+      disposition: "itemized-appointment-release",
+      title: "Appointment of Stuart A. Bernstein to the Kennedy Center Board of Trustees",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's appointment of Stuart A. Bernstein of the District of Columbia to the Board of Trustees of the John F. Kennedy Center for the Performing Arts.",
+      evidence:
+        "Itemized from page 35 of the NARA direct folder scan using the Office of the Press Secretary Albuquerque heading, appointment text, biography paragraph, OCR, and rendered-page review.",
+    },
+    {
+      slug: "barbara-franklin-competitiveness-policy-council-appointment",
+      documentType: "Appointment Release",
+      category: "appointment-release",
+      disposition: "itemized-appointment-release",
+      title: "Announcement of Barbara Hackman Franklin reappointment to the Competitiveness Policy Council",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intention to reappoint Commerce Secretary Barbara Hackman Franklin to the Competitiveness Policy Council.",
+      evidence:
+        "Itemized from page 36 of the NARA direct folder scan using the Office of the Press Secretary Albuquerque heading, appointment announcement, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-safe-place-raleigh",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light-release",
+      disposition: "itemized-daily-point-of-light-release",
+      title: "Daily Point of Light release recognizing Safe Place volunteers in Raleigh",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "President Bush recognizes the volunteers of Safe Place of Raleigh, North Carolina, as the 934th Daily Point of Light for helping children in crisis.",
+      evidence:
+        "Itemized from page 37 of the NARA direct folder scan using the White House release heading, Safe Place description, Daily Point of Light number, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-telephone-memoranda-october-26-1992",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "Presidential telephone memoranda: October 26, 1992",
+      documentDate: "1992-10-26",
+      pages: 2,
+      excerpt:
+        "Telephone memorandum sheets record calls with Jim Oberwetter, Barbara Bush, Patty Presock, Brent Scowcroft, Senator Conrad Burns, Roger Ailes, Daniel Cooper, Peter O'Donnell, and James Baker.",
+      evidence:
+        "Itemized from pages 38-39 of the NARA direct folder scan using the White House Telephone Memorandum headings, Signal Switchboard sheet, call entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-october-26-1992",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: Billings, Denver, Albuquerque, and Des Moines, October 26, 1992",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "The Presidential Movements sheet logs President Bush's October 26 travel from Billings to Denver, Albuquerque, and Des Moines.",
+      evidence:
+        "Itemized from page 40 of the NARA direct folder scan using the Presidential Movements heading, movement table, city list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "forum-editorial-bush-four-more-years",
+      documentType: "Editorial Clipping",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Forum editorial clipping: President Bush should have four more years",
+      documentDate: "1992-10-25",
+      pages: 1,
+      excerpt:
+        "A Forum editorial clipping endorses President Bush for a second term and argues that the economy, Congress, national strength, and character favor his reelection.",
+      evidence:
+        "Itemized from page 41 of the NARA direct folder scan using the Forum editorials heading, Sunday October 25 date line, article title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-6-billings-morning-jog",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #6: Billings morning jog",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "Pool Report #6 describes President Bush's Billings morning jog, police motorcycle escort, local reactions, and remarks at the hotel.",
+      evidence:
+        "Itemized from page 42 of the NARA direct folder scan using the Pool Report #6 heading, Billings Morning Jog title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-7-denver",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #7: Denver",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "Pool Report #7 covers President Bush's Denver arrival, remarks, crowd reactions, and local interview or event movement.",
+      evidence:
+        "Itemized from page 43 of the NARA direct folder scan using the Pool Report #7 heading, Denver dateline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-8-denver-to-albuquerque",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #8: Denver to Albuquerque",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "Pool Report #8 follows the President from a Denver stop through the airport, Air Force One travel, and arrival for the Albuquerque campaign rally.",
+      evidence:
+        "Itemized from page 44 of the NARA direct folder scan using the Pool Report #8 heading, Denver-to-Albuquerque title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-9-albuquerque-to-des-moines",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #9: Albuquerque to Des Moines",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "Pool Report #9 notes the President's arrival in Iowa, rope-line comments about getting the message out, a David Frost interview, and Air Force One notes.",
+      evidence:
+        "Itemized from page 45 of the NARA direct folder scan using the Pool Report #9 heading, Albuquerque-to-Des Moines title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "marcia-fuller-french-campaign-suggestions-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Marcia Fuller French campaign suggestions correspondence packet",
+      documentDate: "1992-10-26",
+      pages: 7,
+      excerpt:
+        "President Bush thanks Marcia Fuller French from Air Force One for excellent campaign suggestions and says the mood is changing, with her handwritten incoming pages attached.",
+      evidence:
+        "Itemized from pages 46-52 of the NARA direct folder scan using the George Bush letterhead, aboard Air Force One date line, Marcia Fuller French address block, handwritten incoming pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-fatjo-accident-condolence-note-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Thomas J. Fatjo Jr. accident and condolence note packet",
+      documentDate: "1992-10-26",
+      pages: 2,
+      excerpt:
+        "A routing note to Rose Zamaria reports Tom Fatjo's accident and Amy Fatjo's death, gives suggested condolence text, and includes a presidential note or address page for Fatjo.",
+      evidence:
+        "Itemized from pages 53-54 of the NARA direct folder scan using the Thomas J. Fatjo Jr. address sheet, Hag-to-Rose note, accident summary, suggested presidential text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rachel-hertz-air-force-one-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Rachel Hertz Air Force One correspondence packet",
+      documentDate: "1992-10-26",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Rachel Hertz from Air Force One after her letter from Billings, with a dark handwritten incoming page attached.",
+      evidence:
+        "Itemized from pages 55-56 of the NARA direct folder scan using the Air Force One note, Miss Rachel Hertz address block, handwritten incoming page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "karen-hobbs-albuquerque-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Karen Hobbs Albuquerque correspondence packet",
+      documentDate: "1992-10-26",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Karen Hobbs for a letter after Albuquerque and New Mexico, with her dark handwritten incoming page attached.",
+      evidence:
+        "Itemized from pages 57-58 of the NARA direct folder scan using the presidential note, Miss Karen Hobbs address block, handwritten incoming page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wayne-schile-billings-gazette-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Wayne Schile and Billings Gazette correspondence packet",
+      documentDate: "1992-10-26",
+      pages: 2,
+      excerpt:
+        "President Bush writes Wayne Schile of The Billings Gazette from the Billings-to-Denver leg and responds to Schile's note about the paper.",
+      evidence:
+        "Itemized from pages 59-60 of the NARA direct folder scan using the Wayne Schile address sheet, Billings-to-Denver Air Force One notation, presidential note page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "campaign-strategy-fax-perot-clinton-freefall",
+      documentType: "Campaign Strategy Fax",
+      category: "campaign-strategy-correspondence",
+      disposition: "itemized-campaign-strategy-correspondence",
+      title: "Faxed campaign strategy note re Perot voters and Clinton freefall",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "A faxed note marked The President Has Seen argues that Perot's support reflects Clinton's freefall and urges a message to Perot voters about liberalism, taxes, spending, regulation, and crime.",
+      evidence:
+        "Itemized from page 61 of the NARA direct folder scan using the fax header, The President Has Seen stamp, Dear Mr. President salutation, Perot/Clinton campaign language, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-october-26-campaign-education-perot-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Washington Post campaign, education, Perot, workforce, and election clippings: October 26, 1992",
+      documentDate: "1992-10-26",
+      pages: 24,
+      excerpt:
+        "Washington Post clippings cover Bush's positive and negative campaign tack, school choice, negative ads, Perot dirty-tricks claims, term limits, Clinton, government work force plans, Oregon Senate politics, Gore on Iraq, Soviet aid, environmental policy, Watergate, NAFTA and Mexico, GOP job searches, character, lawyers, and television listings.",
+      evidence:
+        "Itemized from pages 62-85 of the NARA direct folder scan using Washington Post mastheads, article headings, rotated clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-october-26-campaign-perot-economy-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "New York Times campaign, Perot, economy, endorsements, and commentary clippings: October 26, 1992",
+      documentDate: "1992-10-26",
+      pages: 20,
+      excerpt:
+        "New York Times clippings cover school-choice studies, Perot's dirty-tricks allegations and conspiracy charges, Clinton campaign strategy, the economy's election-eve report card, Perot supporters, Safire on Perot, get-out-the-vote advertising, newspaper endorsements, London trade allegations, the Bush message, Bush surge hopes, urban aid, Anthony Lewis on Iran-Contra, morning-show appearances, and abortion politics.",
+      evidence:
+        "Itemized from pages 86-105 of the NARA direct folder scan using New York Times mastheads, article headings, opinion labels, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-october-26-courts-bush-baker-darman-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Washington Times courts, Bush, Baker, Darman, and conservative-vote clippings: October 26, 1992",
+      documentDate: "1992-10-26",
+      pages: 8,
+      excerpt:
+        "Washington Times clippings cover the Supreme Court stakes of the election, Bush on crime and carjacking, Inside the Beltway, Republican staffing fears under Clinton, Amos Perlmutter on James Baker, Matthew Miller on Richard Darman, and conservative reasons to vote for Bush.",
+      evidence:
+        "Itemized from pages 106-113 of the NARA direct folder scan using Washington Times mastheads, column headings, rotated clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-october-26-immigration-iraq-perot-california-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Los Angeles Times immigration, Iraq, Clinton, Perot, California, and Bush campaign clippings: October 26, 1992",
+      documentDate: "1992-10-26",
+      pages: 14,
+      excerpt:
+        "Los Angeles Times clippings cover immigration policy, Iraq and BNL papers, Clinton and Perot, the Times Mirror poll, television coverage, Perot's plot allegations, California polling, GOP coattails, campaign advisers, Bush's western campaign swing, and New Jersey politics.",
+      evidence:
+        "Itemized from pages 114-127 of the NARA direct folder scan using Los Angeles Times Washington Edition labels, article headings, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-october-26-judges-perot-economy-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Wall Street Journal judges, Perot, taxes, trade, and economic-plan clippings: October 26, 1992",
+      documentDate: "1992-10-26",
+      pages: 6,
+      excerpt:
+        "Wall Street Journal clippings include Richard Brookhiser on judges, Robert Goldberg on the candidates, tax-politics commentary, Perot's surge and allegations, GATT and Delors reporting, and Robert J. Shapiro on Bill Clinton's economic plan.",
+      evidence:
+        "Itemized from pages 128-133 of the NARA direct folder scan using Wall Street Journal mastheads, article headings, continuation text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-october-26-black-voters-perot-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "USA Today black-voter and Perot campaign clippings: October 26, 1992",
+      documentDate: "1992-10-26",
+      pages: 1,
+      excerpt:
+        "USA Today clippings include DeWayne Wickham on black voters and Clinton, plus a campaign clipping on Perot's peek-a-boo politics.",
+      evidence:
+        "Itemized from page 134 of the NARA direct folder scan using the USA Today date line, DeWayne Wickham column, Perot clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "time-spokesman-october-26-campaign-magazine-clippings",
+      documentType: "Press and Magazine Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Time, Spokesman-Review, television, and People clippings packet: October 26, 1992",
+      documentDate: "1992-10-26",
+      pages: 5,
+      excerpt:
+        "The mixed clipping packet includes a Time cover and contents page on Clinton's Long March and the tightening race, Spokesman-Review/Spokane Chronicle political material, television and music short takes, and People items.",
+      evidence:
+        "Itemized from pages 135-139 of the NARA direct folder scan using the Time cover and contents page, Spokesman-Review/Spokane Chronicle masthead, television and People page headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photographs-october-24-26-campaign-events",
+      documentType: "Official White House Photograph Packet",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title: "Official White House photographs and transfer pages from October 24-26 campaign events",
+      documentDate: "1992-10-26",
+      pages: 8,
+      excerpt:
+        "The photograph packet includes color official White House photographs of President Bush at campaign events and rally crowds, with photo-transfer backing pages and sticky-note labels including Denver and David Frost.",
+      evidence:
+        "Itemized from pages 140-147 of the NARA direct folder scan using color photograph pages, Official White House Photograph transfer pages, sticky-note labels, low-confidence OCR, and rendered-page review.",
+    },
+  ],
   470418164: [
     {
       slug: "manor-house-reception-acceptances",
@@ -31285,6 +31664,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418148",
   "470418150",
   "470418151",
+  "470418154",
   "646482525",
   "646482521",
   "646482523",
