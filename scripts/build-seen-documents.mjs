@@ -27361,6 +27361,414 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 145-166 of the NARA direct folder scan using the Congressional Monitor masthead, Part II issue pages, page sequence, OCR, and rendered-page review.",
     },
   ],
+  470418129: [
+    {
+      slug: "thomas-moseley-correspondence-packet",
+      documentType: "Correspondence Packet with President's Handwriting",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Thomas W. Moseley correspondence packet and President Bush handwritten reply",
+      documentDate: "1992-10-14",
+      pages: 2,
+      excerpt:
+        "President Bush sends Thomas W. Moseley thanks, personal regards, and a note that he is going to win; Moseley's handwritten incoming letter is attached.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the President's handwritten reply, Moseley addressee block, incoming handwritten letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-black-correspondence-packet",
+      documentType: "Correspondence Packet with President's Handwriting",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Thomas E. Black correspondence packet and President Bush handwritten reply",
+      documentDate: "1992-10-14",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Thomas E. Black after Black's October 6 letter praising the Boston reception and offering campaign support.",
+      evidence:
+        "Itemized from pages 4-5 of the NARA direct folder scan using the President's handwritten reply, Black addressee block, incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lilyan-wilder-debate-note-packet",
+      documentType: "Correspondence and Debate Note Packet",
+      category: "campaign-debate-response",
+      disposition: "itemized-campaign-debate-response",
+      title:
+        "Lilyan Wilder debate note packet and President Bush reply",
+      documentDate: "1992-10-14",
+      pages: 5,
+      excerpt:
+        "The packet includes President Bush's reply to Lilyan Wilder, handwritten and typed debate comments, and a memo advising President Bush after the October 11 debate.",
+      evidence:
+        "Itemized from pages 6-10 of the NARA direct folder scan using the President's reply, Wilder address block, handwritten note pages, typed debate memo, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mary-ann-moxey-letter-photo-annotation",
+      documentType: "Correspondence and Photograph Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Mary Ann Moxey letter, President Bush reply, and inscribed photograph",
+      documentDate: "1992-10-14",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Mary Ann Moxey for a wonderful letter, signs an inscribed photograph celebrating her high school graduation, and preserves her handwritten incoming letter.",
+      evidence:
+        "Itemized from pages 11-13 of the NARA direct folder scan using the presidential reply, sticky note asking for a signed photo, inscribed photograph, incoming handwritten letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-dinkins-unemployment-letter-and-jobless-rate-attachments",
+      documentType: "Correspondence and Data Attachment Packet",
+      category: "economic-policy-correspondence",
+      disposition: "itemized-economic-policy-correspondence",
+      title:
+        "David N. Dinkins unemployment letter and jobless-rate attachments with President Bush note to Bob Teeter",
+      documentDate: "1992-10-14",
+      pages: 7,
+      excerpt:
+        "President Bush forwards Mayor David Dinkins's unemployment letter and jobless-rate attachments to Bob Teeter, saying it smells of politics and requesting a response.",
+      evidence:
+        "Itemized from pages 14-20 of the NARA direct folder scan using the President's note to Bob Teeter, Dinkins letter, jobless-rate tables and charts, fax cover sheet, OCR, and rendered-page review.",
+    },
+    {
+      slug: "otis-booth-water-bill-hr429-packet",
+      documentType: "Correspondence and Legislative Attachment Packet",
+      category: "legislative-policy-note",
+      disposition: "itemized-legislative-policy-note",
+      title:
+        "Otis Booth Jr. water bill correspondence and H.R. 429 attachment packet with President Bush note",
+      documentDate: "1992-10-14",
+      pages: 4,
+      excerpt:
+        "President Bush sends James A. Baker III an Otis Booth Jr. letter and attachments on H.R. 429 and notes that he must answer on the water bill after the debates.",
+      evidence:
+        "Itemized from pages 21-24 of the NARA direct folder scan using the President's note to JABIII, Otis Booth letter, H.R. 429 impact summary, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "mark-lauretti-shelton-debate-correspondence",
+      documentType: "Correspondence Packet",
+      category: "campaign-debate-response",
+      disposition: "itemized-campaign-debate-response",
+      title:
+        "Mark A. Lauretti correspondence and President Bush note to Bob Teeter re debate response",
+      documentDate: "1992-10-14",
+      pages: 4,
+      excerpt:
+        "President Bush replies to Shelton Mayor Mark A. Lauretti and separately asks Bob Teeter to note paragraph A in Lauretti's letter about debate framing and campaign response.",
+      evidence:
+        "Itemized from pages 25-28 of the NARA direct folder scan using the presidential reply, note to Bob Teeter, City of Shelton letterhead, Lauretti signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lud-ashley-debate-fax-note",
+      documentType: "Faxed Campaign Note with President's Handwriting",
+      category: "campaign-debate-response",
+      disposition: "itemized-campaign-debate-response",
+      title:
+        "Lud Ashley fax to President Bush re St. Louis debate performance",
+      documentDate: "1992-10-13",
+      pages: 1,
+      excerpt:
+        "Lud Ashley faxes President Bush praise for the St. Louis debate performance and adds campaign observations; President Bush handwriting appears in the margin.",
+      evidence:
+        "Itemized from page 29 of the NARA direct folder scan using the fax header, Lud Ashley sender line, debate-performance text, Bush Library handwriting marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-to-president-october-14-checklist",
+      documentType: "Forwarded Materials Checklist",
+      category: "materials-forwarded-checklist",
+      disposition: "itemized-forwarded-materials-checklist",
+      title:
+        "Materials Forwarded to the President checklist: October 14, 1992",
+      documentDate: "1992-10-14",
+      pages: 2,
+      excerpt:
+        "The checklist lists action, information, remarks, and schedule materials forwarded to President Bush on October 14, including legislative items, comments-line tallies, and an October 15 schedule.",
+      evidence:
+        "Itemized from pages 30-31 of the NARA direct folder scan using the Materials Forwarded to the President heading, two-page checklist sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "katie-couric-ranger-letter-drafts-media-attachment",
+      documentType: "Letter Draft Packet with President's Handwriting",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Katie Couric letter drafts, attachment marker, and Annoy the Media campaign graphic",
+      documentDate: "1992-10-14",
+      pages: 5,
+      excerpt:
+        "The packet includes attachment markers, signed and draft President Bush letters to Katie Couric about Ranger and the Today Show, handwritten edits, and an Annoy the Media/Re-Elect Bush graphic.",
+      evidence:
+        "Itemized from pages 32-36 of the NARA direct folder scan using the attachment marker, White House letter drafts, Katie Couric addressee blocks, campaign graphic, Bush Library handwriting marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "october-14-telephone-memoranda-signal-switchboard",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title:
+        "White House telephone memoranda and Signal Switchboard log: October 14, 1992",
+      documentDate: "1992-10-14",
+      pages: 4,
+      excerpt:
+        "White House telephone memoranda and Signal Switchboard pages log President Bush calls on October 14, including calls involving the Usher's Office, Barbara Bush, Alan Simpson, Brent Scowcroft, John Sununu, John McCain, Nicholas Brady, and others.",
+      evidence:
+        "Itemized from pages 37-40 of the NARA direct folder scan using Telephone Memorandum and Signal Switchboard headings, call entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "october-14-presidential-movements",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-item",
+      disposition: "itemized-presidential-movements",
+      title:
+        "Presidential Movements: Washington, D.C., October 14, 1992",
+      documentDate: "1992-10-14",
+      pages: 1,
+      excerpt:
+        "The movements log tracks President Bush around Washington, D.C., including the Oval Office, Old Executive Office Building, Residence, Roosevelt Room, North Grounds, and South Grounds.",
+      evidence:
+        "Itemized from page 41 of the NARA direct folder scan using the Presidential Movements heading, location/date line, time entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-schuler-tax-correspondence-packet",
+      documentType: "Correspondence Packet with President's Handwriting",
+      category: "tax-policy-correspondence",
+      disposition: "itemized-tax-policy-correspondence",
+      title:
+        "William M. Schuler tax correspondence packet with President Bush handwritten reply",
+      documentDate: "1992-10-14",
+      pages: 4,
+      excerpt:
+        "President Bush sends William M. Schuler a handwritten reply on tax policy, attaching Schuler's September 15 letter and a Ronald Kaufman response.",
+      evidence:
+        "Itemized from pages 42-45 of the NARA direct folder scan using the President's handwritten reply, Schuler letterhead, Ronald Kaufman response attachment, OCR, and rendered-page review.",
+    },
+    {
+      slug: "anne-tim-ireland-bbh-fax-packet",
+      documentType: "Correspondence and Fax Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Anne and Tim Ireland support fax and President Bush reply",
+      documentDate: "1992-10-14",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Anne and Tim Ireland's supportive fax, which came through Brown Brothers Harriman and urged campaign focus in the final debate stretch.",
+      evidence:
+        "Itemized from pages 46-48 of the NARA direct folder scan using the White House reply, BBH fax cover sheet, incoming fax text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "glen-griffin-healthcare-correspondence",
+      documentType: "Correspondence Packet with President's Handwriting",
+      category: "health-care-policy",
+      disposition: "itemized-health-care-policy",
+      title:
+        "Glen C. Griffin healthcare correspondence and President Bush reply",
+      documentDate: "1992-10-14",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Glen C. Griffin for Postgraduate Medicine pieces on Bush, Clinton, and health care; Griffin's handwritten note to the President is attached.",
+      evidence:
+        "Itemized from pages 49-50 of the NARA direct folder scan using the presidential reply, McGraw-Hill Healthcare Publications letterhead, Griffin note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "postgraduate-medicine-bush-clinton-healthcare-editorial-packet",
+      documentType: "Healthcare Editorial Packet",
+      category: "health-care-policy",
+      disposition: "itemized-health-care-policy",
+      title:
+        "Postgraduate Medicine editorial packet: Bush vs Clinton on artichokes, tomatoes, and healthcare",
+      documentDate: "1992-09-15",
+      pages: 12,
+      excerpt:
+        "The Postgraduate Medicine packet includes Glen C. Griffin's editorial on Bush, Clinton, tomatoes, artichokes, and health care, with pages on the President's health-care plan and related editorial material.",
+      evidence:
+        "Itemized from pages 51-62 of the NARA direct folder scan using the Postgraduate Medicine mastheads, Bush vs Clinton on artichokes, tomatoes, and healthcare heading, editorial continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "davis-bacon-emergency-suspension-fact-sheet",
+      documentType: "Press Release Fact Sheet",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "White House fact sheet: Emergency Suspension of the Davis-Bacon Act",
+      documentDate: "1992-10-14",
+      pages: 2,
+      excerpt:
+        "The Office of the Press Secretary fact sheet explains President Bush's proclamation suspending Davis-Bacon Act provisions to speed hurricane recovery construction.",
+      evidence:
+        "Itemized from pages 63-64 of the NARA direct folder scan using the Office of the Press Secretary heading, fact sheet title, two-page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "eugene-yeates-pfiab-appointment-release",
+      documentType: "Press Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "White House release re Eugene F. Yeates appointment to the President's Foreign Intelligence Advisory Board",
+      documentDate: "1992-10-14",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intention to appoint Eugene F. Yeates as Executive Director of the President's Foreign Intelligence Advisory Board.",
+      evidence:
+        "Itemized from page 65 of the NARA direct folder scan using the Office of the Press Secretary heading, appointment announcement, OCR, and rendered-page review.",
+    },
+    {
+      slug: "davis-bacon-letter-to-speaker-and-senate-president",
+      documentType: "Presidential Letter Text Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "Text of President Bush letter to the Speaker and President of the Senate re Davis-Bacon Act suspension",
+      documentDate: "1992-10-14",
+      pages: 1,
+      excerpt:
+        "The release provides the text of President Bush's October 14 letter transmitting the Davis-Bacon Act emergency suspension proclamation to Congress.",
+      evidence:
+        "Itemized from page 66 of the NARA direct folder scan using the Text of a Letter heading, Davis-Bacon Act text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hispanic-americans-education-commission-appointments",
+      documentType: "Press Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "White House release re President's Advisory Commission on Educational Excellence for Hispanic Americans appointments",
+      documentDate: "1992-10-14",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's intention to appoint or reappoint members of the President's Advisory Commission on Educational Excellence for Hispanic Americans.",
+      evidence:
+        "Itemized from page 67 of the NARA direct folder scan using the Office of the Press Secretary heading, advisory commission appointment text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hr3157-alaska-lands-legislation-signing-release",
+      documentType: "Press Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "White House release re President Bush signing H.R. 3157 on Alaska lands legislation",
+      documentDate: "1992-10-14",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's signing of H.R. 3157, amending Alaska lands and Native claims legislation.",
+      evidence:
+        "Itemized from page 68 of the NARA direct folder scan using the Office of the Press Secretary heading, H.R. 3157 signing text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hire-veteran-world-war-ii-eeoc-legislation-signing-release",
+      documentType: "Press Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "White House release re Hire a Veteran Week, World War II commemoration, and EEOC legislation",
+      documentDate: "1992-10-14",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's signing of H.J. Res. 542, S. 3195, and H.R. 5925.",
+      evidence:
+        "Itemized from page 69 of the NARA direct folder scan using the Office of the Press Secretary heading, legislation-signing list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "health-policy-research-and-memorial-legislation-signing-release",
+      documentType: "Press Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "White House release re President Bush signing health-policy research and memorial legislation",
+      documentDate: "1992-10-14",
+      pages: 1,
+      excerpt:
+        "The White House announces President Bush's signing of H.R. 4178 and related legislation on health effects research, memorials, and appropriations.",
+      evidence:
+        "Itemized from page 70 of the NARA direct folder scan using the Office of the Press Secretary heading, legislation-signing list, OCR, and rendered-page review.",
+    },
+    {
+      slug: "malcolm-baldrige-quality-award-statement",
+      documentType: "Press Secretary Statement",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "Statement by the Press Secretary re 1992 Malcolm Baldrige Quality Award winners",
+      documentDate: "1992-10-14",
+      pages: 1,
+      excerpt:
+        "The statement congratulates the five winners of the 1992 Malcolm Baldrige Quality Award for excellence in quality management.",
+      evidence:
+        "Itemized from page 71 of the NARA direct folder scan using the Statement by the Press Secretary heading, Baldrige award text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-center-parenting-excellence",
+      documentType: "Daily Point of Light Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "Daily Point of Light release: Center for Parenting Excellence of La Grande, Oregon",
+      documentDate: "1992-10-14",
+      pages: 1,
+      excerpt:
+        "The White House recognizes the Center for Parenting Excellence of La Grande, Oregon, as the 922nd Daily Point of Light.",
+      evidence:
+        "Itemized from page 72 of the NARA direct folder scan using the Office of the Press Secretary heading, Daily Point of Light text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-vanderbilt-nrotc",
+      documentType: "Daily Point of Light Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "Daily Point of Light release: Vanderbilt University Service Company Midshipmen Battalion Naval ROTC Unit",
+      documentDate: "1992-10-14",
+      pages: 1,
+      excerpt:
+        "The White House recognizes the Vanderbilt University Service Company Midshipmen Battalion Naval ROTC Unit as the 923rd Daily Point of Light.",
+      evidence:
+        "Itemized from page 73 of the NARA direct folder scan using the Office of the Press Secretary heading, embargoed release, Daily Point of Light text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "yeltsin-strauss-american-remains-siberia-statement",
+      documentType: "Press Secretary Statement",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "Statement by the Press Secretary re Boris Yeltsin, Robert Strauss, and remains of Americans killed in Siberia",
+      documentDate: "1992-10-14",
+      pages: 1,
+      excerpt:
+        "The statement reports that Russian President Boris Yeltsin met with Ambassador Robert Strauss and family members of Americans killed in Siberia, concerning remains and archival access.",
+      evidence:
+        "Itemized from page 74 of the NARA direct folder scan using the Statement by the Press Secretary heading, Russia/Yeltsin/Strauss text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jc-huizenga-victory-92-reception-thank-you-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush letter to Laurie and J.C. Huizenga re Grand Rapids Victory '92 reception",
+      documentDate: "1992-10-14",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Laurie and J.C. Huizenga for hosting the Victory '92 reception at their Grand Rapids home after the Michigan trip.",
+      evidence:
+        "Itemized from page 75 of the NARA direct folder scan using the White House letterhead, Huizenga address block, Victory '92 annotation, presidential signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-office-daily-clippings-october-14-1992",
+      documentType: "Daily Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "Mrs. Bush's Press Office Daily Press Clippings: Wednesday, October 14, 1992",
+      documentDate: "1992-10-14",
+      pages: 44,
+      excerpt:
+        "The clippings packet includes Mrs. Bush Press Office routing, debate and Katie Couric coverage, White House time capsule coverage, family-values and working-mother articles, education stories, AIDS coverage, homelessness articles, and related national and local press clips.",
+      evidence:
+        "Itemized from pages 76-119 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover page, newspaper mastheads, handwritten page numbers, OCR, and rendered-page review.",
+    },
+  ],
   470418144: [
     {
       slug: "linda-price-routing-and-correspondence",
@@ -28562,6 +28970,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418122",
   "470418123",
   "470418125",
+  "470418129",
   "646482521",
   "646482523",
 ]);
