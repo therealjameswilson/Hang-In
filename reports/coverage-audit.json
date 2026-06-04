@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T07:07:28.444Z",
+  "generatedAt": "2026-06-04T07:13:57.693Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
@@ -443,12 +443,11 @@
     "itemized-iran-contra-material": 4,
     "itemized-campaign-briefing-material": 1,
     "itemized-economic-briefing-material": 1,
-    "itemized-election-night-event-material": 11,
+    "itemized-election-night-event-material": 12,
     "itemized-concession-address-draft": 1,
     "itemized-election-day-clippings": 2,
     "itemized-iraqgate-material": 1,
     "itemized-campaign-materials": 1,
-    "itemized-election-notice": 1,
     "itemized-correspondence-letter": 134,
     "itemized-telephone-memorandum": 3
   },
@@ -42793,17 +42792,17 @@
     {
       "date": "1992-11-03",
       "documentDate": "1992-11-03",
-      "title": "Acceptances for Manor House Reception",
+      "title": "Campaign talking points, statistics, accomplishments, and pepper-drill flash cards",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
-      "category": "election-night-event-material",
-      "disposition": "itemized-election-night-event-material",
-      "type": "Acceptance List",
+      "category": "campaign-talking-points",
+      "disposition": "itemized-campaign-talking-points",
+      "type": "Campaign Talking Points Packet",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "An acceptance list for the Manor House reception, updated as of 12:55 p.m. on election day, records family, staff, campaign, and supporter attendees."
+      "excerpt": "A campaign talking-points packet compiles statistics, domestic accomplishments, Clinton waffles, U.S. economic comparisons, Agenda for American Renewal points, and pepper-drill flash cards on the economy, deficit, trust, health care, education, vetoes, working women, jobs, and change."
     },
     {
       "date": "1992-11-03",
@@ -42823,17 +42822,17 @@
     {
       "date": "1992-11-03",
       "documentDate": "1992-11-03",
-      "title": "LeRoy B. Shaw correspondence re Chad photo and campaign support",
+      "title": "Lewis County Board of Elections recanvass notice packet",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
-      "category": "presidential-correspondence",
-      "disposition": "itemized-presidential-correspondence",
-      "type": "Letter and Incoming Correspondence",
+      "category": "election-night-event-material",
+      "disposition": "itemized-election-night-event-material",
+      "type": "Election Notice Packet",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "The President sends LeRoy B. Shaw a signed photo for Chad, wishes Chad well at Duke, and thanks the Shaws for encouragement and support."
+      "excerpt": "A note marked Document Originally Attached to Following Page precedes a Lewis County Board of Elections notice of recanvass of voting machines and a George Bush envelope page."
     },
     {
       "date": "1992-11-03",
@@ -42852,18 +42851,18 @@
     },
     {
       "date": "1992-11-03",
-      "documentDate": "",
-      "title": "Presidential Phone Calls handwritten note",
+      "documentDate": "1992-11-03",
+      "title": "Acceptances for Manor House Reception",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
-      "category": "presidential-phone-call-note",
-      "disposition": "itemized-presidential-phone-call-note",
-      "type": "Presidential Phone Calls Note",
+      "category": "election-night-event-material",
+      "disposition": "itemized-election-night-event-material",
+      "type": "Acceptance List",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "A Presidential Phone Calls form appears with George Bush handwriting and brief subject/follow-up fields."
+      "excerpt": "An acceptance list for the Manor House reception, updated as of 12:55 p.m. on election day, records family, staff, campaign, and supporter attendees."
     },
     {
       "date": "1992-11-03",
@@ -42883,17 +42882,17 @@
     {
       "date": "1992-11-03",
       "documentDate": "1992-11-03",
-      "title": "Concession Address draft with George Bush handwriting",
+      "title": "LeRoy B. Shaw correspondence re Chad photo and campaign support",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
-      "category": "concession-address",
-      "disposition": "itemized-concession-address-draft",
-      "type": "Speech Draft",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Letter and Incoming Correspondence",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "A draft of the Houston concession address includes the opening call to Governor Clinton, thanks to campaign and administration leaders, and extensive George Bush handwriting."
+      "excerpt": "The President sends LeRoy B. Shaw a signed photo for Chad, wishes Chad well at Duke, and thanks the Shaws for encouragement and support."
     },
     {
       "date": "1992-11-03",
@@ -42912,18 +42911,18 @@
     },
     {
       "date": "1992-11-03",
-      "documentDate": "1992-10-29",
-      "title": "Hugh Liedtke correspondence re Betty Liedtke memorial service",
+      "documentDate": "",
+      "title": "Presidential Phone Calls handwritten note",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
-      "category": "presidential-correspondence",
-      "disposition": "itemized-presidential-correspondence",
-      "type": "Incoming Correspondence Packet",
+      "category": "presidential-phone-call-note",
+      "disposition": "itemized-presidential-phone-call-note",
+      "type": "Presidential Phone Calls Note",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "A President Has Seen incoming letter from Hugh Liedtke thanks George Bush for attending Betty Liedtke's memorial service, with related letterhead and envelope pages."
+      "excerpt": "A Presidential Phone Calls form appears with George Bush handwriting and brief subject/follow-up fields."
     },
     {
       "date": "1992-11-03",
@@ -42943,17 +42942,17 @@
     {
       "date": "1992-11-03",
       "documentDate": "1992-11-03",
-      "title": "Memorandum from Rose Zamaria to Secret Service re Peter and Edith O'Donnell",
+      "title": "Concession Address draft with George Bush handwriting",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
-      "category": "election-night-event-material",
-      "disposition": "itemized-election-night-event-material",
-      "type": "Memorandum",
+      "category": "concession-address",
+      "disposition": "itemized-concession-address-draft",
+      "type": "Speech Draft",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "Rose Zamaria alerts the Secret Service that Peter and Edith O'Donnell are expected that evening and asks that they not be detained."
+      "excerpt": "A draft of the Houston concession address includes the opening call to Governor Clinton, thanks to campaign and administration leaders, and extensive George Bush handwriting."
     },
     {
       "date": "1992-11-03",
@@ -42972,18 +42971,18 @@
     },
     {
       "date": "1992-11-03",
-      "documentDate": "1992-11-03",
-      "title": "White House News Summary: November 3, 1992 1:30 P.M. CST News Update",
+      "documentDate": "1992-10-29",
+      "title": "Hugh Liedtke correspondence re Betty Liedtke memorial service",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
-      "category": "news-summary-item",
-      "disposition": "itemized-news-summary",
-      "type": "News Update",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Incoming Correspondence Packet",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "The 1:30 p.m. CST White House News Summary update covers President Bush in Houston, Clinton voting, the abortion gag-rule decision, women in combat, Iraq/BNL, and Clinton Middle East comments."
+      "excerpt": "A President Has Seen incoming letter from Hugh Liedtke thanks George Bush for attending Betty Liedtke's memorial service, with related letterhead and envelope pages."
     },
     {
       "date": "1992-11-03",
@@ -43003,17 +43002,17 @@
     {
       "date": "1992-11-03",
       "documentDate": "1992-11-03",
-      "title": "White House News Summary: November 3, 1992 10:00 A.M. CST News Update",
+      "title": "Memorandum from Rose Zamaria to Secret Service re Peter and Edith O'Donnell",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
-      "category": "news-summary-item",
-      "disposition": "itemized-news-summary",
-      "type": "News Update",
+      "category": "election-night-event-material",
+      "disposition": "itemized-election-night-event-material",
+      "type": "Memorandum",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "The 10:00 a.m. CST White House News Summary update covers election-day voting in Houston, the CBS poll, economic indicators, Vice President Quayle, and the Villalpando inquiry."
+      "excerpt": "Rose Zamaria alerts the Secret Service that Peter and Edith O'Donnell are expected that evening and asks that they not be detained."
     },
     {
       "date": "1992-11-03",
@@ -43033,17 +43032,17 @@
     {
       "date": "1992-11-03",
       "documentDate": "1992-11-03",
-      "title": "White House News Summary: Tuesday, November 3, 1992 6:00 A.M. EST Edition",
+      "title": "White House News Summary: November 3, 1992 1:30 P.M. CST News Update",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
       "category": "news-summary-item",
       "disposition": "itemized-news-summary",
-      "type": "News Summary",
+      "type": "News Update",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "The 6:00 a.m. EST White House News Summary compiles election-day trip, national, international, and network news coverage on Bush, Clinton, Perot, voter turnout, and related issues."
+      "excerpt": "The 1:30 p.m. CST White House News Summary update covers President Bush in Houston, Clinton voting, the abortion gag-rule decision, women in combat, Iraq/BNL, and Clinton Middle East comments."
     },
     {
       "date": "1992-11-03",
@@ -43063,17 +43062,17 @@
     {
       "date": "1992-11-03",
       "documentDate": "1992-11-03",
-      "title": "Talking points re negative advertising and Clinton campaign charges",
+      "title": "White House News Summary: November 3, 1992 10:00 A.M. CST News Update",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
-      "category": "campaign-talking-points",
-      "disposition": "itemized-campaign-talking-points",
-      "type": "Talking Points",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Update",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "Election-day talking points argue that Bush-Quayle advertisements are documented and accurate while Clinton campaign advertisements are false."
+      "excerpt": "The 10:00 a.m. CST White House News Summary update covers election-day voting in Houston, the CBS poll, economic indicators, Vice President Quayle, and the Villalpando inquiry."
     },
     {
       "date": "1992-11-03",
@@ -43089,6 +43088,66 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418165",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
       "excerpt": "Mrs. Bush's Press Office daily press clippings for Tuesday, November 3, 1992, including election and First Family coverage."
+    },
+    {
+      "date": "1992-11-03",
+      "documentDate": "1992-11-03",
+      "title": "White House News Summary: Tuesday, November 3, 1992 6:00 A.M. EST Edition",
+      "parentPacketId": "nara-470418164-direct-scan",
+      "naId": "470418164",
+      "folderId": "90732-006",
+      "containerId": "90732",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Summary",
+      "catalogUrl": "https://catalog.archives.gov/id/470418164",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
+      "excerpt": "The 6:00 a.m. EST White House News Summary compiles election-day trip, national, international, and network news coverage on Bush, Clinton, Perot, voter turnout, and related issues."
+    },
+    {
+      "date": "1992-11-03",
+      "documentDate": "1992-11-03",
+      "title": "Letter from the President to Thomas J. Devine re Devine's October 28 letter",
+      "parentPacketId": "nara-470418165-direct-scan",
+      "naId": "470418165",
+      "folderId": "90732-007",
+      "containerId": "90732",
+      "category": "constituent-correspondence",
+      "disposition": "itemized-constituent-correspondence",
+      "type": "Letter",
+      "catalogUrl": "https://catalog.archives.gov/id/470418165",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
+      "excerpt": "The President tells Thomas J. Devine that his October 28 letter caught up with him in Houston and that staff would look into it and give him a report."
+    },
+    {
+      "date": "1992-11-03",
+      "documentDate": "1992-11-03",
+      "title": "Talking points re negative advertising and Clinton campaign charges",
+      "parentPacketId": "nara-470418164-direct-scan",
+      "naId": "470418164",
+      "folderId": "90732-006",
+      "containerId": "90732",
+      "category": "campaign-talking-points",
+      "disposition": "itemized-campaign-talking-points",
+      "type": "Talking Points",
+      "catalogUrl": "https://catalog.archives.gov/id/470418164",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
+      "excerpt": "Election-day talking points argue that Bush-Quayle advertisements are documented and accurate while Clinton campaign advertisements are false."
+    },
+    {
+      "date": "1992-11-03",
+      "documentDate": "1992-10-28",
+      "title": "Letter from Thomas J. Devine to the President re Soviet nuclear-powered submarines",
+      "parentPacketId": "nara-470418165-direct-scan",
+      "naId": "470418165",
+      "folderId": "90732-007",
+      "containerId": "90732",
+      "category": "constituent-correspondence",
+      "disposition": "itemized-constituent-correspondence",
+      "type": "Letter",
+      "catalogUrl": "https://catalog.archives.gov/id/470418165",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
+      "excerpt": "Thomas J. Devine urges presidential attention to nuclear weapons and reactors in lost Soviet submarines and the Woods Hole Oceanographic Institution's proposed conference."
     },
     {
       "date": "1992-11-03",
@@ -43108,17 +43167,17 @@
     {
       "date": "1992-11-03",
       "documentDate": "1992-11-03",
-      "title": "Letter from the President to Thomas J. Devine re Devine's October 28 letter",
+      "title": "Media Affairs Office News Clippings: Election Day, Tuesday, November 3, 1992",
       "parentPacketId": "nara-470418165-direct-scan",
       "naId": "470418165",
       "folderId": "90732-007",
       "containerId": "90732",
-      "category": "constituent-correspondence",
-      "disposition": "itemized-constituent-correspondence",
-      "type": "Letter",
+      "category": "election-day-clippings",
+      "disposition": "itemized-election-day-clippings",
+      "type": "News Clippings",
       "catalogUrl": "https://catalog.archives.gov/id/470418165",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
-      "excerpt": "The President tells Thomas J. Devine that his October 28 letter caught up with him in Houston and that staff would look into it and give him a report."
+      "excerpt": "Media Affairs Office election-day news clippings for Tuesday, November 3, 1992, beginning with a presidential candidate comparison and national newspaper coverage."
     },
     {
       "date": "1992-11-03",
@@ -43137,21 +43196,6 @@
     },
     {
       "date": "1992-11-03",
-      "documentDate": "1992-10-28",
-      "title": "Letter from Thomas J. Devine to the President re Soviet nuclear-powered submarines",
-      "parentPacketId": "nara-470418165-direct-scan",
-      "naId": "470418165",
-      "folderId": "90732-007",
-      "containerId": "90732",
-      "category": "constituent-correspondence",
-      "disposition": "itemized-constituent-correspondence",
-      "type": "Letter",
-      "catalogUrl": "https://catalog.archives.gov/id/470418165",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
-      "excerpt": "Thomas J. Devine urges presidential attention to nuclear weapons and reactors in lost Soviet submarines and the Woods Hole Oceanographic Institution's proposed conference."
-    },
-    {
-      "date": "1992-11-03",
       "documentDate": "1992-10-14",
       "title": "Letter from C. Boyden Gray to the Washington Post editor re Iran-Contra reporting",
       "parentPacketId": "nara-470418164-direct-scan",
@@ -43164,21 +43208,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
       "excerpt": "C. Boyden Gray writes that the Post mischaracterized President Bush's comments to Katie Couric about Iran-Contra and the January 1986 meeting."
-    },
-    {
-      "date": "1992-11-03",
-      "documentDate": "1992-11-03",
-      "title": "Media Affairs Office News Clippings: Election Day, Tuesday, November 3, 1992",
-      "parentPacketId": "nara-470418165-direct-scan",
-      "naId": "470418165",
-      "folderId": "90732-007",
-      "containerId": "90732",
-      "category": "election-day-clippings",
-      "disposition": "itemized-election-day-clippings",
-      "type": "News Clippings",
-      "catalogUrl": "https://catalog.archives.gov/id/470418165",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
-      "excerpt": "Media Affairs Office election-day news clippings for Tuesday, November 3, 1992, beginning with a presidential candidate comparison and national newspaper coverage."
     },
     {
       "date": "1992-11-03",
@@ -43314,36 +43343,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418165",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
       "excerpt": "MEMORANDUM FOR BILL MOSS FROM: BOBBIE KILBERG RE: MOSS EVENT/ '80 \"BUSH BRIGADE\" PROJECT In response to your request for names from the '80 Bush Brigade get-out-the-vote project, the following is a list of individuals who have undertaken the major workload and/or been very supportive. Each of these individuals were early supporters of the President in '79-'80. It is my understanding that all the names for this event have to be reviewed by both Rose Zamaria and Susan Porter Rose. B.B Anderson (Jan) David and Ann..."
-    },
-    {
-      "date": "1992-11-03",
-      "documentDate": "1992-11-03",
-      "title": "Campaign Talking Points: STATISTICS: / DOMESTIC ACCOMPLISHMENTS",
-      "parentPacketId": "nara-470418164-direct-scan",
-      "naId": "470418164",
-      "folderId": "90732-006",
-      "containerId": "90732",
-      "category": "campaign-talking-points-item",
-      "disposition": "itemized-campaign-talking-points",
-      "type": "Campaign Talking Points",
-      "catalogUrl": "https://catalog.archives.gov/id/470418164",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "STATISTICS: \"The last time I heard a guy use so many statistics, I bought a used car from him. It was a lemon. \" Nov 3, 92 (used throughtot Companyn) BUSH LIBRARY PHOTOCOPY - PRESERVATION :: Environment: \"Violated promise to be 'Environmental President'. \" A: Clean Air Act $1 billion for new parks, forests, etc. No drilling off coasts Clinton rated 50th out of 50 in \"Green Index\" BUSH LIBRARY PHOTOCOPY - PRESERVATION DOMESTIC ACCOMPLISHMENTS - Clean Air Act -- broke 10 year logjam - Americans with Disabilities -..."
-    },
-    {
-      "date": "1992-11-03",
-      "documentDate": "1992-11-03",
-      "title": "Election Notice: Lowville, N.Y., November 3, 1992 Lewis County Board of Elections",
-      "parentPacketId": "nara-470418164-direct-scan",
-      "naId": "470418164",
-      "folderId": "90732-006",
-      "containerId": "90732",
-      "category": "election-notice-item",
-      "disposition": "itemized-election-notice",
-      "type": "Election Notice",
-      "catalogUrl": "https://catalog.archives.gov/id/470418164",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "Lowville, N.Y., November 3, 1992 Pursuant to the provisions of Section 9-208 of the Election Law, you are hereby notified that the recanvass of the voting machines of the County of Lewis will be held November 5th and 6th 1992 The canvassing board will leave the Lewis County Court House, Lowville, N. Y., at 9:00 A.M., November 5th and 6th Lewis County Board of Elections BUSH LIBRARY PHOTOCOPY - PRESERVATION UTA NY 35 20 10730 92 13:03 MLB - 1992 USA 23 Mary Cassatt George Bush 111 N Post Oak Lane Houston, TX 7702..."
     },
     {
       "date": "1992-11-09",
