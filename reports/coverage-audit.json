@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-04T02:04:37.227Z",
+  "generatedAt": "2026-06-04T02:10:35.662Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
-    "documentCount": 7876,
+    "documentCount": 7875,
     "redactionSheetDocumentCount": 5531,
     "directFolderScanCount": 240,
     "directSingleDocumentScanCount": 113,
     "directPacketScanCount": 127,
-    "directItemizedDocumentCount": 2105,
+    "directItemizedDocumentCount": 2104,
     "directItemizedFolderCount": 127,
     "foldersWithoutParsedRows": 240,
     "foldersStillUnrepresented": 0
@@ -157,7 +157,7 @@
     "itemized-presidential-schedule": 13,
     "itemized-reading-copy": 1,
     "itemized-photo-opportunity-briefing": 1,
-    "itemized-news-summary": 30,
+    "itemized-news-summary": 29,
     "itemized-call-note": 1,
     "itemized-phone-call-request": 1,
     "itemized-policy-correspondence": 1,
@@ -29008,21 +29008,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470417997",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90709-004.pdf",
       "excerpt": "Official White House photo pages and stamp backs show the August 22 trip, including Branson, Missouri; Hoover or Birmingham, Alabama; and the National Affairs Briefing in Dallas, Texas."
-    },
-    {
-      "date": "1992-08-22",
-      "documentDate": "1992-07-17",
-      "title": "News Summary: Friday, July 17, 1992 INDEX TO NEW YORK TIMES CLIPS",
-      "parentPacketId": "nara-470417997-direct-scan",
-      "naId": "470417997",
-      "folderId": "90709-004",
-      "containerId": "90709",
-      "category": "news-summary-item",
-      "disposition": "itemized-news-summary",
-      "type": "News Summary",
-      "catalogUrl": "https://catalog.archives.gov/id/470417997",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90709-004.pdf",
-      "excerpt": "White House News Summary Friday, July 17, 2992 INDEX TO NEW YORK TIMES CLIPS 1, Front page, top half 2. Front page, bottom half 3. Bush Switches From Trout And Fishes For Perot Voters, A17 4. (photo of the President during news conference), A17 5. Democratic Team Opens By Appealing To Middle Class, A1 6. NEWS ANALYSIS -- A Candidate, And A Race, Transformed, A1 7. Withdrawal By Independent Follows Turmoil In Campaign, A1 8. (continued) 10. 9. Perot Says Democratic Surge Reduced Prospect of Victory, A1 Bush Libra..."
     },
     {
       "date": "1992-08-23",

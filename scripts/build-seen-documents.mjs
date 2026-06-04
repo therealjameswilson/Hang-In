@@ -19448,11 +19448,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       title:
         "New York Times clips index and selected front-page clippings, July 17-18, 1992",
       documentDate: "1992-07-18",
-      pages: 3,
+      pages: 4,
       excerpt:
         "Faxed New York Times clip materials include an index to items on Perot backers, Clinton's post-convention boost, Reagan Democrats, abortion, Iraq, Havel, and a front-page clipping spread.",
       evidence:
-        "Itemized from faxed New York Times clip index and front-page clipping images confirmed by rendered-page review of the NARA direct folder scan.",
+        "Itemized from pages 21-24 of the NARA direct folder scan using the faxed New York Times clip index, selected clipping pages, OCR, and rendered-page review.",
     },
     {
       slug: "birmingham-rally-staffing-proposed-remarks",
@@ -19599,11 +19599,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       title:
         "Official White House photo packet from August 22, 1992 campaign trip",
       documentDate: "1992-08-22",
-      pages: 14,
+      pages: 15,
       excerpt:
         "Official White House photo pages and stamp backs show the August 22 trip, including Branson, Missouri; Hoover or Birmingham, Alabama; and the National Affairs Briefing in Dallas, Texas.",
       evidence:
-        "Itemized from rendered-page review of color photo pages, handwritten sticky labels, and Official White House Photo stamp backs in the NARA direct folder scan.",
+        "Itemized from pages 58-72 of the NARA direct folder scan using color photo pages, handwritten sticky labels, Official White House Photo stamp backs, OCR, and rendered-page review.",
     },
   ],
   470418007: [
@@ -24974,6 +24974,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417986",
   "470417989",
   "470417996",
+  "470417997",
   "470418083",
   "646482521",
 ]);
