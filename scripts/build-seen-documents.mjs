@@ -18875,6 +18875,316 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from the one-page NARA direct folder scan using Pat Boone Enterprises letterhead, fax date line, signature, OCR, PDF page count, and rendered-page review.",
     },
   ],
+  470417989: [
+    {
+      slug: "pool-report-3-first-copy",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #3: Marlin Fitzwater on Thursday night's speech, Big Mo, and Iraq",
+      documentDate: "1992-08-18",
+      pages: 1,
+      excerpt:
+        "The Houston pool report records Marlin Fitzwater's comments on President Bush's forthcoming convention speech, campaign momentum, and Iraq.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the Pool Report #3 heading, August 18 Houston dateline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-4-first-copy",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #4: President Bush lunch at Otto's Bar-B-Que and remarks on Iraq",
+      documentDate: "1992-08-18",
+      pages: 2,
+      excerpt:
+        "The pool report describes President Bush's barbecue lunch at Otto's Bar-B-Que, his attempt to pay with a $50 bill, comments from patrons, and a brief Iraq exchange.",
+      evidence:
+        "Itemized from pages 3-4 of the NARA direct folder scan using the Pool Report #4 heading, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-5-evening-receptions",
+      documentType: "Pool Report",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #5: President Bush evening receptions at Houston museums",
+      documentDate: "1992-08-18",
+      pages: 1,
+      excerpt:
+        "Jim Gerstenzang reports on two closed evening receptions for President and Mrs. Bush at the Houston Museum of Natural Science and the Museum of Fine Arts.",
+      evidence:
+        "Itemized from page 5 of the NARA direct folder scan using the Pool Report #5 heading, Los Angeles Times byline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-1230-update-first-copy",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 12:30 p.m. CDT/1:30 p.m. EDT news update, first copy",
+      documentDate: "1992-08-18",
+      pages: 2,
+      excerpt:
+        "The midday update covers Republican convention reaction, Bush's Houston appearances, Clinton remarks, U.S. troop proposals for the Golan Heights, and Baker diplomacy.",
+      evidence:
+        "Itemized from pages 6-7 of the NARA direct folder scan using the White House News Summary heading, 12:30 p.m. CDT/1:30 p.m. EDT label, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-1230-update-second-copy",
+      documentType: "White House News Summary Duplicate Copy",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 12:30 p.m. CDT/1:30 p.m. EDT news update, second copy",
+      documentDate: "1992-08-18",
+      pages: 2,
+      excerpt:
+        "A second physical copy of the midday White House News Summary repeats the convention, Clinton remarks, Golan Heights, and Baker items.",
+      evidence:
+        "Itemized from pages 8-9 of the NARA direct folder scan using the repeated White House News Summary heading, matching update label, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-briefing-american-politics-august-18-1992",
+      documentType: "Political Briefing",
+      category: "political-briefing",
+      disposition: "itemized-political-briefing",
+      title:
+        "The Daily Briefing on American Politics: Republican convention and campaign coverage",
+      documentDate: "1992-08-18",
+      pages: 21,
+      excerpt:
+        "The American Political Network briefing summarizes opening-night convention reviews, Bush's Houston arrival, Buchanan, Reagan, Quayle, GOP platform fights, state updates, Senate races, polling, and TV-monitor items.",
+      evidence:
+        "Itemized from pages 10-30 of the NARA direct folder scan using The Daily Briefing on American Politics heading, APN masthead, TV Monitor section, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-600-am-edition-first-copy",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 5:00 a.m. CDT/6:00 a.m. EDT edition, first copy",
+      documentDate: "1992-08-18",
+      pages: 24,
+      excerpt:
+        "The morning News Summary covers Bush's convention comeback theme, the VFW speech, Reagan and Buchanan, abortion-platform fights, Iraq, Somalia, network-news transcripts, the economy, Mrs. Bush, Bosnia, and U.N. aid.",
+      evidence:
+        "Itemized from pages 31-54 of the NARA direct folder scan using the White House News Summary masthead, A- and B-section pagination, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-office-clippings-august-18-1992",
+      documentType: "Mrs. Bush Press Office Daily Press Clippings",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title:
+        "Mrs. Bush's Press Office daily press clippings on the Houston convention and family-values campaign",
+      documentDate: "1992-08-18",
+      pages: 41,
+      excerpt:
+        "The clipping packet circulates coverage from major newspapers on Barbara Bush, Houston convention scenes, Bush's Texas roots, women and abortion politics, Marilyn Quayle, Hillary Clinton commentary, the Texas Rangers, and health stories.",
+      evidence:
+        "Itemized from pages 55-95 of the NARA direct folder scan using the Mrs. Bush's Press Office cover sheet, newspaper mastheads, clipping headlines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-light-bethlehem-house-first-copy",
+      documentType: "Point of Light Press Release",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "Daily Point of Light release recognizing Bethlehem House Project, first copy",
+      documentDate: "1992-08-18",
+      pages: 1,
+      excerpt:
+        "The Houston press office release recognizes Bethlehem House Project of Redlands, California, as the 865th Daily Point of Light for domestic-violence services.",
+      evidence:
+        "Itemized from page 96 of the NARA direct folder scan using the Office of the Press Secretary heading, Daily Point of Light text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "august-18-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title:
+        "White House telephone memoranda for President Bush and Signal Switchboard, August 18, 1992",
+      documentDate: "1992-08-18",
+      pages: 2,
+      excerpt:
+        "Telephone memorandum sheets list August 18 calls with Robert Teeter, James Baker, Phil Gramm, Mary Jackson, and related Houston Signal entries.",
+      evidence:
+        "Itemized from pages 97-98 of the NARA direct folder scan using the President Bush and Signal Switchboard telephone memorandum forms, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-houston-august-18",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title:
+        "Presidential movements: Houston, Texas, August 18, 1992",
+      documentDate: "1992-08-18",
+      pages: 1,
+      excerpt:
+        "The movement log tracks President Bush's Houstonian Hotel departures and arrivals, Hamilton Middle School, Otto's Bar-B-Que, the Museum of Natural Science, and the Museum of Fine Arts.",
+      evidence:
+        "Itemized from page 99 of the NARA direct folder scan using the Presidential Movements form, Houston location, time entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "schedule-president-houston-august-18",
+      documentType: "Schedule",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title:
+        "Schedule of the President in Houston, August 18, 1992",
+      documentDate: "1992-08-18",
+      pages: 1,
+      excerpt:
+        "The highlighted schedule lists intelligence briefing, Hamilton Middle School, appointments, interviews, private receptions, and Houstonian Hotel events during the Republican National Convention.",
+      evidence:
+        "Itemized from page 100 of the NARA direct folder scan using the Schedule of the President heading, Houston convention context, highlighted entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lehrer-pbs-interview-transcript",
+      documentType: "Internal Interview Transcript",
+      category: "interview-transcript",
+      disposition: "itemized-interview-transcript",
+      title:
+        "Internal transcript of President Bush interview with Jim Lehrer of PBS",
+      documentDate: "1992-08-18",
+      pages: 4,
+      excerpt:
+        "The internal transcript records Jim Lehrer's Houstonian interview with President Bush on a second Bush term, the economy, Congress, gridlock, campaign polls, and responsibility for unfinished domestic work.",
+      evidence:
+        "Itemized from pages 101-104 of the NARA direct folder scan using the Office of the Press Secretary internal transcript heading, Jim Lehrer title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-line-republican-newsmakers-values",
+      documentType: "Campaign Message Sheet",
+      category: "campaign-guidance",
+      disposition: "itemized-campaign-guidance",
+      title:
+        "The Daily Line for Republican Newsmakers: George and Barbara Bush - Protecting America's Values",
+      documentDate: "1992-08-18",
+      pages: 1,
+      excerpt:
+        "The Republican newsmaker sheet frames convention-day talking points around George and Barbara Bush, values, school choice, family, work, responsibility, and classroom prayer.",
+      evidence:
+        "Itemized from page 105 of the NARA direct folder scan using The Daily Line masthead, George and Barbara Bush title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "clinton-ad-news-alert-guidance",
+      documentType: "Campaign News Alert Guidance",
+      category: "campaign-guidance",
+      disposition: "itemized-campaign-guidance",
+      title:
+        "Bush-Quayle news alert guidance on Clinton campaign advertisements",
+      documentDate: "1992-08-18",
+      pages: 2,
+      excerpt:
+        "The faxed Bush-Quayle guidance responds to Clinton campaign advertisements, including claims about the 1990 budget agreement and tax increases.",
+      evidence:
+        "Itemized from pages 106-107 of the NARA direct folder scan using the Bush-Quayle fax header, Final Version of Clinton Ad News Alert title, AD #1 facts page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-light-bethlehem-house-second-copy",
+      documentType: "Point of Light Press Release Duplicate Copy",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title:
+        "Daily Point of Light release recognizing Bethlehem House Project, second copy",
+      documentDate: "1992-08-18",
+      pages: 1,
+      excerpt:
+        "A second physical copy of the Bethlehem House Project Daily Point of Light release appears later in the packet.",
+      evidence:
+        "Itemized from page 108 of the NARA direct folder scan using the repeated Office of the Press Secretary heading, Daily Point of Light text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-4-second-copy",
+      documentType: "Pool Report Duplicate Copy",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #4: President Bush lunch at Otto's Bar-B-Que and remarks on Iraq, second copy",
+      documentDate: "1992-08-18",
+      pages: 2,
+      excerpt:
+        "A second physical copy of Pool Report #4 repeats the Otto's Bar-B-Que visit, Iraq exchange, and patron comments.",
+      evidence:
+        "Itemized from pages 109-110 of the NARA direct folder scan using the repeated Pool Report #4 heading, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-3-second-copy",
+      documentType: "Pool Report Duplicate Copy",
+      category: "pool-report",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #3: Marlin Fitzwater on Thursday night's speech, Big Mo, and Iraq, second copy",
+      documentDate: "1992-08-18",
+      pages: 1,
+      excerpt:
+        "A second physical copy of Pool Report #3 repeats Marlin Fitzwater's comments on the coming convention speech, momentum, and Iraq.",
+      evidence:
+        "Itemized from page 111 of the NARA direct folder scan using the repeated Pool Report #3 heading, August 18 Houston dateline, OCR, and rendered-page review.",
+    },
+    {
+      slug: "martin-allday-episcopal-bishops-correspondence",
+      documentType: "Correspondence Packet with President Bush Handwriting",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Martin Allday and Reverend Peter Trache correspondence packet re Episcopal House of Bishops meeting",
+      documentDate: "1992-08-18",
+      pages: 4,
+      excerpt:
+        "President Bush asks Martin Allday to tell Reverend Peter Trache that his Labor Day travel schedule prevents a meeting with the Episcopal House of Bishops, with Allday's handwritten note and Trache's incoming letter attached.",
+      evidence:
+        "Itemized from pages 112-115 of the NARA direct folder scan using the presidential response, Allday handwritten pages, Seminary Post Office letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "loretta-mooney-lynn-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Loretta and Mooney Lynn correspondence packet re convention support",
+      documentDate: "1992-08-18",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Loretta and Mooney Lynn for their August 11 fax, says he and Barbara are sorry not to see them at the convention, and expresses confidence about November.",
+      evidence:
+        "Itemized from pages 116-118 of the NARA direct folder scan using the presidential response, Ron Walker memorandum, Loretta Lynn Enterprises letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jeanne-bowser-tshirts-homeless-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Jeanne Bowser correspondence packet re Dump the Congress T-shirts and homeless issue tape",
+      documentDate: "1992-08-18",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Jeanne Bowser for T-shirts, letters, and a tape about homelessness, says he wishes she could give him a Republican Congress, and forwards the material for staff review.",
+      evidence:
+        "Itemized from pages 119-121 of the NARA direct folder scan using the presidential response, Flags 'n Fun incoming letters, gift notation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-600-am-edition-second-copy",
+      documentType: "White House News Summary Duplicate Copy",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title:
+        "White House News Summary: 5:00 a.m. CDT/6:00 a.m. EDT edition, second copy",
+      documentDate: "1992-08-18",
+      pages: 24,
+      excerpt:
+        "A second physical copy of the morning News Summary repeats the national, international, and network-news coverage of Bush's convention opening, Iraq, Somalia, Reagan, Buchanan, Mrs. Bush, Bosnia, and U.N. aid.",
+      evidence:
+        "Itemized from pages 122-145 of the NARA direct folder scan using the repeated News Summary masthead, A- and B-section pagination, OCR, and rendered-page review.",
+    },
+  ],
   470417997: [
     {
       slug: "marked-branson-rally-remarks",
@@ -24436,6 +24746,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417981",
   "470417985",
   "470417986",
+  "470417989",
   "470418083",
   "646482521",
 ]);
