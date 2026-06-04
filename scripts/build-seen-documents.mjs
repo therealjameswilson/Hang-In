@@ -31996,6 +31996,32 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470418164: [
     {
+      slug: "campaign-talking-points-statistics-flash-cards",
+      documentType: "Campaign Talking Points Packet",
+      category: "campaign-talking-points",
+      disposition: "itemized-campaign-talking-points",
+      title: "Campaign talking points, statistics, accomplishments, and pepper-drill flash cards",
+      documentDate: "1992-11-03",
+      pages: 25,
+      excerpt:
+        "A campaign talking-points packet compiles statistics, domestic accomplishments, Clinton waffles, U.S. economic comparisons, Agenda for American Renewal points, and pepper-drill flash cards on the economy, deficit, trust, health care, education, vetoes, working women, jobs, and change.",
+      evidence:
+        "Itemized from pages 2-26 of the NARA direct folder scan using Statistics, Domestic Accomplishments, Waffles, U.S. vs. Arkansas, Agenda for American Renewal, Pepper Drill Flash Cards, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lewis-county-board-elections-recanvass-notice",
+      documentType: "Election Notice Packet",
+      category: "election-night-event-material",
+      disposition: "itemized-election-night-event-material",
+      title: "Lewis County Board of Elections recanvass notice packet",
+      documentDate: "1992-11-03",
+      pages: 3,
+      excerpt:
+        "A note marked Document Originally Attached to Following Page precedes a Lewis County Board of Elections notice of recanvass of voting machines and a George Bush envelope page.",
+      evidence:
+        "Itemized from pages 27-29 of the NARA direct folder scan using the attached-to-following-page note, Lowville New York election notice, George Bush envelope page, OCR, and rendered-page review.",
+    },
+    {
       slug: "manor-house-reception-acceptances",
       documentType: "Acceptance List",
       category: "election-night-event-material",
@@ -32262,11 +32288,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-campaign-materials",
       title: "Bush-Quayle '92 campaign materials catalog and order form",
       documentDate: "",
-      pages: 7,
+      pages: 8,
       excerpt:
         "A Bush-Quayle '92 campaign materials catalog and order form lists lapel stickers, campaign buttons, bumper stickers, yard signs, apparel, and related merchandise.",
       evidence:
-        "Itemized from campaign-materials catalog pages and order form found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from pages 121-128 of the NARA direct folder scan using the Bush-Quayle '92 presidential campaign merchandise cover, product pages, ordering instructions, Spalding catalog pages, order form, OCR, and rendered-page review.",
     },
   ],
   470418165: [
@@ -32867,6 +32893,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418154",
   "470418156",
   "470418159",
+  "470418164",
   "646482525",
   "646482521",
   "646482523",
