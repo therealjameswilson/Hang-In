@@ -38470,6 +38470,749 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 123-129 of the NARA direct folder scan using the personalized outgoing reply, separate sympathy acknowledgment, incoming handwritten pages, rotated-page review, OCR, and rendered-page review.",
     },
   ],
+  470418215: [
+    {
+      slug: "george-de-bell-condolence-correspondence",
+      documentType: "Presidential Replies and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mrs. George De B. Bell condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 5,
+      excerpt:
+        "President Bush answers Bertie Bell's condolence note about Dorothy Walker Bush and encloses a Dorothy Walker Bush card, with Bell's incoming card pages and duplicate outgoing copy retained.",
+      evidence:
+        "Itemized from pages 2-5 and duplicate page 67 of the NARA direct folder scan using the outgoing presidential reply, general sympathy acknowledgment, incoming card pages, enclosure note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-mcgovern-condolence-election-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "George and Eleanor McGovern condolence and election correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Ellie and George McGovern after their note about Dorothy Walker Bush and the election.",
+      evidence:
+        "Itemized from pages 6-7 of the NARA direct folder scan using the outgoing reply, incoming November 20 letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "henry-catto-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Henry E. Catto Jr. condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Henry E. Catto Jr. for his condolence note about Dorothy Walker Bush, with the incoming card pages retained.",
+      evidence:
+        "Itemized from pages 8-10 of the NARA direct folder scan using the outgoing reply, incoming card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hector-salazar-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Carla and Hector Salazar condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Carla and Hector Salazar for their note about Dorothy Walker Bush and jokes about returning to the court in Houston.",
+      evidence:
+        "Itemized from pages 11-12 of the NARA direct folder scan using the outgoing reply, incoming handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "barry-williamson-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Barry A. Williamson condolence and victory correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Barry Williamson for checking in about his mother and congratulates Williamson on his victory.",
+      evidence:
+        "Itemized from pages 13-14 of the NARA direct folder scan using the outgoing reply, incoming Barry Williamson note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sally-leblond-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sally LeBlond condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Sally LeBlond for checking in about Dorothy Walker Bush, with LeBlond's handwritten November 20 note attached.",
+      evidence:
+        "Itemized from pages 15-16 of the NARA direct folder scan using the outgoing reply, incoming handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alex-spanos-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Alex G. Spanos condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush answers Alex G. Spanos after Spanos and Faye send sympathy for Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 17-19 of the NARA direct folder scan using the outgoing reply, incoming handwritten note pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "peter-roussel-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Peter H. Roussel condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Pete Roussel for his caring note about Dorothy Walker Bush, with Roussel's incoming handwritten letter attached.",
+      evidence:
+        "Itemized from pages 20-22 of the NARA direct folder scan using the outgoing reply, incoming handwritten letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "marion-chambers-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Marion Chambers condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush writes Marion Chambers that Mum and Ralph are in the same heaven, with Chambers's incoming note attached.",
+      evidence:
+        "Itemized from pages 23-24 of the NARA direct folder scan using the outgoing reply, incoming card page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "diana-walker-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Diana H. Walker condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush answers Diana H. Walker's condolence note about Dorothy Walker Bush and says Nan Ellis is in Egypt.",
+      evidence:
+        "Itemized from pages 25-27 of the NARA direct folder scan using the outgoing reply, incoming handwritten letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "taylor-blanton-condolence-correspondence",
+      documentType: "Presidential Replies and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "J. Taylor Blanton condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 4,
+      excerpt:
+        "President Bush replies to Taylor Blanton's November 20 letter about Dorothy Walker Bush, with a separate sympathy acknowledgment and Blanton's incoming pages retained.",
+      evidence:
+        "Itemized from pages 28-31 of the NARA direct folder scan using the personalized outgoing reply, general sympathy acknowledgment, rotated incoming note pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dan-gillcrist-condolence-photo-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Dan Gillcrist condolence and photograph correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 7,
+      excerpt:
+        "President Bush thanks Dan Gillcrist for his thoughtful letter about Dorothy Walker Bush and references an attached photograph sent from Gillcrist's family.",
+      evidence:
+        "Itemized from pages 32-38 of the NARA direct folder scan using the outgoing reply, Gillcrist Municipals Management handwritten letter pages, child's letter pages, attached photograph, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cameron-clark-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Cameron Clark Jr. condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Cameron Clark Jr. for his letter about Dorothy Walker Bush and for his loyal support.",
+      evidence:
+        "Itemized from pages 39-41 of the NARA direct folder scan using the outgoing reply, incoming handwritten note, incoming typed letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "november-30-telephone-memoranda-presidential-movements",
+      documentType: "Telephone Memoranda and Presidential Movements Packet",
+      category: "presidential-daily-file-log",
+      disposition: "itemized-daily-file-log",
+      title: "White House telephone memoranda and presidential movements for November 30, 1992",
+      documentDate: "1992-11-30",
+      pages: 5,
+      excerpt:
+        "White House telephone memoranda and a Presidential Movements sheet record President Bush's November 30 calls, meetings, and movements between the South Grounds, Oval Office, and Residence.",
+      evidence:
+        "Itemized from pages 42-46 of the NARA direct folder scan using the Telephone Memorandum forms, Presidential Movements sheet, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-bush-letter-mother-election-loyalty",
+      documentType: "Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Letter from President Bush to John Bush re Dorothy Walker Bush, election, and loyalty",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush writes John Bush a long personal letter about Dorothy Walker Bush, the election, Tip O'Neill, Sonny Montgomery, loyalty, and leaving office.",
+      evidence:
+        "Itemized from pages 47-48 of the NARA direct folder scan using the From the desk of George Bush page, two-page outgoing letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robin-handwritten-political-values-letter",
+      documentType: "Handwritten Letter and Routing Note Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robin handwritten letter packet re American politics and Dorothy Walker Bush",
+      documentDate: "1992-11-30",
+      pages: 11,
+      excerpt:
+        "A From the desk of George Bush routing page precedes Robin's long handwritten notebook letter on American politics, presidential values, Dorothy Walker Bush, and family memory.",
+      evidence:
+        "Itemized from pages 49-59 of the NARA direct folder scan using the Bush handwriting routing page, blue notebook letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "christopher-dodd-prescott-bush-condolence-correspondence",
+      documentType: "Presidential Note and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Christopher J. Dodd and Prescott S. Bush Jr. condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush sends a handwritten note to Senator Christopher J. Dodd after Prescott S. Bush Jr. forwards Dodd's condolence call about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 60-62 of the NARA direct folder scan using the Bush handwriting routing page, courier note to Senator Dodd, Prescott S. Bush Jr. letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-broder-sympathy-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "David S. Broder sympathy correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks David S. Broder for his note about Dorothy Walker Bush, with Broder's handwritten letter attached.",
+      evidence:
+        "Itemized from pages 63-64 of the NARA direct folder scan using the outgoing reply, incoming David S. Broder letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "appointment-request-guidance-note-november-30-1992",
+      documentType: "Presidential Guidance Note",
+      category: "presidential-handwriting",
+      disposition: "itemized-presidential-handwriting",
+      title: "Presidential guidance note re Joseph Reed, Lenny Black, and appointment requests",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "A Bush handwriting routing sheet is attached to a staff guidance note asking whether the President wants to see Joseph Reed, Lenny Black, and others.",
+      evidence:
+        "Itemized from pages 65-66 of the NARA direct folder scan using the Bush handwriting attachment page, appointment-request guidance text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ll-biddle-telegram-condolence-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Mrs. L. L. Biddle III telegram condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Betsy Biddle for her telegram about Dorothy Walker Bush, with handwritten address corrections for the Biddle family.",
+      evidence:
+        "Itemized from page 68 of the NARA direct folder scan using the outgoing handwritten reply copy, address corrections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "elliott-cage-condolence-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Elliott Cage Jr. condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush writes Marion and Elliott Cage about being a lucky boy to have had a loving mother and caring friends.",
+      evidence:
+        "Itemized from page 69 of the NARA direct folder scan using the outgoing handwritten reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-carl-condolence-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "William K. Carl condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Bill and Kitty Carl for their note about Dorothy Walker Bush and says he and Barbara will soon be home.",
+      evidence:
+        "Itemized from page 70 of the NARA direct folder scan using the outgoing handwritten reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-goodling-election-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "William F. Goodling election correspondence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Bill Goodling for his thoughtful letter about the election and for loyal friendship during a tough campaign.",
+      evidence:
+        "Itemized from page 71 of the NARA direct folder scan using the outgoing White House reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michael-debakey-mother-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Michael E. DeBakey condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush writes Michael DeBakey that he will miss his mother and thanks DeBakey for caring.",
+      evidence:
+        "Itemized from page 72 of the NARA direct folder scan using the outgoing handwritten reply copy, Baylor College of Medicine address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-durenberger-election-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "David Durenberger election correspondence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Senator David Durenberger for his kind letter about the election and loyal friendship.",
+      evidence:
+        "Itemized from page 73 of the NARA direct folder scan using the outgoing White House reply copy, Senate address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "luis-ferre-mother-note-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Don Luis A. Ferre condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Don Luis Ferre for his warm note about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 74 of the NARA direct folder scan using the outgoing handwritten reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "irving-fish-mother-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Irving D. Fish Jr. condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Irving D. Fish Jr. for his note about Dorothy Walker Bush and says he must adjust to life without her.",
+      evidence:
+        "Itemized from page 75 of the NARA direct folder scan using the outgoing handwritten reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-gavin-condolence-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "John A. Gavin condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks John Gavin for a wonderful note about Dorothy Walker Bush and says he knows his mother is in heaven.",
+      evidence:
+        "Itemized from page 76 of the NARA direct folder scan using the outgoing handwritten reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "benjamin-gilman-election-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Benjamin A. Gilman election correspondence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Benjamin Gilman for his thoughtful letter about the election and loyal friendship.",
+      evidence:
+        "Itemized from page 77 of the NARA direct folder scan using the outgoing White House reply copy, House address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-gray-mother-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Robert K. Gray condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Robert K. Gray for his note about his mother and sends best wishes to Gray and Rebecca.",
+      evidence:
+        "Itemized from page 78 of the NARA direct folder scan using the outgoing handwritten reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lionel-hampton-mother-note-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Lionel Hampton condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Lionel Hampton for a kind note about Dorothy Walker Bush and says she was a wonderful mother.",
+      evidence:
+        "Itemized from page 79 of the NARA direct folder scan using the outgoing handwritten reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "orrin-hatch-election-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Orrin G. Hatch election correspondence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Orrin Hatch for his thoughtful election letter and for the friendship of Hatch and Elaine.",
+      evidence:
+        "Itemized from page 80 of the NARA direct folder scan using the outgoing White House reply copy, Senate address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dene-hofheinz-mother-note-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Dene Hofheinz condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush writes Dene Hofheinz that she is a friend and thanks her for caring about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 81 of the NARA direct folder scan using the outgoing handwritten reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "amo-houghton-election-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Amory Houghton Jr. election correspondence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Amo Houghton for his thoughtful note about the election and for being one of the friends who never gave up the battle.",
+      evidence:
+        "Itemized from page 82 of the NARA direct folder scan using the outgoing White House reply copy, House address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sharon-pratt-kelly-mother-note-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Sharon Pratt Kelly condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Sharon Pratt Kelly for her thoughtful note about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 83 of the NARA direct folder scan using the outgoing handwritten reply copy, mayoral address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-kime-condolence-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Admiral J. William Kime condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Admiral J. William Kime for his note about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 84 of the NARA direct folder scan using the outgoing handwritten reply copy, Coast Guard address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-livingston-election-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Bob Livingston election correspondence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Bob Livingston for his thoughtful letter about the election and for loyal friendship.",
+      evidence:
+        "Itemized from page 85 of the NARA direct folder scan using the outgoing White House reply copy, House address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "frederic-malek-election-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Frederic V. Malek election correspondence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Frederic V. Malek for all he has done and adds a handwritten note thanking Fred for lasting friendship.",
+      evidence:
+        "Itemized from page 86 of the NARA direct folder scan using the outgoing George Bush Washington letter copy, address block, handwritten marginal note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-martinez-mother-note-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Robert Martinez condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Robert Martinez for his note about Dorothy Walker Bush and sends love to Colleen.",
+      evidence:
+        "Itemized from page 87 of the NARA direct folder scan using the outgoing handwritten reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-melady-condolence-reply-copy",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Thomas P. Melady condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Ambassador Thomas P. Melady for his note about Dorothy Walker Bush and sends best wishes to Margaret.",
+      evidence:
+        "Itemized from page 88 of the NARA direct folder scan using the outgoing handwritten reply copy, Vatican City address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "clarence-miller-election-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Clarence E. Miller election correspondence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Clarence E. Miller for his kind election letter and loyal friendship.",
+      evidence:
+        "Itemized from page 89 of the NARA direct folder scan using the outgoing White House reply copy, House address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "guy-molinari-capitol-hill-club-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Guy V. Molinari Capitol Hill Club invitation reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush writes Guy V. Molinari that he cannot accept a Capitol Hill Club get-together before leaving Washington but hopes to see him before returning to Texas.",
+      evidence:
+        "Itemized from page 90 of the NARA direct folder scan using the self-typed presidential letter copy, address label, OCR, and rendered-page review.",
+    },
+    {
+      slug: "stuart-northrop-election-mother-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Stuart J. Northrop election and mother reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Stuart J. Northrop for letters about the election and Dorothy Walker Bush and mentions future opportunities after leaving office.",
+      evidence:
+        "Itemized from page 91 of the NARA direct folder scan using the outgoing reply copy, Huffy Corporation address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mary-susan-overbey-election-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Mary Susan Overbey election correspondence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Mary Susan Overbey for a caring letter and says he cherishes friends like her.",
+      evidence:
+        "Itemized from page 92 of the NARA direct folder scan using the outgoing handwritten reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "edward-perkins-condolence-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Edward J. Perkins condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Edward J. Perkins for his thoughtful letter about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 93 of the NARA direct folder scan using the outgoing handwritten reply copy, United Nations address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "james-quayle-condolence-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Corinne and James C. Quayle condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Corinne and Jim Quayle, the Vice President's parents, for their caring note about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 94 of the NARA direct folder scan using the outgoing presidential reply copy, address block, VP family note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-robson-condolence-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "John E. Robson condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks John E. Robson for his note about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 95 of the NARA direct folder scan using the outgoing handwritten reply copy, Treasury address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "norman-schwarzkopf-condolence-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "H. Norman Schwarzkopf condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks General H. Norman Schwarzkopf for a note about Dorothy Walker Bush and sends love to Brenda.",
+      evidence:
+        "Itemized from page 96 of the NARA direct folder scan using the outgoing handwritten reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alan-simpson-azalea-condolence-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Alan K. Simpson azalea condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Senator Alan K. Simpson for the azalea plant and kind words about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 97 of the NARA direct folder scan using the outgoing reply copy, Senate address block, courier note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "clifford-stearns-election-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Clifford B. Stearns election correspondence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Clifford Stearns for his thoughtful election note and loyal friendship.",
+      evidence:
+        "Itemized from page 98 of the NARA direct folder scan using the outgoing White House reply copy, House address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "james-symington-mother-note-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "James W. Symington condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks James W. Symington for a note about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 99 of the NARA direct folder scan using the outgoing handwritten reply copy, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "strom-thurmond-election-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Strom Thurmond election correspondence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Strom Thurmond for his thoughtful election letter and loyal friendship.",
+      evidence:
+        "Itemized from page 100 of the NARA direct folder scan using the outgoing White House reply copy, Senate address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fred-travalena-flower-basket-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Fred Travalena flower-basket condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Fred Travalena for the flower basket and for caring about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from page 101 of the NARA direct folder scan using the outgoing presidential reply copy, address block, handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lowell-weicker-condolence-reply",
+      documentType: "Outgoing Presidential Note Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Lowell P. Weicker Jr. condolence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Lowell P. Weicker Jr. for his note about Dorothy Walker Bush and sends love to Claudia.",
+      evidence:
+        "Itemized from page 102 of the NARA direct folder scan using the outgoing handwritten reply copy, gubernatorial address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "clayton-yeutter-election-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Clayton K. Yeutter election correspondence reply copy",
+      documentDate: "1992-11-30",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Clayton K. Yeutter for all he has done and adds a handwritten note of lasting gratitude.",
+      evidence:
+        "Itemized from page 103 of the NARA direct folder scan using the outgoing George Bush Washington letter copy, address block, handwritten marginal note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-news-summary-november-30-1992-transition-politics-clippings",
+      documentType: "White House Daily News Summary and Press Clipping Packet",
+      category: "white-house-news-summary",
+      disposition: "itemized-press-clipping-packet",
+      title: "The Daily News Summary packet re Clinton transition, Iran-Contra, congressional politics, and Packwood coverage",
+      documentDate: "1992-11-30",
+      pages: 38,
+      excerpt:
+        "The Daily News Summary packet collects November 30 clippings from the Washington Times, Washington Post, Wall Street Journal, Los Angeles Times, Christian Science Monitor, USA Today, New York Times, and other outlets on Clinton transition politics, Iran-Contra, congressional ethics, Gramm, Packwood, the Christian right, federal unions, and political commentary.",
+      evidence:
+        "Itemized from pages 104-141 of the NARA direct folder scan using the Daily News Summary cover page, clipping mastheads, article headlines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tip-oneill-sonny-montgomery-official-photo-packet",
+      documentType: "Official White House Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Official White House photograph packet: Tip O'Neill, Sonny Montgomery, and President Bush",
+      documentDate: "1992-11-30",
+      pages: 4,
+      excerpt:
+        "Two color official photograph leaves show President Bush with Tip O'Neill, Sonny Montgomery, and others, with photo-back pages retained in the direct folder scan.",
+      evidence:
+        "Itemized from pages 142-145 of the NARA direct folder scan using the color photograph pages, photo-back pages, handwritten Tip O'Neill/Sonny Montgomery caption, OCR, and rendered-page review.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -38910,6 +39653,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418210",
   "470418213",
   "470418214",
+  "470418215",
   "646482525",
   "646482521",
   "646482523",
