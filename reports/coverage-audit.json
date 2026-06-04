@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T03:21:09.878Z",
+  "generatedAt": "2026-06-04T03:25:54.195Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
@@ -84,7 +84,7 @@
     "itemized-presidential-message": 18,
     "itemized-daily-political-briefing": 17,
     "itemized-daily-press-clippings": 24,
-    "itemized-speech-remarks-draft": 25,
+    "itemized-speech-remarks-draft": 24,
     "itemized-press-availability-qa": 1,
     "itemized-local-affiliate-qa": 1,
     "itemized-congressional-correspondence": 10,
@@ -184,7 +184,7 @@
     "itemized-television-report-packet": 1,
     "itemized-wire-report-packet": 1,
     "itemized-gift-correspondence": 3,
-    "itemized-speech-material": 25,
+    "itemized-speech-material": 26,
     "itemized-media-analysis": 1,
     "itemized-economic-memorandum": 4,
     "itemized-legal-memorandum": 1,
@@ -32074,7 +32074,22 @@
     },
     {
       "date": "1992-09-18",
-      "documentDate": "",
+      "documentDate": "1992-09-18",
+      "title": "Marked draft of remarks at AT&T in Basking Ridge, New Jersey",
+      "parentPacketId": "nara-470418070-direct-scan",
+      "naId": "470418070",
+      "folderId": "90719-006",
+      "containerId": "90719",
+      "category": "speech-material",
+      "disposition": "itemized-speech-material",
+      "type": "Speech Draft with President Bush Handwriting",
+      "catalogUrl": "https://catalog.archives.gov/id/470418070",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90719-006.pdf",
+      "excerpt": "The marked AT&T Basking Ridge speech draft addresses Millicent Fenwick, working women, family leave, the glass ceiling, child care, health care, child-support enforcement, college opportunity, and the President's argument for less government and more freedom."
+    },
+    {
+      "date": "1992-09-18",
+      "documentDate": "1992-09-16",
       "title": "Personal fax from Charles L. Bartlett to the President re portable massager and Lincoln anecdote",
       "parentPacketId": "nara-470418070-direct-scan",
       "naId": "470418070",
@@ -32235,7 +32250,7 @@
       "type": "Letter with President Bush Handwriting",
       "catalogUrl": "https://catalog.archives.gov/id/470418070",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90719-006.pdf",
-      "excerpt": "The President thanks Hugo Parkman for remembering September 2, 1944, recalls the USS Finback rescue, and adds handwritten thanks."
+      "excerpt": "The President thanks Hugo Parkman for remembering September 2, 1944, recalls the USS Finback rescue, adds handwritten thanks, and includes a backing or routing page referencing Parkman."
     },
     {
       "date": "1992-09-18",
@@ -32341,21 +32356,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418070",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90719-006.pdf",
       "excerpt": "The Washington Post clipping run covers gay-rights employment policy, Bush-Clinton defense positions, Clinton draft memos, family leave, Bush's Texas campaign, Rogich advertising, trade, television interviews, and western campaign coverage."
-    },
-    {
-      "date": "1992-09-18",
-      "documentDate": "1992-09-18",
-      "title": "Speech/Remarks Draft: AT&T BASKING RIDGE, NEW JERSEY FRIDAY, SEPTEMBER 18, 1992 2:40 P.M.",
-      "parentPacketId": "nara-470418070-direct-scan",
-      "naId": "470418070",
-      "folderId": "90719-006",
-      "containerId": "90719",
-      "category": "speech-remarks-item",
-      "disposition": "itemized-speech-remarks-draft",
-      "type": "Speech/Remarks Draft",
-      "catalogUrl": "https://catalog.archives.gov/id/470418070",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90719-006.pdf",
-      "excerpt": "AT&T BASKING RIDGE, NEW JERSEY 1 1 FRIDAY, SEPTEMBER 18, 1992 2:40 P.M. ON. Stewart THANK YOU, MARY / AND GOOD AFTERNOON, EVERYONE. I. WANT TO RECOGNIZE SECRETARY LYNN MARTIN, YOUR GREAT FORMER GOVERNOR TOM KEAN, CONGRESMAN DEAN GALLO, AND, OF COURSE, CHAIRMAN BOB ALLEN; SPEAKER CHUCK HAYTAIAN ((HI-TIE-IN)). Connie Homen, Judy Smith BUSH LIBRARY PHOTOCOPY - GEORGE BUSH HANDWRITING I REMEMBER STANDING IN THE ROSE GARDEN JUST LAST YEAR, AND AWARDING MY ENVIRONMENT AND CONSERVATION CHALLENGE AWARD TO AT&T FOR YOUR..."
     },
     {
       "date": "1992-09-19",

@@ -22363,18 +22363,31 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470418070: [
     {
+      slug: "marked-att-basking-ridge-speech-draft",
+      documentType: "Speech Draft with President Bush Handwriting",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title: "Marked draft of remarks at AT&T in Basking Ridge, New Jersey",
+      documentDate: "1992-09-18",
+      pages: 21,
+      excerpt:
+        "The marked AT&T Basking Ridge speech draft addresses Millicent Fenwick, working women, family leave, the glass ceiling, child care, health care, child-support enforcement, college opportunity, and the President's argument for less government and more freedom.",
+      evidence:
+        "Itemized from pages 2-22 of the NARA direct folder scan using the AT&T Basking Ridge heading, numbered speech pages, handwritten edits, Bush Library handwriting markers, OCR, and rendered-page review.",
+    },
+    {
       slug: "charles-bartlett-massager-lincoln-anecdote",
       documentType: "Personal Fax and Note",
       category: "personal-correspondence",
       disposition: "itemized-personal-correspondence",
       title:
         "Personal fax from Charles L. Bartlett to the President re portable massager and Lincoln anecdote",
-      documentDate: "",
+      documentDate: "1992-09-16",
       pages: 1,
       excerpt:
         "Charles L. Bartlett sends the President a suggestion for a portable massaging instrument and a Lincoln anecdote about 'pegging away' for possible use in speeches.",
       evidence:
-        "Itemized from Charles L. Bartlett letterhead and fax text found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from page 23 of the NARA direct folder scan using the Coleman/Bartlett Washington Focus fax page, President Bush handwritten routing note, OCR, and rendered-page review.",
     },
     {
       slug: "caspar-weinberger-reception-message-packet",
@@ -22510,11 +22523,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       title:
         "Letter from the President to Hugo Parkman re September 2, 1944 and the USS Finback",
       documentDate: "1992-09-18",
-      pages: 1,
+      pages: 2,
       excerpt:
-        "The President thanks Hugo Parkman for remembering September 2, 1944, recalls the USS Finback rescue, and adds handwritten thanks.",
+        "The President thanks Hugo Parkman for remembering September 2, 1944, recalls the USS Finback rescue, adds handwritten thanks, and includes a backing or routing page referencing Parkman.",
       evidence:
-        "Itemized from a White House letter page with visible President Bush handwriting confirmed by rendered-page review of the NARA direct folder scan.",
+        "Itemized from pages 55-56 of the NARA direct folder scan using the White House letter page, visible President Bush handwriting, backing or routing note, OCR, and rendered-page review.",
     },
     {
       slug: "president-to-victor-hancock-support-jo-ann",
@@ -25861,6 +25874,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418041",
   "470418057",
   "470418060",
+  "470418070",
   "470418083",
   "646482521",
   "646482523",
