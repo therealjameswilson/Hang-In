@@ -32307,7 +32307,20 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "Bush Quayle '92 fax cover sheet from Debbie Dunn to Bobbie Kilberg, followed by a family and friends contact list for the November 3 file.",
       evidence:
-        "Itemized from full-PDF OCR of an OCR-truncated NARA direct folder scan; the catalog OCR cuts off before later packet starts.",
+        "Itemized from pages 2-13 of the NARA direct folder scan using the Bush-Quayle '92 fax cover, family and friends contact-list pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kilberg-to-bill-moss-bush-brigade-list",
+      documentType: "Memorandum",
+      category: "election-night-event-material",
+      disposition: "itemized-election-night-event-material",
+      title: "Memorandum from Bobbie Kilberg to Bill Moss re Moss event and 1980 Bush Brigade project",
+      documentDate: "1992-10-21",
+      pages: 2,
+      excerpt:
+        "Bobbie Kilberg sends Bill Moss names from the 1980 Bush Brigade get-out-the-vote project for the election-night event, with an attached continuation list of early supporters.",
+      evidence:
+        "Itemized from pages 14-15 of the NARA direct folder scan using the October 21 Bobbie Kilberg memorandum to Bill Moss, Moss Event/'80 Bush Brigade Project subject line, continuation list, OCR, and rendered-page review.",
     },
     {
       slug: "zamaria-to-president-moss-party",
@@ -32459,11 +32472,24 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-election-day-clippings",
       title: "Media Affairs Office News Clippings: Election Day, Tuesday, November 3, 1992",
       documentDate: "1992-11-03",
-      pages: 90,
+      pages: 89,
       excerpt:
         "Media Affairs Office election-day news clippings for Tuesday, November 3, 1992, beginning with a presidential candidate comparison and national newspaper coverage.",
       evidence:
-        "Itemized from a Media Affairs Office News Clippings heading found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from pages 64-152 of the NARA direct folder scan using the Media Affairs Office News Clippings cover, New York Times, Washington Post, USA Today, Wall Street Journal, and other election-day clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photographs-november-3-election-night",
+      documentType: "Official White House Photograph Packet",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title: "Official White House photographs and transfer pages from November 3 election-night events",
+      documentDate: "1992-11-03",
+      pages: 7,
+      excerpt:
+        "The photograph packet includes color official White House photographs from November 3 election-night and Houston events, including after the concession speech, a concession-photo label, a voting-booth image, and crowd photographs with transfer/backing pages.",
+      evidence:
+        "Itemized from pages 153-159 of the NARA direct folder scan using color photograph pages, official photo transfer/backing pages, sticky-note labels, low-confidence OCR, and rendered-page review.",
     },
   ],
   470418300: [
@@ -32894,6 +32920,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418156",
   "470418159",
   "470418164",
+  "470418165",
   "646482525",
   "646482521",
   "646482523",

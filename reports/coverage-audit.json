@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-04T07:13:57.693Z",
+  "generatedAt": "2026-06-04T07:17:34.092Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
-    "documentCount": 8349,
+    "documentCount": 8350,
     "redactionSheetDocumentCount": 5531,
     "directFolderScanCount": 240,
     "directSingleDocumentScanCount": 113,
     "directPacketScanCount": 127,
-    "directItemizedDocumentCount": 2578,
+    "directItemizedDocumentCount": 2579,
     "directItemizedFolderCount": 127,
     "foldersWithoutParsedRows": 240,
     "foldersStillUnrepresented": 0
@@ -94,12 +94,12 @@
     "itemized-incoming-correspondence": 15,
     "itemized-envelope": 1,
     "itemized-white-house-bulletin": 1,
-    "itemized-transferred-photograph": 17,
+    "itemized-transferred-photograph": 18,
     "itemized-press-conference-briefing-material": 1,
     "itemized-press-conference-qa": 1,
     "itemized-presidential-statement": 27,
     "itemized-meeting-briefing-attachment": 7,
-    "itemized-memorandum": 39,
+    "itemized-memorandum": 38,
     "itemized-president-note": 59,
     "itemized-campaign-finance-summary": 1,
     "itemized-campaign-correspondence": 40,
@@ -443,7 +443,7 @@
     "itemized-iran-contra-material": 4,
     "itemized-campaign-briefing-material": 1,
     "itemized-economic-briefing-material": 1,
-    "itemized-election-night-event-material": 12,
+    "itemized-election-night-event-material": 13,
     "itemized-concession-address-draft": 1,
     "itemized-election-day-clippings": 2,
     "itemized-iraqgate-material": 1,
@@ -42836,8 +42836,8 @@
     },
     {
       "date": "1992-11-03",
-      "documentDate": "1992-10-14",
-      "title": "Memorandum from Rose Zamaria to the President re Bill Moss election-night party",
+      "documentDate": "1992-10-21",
+      "title": "Memorandum from Bobbie Kilberg to Bill Moss re Moss event and 1980 Bush Brigade project",
       "parentPacketId": "nara-470418165-direct-scan",
       "naId": "470418165",
       "folderId": "90732-007",
@@ -42847,7 +42847,7 @@
       "type": "Memorandum",
       "catalogUrl": "https://catalog.archives.gov/id/470418165",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
-      "excerpt": "Rose Zamaria reports that Bill Moss wanted to underwrite an election-night party, but appeared to lose interest when told the President would be there for only 20 or 30 minutes."
+      "excerpt": "Bobbie Kilberg sends Bill Moss names from the 1980 Bush Brigade get-out-the-vote project for the election-night event, with an attached continuation list of early supporters."
     },
     {
       "date": "1992-11-03",
@@ -42866,8 +42866,8 @@
     },
     {
       "date": "1992-11-03",
-      "documentDate": "1992-10-13",
-      "title": "Memorandum from Rose Zamaria to Jim Baker re Bill Moss election-night party",
+      "documentDate": "1992-10-14",
+      "title": "Memorandum from Rose Zamaria to the President re Bill Moss election-night party",
       "parentPacketId": "nara-470418165-direct-scan",
       "naId": "470418165",
       "folderId": "90732-007",
@@ -42877,7 +42877,7 @@
       "type": "Memorandum",
       "catalogUrl": "https://catalog.archives.gov/id/470418165",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
-      "excerpt": "Rose Zamaria asks Jim Baker whether Bill Moss can go forward with an election-night party for family, old friends, and staff at the Houstonian."
+      "excerpt": "Rose Zamaria reports that Bill Moss wanted to underwrite an election-night party, but appeared to lose interest when told the President would be there for only 20 or 30 minutes."
     },
     {
       "date": "1992-11-03",
@@ -42897,17 +42897,17 @@
     {
       "date": "1992-11-03",
       "documentDate": "1992-10-13",
-      "title": "Handwritten note from the President to Rose Zamaria re getting back to Moss",
+      "title": "Memorandum from Rose Zamaria to Jim Baker re Bill Moss election-night party",
       "parentPacketId": "nara-470418165-direct-scan",
       "naId": "470418165",
       "folderId": "90732-007",
       "containerId": "90732",
       "category": "election-night-event-material",
       "disposition": "itemized-election-night-event-material",
-      "type": "Handwritten Note",
+      "type": "Memorandum",
       "catalogUrl": "https://catalog.archives.gov/id/470418165",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
-      "excerpt": "The President asks Rose Zamaria to remind him to get back to Moss in a week or so."
+      "excerpt": "Rose Zamaria asks Jim Baker whether Bill Moss can go forward with an election-night party for family, old friends, and staff at the Houstonian."
     },
     {
       "date": "1992-11-03",
@@ -42926,18 +42926,18 @@
     },
     {
       "date": "1992-11-03",
-      "documentDate": "1992-10-05",
-      "title": "Letter from the President to William P. Moss re election night at the Houstonian",
+      "documentDate": "1992-10-13",
+      "title": "Handwritten note from the President to Rose Zamaria re getting back to Moss",
       "parentPacketId": "nara-470418165-direct-scan",
       "naId": "470418165",
       "folderId": "90732-007",
       "containerId": "90732",
       "category": "election-night-event-material",
       "disposition": "itemized-election-night-event-material",
-      "type": "Letter",
+      "type": "Handwritten Note",
       "catalogUrl": "https://catalog.archives.gov/id/470418165",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
-      "excerpt": "The President thanks William Moss for offering to give an election-night party at the Houstonian and says he will let Moss know very soon what the plans are."
+      "excerpt": "The President asks Rose Zamaria to remind him to get back to Moss in a week or so."
     },
     {
       "date": "1992-11-03",
@@ -42956,8 +42956,8 @@
     },
     {
       "date": "1992-11-03",
-      "documentDate": "1992-10-01",
-      "title": "Letter from William P. Moss to the President re election-night party",
+      "documentDate": "1992-10-05",
+      "title": "Letter from the President to William P. Moss re election night at the Houstonian",
       "parentPacketId": "nara-470418165-direct-scan",
       "naId": "470418165",
       "folderId": "90732-007",
@@ -42967,7 +42967,7 @@
       "type": "Letter",
       "catalogUrl": "https://catalog.archives.gov/id/470418165",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
-      "excerpt": "William P. Moss proposes an election-night party for the President and Barbara Bush with old friends, family, and past and present staff."
+      "excerpt": "The President thanks William Moss for offering to give an election-night party at the Houstonian and says he will let Moss know very soon what the plans are."
     },
     {
       "date": "1992-11-03",
@@ -42983,6 +42983,36 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
       "excerpt": "A President Has Seen incoming letter from Hugh Liedtke thanks George Bush for attending Betty Liedtke's memorial service, with related letterhead and envelope pages."
+    },
+    {
+      "date": "1992-11-03",
+      "documentDate": "1992-10-01",
+      "title": "Letter from William P. Moss to the President re election-night party",
+      "parentPacketId": "nara-470418165-direct-scan",
+      "naId": "470418165",
+      "folderId": "90732-007",
+      "containerId": "90732",
+      "category": "election-night-event-material",
+      "disposition": "itemized-election-night-event-material",
+      "type": "Letter",
+      "catalogUrl": "https://catalog.archives.gov/id/470418165",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
+      "excerpt": "William P. Moss proposes an election-night party for the President and Barbara Bush with old friends, family, and past and present staff."
+    },
+    {
+      "date": "1992-11-03",
+      "documentDate": "1992-11-03",
+      "title": "Memorandum from Rose Zamaria to Secret Service re Peter and Edith O'Donnell",
+      "parentPacketId": "nara-470418164-direct-scan",
+      "naId": "470418164",
+      "folderId": "90732-006",
+      "containerId": "90732",
+      "category": "election-night-event-material",
+      "disposition": "itemized-election-night-event-material",
+      "type": "Memorandum",
+      "catalogUrl": "https://catalog.archives.gov/id/470418164",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
+      "excerpt": "Rose Zamaria alerts the Secret Service that Peter and Edith O'Donnell are expected that evening and asks that they not be detained."
     },
     {
       "date": "1992-11-03",
@@ -43002,17 +43032,17 @@
     {
       "date": "1992-11-03",
       "documentDate": "1992-11-03",
-      "title": "Memorandum from Rose Zamaria to Secret Service re Peter and Edith O'Donnell",
+      "title": "White House News Summary: November 3, 1992 1:30 P.M. CST News Update",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
-      "category": "election-night-event-material",
-      "disposition": "itemized-election-night-event-material",
-      "type": "Memorandum",
+      "category": "news-summary-item",
+      "disposition": "itemized-news-summary",
+      "type": "News Update",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "Rose Zamaria alerts the Secret Service that Peter and Edith O'Donnell are expected that evening and asks that they not be detained."
+      "excerpt": "The 1:30 p.m. CST White House News Summary update covers President Bush in Houston, Clinton voting, the abortion gag-rule decision, women in combat, Iraq/BNL, and Clinton Middle East comments."
     },
     {
       "date": "1992-11-03",
@@ -43032,7 +43062,7 @@
     {
       "date": "1992-11-03",
       "documentDate": "1992-11-03",
-      "title": "White House News Summary: November 3, 1992 1:30 P.M. CST News Update",
+      "title": "White House News Summary: November 3, 1992 10:00 A.M. CST News Update",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
@@ -43042,7 +43072,7 @@
       "type": "News Update",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "The 1:30 p.m. CST White House News Summary update covers President Bush in Houston, Clinton voting, the abortion gag-rule decision, women in combat, Iraq/BNL, and Clinton Middle East comments."
+      "excerpt": "The 10:00 a.m. CST White House News Summary update covers election-day voting in Houston, the CBS poll, economic indicators, Vice President Quayle, and the Villalpando inquiry."
     },
     {
       "date": "1992-11-03",
@@ -43062,17 +43092,17 @@
     {
       "date": "1992-11-03",
       "documentDate": "1992-11-03",
-      "title": "White House News Summary: November 3, 1992 10:00 A.M. CST News Update",
+      "title": "White House News Summary: Tuesday, November 3, 1992 6:00 A.M. EST Edition",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
       "category": "news-summary-item",
       "disposition": "itemized-news-summary",
-      "type": "News Update",
+      "type": "News Summary",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "The 10:00 a.m. CST White House News Summary update covers election-day voting in Houston, the CBS poll, economic indicators, Vice President Quayle, and the Villalpando inquiry."
+      "excerpt": "The 6:00 a.m. EST White House News Summary compiles election-day trip, national, international, and network news coverage on Bush, Clinton, Perot, voter turnout, and related issues."
     },
     {
       "date": "1992-11-03",
@@ -43092,17 +43122,17 @@
     {
       "date": "1992-11-03",
       "documentDate": "1992-11-03",
-      "title": "White House News Summary: Tuesday, November 3, 1992 6:00 A.M. EST Edition",
+      "title": "Talking points re negative advertising and Clinton campaign charges",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
-      "category": "news-summary-item",
-      "disposition": "itemized-news-summary",
-      "type": "News Summary",
+      "category": "campaign-talking-points",
+      "disposition": "itemized-campaign-talking-points",
+      "type": "Talking Points",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "The 6:00 a.m. EST White House News Summary compiles election-day trip, national, international, and network news coverage on Bush, Clinton, Perot, voter turnout, and related issues."
+      "excerpt": "Election-day talking points argue that Bush-Quayle advertisements are documented and accurate while Clinton campaign advertisements are false."
     },
     {
       "date": "1992-11-03",
@@ -43121,18 +43151,18 @@
     },
     {
       "date": "1992-11-03",
-      "documentDate": "1992-11-03",
-      "title": "Talking points re negative advertising and Clinton campaign charges",
+      "documentDate": "",
+      "title": "Fact Paper: The Weinberger Additional Indictment",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
-      "category": "campaign-talking-points",
-      "disposition": "itemized-campaign-talking-points",
-      "type": "Talking Points",
+      "category": "iran-contra-material",
+      "disposition": "itemized-iran-contra-material",
+      "type": "Fact Paper",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "Election-day talking points argue that Bush-Quayle advertisements are documented and accurate while Clinton campaign advertisements are false."
+      "excerpt": "A fact paper argues that the Weinberger note adds no new facts to the Iran-Contra record and is filed with Congressional Report excerpts and a chronology of Vice President Bush's exposure to the Shultz-Weinberger position."
     },
     {
       "date": "1992-11-03",
@@ -43152,17 +43182,17 @@
     {
       "date": "1992-11-03",
       "documentDate": "",
-      "title": "Fact Paper: The Weinberger Additional Indictment",
+      "title": "Washington Post article clipping re the President's side of Iran-Contra",
       "parentPacketId": "nara-470418164-direct-scan",
       "naId": "470418164",
       "folderId": "90732-006",
       "containerId": "90732",
       "category": "iran-contra-material",
       "disposition": "itemized-iran-contra-material",
-      "type": "Fact Paper",
+      "type": "Article",
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "A fact paper argues that the Weinberger note adds no new facts to the Iran-Contra record and is filed with Congressional Report excerpts and a chronology of Vice President Bush's exposure to the Shultz-Weinberger position."
+      "excerpt": "A Washington Post clipping argues that Bush did not know of the Iran-Contra diversion until just before it was revealed and distinguishes the Iran initiative from the diversion."
     },
     {
       "date": "1992-11-03",
@@ -43181,21 +43211,6 @@
     },
     {
       "date": "1992-11-03",
-      "documentDate": "",
-      "title": "Washington Post article clipping re the President's side of Iran-Contra",
-      "parentPacketId": "nara-470418164-direct-scan",
-      "naId": "470418164",
-      "folderId": "90732-006",
-      "containerId": "90732",
-      "category": "iran-contra-material",
-      "disposition": "itemized-iran-contra-material",
-      "type": "Article",
-      "catalogUrl": "https://catalog.archives.gov/id/470418164",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
-      "excerpt": "A Washington Post clipping argues that Bush did not know of the Iran-Contra diversion until just before it was revealed and distinguishes the Iran initiative from the diversion."
-    },
-    {
-      "date": "1992-11-03",
       "documentDate": "1992-10-14",
       "title": "Letter from C. Boyden Gray to the Washington Post editor re Iran-Contra reporting",
       "parentPacketId": "nara-470418164-direct-scan",
@@ -43208,6 +43223,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
       "excerpt": "C. Boyden Gray writes that the Post mischaracterized President Bush's comments to Katie Couric about Iran-Contra and the January 1986 meeting."
+    },
+    {
+      "date": "1992-11-03",
+      "documentDate": "1992-11-03",
+      "title": "Official White House photographs and transfer pages from November 3 election-night events",
+      "parentPacketId": "nara-470418165-direct-scan",
+      "naId": "470418165",
+      "folderId": "90732-007",
+      "containerId": "90732",
+      "category": "transferred-photograph",
+      "disposition": "itemized-transferred-photograph",
+      "type": "Official White House Photograph Packet",
+      "catalogUrl": "https://catalog.archives.gov/id/470418165",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
+      "excerpt": "The photograph packet includes color official White House photographs from November 3 election-night and Houston events, including after the concession speech, a concession-photo label, a voting-booth image, and crowd photographs with transfer/backing pages."
     },
     {
       "date": "1992-11-03",
@@ -43328,21 +43358,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418164",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-006.pdf",
       "excerpt": "A Bush-Quayle '92 campaign materials catalog and order form lists lapel stickers, campaign buttons, bumper stickers, yard signs, apparel, and related merchandise."
-    },
-    {
-      "date": "1992-11-03",
-      "documentDate": "1992-10-21",
-      "title": "Memorandum for Bill Moss",
-      "parentPacketId": "nara-470418165-direct-scan",
-      "naId": "470418165",
-      "folderId": "90732-007",
-      "containerId": "90732",
-      "category": "memorandum-item",
-      "disposition": "itemized-memorandum",
-      "type": "Memorandum",
-      "catalogUrl": "https://catalog.archives.gov/id/470418165",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90732-007.pdf",
-      "excerpt": "MEMORANDUM FOR BILL MOSS FROM: BOBBIE KILBERG RE: MOSS EVENT/ '80 \"BUSH BRIGADE\" PROJECT In response to your request for names from the '80 Bush Brigade get-out-the-vote project, the following is a list of individuals who have undertaken the major workload and/or been very supportive. Each of these individuals were early supporters of the President in '79-'80. It is my understanding that all the names for this event have to be reviewed by both Rose Zamaria and Susan Porter Rose. B.B Anderson (Jan) David and Ann..."
     },
     {
       "date": "1992-11-09",
