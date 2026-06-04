@@ -39919,6 +39919,333 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 80-112 of the NARA direct folder scan using the Daily News Summary cover, clipping mastheads, article headlines, OCR, and rendered-page review.",
     },
   ],
+  470418248: [
+    {
+      slug: "cristiani-el-salvador-peace-accords-letter-packet",
+      documentType: "Action Memorandum, Presidential Letter, and Diplomatic Cable Packet",
+      category: "national-security-correspondence",
+      disposition: "itemized-national-security-correspondence",
+      title: "Brent Scowcroft action memo and presidential letter to Alfredo Cristiani re El Salvador peace accords",
+      documentDate: "1992-12-14",
+      pages: 5,
+      excerpt:
+        "Brent Scowcroft forwards President Bush's letter congratulating President Alfredo Cristiani on the Salvadoran peace accords and noting Vice President Quayle's representation at the San Salvador ceremony.",
+      evidence:
+        "Itemized from pages 2-6 of the NARA direct folder scan using the Scowcroft action memorandum, presidential letter draft, Cristiani invitation cable, Bush handwritten add-on note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nafta-signing-oas-remarks-draft",
+      documentType: "Presidential Remarks Draft",
+      category: "speech-remarks",
+      disposition: "itemized-speech-remarks-draft",
+      title: "Draft Presidential Remarks: NAFTA signing at the Organization of American States",
+      documentDate: "1992-12-11",
+      pages: 7,
+      excerpt:
+        "A draft of President Bush's NAFTA signing remarks for the Organization of American States frames free trade, the Brady Plan, hemispheric democracy, and Simon Bolivar's dream.",
+      evidence:
+        "Itemized from pages 7-13 of the NARA direct folder scan using the draft remarks heading, handwritten Brady Plan add-on page, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "theresa-fuqua-runsport-running-shoes-correspondence",
+      documentType: "Presidential Reply, Incoming Correspondence, and Gift Certificate Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Theresa Fuqua RunSport running-shoes correspondence packet",
+      documentDate: "1992-12-14",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Theresa Fuqua of RunSport and Episcopal High School for her note and a gift certificate for running shoes.",
+      evidence:
+        "Itemized from pages 14-15 of the NARA direct folder scan using the presidential reply, RunSport incoming letter and gift-certificate material, staff note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "looking-ahead-international-events-december-14-27-1992",
+      documentType: "Looking Ahead Calendar",
+      category: "schedule-briefing",
+      disposition: "itemized-schedule-briefing",
+      title: "Looking Ahead calendar for international events, December 14-27, 1992",
+      documentDate: "1992-12-14",
+      pages: 1,
+      excerpt:
+        "The Looking Ahead calendar tracks international events including the El Salvador peace ceremony, NAFTA signing, European meetings, and foreign leader travel.",
+      evidence:
+        "Itemized from page 16 of the NARA direct folder scan using the Looking Ahead heading, December 14-27 date grid, international-event entries, Bush handwriting marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "terri-lacy-hospitality-camp-david-thank-you-note",
+      documentType: "Incoming Handwritten Note",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Terri Lacy thank-you note re White House hospitality and Camp David",
+      documentDate: "1992-12-08",
+      pages: 1,
+      excerpt:
+        "Terri Lacy thanks President and Mrs. Bush for dinner, theater, and a Camp David visit, noting the experience and puzzle party.",
+      evidence:
+        "Itemized from page 17 of the NARA direct folder scan using the handwritten note, Riverview Way address, December 8 date, cc annotations, OCR, and rendered-page review.",
+    },
+    {
+      slug: "zoellick-russ-hanlin-sunkist-marketing-order-memo",
+      documentType: "Staff Memorandum and Presidential Phone Note Packet",
+      category: "staff-memorandum",
+      disposition: "itemized-staff-memorandum",
+      title: "Robert Zoellick memorandum re Russ Hanlin and Sunkist marketing order call",
+      documentDate: "1992-12-14",
+      pages: 2,
+      excerpt:
+        "Robert Zoellick reports back after calling Sunkist president Russ Hanlin about the orange and lemon marketing order, with President Bush's original phone note attached.",
+      evidence:
+        "Itemized from pages 18-19 of the NARA direct folder scan using the Zoellick memorandum, Russ Hanlin phone note, presidential guidance, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-president-december-14-1992",
+      documentType: "Materials Forwarded List",
+      category: "materials-forwarded-list",
+      disposition: "itemized-materials-forwarded-list",
+      title: "Materials Forwarded to the President: December 14, 1992",
+      documentDate: "1992-12-14",
+      pages: 1,
+      excerpt:
+        "The forwarding list inventories action, classified, information, remarks, and schedule materials sent to President Bush on December 14.",
+      evidence:
+        "Itemized from page 20 of the NARA direct folder scan using the Materials Forwarded to the President heading, December 14 date, listed action/classified/information/remarks/schedule entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "malcolm-baldrige-awards-ceremony-remarks-release",
+      documentType: "Presidential Remarks Release",
+      category: "speech-remarks",
+      disposition: "itemized-speech-remarks-release",
+      title: "Remarks by the President at Malcolm Baldrige Awards Ceremony",
+      documentDate: "1992-12-14",
+      pages: 3,
+      excerpt:
+        "The White House press release records President Bush's remarks at the Department of Commerce honoring Malcolm Baldrige Award winners and quality standards.",
+      evidence:
+        "Itemized from pages 21-23 of the NARA direct folder scan using the Office of the Press Secretary release, Baldrige Awards heading, continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "frank-wangeman-election-bohemian-grove-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Frank G. Wangeman election and Bohemian Grove correspondence packet",
+      documentDate: "1992-12-14",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Frank G. Wangeman after Wangeman writes about the election, Bush's accomplishments, and hopes of meeting at Bohemian Grove.",
+      evidence:
+        "Itemized from pages 24-25 of the NARA direct folder scan using the presidential reply, Wangeman incoming letter, Bohemian Grove reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-stottlemyer-recovery-nasa-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "David Stottlemyer recovery correspondence packet",
+      documentDate: "1992-12-14",
+      pages: 2,
+      excerpt:
+        "President Bush sends David Stottlemyer best wishes after an accident, with Bill Burnette's NASA letter describing the Stottlemyer family's hardships attached.",
+      evidence:
+        "Itemized from pages 26-27 of the NARA direct folder scan using the presidential reply, NASA incoming letter from Bill Burnette, Stottlemyer family references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ken-aspromonte-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Note Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ken Aspromonte condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-14",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush send Ken Aspromonte a sympathy acknowledgment after Dorothy Walker Bush's death, with Aspromonte's incoming card retained.",
+      evidence:
+        "Itemized from pages 28-29 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Ken Aspromonte address block, incoming handwritten card, OCR, and rendered-page review.",
+    },
+    {
+      slug: "salvador-lew-dorothy-bush-condolence-card-packet",
+      documentType: "Sympathy Acknowledgment Card and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Salvador Lew condolence card packet re Dorothy Walker Bush",
+      documentDate: "1992-12-14",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush send Salvador Lew a sympathy acknowledgment after Dorothy Walker Bush's death, with Lew's incoming card retained.",
+      evidence:
+        "Itemized from pages 30-31 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Salvador Lew address block, incoming card page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "osman-siddique-forbes-article-packet",
+      documentType: "Staff Note and Magazine Article Packet",
+      category: "article-packet",
+      disposition: "itemized-article-packet",
+      title: "Osman Siddique Forbes article packet",
+      documentDate: "1992-12-14",
+      pages: 3,
+      excerpt:
+        "A staff note says Marvin Bush brought Osman Siddique and his family for a photo and thought President Bush might want to read the Forbes article on Siddique's Travelogue business.",
+      evidence:
+        "Itemized from pages 32-34 of the NARA direct folder scan using the Marvin Bush staff note, Forbes article pages, Osman Siddique and Travelogue headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jack-stephens-iii-washington-visit-thank-you-note",
+      documentType: "Incoming Handwritten Note",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Jack Stephens III thank-you note re Washington visit",
+      documentDate: "1992-12-11",
+      pages: 1,
+      excerpt:
+        "Jack Stephens III thanks President Bush for taking time to visit with him and his parents and says he will report to his class after the holiday.",
+      evidence:
+        "Itemized from page 35 of the NARA direct folder scan using the Jack Stephens III letterhead, handwritten note, President Has Seen stamp, photos-returned notation, and rendered-page review.",
+    },
+    {
+      slug: "crohns-colitis-foundation-gratitude-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Crohn's and Colitis Foundation gratitude correspondence packet",
+      documentDate: "1992-12-14",
+      pages: 2,
+      excerpt:
+        "President Bush replies to a Crohn's and Colitis Foundation gratitude letter thanking President and Mrs. Bush for volunteerism and support.",
+      evidence:
+        "Itemized from pages 36-37 of the NARA direct folder scan using the presidential reply, Crohn's and Colitis Foundation letterhead, incoming gratitude letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "larry-thomas-irvine-company-service-correspondence",
+      documentType: "Presidential Reply, Staff Forwarding Note, and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Larry Thomas Irvine Company service-appreciation correspondence packet",
+      documentDate: "1992-12-14",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Larry Thomas's appreciation letter, with a Tim McBride forwarding note and Thomas's Irvine Company letter attached.",
+      evidence:
+        "Itemized from pages 38-40 of the NARA direct folder scan using the presidential reply, Tim McBride forwarding note, Irvine Company incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ken-aspromonte-election-support-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ken Aspromonte election-support correspondence packet",
+      documentDate: "1992-12-14",
+      pages: 4,
+      excerpt:
+        "President Bush replies to Ken Aspromonte's handwritten support letter about the election and the President's accomplishments.",
+      evidence:
+        "Itemized from pages 41-44 of the NARA direct folder scan using the presidential reply, Ken Aspromonte desk note, incoming handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-bryant-grandchildren-election-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William R. Bryant Jr. grandchildren and election correspondence packet",
+      documentDate: "1992-12-14",
+      pages: 2,
+      excerpt:
+        "President Bush replies to William R. Bryant Jr. after Bryant writes about grandchildren, the end of the Cold War, and Bush's service.",
+      evidence:
+        "Itemized from pages 45-46 of the NARA direct folder scan using the presidential reply, William R. Bryant Jr. incoming letter, grandchildren and Cold War references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wi-spencer-election-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "W. I. Spencer election correspondence packet",
+      documentDate: "1992-12-14",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Bill and Katie Spencer after W. I. Spencer writes about the election, economic recovery, and Bush's presidency.",
+      evidence:
+        "Itemized from pages 47-48 of the NARA direct folder scan using the presidential reply, W. I. Spencer incoming letter, election and economic references, OCR, and rendered-page review.",
+    },
+    {
+      slug: "carl-lindner-phone-call-note",
+      documentType: "Presidential Phone Call Note",
+      category: "telephone-note-item",
+      disposition: "itemized-telephone-message",
+      title: "Carl Lindner III phone call note",
+      documentDate: "1992-12-14",
+      pages: 1,
+      excerpt:
+        "A phone-call note records Carl Lindner III calling President Bush while he was meeting with Boyden Gray, with handwritten presidential guidance added.",
+      evidence:
+        "Itemized from page 49 of the NARA direct folder scan using the phone call note, Carl Lindner III name, Boyden Gray reference, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "press-secretary-statement-vietnam-policy-december-14-1992",
+      documentType: "Press Secretary Statement",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "Statement by the Press Secretary re Vietnam policy",
+      documentDate: "1992-12-14",
+      pages: 1,
+      excerpt:
+        "The Press Secretary statement announces additional steps in U.S. policy toward Vietnam tied to POW/MIA accounting and the roadmap toward normalization.",
+      evidence:
+        "Itemized from page 50 of the NARA direct folder scan using the Office of the Press Secretary heading, Vietnam policy statement text, December 14 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-light-henry-huffman-release",
+      documentType: "Daily Point of Light Press Release",
+      category: "points-of-light-material",
+      disposition: "itemized-points-of-light-material",
+      title: "Daily Point of Light release: Henry Huffman",
+      documentDate: "1992-12-14",
+      pages: 1,
+      excerpt:
+        "The White House recognizes Henry Huffman of Santa Clara, California, as the 983rd Daily Point of Light for adult literacy work.",
+      evidence:
+        "Itemized from page 51 of the NARA direct folder scan using the Office of the Press Secretary release, Henry Huffman heading, Daily Point of Light text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jack-fitch-house-meeting-scheduling-note",
+      documentType: "Presidential Guidance Note",
+      category: "staff-routing-note",
+      disposition: "itemized-staff-routing-note",
+      title: "Jack Fitch house-meeting scheduling note",
+      documentDate: "1992-12-14",
+      pages: 1,
+      excerpt:
+        "A guidance note asks when President Bush might see Jack Fitch to talk about the house, with handwritten scheduling instructions added.",
+      evidence:
+        "Itemized from page 52 of the NARA direct folder scan using the Rose guidance note, Jack Fitch reference, McLean and house references, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-welch-john-schmitz-ge-recommendation-packet",
+      documentType: "Presidential Recommendation Note, Talking Points, Resume, and Draft Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John F. Welch Jr. and John Schmitz GE recommendation packet",
+      documentDate: "1992-12-14",
+      pages: 9,
+      excerpt:
+        "President Bush sends Jack Welch a note and material recommending John Schmitz for a GE opportunity, with typed talking points, Schmitz's resume, references, and handwritten draft notes retained.",
+      evidence:
+        "Itemized from pages 53-61 of the NARA direct folder scan using the presidential handwritten note to Jack Welch, typed Schmitz talking points, resume and references pages, Bush handwritten draft pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photographs-december-1992",
+      documentType: "Official White House Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Official White House photograph packet from December 1992",
+      documentDate: "1992-12-14",
+      pages: 4,
+      excerpt:
+        "Two official White House photograph leaves and their reverse scans show President Bush in White House settings, including one image with Barbara Bush.",
+      evidence:
+        "Itemized from pages 62-65 of the NARA direct folder scan using the color photograph pages, official White House photo reverse pages, OCR, and rendered-page review.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -40362,6 +40689,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418215",
   "470418239",
   "470418243",
+  "470418248",
   "646482525",
   "646482521",
   "646482523",
