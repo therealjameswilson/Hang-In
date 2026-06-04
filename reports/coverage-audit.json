@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T02:30:11.706Z",
+  "generatedAt": "2026-06-04T02:37:13.107Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
@@ -99,7 +99,7 @@
     "itemized-press-conference-qa": 1,
     "itemized-presidential-statement": 11,
     "itemized-meeting-briefing-attachment": 7,
-    "itemized-memorandum": 49,
+    "itemized-memorandum": 48,
     "itemized-president-note": 59,
     "itemized-campaign-finance-summary": 1,
     "itemized-campaign-correspondence": 21,
@@ -335,11 +335,11 @@
     "itemized-personnel-action-memorandum": 1,
     "itemized-staff-routing-note": 1,
     "itemized-presidential-request-memorandum": 1,
+    "itemized-campaign-opposition-research": 2,
     "itemized-campaign-rebuttal-talking-points": 1,
     "itemized-campaign-news-summary-page": 1,
     "itemized-ethanol-policy-routing-note": 1,
     "itemized-hurricane-andrew-situation-report": 1,
-    "itemized-campaign-opposition-research": 1,
     "itemized-campaign-strategy-memorandum": 4,
     "itemized-nuclear-waste-response-packet": 1,
     "itemized-health-care-correspondence": 1,
@@ -29390,17 +29390,17 @@
     {
       "date": "1992-08-25",
       "documentDate": "1992-08-25",
-      "title": "Response to Claims Clinton is Raising Again",
+      "title": "President Bush memorandum to James Baker requesting analysis of Clinton's Detroit Economic Club speech",
       "parentPacketId": "nara-470418007-direct-scan",
       "naId": "470418007",
       "folderId": "90710-007",
       "containerId": "90710",
-      "category": "campaign-rebuttal-talking-points",
-      "disposition": "itemized-campaign-rebuttal-talking-points",
-      "type": "Campaign Rebuttal Talking Points",
+      "category": "campaign-opposition-research",
+      "disposition": "itemized-campaign-opposition-research",
+      "type": "Presidential Transmittal Memorandum",
       "catalogUrl": "https://catalog.archives.gov/id/470418007",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90710-007.pdf",
-      "excerpt": "A campaign rebuttal packet answers claims raised by Bill Clinton, with point-by-point responses on the economy, taxes, jobs, trade, wages, welfare, children, the environment, agriculture, regulation, and education."
+      "excerpt": "President Bush forwards Clinton's defining speech to the Economic Club to James Baker and asks that someone analyze it point by point with true-or-false judgments and short explanations."
     },
     {
       "date": "1992-08-25",
@@ -29420,17 +29420,17 @@
     {
       "date": "1992-08-25",
       "documentDate": "1992-08-25",
-      "title": "Official White House photo transfer pages, August 25, 1992",
+      "title": "Response to Claims Clinton is Raising Again",
       "parentPacketId": "nara-470418007-direct-scan",
       "naId": "470418007",
       "folderId": "90710-007",
       "containerId": "90710",
-      "category": "official-white-house-photographs",
-      "disposition": "itemized-official-white-house-photographs",
-      "type": "Official White House Photographs",
+      "category": "campaign-rebuttal-talking-points",
+      "disposition": "itemized-campaign-rebuttal-talking-points",
+      "type": "Campaign Rebuttal Talking Points",
       "catalogUrl": "https://catalog.archives.gov/id/470418007",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90710-007.pdf",
-      "excerpt": "Official White House photo pages and transfer placeholders appear in the direct scan, including color photographs and Official White House Photo backing pages."
+      "excerpt": "A campaign rebuttal packet answers claims raised by Bill Clinton, with point-by-point responses on the economy, taxes, jobs, trade, wages, welfare, children, the environment, agriculture, regulation, and education."
     },
     {
       "date": "1992-08-25",
@@ -29450,17 +29450,17 @@
     {
       "date": "1992-08-25",
       "documentDate": "1992-08-25",
-      "title": "Washington Post clippings on campaign economics, Iraq, Quayle, peace talks, job training, arms control, and television",
+      "title": "Official White House photo transfer pages, August 25, 1992",
       "parentPacketId": "nara-470418007-direct-scan",
       "naId": "470418007",
       "folderId": "90710-007",
       "containerId": "90710",
-      "category": "press-clipping-packet",
-      "disposition": "itemized-press-clipping-packet",
-      "type": "Press Clippings",
+      "category": "official-white-house-photographs",
+      "disposition": "itemized-official-white-house-photographs",
+      "type": "Official White House Photographs",
       "catalogUrl": "https://catalog.archives.gov/id/470418007",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90710-007.pdf",
-      "excerpt": "The Washington Post clipping packet includes articles and columns on Bush's economic-revival argument, Clinton's economic attacks, low-wage earners, Iraq, Quayle, peace talks, Pat Buchanan, job training, arms control, and television coverage."
+      "excerpt": "Official White House photo pages and transfer placeholders appear in the direct scan, including color photographs and Official White House Photo backing pages."
     },
     {
       "date": "1992-08-25",
@@ -29480,17 +29480,17 @@
     {
       "date": "1992-08-25",
       "documentDate": "1992-08-25",
-      "title": "Wall Street Journal articles on Libya, Iraq, markets, Thomas, Japan, and Iraqi weapons",
+      "title": "Washington Post clippings on campaign economics, Iraq, Quayle, peace talks, job training, arms control, and television",
       "parentPacketId": "nara-470418007-direct-scan",
       "naId": "470418007",
       "folderId": "90710-007",
       "containerId": "90710",
-      "category": "press-article-packet",
-      "disposition": "itemized-press-article-packet",
-      "type": "Press Articles",
+      "category": "press-clipping-packet",
+      "disposition": "itemized-press-clipping-packet",
+      "type": "Press Clippings",
       "catalogUrl": "https://catalog.archives.gov/id/470418007",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90710-007.pdf",
-      "excerpt": "The Wall Street Journal article packet covers Libya sanctions and oil companies, Bush campaign strategy, Iraqi dissidents and weapons, the dollar and the Bundesbank, Clarence Thomas, and Japan."
+      "excerpt": "The Washington Post clipping packet includes articles and columns on Bush's economic-revival argument, Clinton's economic attacks, low-wage earners, Iraq, Quayle, peace talks, Pat Buchanan, job training, arms control, and television coverage."
     },
     {
       "date": "1992-08-25",
@@ -29510,17 +29510,17 @@
     {
       "date": "1992-08-25",
       "documentDate": "1992-08-25",
-      "title": "New York Times clippings on remedial math, campaigns, Cambodia, courts, voting, and jobs",
+      "title": "Wall Street Journal articles on Libya, Iraq, markets, Thomas, Japan, and Iraqi weapons",
       "parentPacketId": "nara-470418007-direct-scan",
       "naId": "470418007",
       "folderId": "90710-007",
       "containerId": "90710",
-      "category": "press-clipping-packet",
-      "disposition": "itemized-press-clipping-packet",
-      "type": "Press Clippings",
+      "category": "press-article-packet",
+      "disposition": "itemized-press-article-packet",
+      "type": "Press Articles",
       "catalogUrl": "https://catalog.archives.gov/id/470418007",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90710-007.pdf",
-      "excerpt": "The New York Times clipping packet includes opinion and news items on Bush and Clinton economics, campaign claims, Cambodia, New York courts, voting restrictions, and Bush's job-training proposal."
+      "excerpt": "The Wall Street Journal article packet covers Libya sanctions and oil companies, Bush campaign strategy, Iraqi dissidents and weapons, the dollar and the Bundesbank, Clarence Thomas, and Japan."
     },
     {
       "date": "1992-08-25",
@@ -29540,7 +29540,7 @@
     {
       "date": "1992-08-25",
       "documentDate": "1992-08-25",
-      "title": "Washington Times clippings on Bush travel, Baker, foreign policy, U.N., chemical weapons, and campaign themes",
+      "title": "New York Times clippings on remedial math, campaigns, Cambodia, courts, voting, jobs, and Hurricane Andrew",
       "parentPacketId": "nara-470418007-direct-scan",
       "naId": "470418007",
       "folderId": "90710-007",
@@ -29550,7 +29550,7 @@
       "type": "Press Clippings",
       "catalogUrl": "https://catalog.archives.gov/id/470418007",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90710-007.pdf",
-      "excerpt": "The Washington Times clipping packet covers Bush campaign travel, Baker's campaign role, foreign policy, chemical weapons, football and price-fixing commentary, Horn of Africa drought, the U.N., Mexico, and job training."
+      "excerpt": "The New York Times clipping packet includes opinion and news items on Bush and Clinton economics, campaign claims, Cambodia, New York courts, voting restrictions, Bush's job-training proposal, and a Connecticut visit after Hurricane Andrew."
     },
     {
       "date": "1992-08-25",
@@ -29570,7 +29570,7 @@
     {
       "date": "1992-08-25",
       "documentDate": "1992-08-25",
-      "title": "USA Today and loose campaign clippings",
+      "title": "Washington Times clippings on Bush travel, Baker, foreign policy, U.N., chemical weapons, and campaign themes",
       "parentPacketId": "nara-470418007-direct-scan",
       "naId": "470418007",
       "folderId": "90710-007",
@@ -29580,7 +29580,7 @@
       "type": "Press Clippings",
       "catalogUrl": "https://catalog.archives.gov/id/470418007",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90710-007.pdf",
-      "excerpt": "Loose clipping pages include USA Today campaign and economics items and an additional color or graphic clipping page in the August 25 packet."
+      "excerpt": "The Washington Times clipping packet covers Bush campaign travel, Baker's campaign role, foreign policy, chemical weapons, football and price-fixing commentary, Horn of Africa drought, the U.N., Mexico, and job training."
     },
     {
       "date": "1992-08-25",
@@ -29600,7 +29600,7 @@
     {
       "date": "1992-08-25",
       "documentDate": "1992-08-25",
-      "title": "Los Angeles Times clippings on Middle East policy, Orange County, job training, Clinton, education, and Saddam",
+      "title": "USA Today and loose campaign clippings",
       "parentPacketId": "nara-470418007-direct-scan",
       "naId": "470418007",
       "folderId": "90710-007",
@@ -29610,7 +29610,7 @@
       "type": "Press Clippings",
       "catalogUrl": "https://catalog.archives.gov/id/470418007",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90710-007.pdf",
-      "excerpt": "The Los Angeles Times clipping packet includes articles and commentary on Israeli border negotiations, Saddam Hussein, Orange County politics, Bush's job-training plan, Clinton and Tsongas, education, and Middle East policy."
+      "excerpt": "Loose clipping pages include USA Today campaign and economics items and an additional color or graphic clipping page in the August 25 packet."
     },
     {
       "date": "1992-08-25",
@@ -29630,17 +29630,17 @@
     {
       "date": "1992-08-25",
       "documentDate": "1992-08-25",
-      "title": "Presidential correspondence packet: August 25, 1992",
+      "title": "Los Angeles Times clippings on Middle East policy, Orange County, job training, Clinton, education, and Saddam",
       "parentPacketId": "nara-470418007-direct-scan",
       "naId": "470418007",
       "folderId": "90710-007",
       "containerId": "90710",
-      "category": "presidential-correspondence",
-      "disposition": "itemized-presidential-correspondence",
-      "type": "Presidential Correspondence Packet",
+      "category": "press-clipping-packet",
+      "disposition": "itemized-press-clipping-packet",
+      "type": "Press Clippings",
       "catalogUrl": "https://catalog.archives.gov/id/470418007",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90710-007.pdf",
-      "excerpt": "A low-OCR presidential correspondence packet includes White House letter copies to supporters or constituents, including a letter to Major Donald P. Warren and a condolence note."
+      "excerpt": "The Los Angeles Times clipping packet includes articles and commentary on Israeli border negotiations, Saddam Hussein, Orange County politics, Bush's job-training plan, Clinton and Tsongas, education, and Middle East policy."
     },
     {
       "date": "1992-08-25",
@@ -29656,6 +29656,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418006",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90710-006.pdf",
       "excerpt": "Presidential Determination No. 92-42 makes up to $12 million available from the U.S. Emergency Refugee and Migration Assistance Fund for refugees, conflict victims, and displaced persons from the former Yugoslavia."
+    },
+    {
+      "date": "1992-08-25",
+      "documentDate": "1992-08-25",
+      "title": "Presidential correspondence packet: August 25, 1992",
+      "parentPacketId": "nara-470418007-direct-scan",
+      "naId": "470418007",
+      "folderId": "90710-007",
+      "containerId": "90710",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Correspondence Packet",
+      "catalogUrl": "https://catalog.archives.gov/id/470418007",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90710-007.pdf",
+      "excerpt": "A low-OCR presidential correspondence packet includes White House letter copies to supporters or constituents, including a letter to Major Donald P. Warren and a condolence note."
     },
     {
       "date": "1992-08-25",
@@ -29821,21 +29836,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418006",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90710-006.pdf",
       "excerpt": "The American Legion remarks discuss Hurricane Andrew, veterans health care, POW/MIA accounting, the Gulf War, the Cold War, Iraq, chemical weapons, force readiness, trade, and American values."
-    },
-    {
-      "date": "1992-08-25",
-      "documentDate": "1992-08-25",
-      "title": "Memorandum for James A. Baker III",
-      "parentPacketId": "nara-470418007-direct-scan",
-      "naId": "470418007",
-      "folderId": "90710-007",
-      "containerId": "90710",
-      "category": "memorandum-item",
-      "disposition": "itemized-memorandum",
-      "type": "Memorandum",
-      "catalogUrl": "https://catalog.archives.gov/id/470418007",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90710-007.pdf",
-      "excerpt": "MEMORANDUM FOR JAMES A. BAKER III From: The President Attached is Clinton's defining speech to the Economic Club. Please have someone analyze it point by point in concise form. I have a feeling this is what we'll get in debate. Each statement should have a \"true\" or \"false\" next to it plus a very short analysis. For example, on page 1, I've marked last para \"A\": Is it true or false? Then here's why it's false, if it is. No rush, but some campaign analyst can do this. FROM THE PRESIDENT RZ Response to Clinton Cha..."
     },
     {
       "date": "1992-08-26",

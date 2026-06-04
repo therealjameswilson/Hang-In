@@ -20226,6 +20226,20 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470418007: [
     {
+      slug: "president-baker-clinton-detroit-speech-analysis-transmittal",
+      documentType: "Presidential Transmittal Memorandum",
+      category: "campaign-opposition-research",
+      disposition: "itemized-campaign-opposition-research",
+      title:
+        "President Bush memorandum to James Baker requesting analysis of Clinton's Detroit Economic Club speech",
+      documentDate: "1992-08-25",
+      pages: 1,
+      excerpt:
+        "President Bush forwards Clinton's defining speech to the Economic Club to James Baker and asks that someone analyze it point by point with true-or-false judgments and short explanations.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the From the President memorandum, James A. Baker III addressee, OCR, and rendered-page review.",
+    },
+    {
       slug: "response-to-claims-clinton-is-raising-again",
       documentType: "Campaign Rebuttal Talking Points",
       category: "campaign-rebuttal-talking-points",
@@ -20236,7 +20250,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "A campaign rebuttal packet answers claims raised by Bill Clinton, with point-by-point responses on the economy, taxes, jobs, trade, wages, welfare, children, the environment, agriculture, regulation, and education.",
       evidence:
-        "Itemized from the Response to Claims heading and claim/response pages found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+        "Itemized from pages 3-15 of the NARA direct folder scan using the Response to Clinton Charges in Detroit Speech heading, claim/response pages, OCR, and rendered-page review.",
     },
     {
       slug: "official-white-house-photo-transfer-pages-august-25-1992",
@@ -20249,7 +20263,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "Official White House photo pages and transfer placeholders appear in the direct scan, including color photographs and Official White House Photo backing pages.",
       evidence:
-        "Itemized from rendered-page review of color photo pages and Official White House Photo transfer placeholders in the NARA direct folder scan.",
+        "Itemized from pages 16-20 of the NARA direct folder scan using color photograph pages, Official White House Photo backing pages, OCR, and rendered-page review.",
     },
     {
       slug: "washington-post-campaign-economy-clippings-august-25-1992",
@@ -20263,7 +20277,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The Washington Post clipping packet includes articles and columns on Bush's economic-revival argument, Clinton's economic attacks, low-wage earners, Iraq, Quayle, peace talks, Pat Buchanan, job training, arms control, and television coverage.",
       evidence:
-        "Itemized from Washington Post mastheads, article starts, and continuation pages found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+        "Itemized from pages 21-35 of the NARA direct folder scan using Washington Post mastheads, article starts, continuation pages, OCR, and rendered-page review.",
     },
     {
       slug: "wall-street-journal-libya-iraq-economy-articles",
@@ -20277,7 +20291,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The Wall Street Journal article packet covers Libya sanctions and oil companies, Bush campaign strategy, Iraqi dissidents and weapons, the dollar and the Bundesbank, Clarence Thomas, and Japan.",
       evidence:
-        "Itemized from Wall Street Journal article starts and continuation pages found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+        "Itemized from pages 36-43 of the NARA direct folder scan using Wall Street Journal mastheads, article starts, continuation pages, OCR, and rendered-page review.",
     },
     {
       slug: "new-york-times-clippings-august-25-1992",
@@ -20285,13 +20299,13 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       category: "press-clipping-packet",
       disposition: "itemized-press-clipping-packet",
       title:
-        "New York Times clippings on remedial math, campaigns, Cambodia, courts, voting, and jobs",
+        "New York Times clippings on remedial math, campaigns, Cambodia, courts, voting, jobs, and Hurricane Andrew",
       documentDate: "1992-08-25",
-      pages: 7,
+      pages: 8,
       excerpt:
-        "The New York Times clipping packet includes opinion and news items on Bush and Clinton economics, campaign claims, Cambodia, New York courts, voting restrictions, and Bush's job-training proposal.",
+        "The New York Times clipping packet includes opinion and news items on Bush and Clinton economics, campaign claims, Cambodia, New York courts, voting restrictions, Bush's job-training proposal, and a Connecticut visit after Hurricane Andrew.",
       evidence:
-        "Itemized from New York Times clipping pages, article starts, and continuation pages found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+        "Itemized from pages 44-51 of the NARA direct folder scan using New York Times mastheads, article starts, continuation pages, OCR, and rendered-page review.",
     },
     {
       slug: "washington-times-campaign-foreign-policy-clippings",
@@ -20301,11 +20315,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       title:
         "Washington Times clippings on Bush travel, Baker, foreign policy, U.N., chemical weapons, and campaign themes",
       documentDate: "1992-08-25",
-      pages: 17,
+      pages: 16,
       excerpt:
         "The Washington Times clipping packet covers Bush campaign travel, Baker's campaign role, foreign policy, chemical weapons, football and price-fixing commentary, Horn of Africa drought, the U.N., Mexico, and job training.",
       evidence:
-        "Itemized from Washington Times mastheads, article starts, and continuation pages found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+        "Itemized from pages 52-67 of the NARA direct folder scan using Washington Times mastheads, article starts, continuation pages, OCR, and rendered-page review.",
     },
     {
       slug: "usa-today-and-loose-campaign-clippings",
@@ -20318,7 +20332,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "Loose clipping pages include USA Today campaign and economics items and an additional color or graphic clipping page in the August 25 packet.",
       evidence:
-        "Itemized from USA Today clipping pages and a loose color/graphic page confirmed by rendered-page review of the NARA direct folder scan.",
+        "Itemized from pages 68-70 of the NARA direct folder scan using USA Today mastheads, clipping starts, a loose color/graphic page, OCR, and rendered-page review.",
     },
     {
       slug: "los-angeles-times-middle-east-campaign-clippings",
@@ -20332,7 +20346,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "The Los Angeles Times clipping packet includes articles and commentary on Israeli border negotiations, Saddam Hussein, Orange County politics, Bush's job-training plan, Clinton and Tsongas, education, and Middle East policy.",
       evidence:
-        "Itemized from Los Angeles Times mastheads, article starts, and continuation pages found in full-PDF OCR and rendered-page review of the NARA direct folder scan.",
+        "Itemized from pages 71-81 of the NARA direct folder scan using Los Angeles Times mastheads, article starts, continuation pages, OCR, and rendered-page review.",
     },
     {
       slug: "august-25-presidential-correspondence-packet",
@@ -20345,7 +20359,7 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "A low-OCR presidential correspondence packet includes White House letter copies to supporters or constituents, including a letter to Major Donald P. Warren and a condolence note.",
       evidence:
-        "Itemized from rendered-page review of photocopied White House correspondence pages at the end of the NARA direct folder scan; OCR is low-confidence on some recipients.",
+        "Itemized from pages 82-84 of the NARA direct folder scan using photocopied White House correspondence pages, address blocks, OCR, and rendered-page review; OCR is low-confidence on some recipients.",
     },
   ],
   470418010: [
@@ -25595,6 +25609,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417997",
   "470417998",
   "470418006",
+  "470418007",
   "470418083",
   "646482521",
 ]);
