@@ -20763,6 +20763,19 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470418028: [
     {
+      slug: "john-ashmun-richard-vigilante-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John B. Ashmun correspondence packet re Richard Vigilante column",
+      documentDate: "1992-09-02",
+      pages: 3,
+      excerpt:
+        "The packet includes President Bush's response to John B. Ashmun, a George Bush desk note saying to thank him, and Ashmun's incoming note forwarding Richard Vigilante's column as useful campaign material.",
+      evidence:
+        "Itemized from pages 2-4 of the NARA direct folder scan using the White House outgoing letter, George Bush desk note, John B. Ashmun incoming note, OCR, and rendered-page review.",
+    },
+    {
       slug: "richard-vigilante-bush-economic-record-column",
       documentType: "Press Column",
       category: "campaign-press-article",
@@ -20774,7 +20787,46 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "A Houston Chronicle column by Richard Vigilante argues that President Bush should run on his domestic economic record, including inflation, trade, and post-Cold War markets.",
       evidence:
-        "Itemized from the clipped Houston Chronicle column attached to the John B. Ashmun correspondence in full-PDF OCR and rendered-page review.",
+        "Itemized from page 5 of the NARA direct folder scan using the clipped Houston Chronicle column attached to the John B. Ashmun correspondence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ec-leblond-convention-family-values-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "E.C. LeBlond correspondence re convention speeches and family values",
+      documentDate: "1992-09-02",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Sue and Chappy LeBlond for their August 20 letter of support and writes that he will continue to stand for life, world peace, and family values.",
+      evidence:
+        "Itemized from pages 6-7 of the NARA direct folder scan using the White House outgoing letter, E.C. LeBlond incoming handwritten letter, President Has Seen marking, OCR, and rendered-page review.",
+    },
+    {
+      slug: "walter-curley-support-correspondence-packet",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Walter J.P. Curley correspondence packet re convention and campaign support",
+      documentDate: "1992-09-02",
+      pages: 4,
+      excerpt:
+        "President Bush replies to Walter J.P. Curley's encouraging letter, writes that the convention was a success, and says he is convinced they will win in November.",
+      evidence:
+        "Itemized from pages 8-11 of the NARA direct folder scan using the White House outgoing letter, Walter J.P. Curley incoming handwritten pages, airmail envelope page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "brian-mulroney-convention-correspondence-scowcroft-routing",
+      documentType: "Foreign Leader Correspondence Packet",
+      category: "foreign-leader-correspondence",
+      disposition: "itemized-diplomatic-correspondence",
+      title: "Brian Mulroney convention correspondence and Scowcroft routing note",
+      documentDate: "1992-09-02",
+      pages: 3,
+      excerpt:
+        "President Bush responds to Prime Minister Brian Mulroney's August 25 letter about the Republican National Convention, and the packet includes a September 2 White House routing note forwarding the material to Brent Scowcroft for information.",
+      evidence:
+        "Itemized from pages 12-14 of the NARA direct folder scan using the President's handwritten response page, White House Scowcroft routing note, Brian Mulroney incoming letter, OCR, and rendered-page review.",
     },
     {
       slug: "william-prescott-bush-whataburger-poll-correspondence",
@@ -25657,6 +25709,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418007",
   "470418010",
   "470418024",
+  "470418028",
   "470418083",
   "646482521",
   "646482523",
