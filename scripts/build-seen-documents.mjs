@@ -32767,6 +32767,47 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 124-125 of the NARA direct folder scan using the color photograph transfer page, Official White House Photo backing page, low-confidence OCR, and rendered-page review.",
     },
   ],
+  470418180: [
+    {
+      slug: "mrs-bush-press-office-daily-press-clippings-november-12",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Thursday, November 12, 1992",
+      documentDate: "1992-11-12",
+      pages: 19,
+      excerpt:
+        "Mrs. Bush's Press Office daily press clippings for Thursday, November 12, 1992, with a distribution sheet and articles on Barbara Bush at Sun City Center, the Vietnam Wall name reading, President Bush in Florida, and First Family coverage.",
+      evidence:
+        "Itemized from pages 1-19 of the NARA direct folder scan using the Mrs. Bush's Press Office cover sheet, First Lady's Press mastheads, Los Angeles Times, Washington Post, New York Times, USA Today, wire, and Philadelphia Inquirer clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-telephone-movements-gift-register-november-13",
+      documentType: "Administrative Packet",
+      category: "telephone-and-movements-records",
+      disposition: "itemized-telephone-and-movements-records",
+      title: "White House telephone memoranda, presidential movements, and gift register for November 13",
+      documentDate: "1992-11-13",
+      pages: 8,
+      excerpt:
+        "The administrative packet includes White House telephone memorandum sheets, a George Bush Library withdrawal/redaction sheet, presidential movements for Boca Grande, and gift-register pages.",
+      evidence:
+        "Itemized from pages 20-27 of the NARA direct folder scan using White House Telephone Memorandum pages, Signal Switchboard sheets, withdrawal/redaction sheet, Presidential Movements page, gift-register pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rnc-daily-news-summary-november-12-1992",
+      documentType: "Daily News Summary",
+      category: "daily-news-summary",
+      disposition: "itemized-news-summary",
+      title: "Republican National Committee Daily News Summary: Thursday, November 12, 1992",
+      documentDate: "1992-11-12",
+      pages: 48,
+      excerpt:
+        "The Republican National Committee Daily News Summary compiles post-election coverage on President Bush's political wake, Florida trip, passport-file inquiry, the Bush-Clinton transition, Republican leadership, Iran-Contra, Perot voters, and party futures.",
+      evidence:
+        "Itemized from pages 28-75 of the NARA direct folder scan using the RNC Daily News Summary cover, Washington Post, New York Times, Washington Times, Wall Street Journal, Reliable Source, and other clipping pages, OCR, and rendered-page review.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -33197,6 +33238,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418164",
   "470418165",
   "470418174",
+  "470418180",
   "646482525",
   "646482521",
   "646482523",
