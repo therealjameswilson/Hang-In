@@ -21449,6 +21449,59 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470418041: [
     {
+      slug: "photo-opportunity-national-jewish-campaign-committee-briefing",
+      documentType: "Event Briefing",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title:
+        "Briefing for photo opportunity with Bush-Quayle '92 National Jewish Campaign Committee",
+      documentDate: "1992-09-07",
+      pages: 2,
+      excerpt:
+        "The revised briefing prepares President Bush for an 11:10 a.m. September 8 photo opportunity with the Bush-Quayle '92 National Jewish Campaign Committee at the Sheraton Washington Hotel, including purpose, background, participants, press plan, sequence of events, and note that no remarks were required.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the revised White House event briefing heading, participant list, sequence page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bnai-brith-international-convention-event-briefing",
+      documentType: "Event Briefing",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Briefing for address to the B'nai B'rith International Convention",
+      documentDate: "1992-09-07",
+      pages: 4,
+      excerpt:
+        "The revised briefing prepares President Bush for his September 8 address to the B'nai B'rith International Convention, including background on the organization, the question-and-answer plan, presentation of George Washington's letter to the Hebrew Congregation of Newport, and dais guest lists.",
+      evidence:
+        "Itemized from pages 4-7 of the NARA direct folder scan using the revised White House event briefing heading, background and Q&A pages, dais guest lists, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cocktails-congressional-leadership-briefing",
+      documentType: "Event Briefing",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Briefing for cocktails with Congressional Leadership",
+      documentDate: "1992-09-07",
+      pages: 1,
+      excerpt:
+        "Nicholas E. Calio's revised briefing prepares President Bush for 6:00 p.m. cocktails with Congressional Leaders and Whips at the Residence as Congress returned from summer recess.",
+      evidence:
+        "Itemized from page 8 of the NARA direct folder scan using the revised White House event briefing heading, participant list, sequence text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-9am-wires-september-8-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 9:00 a.m. wires, September 8, 1992",
+      documentDate: "1992-09-08",
+      pages: 5,
+      excerpt:
+        "The 9:00 a.m. wire summary covers Clinton trying to move debate back to jobs, scrutiny of Clinton's Arkansas record, and Congress returning for a hectic fall session.",
+      evidence:
+        "Itemized from pages 9-13 of the NARA direct folder scan using the 9:00 a.m. White House News Summary heading, AP story starts, continuation pages, OCR, and rendered-page review.",
+    },
+    {
       slug: "russell-sellers-asheville-visit-correspondence",
       documentType: "Presidential Correspondence Packet",
       category: "presidential-correspondence",
@@ -25750,6 +25803,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418024",
   "470418028",
   "470418030",
+  "470418041",
   "470418083",
   "646482521",
   "646482523",
