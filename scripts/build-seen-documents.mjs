@@ -36566,6 +36566,203 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from page 143 of the NARA direct folder scan using the outgoing typed reply copy, address block, OCR, and rendered-page review.",
     },
   ],
+  470418210: [
+    {
+      slug: "mary-philbrick-michael-hutchins-church-note-correspondence",
+      documentType: "Correspondence and Presidential Notes Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mary Longley Philbrick and Michael Hutchins church-note correspondence packet",
+      documentDate: "1992-11-29",
+      pages: 4,
+      excerpt:
+        "President Bush writes Mary Longley Philbrick after church and sends Michael Hutchins a school note at Philbrick's request, with Bush's desk note and Philbrick's incoming request retained in the packet.",
+      evidence:
+        "Itemized from pages 2-5 of the NARA direct folder scan using the From the desk of George Bush cover note, two outgoing handwritten replies, incoming Philbrick note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bill-truesdale-thanksgiving-condolence-phone-note",
+      documentType: "Phone Call Note and Incoming Correspondence",
+      category: "presidential-phone-call-note",
+      disposition: "itemized-presidential-phone-call-note",
+      title: "Bill Truesdale Thanksgiving and condolence phone-call note packet",
+      documentDate: "1992-11-29",
+      pages: 3,
+      excerpt:
+        "A Presidential Phone Calls sheet for Bill Truesdale appears with a Thanksgiving and condolence note to the Bush family and an addressed backing page.",
+      evidence:
+        "Itemized from pages 6-8 of the NARA direct folder scan using the presidential phone-call form, Bush Library handwriting photocopy notation, incoming handwritten note, backing page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-to-president-november-29-1992",
+      documentType: "Materials Forwarded List",
+      category: "materials-forwarded-to-president",
+      disposition: "itemized-materials-forwarded",
+      title: "Materials forwarded to the President, November 29, 1992",
+      documentDate: "1992-11-29",
+      pages: 1,
+      excerpt:
+        "The list records materials forwarded to the President at the Residence, including revised options on food-labeling regulations and accompanying schedule briefing papers.",
+      evidence:
+        "Itemized from page 9 of the NARA direct folder scan using the Materials Forwarded to the President heading, action and schedule categories, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-schedule-november-29-1992",
+      documentType: "Presidential Schedule",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title: "Schedule of the President, November 29, 1992",
+      documentDate: "1992-11-29",
+      pages: 1,
+      excerpt:
+        "The schedule records President Bush in Kennebunkport, departing for Washington, and arriving on the White House South Lawn.",
+      evidence:
+        "Itemized from page 10 of the NARA direct folder scan using the schedule heading, Kennebunkport and South Lawn entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "laurie-firestone-robert-goodman-christmas-party-note",
+      documentType: "President's Note",
+      category: "presidential-note",
+      disposition: "itemized-president-note",
+      title: "President Bush note to Laurie Firestone re Robert Goodman Christmas party invitation",
+      documentDate: "1992-11-29",
+      pages: 1,
+      excerpt:
+        "President Bush asks Laurie Firestone to include Robert Goodman at a Christmas party or other good event and supplies Goodman Agency contact information.",
+      evidence:
+        "Itemized from page 11 of the NARA direct folder scan using the From the President note, recipient line, Robert Goodman address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "horacio-aguirre-unesco-policy-editorial-packet",
+      documentType: "President's Note, Correspondence, and Editorial Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Horacio Aguirre UNESCO policy update and Diario Las Americas editorial packet",
+      documentDate: "1992-11-29",
+      pages: 5,
+      excerpt:
+        "President Bush asks Brent Scowcroft for an update on UNESCO policy after seeing Horacio Aguirre editorials, while Jeb Bush forwards Aguirre's support and Bush replies to Aguirre about UNESCO.",
+      evidence:
+        "Itemized from pages 12-16 of the NARA direct folder scan using the From the President note to Brent Scowcroft, Diario Las Americas editorials, Horacio Aguirre address page, Jeb Bush transmittal note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michael-dagostino-good-neighbor-editorial-correspondence",
+      documentType: "Letter, Editorial, and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Michael Dagostino Foster's Daily Democrat good-neighbor editorial correspondence",
+      documentDate: "1992-11-29",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Michael Dagostino after seeing a Foster's Daily Democrat editorial calling Bush a good neighbor in Kennebunkport.",
+      evidence:
+        "Itemized from pages 17-19 of the NARA direct folder scan using the outgoing handwritten reply, newspaper editorial clipping, incoming handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "hank-klein-future-and-jeb-correspondence",
+      documentType: "Outgoing Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Hank Klein future and Jeb Bush presidential reply",
+      documentDate: "1992-11-29",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Hank Klein for a kind letter, says the Bushes are okay and looking to the future, and tells him to take care of Jeb.",
+      evidence:
+        "Itemized from pages 20-21 of the NARA direct folder scan using the two-page outgoing handwritten reply, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "telephone-memorandum-barbara-bush-november-29-1992",
+      documentType: "Telephone Memorandum",
+      category: "telephone-memorandum",
+      disposition: "itemized-telephone-memorandum",
+      title: "White House telephone memorandum for Mrs. Barbara Bush, November 29, 1992",
+      documentDate: "1992-11-29",
+      pages: 1,
+      excerpt:
+        "The White House telephone memorandum records a call placed to Mrs. Barbara Bush through the White House Administration extension on November 29.",
+      evidence:
+        "Itemized from page 22 of the NARA direct folder scan using the Telephone Memorandum heading, President Bush call log line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "signal-switchboard-telephone-memorandum-november-29-1992",
+      documentType: "Signal Switchboard Telephone Memorandum",
+      category: "telephone-memorandum",
+      disposition: "itemized-telephone-memorandum",
+      title: "Signal Switchboard telephone memorandum, November 29, 1992",
+      documentDate: "1992-11-29",
+      pages: 1,
+      excerpt:
+        "The Signal Switchboard memorandum logs November 29 calls involving William Truesdale, Kenneth Raynor, Thomas Koroscil, John Wissler, and Kennebunkport offices.",
+      evidence:
+        "Itemized from page 23 of the NARA direct folder scan using the Signal Switchboard heading, call entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-november-29-1992",
+      documentType: "Presidential Movements",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential movements, November 29, 1992",
+      documentDate: "1992-11-29",
+      pages: 1,
+      excerpt:
+        "The movements sheet records President Bush's day from Walker's Point and North Congregational Church to Cape Arundel Golf Course, Pease, Andrews, and the White House Residence.",
+      evidence:
+        "Itemized from page 24 of the NARA direct folder scan using the Presidential Movements heading, times, movement entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jody-hogan-condolence-card-religious-text-packet",
+      documentType: "Condolence Card and Presidential Reply Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jody Hogan condolence card and Dorothy Walker Bush religious-text reply packet",
+      documentDate: "1992-11-29",
+      pages: 7,
+      excerpt:
+        "President Bush writes Jody Hogan from Air Force One about leaving Kennebunkport as President, thanks her for caring, and shares Dorothy Walker Bush's service-of-gratitude text with her incoming card retained.",
+      evidence:
+        "Itemized from pages 25-31 of the NARA direct folder scan using the copy-stamped outgoing reply, continuation page, Central Files sheet, Dorothy Walker Bush text, incoming greeting-card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kim-douglas-bush-quayle-letter-correspondence",
+      documentType: "Letter and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Kim Douglas Bush-Quayle letter correspondence",
+      documentDate: "1992-11-29",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Kim Douglas for a thoughtful letter and writes that her words of encouragement meant a great deal, with Douglas's November 17 letter attached.",
+      evidence:
+        "Itemized from pages 32-34 of the NARA direct folder scan using the outgoing Bush-Quayle stationery reply, incoming two-page letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kent-pierce-family-condolence-correspondence",
+      documentType: "Family Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Kent Pierce family condolence correspondence packet",
+      documentDate: "1992-11-29",
+      pages: 4,
+      excerpt:
+        "President Bush and Barbara Bush answer Kent C. Pierce's family letter to Aunt Bar and Uncle George, with Central Files routing and Pierce's incoming November 14 letter attached.",
+      evidence:
+        "Itemized from pages 35-38 of the NARA direct folder scan using the copy-stamped presidential reply, Barbara Bush reply, Central Files sheet, incoming family letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photo-packet-november-29-1992",
+      documentType: "Official White House Photograph Packet",
+      category: "photograph-packet",
+      disposition: "itemized-photograph-packet",
+      title: "Official White House photograph packet: Pease, Walker's Point, Grand Rapids, and Lewis Preston",
+      documentDate: "1992-11-29",
+      pages: 11,
+      excerpt:
+        "A color photograph packet includes official White House photo fronts and backs labeled for departure from Pease, the last time at Walker's Point as President, Grand Rapids, and Lewis Preston of the World Bank.",
+      evidence:
+        "Itemized from pages 39-49 of the NARA direct folder scan using the color photograph pages, official White House photo back labels, handwritten sticky-note captions, OCR, and rendered-page review.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -37003,6 +37200,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418196",
   "470418202",
   "470418206",
+  "470418210",
   "646482525",
   "646482521",
   "646482523",
