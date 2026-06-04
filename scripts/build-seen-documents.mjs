@@ -39213,6 +39213,411 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 142-145 of the NARA direct folder scan using the color photograph pages, photo-back pages, handwritten Tip O'Neill/Sonny Montgomery caption, OCR, and rendered-page review.",
     },
   ],
+  470418239: [
+    {
+      slug: "william-hewitt-tishie-condolence-correspondence",
+      documentType: "Presidential Reply, Routing Note, and Condolence Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William A. Hewitt condolence correspondence packet re Tishie",
+      documentDate: "1992-12-10",
+      pages: 3,
+      excerpt:
+        "President Bush writes Bill Hewitt after hearing of Tishie's death, with a Susan Porter Rose routing note and Jan Burmeister condolence draft attached.",
+      evidence:
+        "Itemized from pages 2-4 of the NARA direct folder scan using the presidential handwritten note, Brady/Susan Porter Rose routing page, Jan Burmeister draft page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "december-10-telephone-memoranda-presidential-movements",
+      documentType: "Telephone Memoranda and Presidential Movements Packet",
+      category: "presidential-daily-file-log",
+      disposition: "itemized-daily-file-log",
+      title: "White House telephone memoranda and presidential movements for December 10, 1992",
+      documentDate: "1992-12-10",
+      pages: 5,
+      excerpt:
+        "White House telephone memoranda, a Signal Switchboard no-calls sheet, and a Presidential Movements sheet record President Bush's December 10 calls and movements.",
+      evidence:
+        "Itemized from pages 5-9 of the NARA direct folder scan using the Telephone Memorandum forms, Signal Switchboard sheet, Presidential Movements sheet, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-december-10-1992",
+      documentType: "Congressional Monitor",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title: "Congressional Monitor: December 10, 1992",
+      documentDate: "1992-12-10",
+      pages: 8,
+      excerpt:
+        "The Congressional Monitor packet covers House leadership, committee ratios, congressional organization, and legislative-training advertisements for the 103rd Congress transition.",
+      evidence:
+        "Itemized from pages 10-17 of the NARA direct folder scan using the Congressional Monitor issue pages, House leadership tables, committee-ratio sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "em-bakwin-taurus-yacht-invitation-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "E.M. Bakwin Taurus yacht invitation correspondence packet",
+      documentDate: "1992-12-10",
+      pages: 3,
+      excerpt:
+        "President Bush sends E.M. Bakwin a handwritten thanks for the invitation aboard the Taurus, with Bakwin's Mid-Citco letter attached.",
+      evidence:
+        "Itemized from pages 18-20 of the NARA direct folder scan using the outgoing presidential reply, Mid-Citco incoming letter, yacht-invitation text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nancy-kassebaum-somalia-phone-message",
+      documentType: "Phone Message and Routing Sheet",
+      category: "telephone-note-item",
+      disposition: "itemized-telephone-message",
+      title: "Nancy Kassebaum phone message re Somalia leadership",
+      documentDate: "1992-12-10",
+      pages: 2,
+      excerpt:
+        "A phone message records Senator Nancy Kassebaum's appreciation for President Bush's leadership on Somalia, with the attached White House routing/address sheet.",
+      evidence:
+        "Itemized from pages 21-22 of the NARA direct folder scan using the routing sheet, White House phone-message form, Kassebaum/Somalia text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "timothy-davis-nationwide-insurance-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Timothy J. Davis Nationwide Insurance correspondence packet",
+      documentDate: "1992-12-10",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Timothy J. Davis for writing about the election and says he and Mrs. Bush are looking forward to returning to Houston, with Davis's Nationwide Insurance letter attached.",
+      evidence:
+        "Itemized from pages 23-24 of the NARA direct folder scan using the presidential reply, Nationwide Insurance incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sandra-day-oconnor-grandparenting-invitation-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sandra Day O'Connor grandparenting invitation correspondence packet",
+      documentDate: "1992-12-10",
+      pages: 10,
+      excerpt:
+        "President Bush replies to Sandra Day O'Connor's grandparenting invitation, with duplicate reply copies, Kathy Super routing material, and O'Connor's handwritten note retained.",
+      evidence:
+        "Itemized from pages 25-34 of the NARA direct folder scan using the presidential reply copies, Kathy Super routing note, O'Connor incoming handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "morton-meyerson-election-support-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Morton H. Meyerson election-support correspondence packet",
+      documentDate: "1992-12-10",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Morton H. Meyerson after Meyerson writes about the election, Bush's presidency, and personal support.",
+      evidence:
+        "Itemized from pages 35-37 of the NARA direct folder scan using the two-page presidential reply, Meyerson incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "patricia-cramer-treiber-christmas-card-condolence-packet",
+      documentType: "Presidential Reply and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Patricia Cramer/Treiber Christmas card and condolence reply packet",
+      documentDate: "1992-12-10",
+      pages: 2,
+      excerpt:
+        "President Bush replies to a Christmas card and condolence note from Patricia Cramer/Treiber, with the incoming card page attached.",
+      evidence:
+        "Itemized from pages 38-39 of the NARA direct folder scan using the outgoing reply, incoming holiday-card page, address text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "annie-sofka-condolence-card-reply",
+      documentType: "Presidential Reply and Incoming Card",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Annie L. Sofka condolence card reply packet",
+      documentDate: "1992-12-10",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush thank Ms. Annie L. Sofka for her kindness after Dorothy Walker Bush's death, with Sofka's incoming card page attached.",
+      evidence:
+        "Itemized from pages 40-41 of the NARA direct folder scan using the incoming card, outgoing sympathy acknowledgment, Sofka address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bernard-yudain-dorothy-bush-memory-clipping-correspondence",
+      documentType: "Presidential Reply, Incoming Correspondence, and Clipping Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Bernard L. Yudain Dorothy Bush memory clipping correspondence packet",
+      documentDate: "1992-12-10",
+      pages: 6,
+      excerpt:
+        "President Bush thanks Bernard L. Yudain for his note and Dorothy Walker Bush remembrance, with Yudain's handwritten card and Greenwich Time clipping retained.",
+      evidence:
+        "Itemized from pages 42-47 of the NARA direct folder scan using the incoming card page, presidential reply, Yudain note, Greenwich Time clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "abe-resnick-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Abe Resnick condolence correspondence packet",
+      documentDate: "1992-12-10",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush thank Abe Resnick for condolences on Dorothy Walker Bush's death, with Resnick's City of Miami Beach letter attached.",
+      evidence:
+        "Itemized from pages 48-49 of the NARA direct folder scan using the presidential sympathy acknowledgment, Abe Resnick incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jon-corbin-condolence-card-reply",
+      documentType: "Presidential Reply and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jon X. Corbin condolence card reply packet",
+      documentDate: "1992-12-10",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush send Jon X. Corbin a sympathy acknowledgment, with Corbin's incoming card and business-card scan attached.",
+      evidence:
+        "Itemized from pages 50-52 of the NARA direct folder scan using the outgoing sympathy acknowledgment, incoming card interior, business-card page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-lindsey-oneil-ford-book-gift-correspondence",
+      documentType: "Presidential Reply, Gift Unit Draft, and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sara and John H. Lindsey O'Neil Ford book-gift correspondence packet",
+      documentDate: "1992-12-10",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Sara and John H. Lindsey for the O'Neil Ford, Architect book, with the Gift Unit draft page and Lindseys' incoming letter attached.",
+      evidence:
+        "Itemized from pages 53-55 of the NARA direct folder scan using the outgoing reply, Gift Unit draft, incoming Lindsey letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-van-alen-condolence-election-correspondence",
+      documentType: "Presidential Reply, Incoming Correspondence, and Address Research Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William L. Van Alen condolence and election correspondence packet",
+      documentDate: "1992-12-10",
+      pages: 4,
+      excerpt:
+        "President Bush replies to William L. Van Alen's letter about Dorothy Walker Bush and the election, with address-research sheets retained in the packet.",
+      evidence:
+        "Itemized from pages 56-59 of the NARA direct folder scan using the outgoing reply, Van Alen incoming letter, address-query pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "norman-bangerter-election-confidence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Norman H. Bangerter election-confidence correspondence packet",
+      documentDate: "1992-12-10",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Colleen and Norman H. Bangerter after the Utah governor writes with confidence in Bush's leadership after the election.",
+      evidence:
+        "Itemized from pages 60-61 of the NARA direct folder scan using the presidential reply, Governor Bangerter incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kate-britton-election-letter-kipling-poem-correspondence",
+      documentType: "Presidential Reply, Incoming Correspondence, and Poem Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Kate Britton election letter and Kipling poem correspondence packet",
+      documentDate: "1992-12-10",
+      pages: 3,
+      excerpt:
+        "President Bush answers Kate Britton's election letter, with her incoming note and a typed Kipling poem enclosed.",
+      evidence:
+        "Itemized from pages 62-64 of the NARA direct folder scan using the presidential reply, Britton incoming letter, Kipling poem page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-fitch-enclosure-photo-note",
+      documentType: "Staff Forwarding Note",
+      category: "staff-routing-note",
+      disposition: "itemized-staff-routing-note",
+      title: "John C. Fitch enclosure and photo forwarding note",
+      documentDate: "1992-12-10",
+      pages: 1,
+      excerpt:
+        "John C. Fitch forwards enclosed material to Rose and notes that the material had been sent to the White House.",
+      evidence:
+        "Itemized from page 65 of the NARA direct folder scan using the John C. Fitch note text, enclosure reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "warren-burger-supreme-court-historical-society-condolence-correspondence",
+      documentType: "Presidential Reply, Incoming Correspondence, and Address Research Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Warren E. Burger and Supreme Court Historical Society condolence correspondence packet",
+      documentDate: "1992-12-10",
+      pages: 4,
+      excerpt:
+        "President Bush writes Chief Justice and Mrs. Burger, with Supreme Court Historical Society condolence correspondence and a Burger address-query page attached.",
+      evidence:
+        "Itemized from pages 66-69 of the NARA direct folder scan using the presidential reply, Supreme Court Historical Society incoming letter, Leon Silverman material, address-query page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-lewis-condolence-election-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Thomas M. Lewis II condolence and election correspondence packet",
+      documentDate: "1992-12-10",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Thomas M. Lewis II and June Lewis after their letter about Dorothy Walker Bush, the election, and the future.",
+      evidence:
+        "Itemized from pages 70-72 of the NARA direct folder scan using the outgoing reply, incoming Lewis letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lyle-harrower-tina-photo-condolence-correspondence",
+      documentType: "Presidential Reply, Incoming Correspondence, and Photograph Note Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Lyle and Tina Harrower condolence and family-photo correspondence packet",
+      documentDate: "1992-12-10",
+      pages: 4,
+      excerpt:
+        "President Bush replies to Tina and Lyle Harrower after their note about Dorothy Walker Bush and a family photo, with photo-caption material retained.",
+      evidence:
+        "Itemized from pages 73-76 of the NARA direct folder scan using the presidential reply, Harrower incoming letter pages, photo-caption page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-president-december-10-1992",
+      documentType: "Materials Forwarded List",
+      category: "materials-forwarded-list",
+      disposition: "itemized-materials-forwarded-list",
+      title: "Materials Forwarded to the President: December 10, 1992",
+      documentDate: "1992-12-10",
+      pages: 1,
+      excerpt:
+        "The forwarding list inventories materials sent to President Bush on December 10, 1992.",
+      evidence:
+        "Itemized from page 77 of the NARA direct folder scan using the Materials Forwarded to the President heading, December 10 date, list structure, OCR, and rendered-page review.",
+    },
+    {
+      slug: "joan-king-nicholas-king-death-phone-call-sheet",
+      documentType: "Presidential Phone Call Sheet",
+      category: "telephone-note-item",
+      disposition: "itemized-phone-call-slip",
+      title: "Presidential phone-call sheet: Joan King re Nicholas King",
+      documentDate: "1992-12-10",
+      pages: 1,
+      excerpt:
+        "A Presidential Phone Calls sheet records follow-up involving Joan King after the death of Nicholas King.",
+      evidence:
+        "Itemized from page 78 of the NARA direct folder scan using the Presidential Phone Calls form, Joan King/Nick King text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nicholas-king-death-notification-memo",
+      documentType: "Staff Memorandum and Database Page",
+      category: "staff-memorandum",
+      disposition: "itemized-staff-memorandum",
+      title: "Nicholas King death notification memo and database page",
+      documentDate: "1992-12-10",
+      pages: 2,
+      excerpt:
+        "Kathy Super sends Rose a death-notification memo for Nicholas King, with the attached database/address page retained.",
+      evidence:
+        "Itemized from pages 79-80 of the NARA direct folder scan using the Kathy Super memorandum, Nicholas King death notice text, database page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-5pm-update-december-10-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 5:00 p.m. update, December 10, 1992",
+      documentDate: "1992-12-10",
+      pages: 1,
+      excerpt:
+        "The 5:00 p.m. update covers Clinton appointments, Iraqi loans, Somalia, Yugoslavia, Iraqi weapons, and China policy.",
+      evidence:
+        "Itemized from page 81 of the NARA direct folder scan using the White House News Summary masthead, 5:00 p.m. update line, topic headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "powell-schwarzkopf-gold-medal-presentation-notes",
+      documentType: "Presentation Notes",
+      category: "presentation-notes",
+      disposition: "itemized-presentation-notes",
+      title: "Presentation notes for Congressional Gold Medals to Colin Powell and H. Norman Schwarzkopf",
+      documentDate: "1992-12-10",
+      pages: 2,
+      excerpt:
+        "Brief presentation notes frame President Bush's remarks for honoring General Colin Powell and General H. Norman Schwarzkopf with Congressional Gold Medals.",
+      evidence:
+        "Itemized from pages 82-83 of the NARA direct folder scan using the presentation-note headings, Powell and Schwarzkopf references, bullet text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cliff-white-holiday-card-correspondence",
+      documentType: "Presidential Holiday Card and Address Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Cliff White holiday card correspondence packet",
+      documentDate: "1992-12-10",
+      pages: 3,
+      excerpt:
+        "President Bush sends Cliff White a holiday card note, with the address page and card-back scan retained.",
+      evidence:
+        "Itemized from pages 84-86 of the NARA direct folder scan using the Cliff White address page, handwritten card note, rotated card-back page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-6am-edition-december-10-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 6:00 a.m. EST edition, December 10, 1992",
+      documentDate: "1992-12-10",
+      pages: 16,
+      excerpt:
+        "The 6:00 a.m. White House News Summary covers Somalia, BNL/Iraq loans, Clinton transition politics, Yugoslavia, GATT, Bush approval, bank failures, SES transfers, and network news.",
+      evidence:
+        "Itemized from pages 87-102 of the NARA direct folder scan using the White House News Summary masthead, 6:00 a.m. EST edition line, section headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "boskin-producer-price-index-unemployment-claims-memoranda",
+      documentType: "Economic Memoranda Packet",
+      category: "economic-analysis",
+      disposition: "itemized-economic-analysis-memorandum",
+      title: "Michael Boskin memoranda re producer price index and unemployment claims",
+      documentDate: "1992-12-10",
+      pages: 2,
+      excerpt:
+        "Michael Boskin forwards short economic updates to President Bush on the producer price index and latest unemployment claims, with a chart page attached.",
+      evidence:
+        "Itemized from pages 103-104 of the NARA direct folder scan using the Boskin memorandum heading, CEA senior staff memorandum, economic chart, OCR, and rendered-page review.",
+    },
+    {
+      slug: "paul-overstreet-campaign-thanks-concert-proposal",
+      documentType: "Presidential Guidance Note and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Paul Overstreet campaign thanks and concert proposal packet",
+      documentDate: "1992-12-10",
+      pages: 2,
+      excerpt:
+        "President Bush asks Kathy Super to draft a response and referral after Paul Overstreet writes about campaign thanks and a proposed January 13 country music concert.",
+      evidence:
+        "Itemized from pages 105-106 of the NARA direct folder scan using the presidential guidance note, Paul Overstreet incoming letter, concert proposal text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "j-william-kime-transportation-service-medal-congratulations",
+      documentType: "Presidential Congratulatory Note and Staff Routing Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "J. William Kime Transportation Distinguished Service Medal congratulatory note packet",
+      documentDate: "1992-12-10",
+      pages: 2,
+      excerpt:
+        "President Bush congratulates Admiral J. William Kime on receiving the Transportation Distinguished Service Medal, with staff routing material about presenting the note attached.",
+      evidence:
+        "Itemized from pages 107-108 of the NARA direct folder scan using the presidential handwritten note to Bill Kime, Andy Card/Rose routing note, OCR, and rendered-page review.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -39654,6 +40059,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418213",
   "470418214",
   "470418215",
+  "470418239",
   "646482525",
   "646482521",
   "646482523",
