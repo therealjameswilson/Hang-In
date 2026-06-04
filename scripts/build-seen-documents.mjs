@@ -32808,6 +32808,606 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 28-75 of the NARA direct folder scan using the RNC Daily News Summary cover, Washington Post, New York Times, Washington Times, Wall Street Journal, Reliable Source, and other clipping pages, OCR, and rendered-page review.",
     },
   ],
+  470418185: [
+    {
+      slug: "patsy-caulkins-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Patsy Caulkins post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Patsy Caulkins sends a post-election note to President Bush, who replies with thanks for friendship, support, and the thoughts she shared after the campaign.",
+      evidence:
+        "Itemized from pages 2-4 of the NARA direct folder scan using the presidential reply, incoming note pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wilson-hulley-disabilities-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Wilson H. Hulley disability-employment correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Wilson H. Hulley writes after the election about the Committee on Employment of People with Disabilities and President Bush's leadership; Bush replies with thanks and personal recollections.",
+      evidence:
+        "Itemized from pages 5-7 of the NARA direct folder scan using the presidential reply, two-page Hulley letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-parkman-finback-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William H. Parkman Finback rescue correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 2,
+      excerpt:
+        "William H. Parkman writes President Bush after the election and recalls the Finback rescue; Bush replies to Parky with thanks and a promise to keep a copy of the letter.",
+      evidence:
+        "Itemized from pages 8-9 of the NARA direct folder scan using the presidential reply, Parkman letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "norman-sandler-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Norman D. Sandler post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 2,
+      excerpt:
+        "Norman D. Sandler sends President Bush a post-election note, and Bush replies with thanks for his friendship and thoughts after the campaign.",
+      evidence:
+        "Itemized from pages 10-11 of the NARA direct folder scan using the presidential reply, incoming Sandler letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mary-helen-wilson-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mary Helen Wilson post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Mary Helen Wilson writes after the election, and President Bush replies with gratitude for her friendship, support, and long association with the Wilson and Graham families.",
+      evidence:
+        "Itemized from pages 12-14 of the NARA direct folder scan using the presidential reply, incoming handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "legare-gar-hole-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Legare and Gar Hole post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 6,
+      excerpt:
+        "Legare and Gar Hole send a personal post-election message to President Bush, who replies with thanks for love, support, and the friendship of the Hole family.",
+      evidence:
+        "Itemized from pages 15-20 of the NARA direct folder scan using the presidential reply, handwritten incoming pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jack-guy-air-group-51-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jack O. Guy and Air Group 51 correspondence with presidential reply",
+      documentDate: "1992-11-16",
+      pages: 2,
+      excerpt:
+        "Jack O. Guy circulates a message to Air Group 51 personnel after the election, and President Bush replies with thanks to Guy and the group.",
+      evidence:
+        "Itemized from pages 21-22 of the NARA direct folder scan using the presidential reply, Air Group 51 letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-mckenzie-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William A. McKenzie post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 2,
+      excerpt:
+        "William A. McKenzie sends President Bush a post-election note, and Bush replies to Billy Mac with thanks for support and friendship.",
+      evidence:
+        "Itemized from pages 23-24 of the NARA direct folder scan using the presidential reply, incoming McKenzie letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-dreier-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "David Dreier post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 2,
+      excerpt:
+        "Representative David Dreier writes President Bush after the election about the economy, media coverage, and anti-incumbent currents; Bush replies with thanks and encouragement.",
+      evidence:
+        "Itemized from pages 25-26 of the NARA direct folder scan using the presidential reply, Dreier note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "shara-castle-mcbride-wedding-photo-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Shara Castle McBride wedding photograph correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Shara Castle sends President Bush a note and wedding photograph from Tim and Anita McBride; Bush replies with thanks for the picture and kind words.",
+      evidence:
+        "Itemized from pages 27-29 of the NARA direct folder scan using the presidential reply, incoming note, photograph page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-allin-christ-memorial-chapel-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Reverend John M. Allin Christ Memorial Chapel correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Reverend John M. Allin writes from Christ Memorial Chapel after the election, and President Bush replies with thanks for his prayers and support.",
+      evidence:
+        "Itemized from pages 30-32 of the NARA direct folder scan using the presidential reply, Christ Memorial Chapel letterhead pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sean-byrne-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Major Sean J. Byrne post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Major Sean J. Byrne writes President Bush after the election, and Bush replies with a career-oriented handwritten note and thanks for Byrne's service.",
+      evidence:
+        "Itemized from pages 33-35 of the NARA direct folder scan using the presidential reply with handwriting, incoming Byrne letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "evelyn-teegen-fiji-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ambassador Evelyn I. H. Teegen Fiji correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Ambassador Evelyn I. H. Teegen writes from Suva after the election, and President Bush replies with thanks for her friendship, support, and service.",
+      evidence:
+        "Itemized from pages 36-38 of the NARA direct folder scan using the presidential reply, Suva letterhead pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-brown-american-league-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robert W. Brown American League correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 4,
+      excerpt:
+        "Robert W. Brown of the American League of Professional Baseball Clubs sends President Bush a post-election handwritten letter, and Bush replies with appreciation.",
+      evidence:
+        "Itemized from pages 39-42 of the NARA direct folder scan using the presidential reply, American League address block, handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-zadina-family-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Bob Zadina family correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 6,
+      excerpt:
+        "Bob Zadina and family send President Bush a post-election letter and photograph, and Bush replies to Karen, Bob, Shelley, and Kristen with thanks.",
+      evidence:
+        "Itemized from pages 43-48 of the NARA direct folder scan using the presidential reply, photograph page, incoming family letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lulu-walker-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mrs. John M. Walker Sr. post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 4,
+      excerpt:
+        "Mrs. John M. Walker Sr., addressed as Lulu, writes President Bush after the election from Sutton Towers, and Bush replies with family affection and thanks.",
+      evidence:
+        "Itemized from pages 49-52 of the NARA direct folder scan using the presidential reply, incoming Sutton Towers letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ted-williams-astroarena-thank-you",
+      documentType: "Letter",
+      category: "campaign-event-thank-you",
+      disposition: "itemized-campaign-event-thank-you",
+      title: "President Bush thank-you letter to Ted Williams after the Astroarena rally",
+      documentDate: "1992-11-16",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Ted Williams for joining the Houston Astroarena welcome rally and for helping him close out the campaign.",
+      evidence:
+        "Itemized from page 53 of the NARA direct folder scan using the presidential letter, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "singing-texans-astroarena-thank-you",
+      documentType: "Letter",
+      category: "campaign-event-thank-you",
+      disposition: "itemized-campaign-event-thank-you",
+      title: "President Bush thank-you letter to the Singing Texans after the Astroarena rally",
+      documentDate: "1992-11-16",
+      pages: 1,
+      excerpt:
+        "President Bush thanks the Singing Texans of First Baptist Church of Houston for their performance at the Astroarena welcome rally.",
+      evidence:
+        "Itemized from page 54 of the NARA direct folder scan using the presidential letter, organization name, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gatlin-brothers-astroarena-thank-you",
+      documentType: "Letter",
+      category: "campaign-event-thank-you",
+      disposition: "itemized-campaign-event-thank-you",
+      title: "President Bush thank-you letter to the Gatlin Brothers after the Astroarena rally",
+      documentDate: "1992-11-16",
+      pages: 1,
+      excerpt:
+        "President Bush thanks the Gatlin Brothers for helping make the Astroarena welcome rally a memorable closing campaign event.",
+      evidence:
+        "Itemized from page 55 of the NARA direct folder scan using the presidential letter, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "red-adair-astroarena-thank-you",
+      documentType: "Letter",
+      category: "campaign-event-thank-you",
+      disposition: "itemized-campaign-event-thank-you",
+      title: "President Bush thank-you letter to Red Adair after the Astroarena rally",
+      documentDate: "1992-11-16",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Red Adair and Robyn for joining the Astroarena welcome rally and for their friendship during the campaign's final stretch.",
+      evidence:
+        "Itemized from page 56 of the NARA direct folder scan using the presidential letter, Red Adair Company address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "milo-hamilton-astroarena-thank-you",
+      documentType: "Letter",
+      category: "campaign-event-thank-you",
+      disposition: "itemized-campaign-event-thank-you",
+      title: "President Bush thank-you letter to Milo Hamilton after the Astroarena rally",
+      documentDate: "1992-11-16",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Milo Hamilton for serving as master of ceremonies at the Astroarena welcome rally in Houston.",
+      evidence:
+        "Itemized from page 57 of the NARA direct folder scan using the presidential letter, Houston Astros address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ricky-skaggs-astroarena-thank-you",
+      documentType: "Letter",
+      category: "campaign-event-thank-you",
+      disposition: "itemized-campaign-event-thank-you",
+      title: "President Bush thank-you letter to Ricky Skaggs after the Astroarena rally",
+      documentDate: "1992-11-16",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Ricky Skaggs for taking part in the Astroarena welcome rally and helping lift the event.",
+      evidence:
+        "Itemized from page 58 of the NARA direct folder scan using the presidential letter, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "naomi-judd-astroarena-thank-you",
+      documentType: "Letter",
+      category: "campaign-event-thank-you",
+      disposition: "itemized-campaign-event-thank-you",
+      title: "President Bush thank-you letter to Naomi Judd after the Astroarena rally",
+      documentDate: "1992-11-16",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Naomi Judd for joining the Astroarena welcome rally and supporting the campaign's last public moment in Houston.",
+      evidence:
+        "Itemized from page 59 of the NARA direct folder scan using the presidential letter, Nashville routing line, OCR, and rendered-page review.",
+    },
+    {
+      slug: "johnny-lee-astroarena-thank-you",
+      documentType: "Letter",
+      category: "campaign-event-thank-you",
+      disposition: "itemized-campaign-event-thank-you",
+      title: "President Bush thank-you letter to Johnny Lee after the Astroarena rally",
+      documentDate: "1992-11-16",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Johnny Lee for joining the Astroarena welcome rally and adding to the final Houston campaign event.",
+      evidence:
+        "Itemized from page 60 of the NARA direct folder scan using the presidential letter, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bob-hope-astroarena-thank-you",
+      documentType: "Letter",
+      category: "campaign-event-thank-you",
+      disposition: "itemized-campaign-event-thank-you",
+      title: "President Bush thank-you letter to Bob Hope after the Astroarena rally",
+      documentDate: "1992-11-16",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Bob Hope for appearing at the Astroarena welcome rally and for years of friendship and support.",
+      evidence:
+        "Itemized from page 61 of the NARA direct folder scan using the presidential letter, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mary-lou-retton-astroarena-thank-you",
+      documentType: "Letter",
+      category: "campaign-event-thank-you",
+      disposition: "itemized-campaign-event-thank-you",
+      title: "President Bush thank-you letter to Mary Lou Retton after the Astroarena rally",
+      documentDate: "1992-11-16",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Mary Lou Retton and Shannon for joining the Astroarena welcome rally and supporting the campaign.",
+      evidence:
+        "Itemized from page 62 of the NARA direct folder scan using the presidential letter, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lee-greenwood-astroarena-thank-you",
+      documentType: "Letter",
+      category: "campaign-event-thank-you",
+      disposition: "itemized-campaign-event-thank-you",
+      title: "President Bush thank-you letter to Lee Greenwood after the Astroarena rally",
+      documentDate: "1992-11-16",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Lee Greenwood and Kim for taking part in the Astroarena welcome rally and for their support.",
+      evidence:
+        "Itemized from page 63 of the NARA direct folder scan using the presidential letter, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cheryl-ladd-brian-russell-astroarena-thank-you",
+      documentType: "Letter",
+      category: "campaign-event-thank-you",
+      disposition: "itemized-campaign-event-thank-you",
+      title: "President Bush thank-you letter to Cheryl Ladd and Brian Russell after the Astroarena rally",
+      documentDate: "1992-11-16",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Cheryl Ladd and Brian Russell for joining the Astroarena welcome rally and helping make the event memorable.",
+      evidence:
+        "Itemized from page 64 of the NARA direct folder scan using the presidential letter, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "elie-wiesel-audrey-hepburn-phone-call-note",
+      documentType: "Phone Call Note",
+      category: "presidential-phone-call-note",
+      disposition: "itemized-presidential-phone-call-note",
+      title: "Phone call note re Elie Wiesel and Audrey Hepburn",
+      documentDate: "1992-11-16",
+      pages: 1,
+      excerpt:
+        "A note for the President reports that Elie Wiesel returned his call and that Audrey Hepburn was available between noon and 3:00 p.m.",
+      evidence:
+        "Itemized from page 65 of the NARA direct folder scan using the note text, named callers, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tom-jean-sutherland-former-hostage-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Tom and Jean Sutherland former-hostage correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Former hostage Tom Sutherland and Jean Sutherland send a telegram after the election, and President Bush replies with thanks and asks that an autographed photograph be sent.",
+      evidence:
+        "Itemized from pages 66-68 of the NARA direct folder scan using the presidential reply, Sutherland telegram, photograph routing page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "claude-payne-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Reverend Claude E. Payne post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Reverend Claude E. Payne writes President Bush from Saint Martin's Episcopal Church after the election, and Bush replies with thanks for prayers and friendship.",
+      evidence:
+        "Itemized from pages 69-71 of the NARA direct folder scan using the presidential reply, Saint Martin's Episcopal Church letterhead pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "willard-heminway-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Willard S. Heminway Jr. post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Willard S. Heminway Jr. sends a post-election note from Greenwich, and President Bush replies with a handwritten routing note and thanks.",
+      evidence:
+        "Itemized from pages 72-74 of the NARA direct folder scan using the presidential reply, Heminway note pages, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "diane-sawyer-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Diane Sawyer post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Diane Sawyer writes President Bush after the election, and Bush replies with thanks for her thoughtful note and friendship.",
+      evidence:
+        "Itemized from pages 75-77 of the NARA direct folder scan using the presidential reply, incoming handwritten letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-nixon-rnfc-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William C. Nixon Republican National Finance Committee correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "William C. Nixon of the Republican National Finance Committee writes President Bush after the election, and Bush replies with thanks for Nixon's support.",
+      evidence:
+        "Itemized from pages 78-80 of the NARA direct folder scan using the presidential reply, Republican National Finance Committee letterhead pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "edith-odonnell-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Edith O'Donnell post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 4,
+      excerpt:
+        "Edith O'Donnell writes President Bush after the election, and Bush replies with thanks for her friendship, support, and encouragement.",
+      evidence:
+        "Itemized from pages 81-84 of the NARA direct folder scan using the presidential reply, incoming note pages, address page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "archbishop-iakovos-greek-orthodox-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Archbishop Iakovos Greek Orthodox correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 2,
+      excerpt:
+        "Archbishop Iakovos sends an MCI Mail message thanking President Bush and Mrs. Bush for their leadership; Bush replies with appreciation for the Greek Orthodox community's support.",
+      evidence:
+        "Itemized from pages 85-86 of the NARA direct folder scan using the presidential reply, Archbishop Iakovos address block, MCI Mail page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-catherine-dorn-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "David and Catherine Dorn post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "David and Catherine Dorn send President Bush a post-election message, and Bush replies with thanks for their friendship and support.",
+      evidence:
+        "Itemized from pages 87-89 of the NARA direct folder scan using the presidential reply, David Forest Dorn note, cover letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "andy-mill-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Andy Mill post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 2,
+      excerpt:
+        "Andy Mill sends President Bush a handwritten post-election note, and Bush replies with thanks for the message, support, and friendship.",
+      evidence:
+        "Itemized from pages 90-91 of the NARA direct folder scan using the presidential reply, incoming handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fitzgerald-bemiss-boca-grande-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "FitzGerald Bemiss Boca Grande correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 2,
+      excerpt:
+        "FitzGerald Bemiss sends President Bush a handwritten letter on Boca Grande stationery, and Bush replies with thanks for his friendship and support.",
+      evidence:
+        "Itemized from pages 92-93 of the NARA direct folder scan using the presidential reply, Bemiss stationery, OCR, and rendered-page review.",
+    },
+    {
+      slug: "merrill-mcpeak-air-force-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "General Merrill A. McPeak Air Force correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 2,
+      excerpt:
+        "General Merrill A. McPeak writes President Bush after the election, and Bush replies with thanks for McPeak's friendship and service.",
+      evidence:
+        "Itemized from pages 94-95 of the NARA direct folder scan using the presidential reply, incoming McPeak letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "richard-capen-spain-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Richard G. Capen Jr. Spain correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Ambassador Richard G. Capen Jr. writes President Bush from Spain after the election, and Bush replies to Dick and Joan with appreciation for their service.",
+      evidence:
+        "Itemized from pages 96-98 of the NARA direct folder scan using the presidential reply, Ambassador to Spain letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sheila-tate-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sheila Tate post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 2,
+      excerpt:
+        "Sheila Tate sends President Bush a post-election note, and Bush replies to Sheila and Bill with thanks for their friendship and support.",
+      evidence:
+        "Itemized from pages 99-100 of the NARA direct folder scan using the presidential reply, incoming Tate note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "susie-peake-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Susie Peake post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Susie Peake writes President Bush after the election, and Bush replies with thanks for friendship, support, and thoughts after the campaign.",
+      evidence:
+        "Itemized from pages 101-103 of the NARA direct folder scan using the presidential reply, incoming handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "walter-curley-paris-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Walter J. P. Curley Jr. Paris correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Walter J. P. Curley Jr. writes President Bush from Paris after the election, and Bush replies with praise for Curley's service and friendship.",
+      evidence:
+        "Itemized from pages 104-106 of the NARA direct folder scan using the presidential reply, Embassy of the United States Paris letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ivan-lendl-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ivan Lendl post-election correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 2,
+      excerpt:
+        "Ivan Lendl sends President Bush a post-election handwritten note, and Bush replies with thanks, family news, and a handwritten promise to take Lendl up on a tennis offer.",
+      evidence:
+        "Itemized from pages 107-108 of the NARA direct folder scan using the presidential reply, Ivan Lendl note, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "frank-kelso-navy-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Admiral Frank B. Kelso II Navy correspondence and presidential reply",
+      documentDate: "1992-11-16",
+      pages: 3,
+      excerpt:
+        "Admiral Frank B. Kelso II sends President Bush a handwritten letter thanking him for support to sailors and military families, and Bush replies with gratitude for Kelso's service.",
+      evidence:
+        "Itemized from pages 109-111 of the NARA direct folder scan using the presidential reply, Chief of Naval Operations letterhead pages, OCR, and rendered-page review.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -33239,6 +33839,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418165",
   "470418174",
   "470418180",
+  "470418185",
   "646482525",
   "646482521",
   "646482523",
