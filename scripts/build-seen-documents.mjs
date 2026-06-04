@@ -26576,6 +26576,271 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 173-175 of the NARA direct folder scan using the handwritten One Liners heading, low-confidence OCR, and rendered-page review.",
     },
   ],
+  470418123: [
+    {
+      slug: "cameron-findlay-resignation-acceptance-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush letter accepting Cameron D. Findlay's resignation, with handwritten note",
+      documentDate: "1992-10-12",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Cameron Findlay for service as Deputy Assistant to the President and writes a handwritten good-luck note at the foot of the letter.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the White House letterhead, Findlay addressee line, presidential signature and handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pocket-veto-tax-energy-bills-note",
+      documentType: "Policy Note with President's Handwriting",
+      category: "legislative-policy-note",
+      disposition: "itemized-legislative-policy-note",
+      title:
+        "Pocket-veto note and talking-points attachment marker re tax and energy bills",
+      documentDate: "1992-10-12",
+      pages: 1,
+      excerpt:
+        "A note on pending bills, pocket vetoes, and an adjournment pool includes an attachment marker for tax and energy bill talking points and a handwritten response from President Bush.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using the pocket-veto text, attachment line, cc to James A. Baker III, President Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "zamaria-debate-response-tally-comments-fax",
+      documentType: "Debate Response Tally and Comments Packet",
+      category: "campaign-debate-response",
+      disposition: "itemized-campaign-debate-response",
+      title:
+        "Rose Zamaria forwarded evening tally sheet and post-debate comment fax",
+      documentDate: "1992-10-12",
+      pages: 5,
+      excerpt:
+        "Rose Zamaria forwards the October 11 evening tally sheet and White House Communications Center pages summarizing post-debate caller comments for Roger Ailes.",
+      evidence:
+        "Itemized from pages 4-8 of the NARA direct folder scan using the Zamaria forwarding note, evening tally sheet, comments-after-debate headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "victor-gold-hospital-call-handwritten-notes",
+      documentType: "Handwritten Call Notes",
+      category: "telephone-note-packet",
+      disposition: "itemized-telephone-note-packet",
+      title:
+        "Handwritten notes re possible call to Victor Gold after automobile accident",
+      documentDate: "1992-10-12",
+      pages: 2,
+      excerpt:
+        "Handwritten Bush Library photocopy pages note that Victor Gold was hospitalized in Hattiesburg after an automobile accident and ask whether the President should call.",
+      evidence:
+        "Itemized from pages 9-10 of the NARA direct folder scan using the Bush Library photocopy footers, handwritten call notes, OCR, and rendered-page review.",
+    },
+    {
+      slug: "springfield-firefighters-bill-signing-staffing-remarks",
+      documentType: "Staffing Memorandum and Presidential Talking Points",
+      category: "speech-material",
+      disposition: "itemized-speech-material",
+      title:
+        "Staffing memorandum and talking points for Springfield firefighters drop-by and Ben Franklin memorial bill-signing",
+      documentDate: "1992-10-10",
+      pages: 3,
+      excerpt:
+        "A White House staffing memorandum circulates draft presidential talking points for the Springfield firefighters drop-by and Benjamin Franklin Memorial Commemorative Medal and Fire Service Bill of Rights Act signing.",
+      evidence:
+        "Itemized from pages 11-13 of the NARA direct folder scan using the staffing memorandum, draft talking-points heading, continuation page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "howard-lamar-yale-hr11-letter",
+      documentType: "Incoming Letter",
+      category: "institutional-correspondence",
+      disposition: "itemized-institutional-correspondence",
+      title:
+        "Howard Lamar letter to President Bush re H.R. 11 and higher education provisions",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "Yale Acting President Howard Lamar thanks President Bush for an October 5 telephone conversation and urges consideration of H.R. 11 provisions important to higher education and charitable organizations.",
+      evidence:
+        "Itemized from page 14 of the NARA direct folder scan using Yale University letterhead, The President Has Seen stamp, Lamar signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "air-force-one-handwritten-campaign-notes-photo-annotation",
+      documentType: "Handwritten Campaign Notes and Photo Annotation",
+      category: "campaign-handwriting",
+      disposition: "itemized-campaign-handwriting",
+      title:
+        "President Bush Air Force One handwritten notes and Camp David photo annotation",
+      documentDate: "1992-10-12",
+      pages: 8,
+      excerpt:
+        "A Bush Library photocopy packet of President Bush handwriting includes Air Force One notes on the last debate, moderation, the water bill, resignations, Darman, Clinton, and a Camp David photograph annotation.",
+      evidence:
+        "Itemized from pages 15-22 of the NARA direct folder scan using Air Force One stationery, Bush note pages, the Camp David photograph page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "roy-pfautch-correspondence-presidential-reply",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Roy Pfautch correspondence packet and President Bush reply from Camp David",
+      documentDate: "1992-09-12",
+      pages: 4,
+      excerpt:
+        "The packet includes President Bush's Camp David reply thanking Roy Pfautch for support and friendship plus Pfautch's September 4 Tokyo letter and handwritten source pages.",
+      evidence:
+        "Itemized from pages 23-26 of the NARA direct folder scan using the White House/Camp David reply, Pfautch typed letter, handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "october-12-telephone-memorandum-signal-switchboard",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title:
+        "White House telephone memorandum template and Signal Switchboard log: October 12, 1992",
+      documentDate: "1992-10-12",
+      pages: 2,
+      excerpt:
+        "The telephone pages include a blank President Bush telephone memorandum form and a Signal Switchboard log for calls with Prescott Bush, William Bush, Roger Ailes, James Baker, Robert Teeter, Jonathan Bush, and Victor Gold.",
+      evidence:
+        "Itemized from pages 27-28 of the NARA direct folder scan using the telephone memorandum forms, Signal Switchboard entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "october-12-presidential-movements",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-item",
+      disposition: "itemized-presidential-movements",
+      title:
+        "Presidential Movements: St. Louis, Springfield, Grand Rapids, Holland, and Washington, October 12, 1992",
+      documentDate: "1992-10-12",
+      pages: 2,
+      excerpt:
+        "The movements log tracks President Bush from St. Louis to Springfield, Grand Rapids, Holland, and back to Washington on October 12.",
+      evidence:
+        "Itemized from pages 29-30 of the NARA direct folder scan using Presidential Movements headings, locations, time entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-8-hope-michigan-speech",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #8: Speech, Hope, Michigan",
+      documentDate: "1992-10-12",
+      pages: 1,
+      excerpt:
+        "Pool Report #8 covers Marlin Fitzwater comments and the President's Hope, Michigan speech stop.",
+      evidence:
+        "Itemized from page 31 of the NARA direct folder scan using the Pool Report #8 heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-7-grand-rapids-holland",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #7: Grand Rapids to Holland, Michigan",
+      documentDate: "1992-10-12",
+      pages: 1,
+      excerpt:
+        "Pool Report #7 covers the Grand Rapids tarmac, Michigan endorsements, and the motorcade to Holland.",
+      evidence:
+        "Itemized from page 32 of the NARA direct folder scan using the Pool Report #7 heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-6-air-force-one-philadelphia-grand-rapids",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #6: Air Force One, Philadelphia to Grand Rapids",
+      documentDate: "1992-10-12",
+      pages: 1,
+      excerpt:
+        "Pool Report #6 summarizes Philadelphia tarmac comments by Marlin Fitzwater and the Air Force One leg to Grand Rapids.",
+      evidence:
+        "Itemized from page 33 of the NARA direct folder scan using the Pool Report #6 heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-5-victory-92-springfield-township",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title:
+        "Pool Report #5: Victory '92 Springfield Township, Pennsylvania",
+      documentDate: "1992-10-12",
+      pages: 1,
+      excerpt:
+        "Pool Report #5 covers the Springfield Township fundraiser and Marlin Fitzwater clarification about administration changes.",
+      evidence:
+        "Itemized from page 34 of the NARA direct folder scan using the Pool Report #5 heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pool-report-4-st-louis-departure-air-force-one",
+      documentType: "Pool Report",
+      category: "pool-report-item",
+      disposition: "itemized-pool-report",
+      title: "Pool Report #4: St. Louis departure and Air Force One",
+      documentDate: "1992-10-12",
+      pages: 1,
+      excerpt:
+        "Pool Report #4 covers the St. Louis departure and a senior official's background comments aboard Air Force One.",
+      evidence:
+        "Itemized from page 35 of the NARA direct folder scan using the Pool Report #4 heading, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chase-untermeyer-electoral-college-scenario-not-seen",
+      documentType: "Correspondence and Scenario Memo",
+      category: "campaign-strategy-memo",
+      disposition: "itemized-campaign-strategy-memo",
+      title:
+        "Chase Untermeyer note and scenario memo re Bush Electoral College victory with fewer popular votes, marked not seen",
+      documentDate: "1992-10-12",
+      pages: 3,
+      excerpt:
+        "Chase Untermeyer sends a scenario memo on how the White House should respond if President Bush won the Electoral College while receiving fewer popular votes than Clinton; the cover page is stamped The President Has Not Seen.",
+      evidence:
+        "Itemized from pages 36-38 of the NARA direct folder scan using the Untermeyer cover note, scenario memo, envelope, not-seen stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ray-price-bits-scraps-memo",
+      documentType: "Speechwriting Memorandum",
+      category: "campaign-speechwriting",
+      disposition: "itemized-campaign-speechwriting",
+      title:
+        "Ray Price memorandum to President Bush re Bits and scraps",
+      documentDate: "1992-10-12",
+      pages: 1,
+      excerpt:
+        "Ray Price sends President Bush an initial culling of lines and paragraphs that might be useful in the final three weeks of the campaign.",
+      evidence:
+        "Itemized from page 39 of the NARA direct folder scan using the Ray Price faxed memorandum, The President Has Seen stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ray-price-possible-lines-passages-fax",
+      documentType: "Speechwriting Fax Packet",
+      category: "campaign-speechwriting",
+      disposition: "itemized-campaign-speechwriting",
+      title:
+        "Ray Price fax packet of possible lines and passages for President Bush",
+      documentDate: "1992-10-12",
+      pages: 10,
+      excerpt:
+        "Ray Price faxes a cover sheet and nine pages of possible campaign lines and passages on trust in people, government, Clinton, school choice, and election themes.",
+      evidence:
+        "Itemized from pages 40-49 of the NARA direct folder scan using the Ray Price home fax transmittal sheet, nine-page enclosure, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photos-st-louis-missouri-springfield-pennsylvania",
+      documentType: "Official White House Photograph Packet",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title:
+        "Official White House photographs labeled St. Louis, Missouri and Springfield, Pennsylvania",
+      documentDate: "1992-10-12",
+      pages: 8,
+      excerpt:
+        "The closing packet includes official White House photo backing pages and color photographs labeled St. Louis, Missouri; People for Holland/Mich; and Springfield Penn.",
+      evidence:
+        "Itemized from pages 50-57 of the NARA direct folder scan using official White House photo backing pages, color photographs, sticky-note labels, low-confidence OCR, and rendered-page review.",
+    },
+  ],
   470418144: [
     {
       slug: "linda-price-routing-and-correspondence",
@@ -27775,6 +28040,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418117",
   "470418120",
   "470418122",
+  "470418123",
   "646482521",
   "646482523",
 ]);
