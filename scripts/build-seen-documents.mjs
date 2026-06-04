@@ -26841,6 +26841,526 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 50-57 of the NARA direct folder scan using official White House photo backing pages, color photographs, sticky-note labels, low-confidence OCR, and rendered-page review.",
     },
   ],
+  470418125: [
+    {
+      slug: "nancy-note-outgoing-letters-attachment-marker",
+      documentType: "Attachment Marker",
+      category: "presidential-correspondence",
+      disposition: "itemized-attachment-marker",
+      title:
+        "Attachment marker with Nancy note re three outgoing letters",
+      documentDate: "1992-10-13",
+      pages: 1,
+      excerpt:
+        "A post-it attachment marker asks about three outgoing letters in the Lawson, Manhart, and Arend correspondence packet.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the Document Originally Attached to Following Page marker, handwritten post-it note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-bush-letter-edward-lawson-debate-comments",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush letter to Edward C. Lawson Jr. re forwarded debate comments",
+      documentDate: "1992-10-13",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Edward C. Lawson Jr. for forwarding Tom Manhart's and John Arend's comments and says he remains confident about the November election.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using the White House letterhead, Lawson addressee block, presidential signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-bush-letter-tom-manhart-debate-suggestions",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush letter to Tom Manhart re debate suggestions",
+      documentDate: "1992-10-13",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Tom Manhart for thoughts and ideas, says the first debate was the worst, and says he remains confident about November.",
+      evidence:
+        "Itemized from page 4 of the NARA direct folder scan using the White House letterhead, Manhart addressee block, presidential signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-bush-letter-john-arend-debate-comments",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush letter to John A. Arend re forwarded debate comments",
+      documentDate: "1992-10-13",
+      pages: 1,
+      excerpt:
+        "President Bush thanks John Arend for comments and expresses confidence about the campaign after two debates.",
+      evidence:
+        "Itemized from page 5 of the NARA direct folder scan using the White House letterhead, Arend addressee block, presidential signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "edward-lawson-fax-arend-manhart-debate-comments",
+      documentType: "Faxed Correspondence Packet",
+      category: "campaign-debate-response",
+      disposition: "itemized-campaign-debate-response",
+      title:
+        "Edward C. Lawson Jr. fax forwarding John Arend and Tom Manhart debate comments",
+      documentDate: "1992-10-13",
+      pages: 4,
+      excerpt:
+        "Lawson faxes Robin McClain with enclosed comments from John Arend and Tom Manhart on the debates, Gettysburg Address language, and post-debate campaign themes.",
+      evidence:
+        "Itemized from pages 6-9 of the NARA direct folder scan using the Lawson fax cover sheet, Inter-Chem fax page, Manhart comment pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "today-show-katie-couric-internal-transcript",
+      documentType: "Internal Transcript",
+      category: "press-transcript",
+      disposition: "itemized-press-transcript",
+      title:
+        "Internal transcript of President Bush live interview on Today Show with Katie Couric",
+      documentDate: "1992-10-13",
+      pages: 8,
+      excerpt:
+        "The Office of the Press Secretary internal transcript captures President Bush's October 13 live interview by Katie Couric on NBC-TV.",
+      evidence:
+        "Itemized from pages 10-17 of the NARA direct folder scan using the Office of the Press Secretary heading, Today Show interview title, transcript pagination, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-bush-letter-rick-horton-cardinals",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush letter to Rick Horton re St. Louis Cardinals greeting",
+      documentDate: "1992-10-13",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Rick Horton for greeting him in St. Louis and sends appreciation for the Cardinals welcome.",
+      evidence:
+        "Itemized from page 18 of the NARA direct folder scan using the White House letterhead, Horton addressee block, presidential signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-bush-letter-dan-dierdorf-cardinals",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush letter to Dan Dierdorf re St. Louis Cardinals greeting",
+      documentDate: "1992-10-13",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Dan Dierdorf for a morning in St. Louis and remarks on the Cardinals, football, and campaign-trail encouragement.",
+      evidence:
+        "Itemized from page 19 of the NARA direct folder scan using the White House letterhead, Dierdorf addressee block, handwritten addition, presidential signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-bush-letter-lou-brock-cardinals",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "President Bush letter to Lou Brock re St. Louis Cardinals greeting",
+      documentDate: "1992-10-13",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Lou Brock for greeting him and recalls watching Brock hit one down the line in St. Louis.",
+      evidence:
+        "Itemized from page 20 of the NARA direct folder scan using the White House letterhead, Brock addressee block, presidential signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dolores-kari-samuelian-support-letter-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Dolores and Kari Samuelian support letter, President Bush reply, and routing note",
+      documentDate: "1992-10-13",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Dolores and Kari Samuelian for their supportive letter, which is attached with the original family correspondence and a Robin McClain routing note.",
+      evidence:
+        "Itemized from pages 21-23 of the NARA direct folder scan using the presidential reply, Parker Milliken Clark O'Hara & Samuelian letterhead, routing note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lodwrick-cook-arco-jaime-escalante-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Lodwrick M. Cook and ARCO correspondence re Jaime Escalante",
+      documentDate: "1992-10-13",
+      pages: 2,
+      excerpt:
+        "President Bush replies to ARCO chairman Lodwrick M. Cook about Jaime Escalante's letter; Cook's incoming letter and note are attached.",
+      evidence:
+        "Itemized from pages 24-25 of the NARA direct folder scan using the attached presidential reply, ARCO letterhead, Cook signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jaime-escalante-support-letter-and-reply",
+      documentType: "Correspondence and Photo Annotation Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Jaime Escalante support letter, President Bush reply, photo annotation, and routing note",
+      documentDate: "1992-10-13",
+      pages: 5,
+      excerpt:
+        "The packet includes President Bush's reply to Jaime Escalante, an inscribed photograph page, Escalante's two-page October 6 support letter, and an internal Hispanic endorsement routing note.",
+      evidence:
+        "Itemized from pages 26-30 of the NARA direct folder scan using the presidential reply, Jaime Escalante letterhead, photograph annotation, White House routing note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-today-show-transcript-fax",
+      documentType: "Faxed Press Transcript",
+      category: "press-transcript",
+      disposition: "itemized-press-transcript",
+      title:
+        "White House News Summary fax transcript of President Bush Today Show interview",
+      documentDate: "1992-10-13",
+      pages: 8,
+      excerpt:
+        "A White House News Summary fax carries the Today Show interview transcript of President Bush's live interview with Katie Couric.",
+      evidence:
+        "Itemized from pages 31-38 of the NARA direct folder scan using the SENT BY White House Telecopier header, White House News Summary pagination, transcript text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sophia-koller-national-concert-convention-correspondence",
+      documentType: "Correspondence and Photograph Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Sophia Koller correspondence and inscribed National Concert Convention photograph",
+      documentDate: "1992-10-13",
+      pages: 6,
+      excerpt:
+        "The packet includes Sophia Koller's incoming correspondence, attachment markers, an inscribed National Concert Convention photograph, and President Bush handwritten routing.",
+      evidence:
+        "Itemized from pages 39-44 of the NARA direct folder scan using the Koller letter page, Bush Library handwriting markers, inscribed photograph, attachment markers, OCR, and rendered-page review.",
+    },
+    {
+      slug: "joseph-jennings-jamie-bush-correspondence-packet",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Joseph Jennings correspondence packet with President Bush reply and Jamie Bush routing letter",
+      documentDate: "1992-10-13",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Joseph Jennings after receiving a packet through Jamie Bush; the attached pages include Jamie Bush's routing letter and Jennings's September 23 letter on drugs, gangs, alcohol, violence, and youth.",
+      evidence:
+        "Itemized from pages 45-47 of the NARA direct folder scan using the presidential reply, James L. Bush letter, Joseph Jennings incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mark-hinueber-scripps-league-garden-island-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Mark A. Hinueber and Scripps League correspondence re Garden Island special edition",
+      documentDate: "1992-10-13",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Mark Hinueber for sending a special Garden Island edition about Hurricane Iniki; Hinueber's Scripps League letter is attached.",
+      evidence:
+        "Itemized from pages 48-49 of the NARA direct folder scan using the presidential reply, Scripps League Newspapers letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-to-president-october-13-checklist",
+      documentType: "Forwarded Materials Checklist",
+      category: "materials-forwarded-checklist",
+      disposition: "itemized-forwarded-materials-checklist",
+      title:
+        "Materials Forwarded to the President checklist: October 13, 1992",
+      documentDate: "1992-10-13",
+      pages: 1,
+      excerpt:
+        "The checklist lists letters, action packets, information items, remarks, and schedule materials forwarded to President Bush on October 13.",
+      evidence:
+        "Itemized from page 50 of the NARA direct folder scan using the Materials Forwarded to the President heading, action/information/remarks/schedule sections, OCR, and rendered-page review.",
+    },
+    {
+      slug: "president-handwritten-notes-phone-calls-october-13",
+      documentType: "Presidential Handwritten Notes and Phone Calls",
+      category: "telephone-note-packet",
+      disposition: "itemized-telephone-note-packet",
+      title:
+        "President Bush handwritten notes and Presidential Phone Calls sheet: October 13, 1992",
+      documentDate: "1992-10-13",
+      pages: 5,
+      excerpt:
+        "Bush Library photocopy pages preserve President Bush handwritten notes on campaign and policy topics plus a Presidential Phone Calls sheet.",
+      evidence:
+        "Itemized from pages 51-55 of the NARA direct folder scan using the Bush Library photocopy handwriting markers, Presidential Phone Calls form, low-confidence OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-200th-anniversary-time-capsule-memo",
+      documentType: "Event Memorandum and Attachment",
+      category: "white-house-anniversary-event",
+      disposition: "itemized-event-material",
+      title:
+        "White House 200th Anniversary time capsule memorandum and contents list",
+      documentDate: "1992-10-13",
+      pages: 3,
+      excerpt:
+        "A White House event memorandum briefs President Bush on the 200th anniversary time capsule ceremony and attaches a contents list for the capsule.",
+      evidence:
+        "Itemized from pages 56-58 of the NARA direct folder scan using the White House memorandum heading, time capsule purpose and participant sections, contents page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-history-symposium-reception-materials",
+      documentType: "Event Memorandum and Talking Points",
+      category: "white-house-anniversary-event",
+      disposition: "itemized-event-material",
+      title:
+        "White House 200th anniversary reception and White House History Symposium talking points",
+      documentDate: "1992-10-13",
+      pages: 5,
+      excerpt:
+        "The materials include the reception sequence of events, White House History Symposium talking points, and President Bush's October 13 White House schedule.",
+      evidence:
+        "Itemized from pages 59-63 of the NARA direct folder scan using the reception schedule, symposium talking-points heading, schedule page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-october-13-1992-6am",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-news-summary",
+      title:
+        "White House News Summary: Tuesday, October 13, 1992, 6:00 a.m. edition",
+      documentDate: "1992-10-13",
+      pages: 23,
+      excerpt:
+        "The News Summary covers top news, national news, international news, network news, editorials, columns, and comments on the October campaign and White House issues.",
+      evidence:
+        "Itemized from pages 64-86 of the NARA direct folder scan using the News Summary cover page, section headings, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-200th-anniversary-background-memos-duplicates",
+      documentType: "Background Memoranda Packet",
+      category: "white-house-anniversary-event",
+      disposition: "itemized-event-material",
+      title:
+        "White House 200th anniversary background memoranda, Situation Room covers, and annotated duplicates",
+      documentDate: "1992-10-13",
+      pages: 8,
+      excerpt:
+        "The packet includes Situation Room cover sheets and memoranda on the White House 200th anniversary events, including annotated and duplicate copies for President Bush.",
+      evidence:
+        "Itemized from pages 87-94 of the NARA direct folder scan using the Situation Room cover sheets, Rose Zamaria and Laurie Firestone memoranda, From the President page, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-phone-call-note-nicholas-brady",
+      documentType: "Presidential Phone Call Note",
+      category: "telephone-note-packet",
+      disposition: "itemized-telephone-note-packet",
+      title:
+        "Presidential Phone Calls note re Nicholas Brady",
+      documentDate: "1992-10-13",
+      pages: 1,
+      excerpt:
+        "A Presidential Phone Calls sheet records President Bush handwritten notes for an October 13 outgoing call with Nicholas Brady.",
+      evidence:
+        "Itemized from page 95 of the NARA direct folder scan using the Presidential Phone Calls form, Nicholas Brady entry, Bush Library handwriting marker, OCR, and rendered-page review.",
+    },
+    {
+      slug: "october-12-trip-schedule-supplementary-materials-maps",
+      documentType: "Schedule and Trip Materials",
+      category: "presidential-schedule-item",
+      disposition: "itemized-schedule-material",
+      title:
+        "President Bush October 12, 1992 schedule, supplementary briefing materials list, and trip maps",
+      documentDate: "1992-10-12",
+      pages: 5,
+      excerpt:
+        "The travel materials include President Bush's October 12 schedule, supplementary briefing materials list, Air Force One trip map, and Pennsylvania congressional district maps.",
+      evidence:
+        "Itemized from pages 96-100 of the NARA direct folder scan using the Schedule of the President heading, supplementary materials list, trip map, congressional district maps, OCR, and rendered-page review.",
+    },
+    {
+      slug: "springfield-firefighters-drop-by-memo-october-12",
+      documentType: "Event Memorandum",
+      category: "campaign-event-material",
+      disposition: "itemized-event-material",
+      title:
+        "Springfield firefighters drop-by memorandum and participant list",
+      documentDate: "1992-10-10",
+      pages: 3,
+      excerpt:
+        "A White House memorandum briefs President Bush on the Springfield firefighters drop-by, the Benjamin Franklin Memorial Fire Service Bill of Rights Act, and participants on stage.",
+      evidence:
+        "Itemized from pages 101-103 of the NARA direct folder scan using the White House memorandum heading, participant page, handwritten routing marks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "springfield-township-welcome-memo",
+      documentType: "Event Memorandum",
+      category: "campaign-event-material",
+      disposition: "itemized-event-material",
+      title:
+        "Springfield Township Welcome memorandum",
+      documentDate: "1992-10-09",
+      pages: 1,
+      excerpt:
+        "A White House memorandum briefs President Bush on the Springfield Township Welcome event at Springfield Township Municipal Building.",
+      evidence:
+        "Itemized from page 104 of the NARA direct folder scan using the Springfield Township Welcome heading, event fields, handwritten routing marks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pennsylvania-victory-92-leadership-meeting-materials",
+      documentType: "Event Memorandum and Talking Points",
+      category: "campaign-event-material",
+      disposition: "itemized-event-material",
+      title:
+        "Meeting with Pennsylvania Victory '92 leadership memorandum and talking points",
+      documentDate: "1992-10-09",
+      pages: 6,
+      excerpt:
+        "The Pennsylvania Victory '92 packet includes a White House event memorandum and talking points for thanking Republican leadership and campaign supporters.",
+      evidence:
+        "Itemized from pages 105-110 of the NARA direct folder scan using the event memorandum, participants section, talking-points pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pennsylvania-springfield-briefing-memo",
+      documentType: "Briefing Memorandum",
+      category: "campaign-briefing",
+      disposition: "itemized-campaign-briefing",
+      title:
+        "Pennsylvania briefing memorandum for Springfield suburb of Philadelphia",
+      documentDate: "1992-10-12",
+      pages: 4,
+      excerpt:
+        "The Pennsylvania briefing memorandum covers geography, demographics, election returns, local issues, labor, education, crime, welfare, and other trip background for Springfield.",
+      evidence:
+        "Itemized from pages 111-114 of the NARA direct folder scan using the Pennsylvania briefing heading, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pennsylvania-political-briefing-october-1992",
+      documentType: "Political Briefing",
+      category: "campaign-briefing",
+      disposition: "itemized-campaign-briefing",
+      title:
+        "Pennsylvania Political Briefing",
+      documentDate: "1992-10-12",
+      pages: 6,
+      excerpt:
+        "The Pennsylvania Political Briefing covers polling, media, Republican leadership, House races, congressional districts, and state political context.",
+      evidence:
+        "Itemized from pages 115-120 of the NARA direct folder scan using the Pennsylvania Political Briefing heading, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michigan-redistricting-and-congressional-district-maps",
+      documentType: "Map Packet",
+      category: "campaign-briefing-map",
+      disposition: "itemized-campaign-briefing-map",
+      title:
+        "Michigan redistricting and congressional district maps",
+      documentDate: "",
+      pages: 2,
+      excerpt:
+        "Two map pages show Michigan redistricting and congressional district geography used in the October 12 Michigan trip materials.",
+      evidence:
+        "Itemized from pages 121-122 of the NARA direct folder scan using the Michigan redistricting and county subdivision map pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michigan-chamber-agriculture-small-business-endorsement-memo",
+      documentType: "Event Memorandum",
+      category: "campaign-event-material",
+      disposition: "itemized-event-material",
+      title:
+        "Accept Michigan Chamber of Commerce, Agriculture, and Small Business endorsements memorandum",
+      documentDate: "1992-10-09",
+      pages: 2,
+      excerpt:
+        "A White House memorandum briefs President Bush for accepting endorsements from Michigan business, agriculture, and small-business leaders at Grand Rapids Airport.",
+      evidence:
+        "Itemized from pages 123-124 of the NARA direct folder scan using the event memorandum heading, participants page, handwritten routing marks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "holland-welcome-memo",
+      documentType: "Event Memorandum",
+      category: "campaign-event-material",
+      disposition: "itemized-event-material",
+      title:
+        "Holland Welcome memorandum",
+      documentDate: "1992-10-13",
+      pages: 1,
+      excerpt:
+        "A White House memorandum briefs President Bush on the Holland Welcome event at Hope College in Holland, Michigan.",
+      evidence:
+        "Itemized from page 125 of the NARA direct folder scan using the Holland Welcome heading, participants section, handwritten routing marks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michigan-victory-92-reception-materials",
+      documentType: "Event Memorandum and Talking Points",
+      category: "campaign-event-material",
+      disposition: "itemized-event-material",
+      title:
+        "Michigan Victory '92 reception memorandum and talking points",
+      documentDate: "1992-10-13",
+      pages: 5,
+      excerpt:
+        "The Michigan Victory '92 reception packet includes an event memorandum and talking points on NAFTA, trade, and campaign themes.",
+      evidence:
+        "Itemized from pages 126-130 of the NARA direct folder scan using the Victory '92 Reception memorandum, talking-points pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michigan-victory-92-dinner-materials",
+      documentType: "Event Memorandum and Talking Points",
+      category: "campaign-event-material",
+      disposition: "itemized-event-material",
+      title:
+        "Michigan Victory '92 dinner memorandum and talking points",
+      documentDate: "1992-10-13",
+      pages: 5,
+      excerpt:
+        "The Michigan Victory '92 dinner packet includes an event memorandum and talking points for the Grand Rapids fundraising dinner.",
+      evidence:
+        "Itemized from pages 131-135 of the NARA direct folder scan using the Victory '92 Dinner memorandum, talking-points pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michigan-holland-grand-rapids-briefing-memo",
+      documentType: "Briefing Memorandum",
+      category: "campaign-briefing",
+      disposition: "itemized-campaign-briefing",
+      title:
+        "Michigan briefing memorandum for Holland and Grand Rapids",
+      documentDate: "1992-10-12",
+      pages: 3,
+      excerpt:
+        "The Michigan briefing memorandum covers local background, unemployment, trade, and briefing notes for the Holland and Grand Rapids trip stops.",
+      evidence:
+        "Itemized from pages 136-138 of the NARA direct folder scan using the Michigan briefing heading, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michigan-political-briefing-october-1992",
+      documentType: "Political Briefing",
+      category: "campaign-briefing",
+      disposition: "itemized-campaign-briefing",
+      title:
+        "Michigan Political Briefing",
+      documentDate: "1992-10-12",
+      pages: 6,
+      excerpt:
+        "The Michigan Political Briefing covers polling, media, regional issues, Republican leadership, congressional races, and state political context.",
+      evidence:
+        "Itemized from pages 139-144 of the NARA direct folder scan using the Michigan Political Briefing heading, page sequence, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-october-13-1992-part-ii",
+      documentType: "Congressional Monitor Issue",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title:
+        "Congressional Monitor: Tuesday, October 13, 1992, Part II",
+      documentDate: "1992-10-13",
+      pages: 22,
+      excerpt:
+        "The Congressional Monitor issue covers congressional meetings and events, appropriations status, House and Senate floor action, and related congressional schedules.",
+      evidence:
+        "Itemized from pages 145-166 of the NARA direct folder scan using the Congressional Monitor masthead, Part II issue pages, page sequence, OCR, and rendered-page review.",
+    },
+  ],
   470418144: [
     {
       slug: "linda-price-routing-and-correspondence",
@@ -28041,6 +28561,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418120",
   "470418122",
   "470418123",
+  "470418125",
   "646482521",
   "646482523",
 ]);
