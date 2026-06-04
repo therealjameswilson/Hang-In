@@ -27769,6 +27769,162 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 76-119 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover page, newspaper mastheads, handwritten page numbers, OCR, and rendered-page review.",
     },
   ],
+  470418133: [
+    {
+      slug: "jo-ann-victor-hancock-phone-message-letter-packet",
+      documentType: "Phone Message and Presidential Letter Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Jo Ann and Victor Hancock phone message, President Bush reply, and duplicate transfer copy",
+      documentDate: "1992-10-15",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Jo Ann and Victor Hancock for a supportive phone message left before he left for Richmond and the second presidential debate; the packet includes the phone-call note and a duplicate transfer copy.",
+      evidence:
+        "Itemized from pages 2-3 and 162 of the NARA direct folder scan using the presidential reply, Victor Hancock phone-call note, duplicate transfer copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-october-15-campaign-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "Washington Times campaign clippings: October 15, 1992",
+      documentDate: "1992-10-15",
+      pages: 5,
+      excerpt:
+        "Washington Times clippings cover debate advice for President Bush, attacks on Clinton's character, timing of James Baker's campaign role, and campaign effects on Clinton's health.",
+      evidence:
+        "Itemized from pages 4-8 of the NARA direct folder scan using Washington Times mastheads, October 15 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-october-15-campaign-debate-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "Washington Post campaign, debate, Clinton-file, and commentary clippings: October 15, 1992",
+      documentDate: "1992-10-15",
+      pages: 26,
+      excerpt:
+        "Washington Post clippings cover the vice-presidential debate, Clinton passport-file search, Clintonomics, abortion politics, presidential debate format, Richmond debate preparations, Iran-Contra commentary, campaign-trail marriage coverage, and television coverage.",
+      evidence:
+        "Itemized from pages 9-34 of the NARA direct folder scan using Washington Post mastheads, October 15 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-october-15-campaign-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "New York Times campaign, Clinton-health, tax, and commentary clippings: October 15, 1992",
+      documentDate: "1992-10-15",
+      pages: 21,
+      excerpt:
+        "New York Times clippings cover Clinton's polling lead, Clinton's health report, debate-watching voters, campaign-trail notes, Bush tax-office attacks on Clinton proposals, Times commentary, and related campaign analysis.",
+      evidence:
+        "Itemized from pages 35-55 of the NARA direct folder scan using New York Times mastheads, October 15 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-los-angeles-times-october-15-debate-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "USA Today and Los Angeles Times debate clippings: October 15, 1992",
+      documentDate: "1992-10-15",
+      pages: 10,
+      excerpt:
+        "USA Today and Los Angeles Times clippings cover debate scoring, Quayle's performance, the second presidential debate in Virginia, the grim mood in the White House, and State Department activity on Clinton's past.",
+      evidence:
+        "Itemized from pages 56-65 of the NARA direct folder scan using USA Today and Los Angeles Times mastheads, October 15 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-october-15-16-campaign-policy-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "Wall Street Journal campaign, health-care, policy, and media clippings: October 15-16, 1992",
+      documentDate: "1992-10-16",
+      pages: 20,
+      excerpt:
+        "Wall Street Journal clippings cover working women and the 1992 campaign, Perot's former company, Iraqgate commentary, health-care reform, Clinton-file politics, NBC, environmental policy, Senate races, the second debate, GATT, litigation, and political commentary.",
+      evidence:
+        "Itemized from pages 66-85 of the NARA direct folder scan using Wall Street Journal mastheads, October 15 and October 16 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-october-16-presidential-debate-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "Washington Post presidential debate, campaign, passport, and commentary clippings: October 16, 1992",
+      documentDate: "1992-10-16",
+      pages: 19,
+      excerpt:
+        "Washington Post clippings cover the second presidential debate, audience-participation format, Clinton-file speedup, Cuba embargo, thirty-second politics, State Department activity, debate transcript, Bosnia, Iran-Contra commentary, and television coverage.",
+      evidence:
+        "Itemized from pages 86-104 of the NARA direct folder scan using Washington Post mastheads, October 16 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-october-16-debate-campaign-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "New York Times debate, passport, health-insurance, and campaign commentary clippings: October 16, 1992",
+      documentDate: "1992-10-16",
+      pages: 16,
+      excerpt:
+        "New York Times clippings cover the second debate, administration disarray, Clinton-file errors, employer health coverage, campaign advertising, Al Gore, Clinton trust commentary, economic scare stories, Iran-Contra commentary, and Democratic prospects.",
+      evidence:
+        "Itemized from pages 105-120 of the NARA direct folder scan using New York Times mastheads, October 16 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-usa-today-october-16-debate-term-limits-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "Washington Times and USA Today debate, Clinton-file, term-limits, and cartoon clippings: October 16, 1992",
+      documentDate: "1992-10-16",
+      pages: 8,
+      excerpt:
+        "Washington Times and USA Today clippings cover debate reactions, State Department action on Clinton files, opinion columns, term limits, and campaign cartoons.",
+      evidence:
+        "Itemized from pages 121-128 of the NARA direct folder scan using Washington Times and USA Today mastheads, October 16 dates, article headings, cartoons, OCR, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-october-16-campaign-policy-debate-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title:
+        "Los Angeles Times campaign, policy, passport, Iraq, and second-debate clippings: October 16, 1992",
+      documentDate: "1992-10-16",
+      pages: 19,
+      excerpt:
+        "Los Angeles Times clippings cover Clinton's tax and spending plan, patriotism, gridlock, business views, Bush campaign work in a Black community, Russian arms questions, debate analysis, Clinton passport-record searches, Iraq special-counsel pressure, and executive-pay disclosure.",
+      evidence:
+        "Itemized from pages 129-147 of the NARA direct folder scan using Los Angeles Times mastheads, October 16 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photographs-richmond-debate-and-related-scenes",
+      documentType: "Official White House Photograph Packet",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title:
+        "Official White House photographs labeled Richmond, post-debate rally, Roosevelt Room, and related scenes",
+      documentDate: "1992-10-15",
+      pages: 14,
+      excerpt:
+        "The closing photograph packet includes color official White House photographs and backing pages labeled post-debate rally Richmond, Virginia; Roosevelt; the White House; Richmond, Virginia; and arrival Richmond, Virginia.",
+      evidence:
+        "Itemized from pages 148-161 of the NARA direct folder scan using color photograph pages, official White House photo backing pages, handwritten labels, low-confidence OCR, and rendered-page review.",
+    },
+  ],
   470418144: [
     {
       slug: "linda-price-routing-and-correspondence",
@@ -28971,6 +29127,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418123",
   "470418125",
   "470418129",
+  "470418133",
   "646482521",
   "646482523",
 ]);
