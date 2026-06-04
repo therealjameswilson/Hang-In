@@ -37818,6 +37818,658 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 120-121 of the NARA direct folder scan using the White House reply page, incoming handwritten House note, OCR, and rendered-page review.",
     },
   ],
+  470418214: [
+    {
+      slug: "donald-riegle-family-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Donald W. Riegle Jr. family condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush send a sympathy acknowledgment to Senator Donald W. Riegle Jr., with the Riegle family incoming condolence pages attached.",
+      evidence:
+        "Itemized from pages 2-4 of the NARA direct folder scan using the White House reply page, incoming Senate-family note pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "christopher-shays-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Christopher Shays condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush acknowledge Representative Christopher Shays's sympathy note about Dorothy Walker Bush, with the rotated handwritten incoming page retained.",
+      evidence:
+        "Itemized from pages 5-6 of the NARA direct folder scan using the White House reply page, rotated incoming handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kika-de-la-garza-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "E. (Kika) de la Garza condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush thank Representative E. de la Garza for his November 24 condolence letter about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 7-8 of the NARA direct folder scan using the White House reply page, incoming House letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ike-skelton-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ike Skelton condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush send a sympathy acknowledgment to Representative Ike Skelton, with Skelton's November 24 House letter attached.",
+      evidence:
+        "Itemized from pages 9-10 of the NARA direct folder scan using the White House reply page, incoming House letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nancy-kassebaum-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Nancy Landon Kassebaum condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush acknowledge Senator Nancy Landon Kassebaum's sympathy message, with her incoming Senate stationery and card pages retained.",
+      evidence:
+        "Itemized from pages 11-13 of the NARA direct folder scan using the White House reply page, incoming Senate and card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "murray-dwight-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Murray Dwight condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush reply to Mr. and Mrs. Murray Dwight after their handwritten condolence note about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 14-16 of the NARA direct folder scan using the White House reply page, incoming handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kirk-fordice-condolence-fax-correspondence",
+      documentType: "Presidential Reply and Incoming Fax Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Kirk Fordice condolence fax correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush answer Mississippi Governor Kirk Fordice's faxed condolence letter, with the Governor's Office fax cover sheet attached.",
+      evidence:
+        "Itemized from pages 17-19 of the NARA direct folder scan using the White House reply page, incoming Governor's Office fax, cover sheet, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mae-falgout-condolence-mailgram-correspondence",
+      documentType: "Presidential Reply and Incoming Mailgram",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mae Falgout condolence mailgram correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush acknowledge the Falgout family's Western Union mailgram of sympathy after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from pages 20-21 of the NARA direct folder scan using the White House reply page, Western Union Mailgram, OCR, and rendered-page review.",
+    },
+    {
+      slug: "christel-truglia-condolence-poem-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Christel H. Truglia condolence poem correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush thank Connecticut Representative Christel H. Truglia for her condolence letter and enclosed Divine Weaver poem.",
+      evidence:
+        "Itemized from pages 22-24 of the NARA direct folder scan using the White House reply page, incoming letter and poem pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-byrd-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robert C. Byrd condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush send a sympathy acknowledgment to Senator Robert C. Byrd, with Byrd's November 20 Senate letter attached.",
+      evidence:
+        "Itemized from pages 25-26 of the NARA direct folder scan using the White House reply page, incoming Senate Appropriations letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jack-kemp-transition-service-correspondence",
+      documentType: "Presidential Letter and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jack F. Kemp transition and service correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 8,
+      excerpt:
+        "President Bush writes Jack Kemp about his service and the post-election transition, with Kemp's long handwritten letter and retained dark-copy pages attached.",
+      evidence:
+        "Itemized from pages 27-34 of the NARA direct folder scan using the outgoing presidential letter, incoming Kemp letter pages, classification stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "andree-hickey-bobby-holt-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Andree Hickey and Bobby Holt condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Andree Hickey, with Bobby Holt's Bush-Quayle transmittal and a handwritten condolence letter from the Hickey family attached.",
+      evidence:
+        "Itemized from pages 35-37 of the NARA direct folder scan using the outgoing reply, Bush-Quayle transmittal, incoming handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "stephanie-van-reigersberg-chief-of-staff-note",
+      documentType: "Presidential Reply and Incoming Note Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Stephanie R. van Reigersberg chief-of-staff note correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Stephanie R. van Reigersberg for her kind words, with her incoming note or card pages retained.",
+      evidence:
+        "Itemized from pages 38-40 of the NARA direct folder scan using the outgoing reply, incoming note pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-jachym-transition-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John J. Jachym transition correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush answers John J. Jachym after Jachym's post-election letter about the transition and the President's service.",
+      evidence:
+        "Itemized from pages 41-42 of the NARA direct folder scan using the outgoing reply, incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "andrea-martin-transition-thank-you-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Andrea Martin transition thank-you correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Andrea Martin after her November 11 letter thanking him for his service and reflecting on the election.",
+      evidence:
+        "Itemized from pages 43-44 of the NARA direct folder scan using the outgoing reply, incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "james-straus-transition-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "James R. Straus transition correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush answers James R. Straus of Straus Downing International after Straus's November 10 post-election letter.",
+      evidence:
+        "Itemized from pages 45-46 of the NARA direct folder scan using the outgoing reply, incoming business letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-odell-election-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robert P. Odell Jr. election correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Robert P. Odell Jr. after Odell's November 17 election letter, with a retained From the desk of George Bush page attached.",
+      evidence:
+        "Itemized from pages 47-48 of the NARA direct folder scan using the outgoing reply, incoming letter, retained presidential note page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "patricia-harrison-white-house-evening-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Patricia de Stacy Harrison White House evening correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Patricia de Stacy Harrison for her kind words about a White House evening, with her November 20 E. Bruce Harrison Company letter attached.",
+      evidence:
+        "Itemized from pages 49-50 of the NARA direct folder scan using the outgoing reply, incoming company letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fred-zeder-condolence-thanksgiving-note",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Fred M. Zeder II condolence and Thanksgiving note packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush answers Fred M. Zeder II after Zeder's handwritten sympathy note and Thanksgiving message to George and Barbara Bush.",
+      evidence:
+        "Itemized from pages 51-52 of the NARA direct folder scan using the outgoing reply, incoming handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "richard-nixon-condolence-note-correspondence",
+      documentType: "Presidential Reply and Incoming Handwritten Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Richard M. Nixon condolence note correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Richard M. Nixon for his thoughtful note about Dorothy Walker Bush, with Nixon's handwritten November 20 letter from Woodcliff Lake attached.",
+      evidence:
+        "Itemized from pages 53-54 of the NARA direct folder scan using the outgoing reply, Richard Nixon letterhead note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ee-dunsworth-condolence-poem-correspondence",
+      documentType: "Presidential Reply and Incoming Poem",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "E. E. Dunsworth condolence poem correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush acknowledge E. E. Dunsworth's sympathy message and the enclosed To Those I Love poem.",
+      evidence:
+        "Itemized from pages 55-56 of the NARA direct folder scan using the White House reply page, poem page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-macomber-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John D. Macomber condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush thank John D. Macomber for his November 20 condolence letter from the Export-Import Bank.",
+      evidence:
+        "Itemized from pages 57-58 of the NARA direct folder scan using the White House reply page, incoming Export-Import Bank letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "abdul-rahman-al-khalifa-bahrain-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Diplomatic Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Abdul Rahman Bin Fares Al-Khalifa Bahrain condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush acknowledge Ambassador Abdul Rahman Bin Fares Al-Khalifa's condolence letter on behalf of Bahrain.",
+      evidence:
+        "Itemized from pages 59-60 of the NARA direct folder scan using the White House reply page, Embassy of Bahrain letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ali-hamad-al-bahar-kuwait-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ali Hamad Al Bahar Kuwait Insurance condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush thank Ali Hamad Al Bahar of Kuwait Insurance Company for his sympathy message after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from pages 61-62 of the NARA direct folder scan using the White House reply page, incoming Kuwait Insurance letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "miguel-angel-salaverria-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Diplomatic Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Miguel Angel Salaverria El Salvador condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush acknowledge Salvadoran Ambassador Miguel Angel Salaverria's November 20 condolence letter.",
+      evidence:
+        "Itemized from pages 63-64 of the NARA direct folder scan using the White House reply page, incoming ambassadorial letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jaime-ford-boyd-panama-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Diplomatic Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jaime Ford Boyd Panama condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush answer Panamanian Ambassador Jaime Ford Boyd's condolence letter on Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 65-66 of the NARA direct folder scan using the White House reply page, incoming ambassadorial letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mort-shauerman-cuny-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mort Shauerman CUNY condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush thank Mort Shauerman of the City University of New York for his handwritten sympathy message.",
+      evidence:
+        "Itemized from pages 67-68 of the NARA direct folder scan using the White House reply page, incoming CUNY handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-perry-naval-district-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Chaplain William L. Perry Naval District Washington condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush acknowledge Chaplain William L. Perry's Navy letter of sympathy after Dorothy Walker Bush's death.",
+      evidence:
+        "Itemized from pages 69-70 of the NARA direct folder scan using the White House reply page, incoming Navy letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-koeppel-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William W. Koeppel condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush send a sympathy acknowledgment to William W. Koeppel, with Koeppel's November 20 condolence letter attached.",
+      evidence:
+        "Itemized from pages 71-72 of the NARA direct folder scan using the White House reply page, incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "katherine-boyd-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Katherine E. Boyd condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush reply to Katherine E. Boyd after her handwritten condolence card or note about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 73-75 of the NARA direct folder scan using the White House reply page, dark incoming handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tim-goeglein-dan-coats-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Tim Goeglein and Dan Coats office condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush acknowledge Tim Goeglein's condolence letter on Senator Dan Coats stationery.",
+      evidence:
+        "Itemized from pages 76-77 of the NARA direct folder scan using the White House reply page, incoming Senate-office letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nikki-richnow-condolence-card-correspondence",
+      documentType: "Presidential Reply and Incoming Card",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Nikki Richnow condolence card correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush thank Nikki Richnow for her sympathy, with the incoming prayer or condolence card pages attached.",
+      evidence:
+        "Itemized from pages 78-80 of the NARA direct folder scan using the White House reply page, incoming card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-moseley-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Thomas W. Moseley condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush answer Thomas W. Moseley's handwritten condolence note.",
+      evidence:
+        "Itemized from pages 81-82 of the NARA direct folder scan using the White House reply page, incoming handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-streeter-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Major General William F. Streeter condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush acknowledge Major General William F. Streeter's U.S. Army Military District of Washington condolence letter.",
+      evidence:
+        "Itemized from pages 83-84 of the NARA direct folder scan using the White House reply page, incoming Army letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "margaret-brock-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Margaret Martin Brock condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush thank Margaret Martin Brock for her November 20 condolence letter.",
+      evidence:
+        "Itemized from pages 85-86 of the NARA direct folder scan using the White House reply page, incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sean-okeefe-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sean O'Keefe condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush acknowledge Secretary of the Navy Sean O'Keefe's November 23 condolence letter.",
+      evidence:
+        "Itemized from pages 87-88 of the NARA direct folder scan using the White House reply page, incoming Secretary of the Navy letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michael-kramer-time-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Michael Kramer Time condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush thank Michael Kramer of Time for his November 20 sympathy letter.",
+      evidence:
+        "Itemized from pages 89-90 of the NARA direct folder scan using the White House reply page, incoming Time Inc. letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "j-maxwell-moore-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "J. Maxwell Moore condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush answer J. Maxwell Moore of Nags Head after Moore's handwritten sympathy note about Dorothy Walker Bush.",
+      evidence:
+        "Itemized from pages 91-93 of the NARA direct folder scan using the White House reply page, incoming handwritten note pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jeffrey-white-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Captain and Mrs. Jeffrey White condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush send a sympathy acknowledgment to Captain and Mrs. Jeffrey White, with their handwritten incoming note attached.",
+      evidence:
+        "Itemized from pages 94-95 of the NARA direct folder scan using the White House reply page, incoming handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "eileen-hewgley-condolence-election-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Eileen Hewgley condolence and election correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Eileen Hewgley after her handwritten note about Dorothy Walker Bush, the election, and the Bush family's future.",
+      evidence:
+        "Itemized from pages 96-98 of the NARA direct folder scan using the outgoing reply, incoming handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "peter-leblond-chiquita-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Peter LeBlond Chiquita Brands condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush thank Peter LeBlond of Chiquita Brands for his handwritten sympathy letter.",
+      evidence:
+        "Itemized from pages 99-100 of the NARA direct folder scan using the White House reply page, incoming Chiquita Brands letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "florence-melton-gordon-mosley-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Florence Melton and Gordon Mosley correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Florence Melton about Gordy, with Melton's handwritten note and a retained From the desk of George Bush page attached.",
+      evidence:
+        "Itemized from pages 101-103 of the NARA direct folder scan using the outgoing reply, incoming handwritten note, retained desk-note page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-seay-transition-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William H. Seay transition correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush answers William H. Seay after Seay's November 17 post-election letter about friendship and public service.",
+      evidence:
+        "Itemized from pages 104-105 of the NARA direct folder scan using the outgoing reply, incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-ballard-fatherhood-institute-condolence-card",
+      documentType: "Presidential Reply and Incoming Card Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Charles A. Ballard responsible fatherhood condolence card packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush answer Charles A. Ballard of the National Institute for Responsible Fatherhood and Family Development, with accountable-mail and card pages attached.",
+      evidence:
+        "Itemized from pages 106-108 of the NARA direct folder scan using the White House reply page, accountable-mail page, card pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "richard-hightower-cullen-bank-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Richard W. Hightower Cullen Bank correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Richard W. Hightower after Hightower's Cullen Bank letter offering banking help during the transition to Houston.",
+      evidence:
+        "Itemized from pages 109-110 of the NARA direct folder scan using the outgoing reply, incoming Cullen Bank letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jay-allison-condolence-election-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jay Allison condolence and election correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush answers Jay Allison after Allison's handwritten note about Dorothy Walker Bush and the election.",
+      evidence:
+        "Itemized from pages 111-113 of the NARA direct folder scan using the outgoing reply, incoming handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "harvey-bradley-condolence-election-golf-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "C. Harvey Bradley Jr. condolence, election, and golf correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush replies to C. Harvey Bradley Jr., known as Buck, after Bradley's handwritten note about Dorothy Walker Bush, the election, and future golf.",
+      evidence:
+        "Itemized from pages 114-116 of the NARA direct folder scan using the outgoing reply, incoming handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-matchneer-condolence-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mrs. William W. Matchneer Jr. condolence correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush and Barbara Bush send a sympathy acknowledgment to Mrs. William W. Matchneer Jr., with Sally's handwritten note pages attached.",
+      evidence:
+        "Itemized from pages 117-119 of the NARA direct folder scan using the White House reply page, incoming handwritten note pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-williams-election-mother-correspondence",
+      documentType: "Presidential Replies and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Charles P. Williams election and mother correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Charles P. Williams about the election and the death of Dorothy Walker Bush, with a separate sympathy acknowledgment and Williams's incoming letter attached.",
+      evidence:
+        "Itemized from pages 120-122 of the NARA direct folder scan using the personalized outgoing reply, separate sympathy acknowledgment, incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "stuart-northrop-election-mother-future-correspondence",
+      documentType: "Presidential Replies and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Stuart J. Northrop election, mother, and future-opportunities correspondence packet",
+      documentDate: "1992-11-30",
+      pages: 7,
+      excerpt:
+        "President Bush answers Stuart J. Northrop's long handwritten letter about the election, Dorothy Walker Bush, and future opportunities, with a separate sympathy acknowledgment and rotated incoming pages retained.",
+      evidence:
+        "Itemized from pages 123-129 of the NARA direct folder scan using the personalized outgoing reply, separate sympathy acknowledgment, incoming handwritten pages, rotated-page review, OCR, and rendered-page review.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -38257,6 +38909,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418206",
   "470418210",
   "470418213",
+  "470418214",
   "646482525",
   "646482521",
   "646482523",

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-04T09:21:02.867Z",
+  "generatedAt": "2026-06-04T09:36:10.673Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
-    "documentCount": 8676,
+    "documentCount": 8719,
     "redactionSheetDocumentCount": 5531,
     "directFolderScanCount": 240,
     "directSingleDocumentScanCount": 113,
     "directPacketScanCount": 127,
-    "directItemizedDocumentCount": 2905,
+    "directItemizedDocumentCount": 2948,
     "directItemizedFolderCount": 127,
     "foldersWithoutParsedRows": 240,
     "foldersStillUnrepresented": 0
@@ -55,7 +55,7 @@
     "itemized-legislative-issues-update": 3,
     "itemized-aids-policy-memo": 1,
     "itemized-press-clipping": 4,
-    "itemized-presidential-correspondence": 600,
+    "itemized-presidential-correspondence": 650,
     "itemized-capital-gains-press-article": 1,
     "itemized-title-x-pregnancy-counseling": 5,
     "itemized-title-x-pregnancy-counseling-press": 6,
@@ -466,7 +466,7 @@
     "itemized-diplomatic-condolence-book": 1,
     "itemized-diplomatic-condolence-reply": 27,
     "itemized-diplomatic-condolence-message": 27,
-    "itemized-correspondence-letter": 62
+    "itemized-correspondence-letter": 55
   },
   "auditNote": "Direct scans keep source material visible when no numbered withdrawal/redaction-sheet rows were parsed. Single-document direct scans are represented as one document; packet scans still need item-by-item review. Itemized child records are added only when the OCR has high-confidence document markers, and the packet placeholder remains until residual material is reviewed.",
   "directScanRecords": [
@@ -48299,6 +48299,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Donald W. Riegle Jr. family condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush send a sympathy acknowledgment to Senator Donald W. Riegle Jr., with the Riegle family incoming condolence pages attached."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Suzanne Murphy condolence correspondence packet",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48310,6 +48325,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush replies to Suzanne Murphy after her condolence message about Dorothy Walker Bush, with Murphy's incoming material retained."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Christopher Shays condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush acknowledge Representative Christopher Shays's sympathy note about Dorothy Walker Bush, with the rotated handwritten incoming page retained."
     },
     {
       "date": "1992-11-30",
@@ -48329,6 +48359,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "E. (Kika) de la Garza condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush thank Representative E. de la Garza for his November 24 condolence letter about Dorothy Walker Bush."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Fred Travalena flower-basket condolence packet",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48340,6 +48385,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks Fred Travalena for the flower basket sent in memory of Dorothy Walker Bush, with White House Gift Unit detail and card copy attached."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Ike Skelton condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush send a sympathy acknowledgment to Representative Ike Skelton, with Skelton's November 24 House letter attached."
     },
     {
       "date": "1992-11-30",
@@ -48359,6 +48419,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Nancy Landon Kassebaum condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush acknowledge Senator Nancy Landon Kassebaum's sympathy message, with her incoming Senate stationery and card pages retained."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Donald B. Ensenat Brunei condolence cable correspondence packet",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48370,6 +48445,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks Donald B. Ensenat for his cable about Dorothy Walker Bush, with the American Embassy Bandar Seri Begawan cable copy retained."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Murray Dwight condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush reply to Mr. and Mrs. Murray Dwight after their handwritten condolence note about Dorothy Walker Bush."
     },
     {
       "date": "1992-11-30",
@@ -48389,6 +48479,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Kirk Fordice condolence fax correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Fax Packet",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush answer Mississippi Governor Kirk Fordice's faxed condolence letter, with the Governor's Office fax cover sheet attached."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Archbishop William H. Keeler condolence correspondence packet",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48400,6 +48505,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush answers Archbishop William H. Keeler's message from the National Conference of Catholic Bishops after Dorothy Walker Bush's death."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Mae Falgout condolence mailgram correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Mailgram",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush acknowledge the Falgout family's Western Union mailgram of sympathy after Dorothy Walker Bush's death."
     },
     {
       "date": "1992-11-30",
@@ -48419,6 +48539,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Christel H. Truglia condolence poem correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush thank Connecticut Representative Christel H. Truglia for her condolence letter and enclosed Divine Weaver poem."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "H. Norman Schwarzkopf condolence correspondence packet",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48430,6 +48565,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush replies to General H. Norman Schwarzkopf's condolence letter about Dorothy Walker Bush."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Robert C. Byrd condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush send a sympathy acknowledgment to Senator Robert C. Byrd, with Byrd's November 20 Senate letter attached."
     },
     {
       "date": "1992-11-30",
@@ -48449,6 +48599,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Jack F. Kemp transition and service correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Letter and Incoming Correspondence Packet",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush writes Jack Kemp about his service and the post-election transition, with Kemp's long handwritten letter and retained dark-copy pages attached."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "H. Meade Alcorn condolence correspondence packet",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48460,6 +48625,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush writes Maria at Mrs. H. Meade Alcorn's address to thank her for writing about Dorothy Walker Bush and Meade Alcorn."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Andree Hickey and Bobby Holt condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence Packet",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush replies to Andree Hickey, with Bobby Holt's Bush-Quayle transmittal and a handwritten condolence letter from the Hickey family attached."
     },
     {
       "date": "1992-11-30",
@@ -48479,6 +48659,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Stephanie R. van Reigersberg chief-of-staff note correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Note Packet",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush thanks Stephanie R. van Reigersberg for her kind words, with her incoming note or card pages retained."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Archbishop Iakovos condolence correspondence packet",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48490,6 +48685,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush replies to Archbishop Iakovos of the Greek Orthodox Archdiocese after Iakovos sent condolences to President and Mrs. Bush."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "John J. Jachym transition correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush answers John J. Jachym after Jachym's post-election letter about the transition and the President's service."
     },
     {
       "date": "1992-11-30",
@@ -48509,6 +48719,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Andrea Martin transition thank-you correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush replies to Andrea Martin after her November 11 letter thanking him for his service and reflecting on the election."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "William M. Walker Jr. presidential library contribution correspondence packet",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48520,6 +48745,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks William M. Walker Jr. for his campaign support and offer to contribute to the Presidential Library, with a copy routed to George W. Bush."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "James R. Straus transition correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush answers James R. Straus of Straus Downing International after Straus's November 10 post-election letter."
     },
     {
       "date": "1992-11-30",
@@ -48539,6 +48779,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Robert P. Odell Jr. election correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush replies to Robert P. Odell Jr. after Odell's November 17 election letter, with a retained From the desk of George Bush page attached."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Condolence Messages for President Bush, Book 2 title page",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48550,6 +48805,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "Title page for the diplomatic condolence packet labeled Condolence Messages for President Bush, Book 2."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Patricia de Stacy Harrison White House evening correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush thanks Patricia de Stacy Harrison for her kind words about a White House evening, with her November 20 E. Bruce Harrison Company letter attached."
     },
     {
       "date": "1992-11-30",
@@ -48569,6 +48839,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Fred M. Zeder II condolence and Thanksgiving note packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush answers Fred M. Zeder II after Zeder's handwritten sympathy note and Thanksgiving message to George and Barbara Bush."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Book 2 diplomatic condolence reply to Shaikh Isa bin Salman Al-Khalifa",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48580,6 +48865,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks the Amir of Bahrain for kind words of condolence on Dorothy Walker Bush's death."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Richard M. Nixon condolence note correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Handwritten Note",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush thanks Richard M. Nixon for his thoughtful note about Dorothy Walker Bush, with Nixon's handwritten November 20 letter from Woodcliff Lake attached."
     },
     {
       "date": "1992-11-30",
@@ -48599,6 +48899,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "E. E. Dunsworth condolence poem correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Poem",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush acknowledge E. E. Dunsworth's sympathy message and the enclosed To Those I Love poem."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Book 2 diplomatic condolence reply to Begum Khaleda Zia",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48610,6 +48925,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks Bangladesh Prime Minister Begum Khaleda Zia for her condolence message about Dorothy Walker Bush."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "John D. Macomber condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush thank John D. Macomber for his November 20 condolence letter from the Export-Import Bank."
     },
     {
       "date": "1992-11-30",
@@ -48629,6 +48959,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Abdul Rahman Bin Fares Al-Khalifa Bahrain condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Diplomatic Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush acknowledge Ambassador Abdul Rahman Bin Fares Al-Khalifa's condolence letter on behalf of Bahrain."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Book 2 diplomatic condolence reply to Jorge Crespo-Velasco",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48640,6 +48985,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks Bolivian Ambassador Jorge Crespo-Velasco and Adela for their warm condolence message."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Ali Hamad Al Bahar Kuwait Insurance condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush thank Ali Hamad Al Bahar of Kuwait Insurance Company for his sympathy message after Dorothy Walker Bush's death."
     },
     {
       "date": "1992-11-30",
@@ -48659,6 +49019,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Miguel Angel Salaverria El Salvador condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Diplomatic Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush acknowledge Salvadoran Ambassador Miguel Angel Salaverria's November 20 condolence letter."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Book 2 diplomatic condolence reply to Helmut Kohl",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48670,6 +49045,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks Chancellor Helmut Kohl and Hannelore for their condolences after Dorothy Walker Bush's death."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Jaime Ford Boyd Panama condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Diplomatic Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush answer Panamanian Ambassador Jaime Ford Boyd's condolence letter on Dorothy Walker Bush."
     },
     {
       "date": "1992-11-30",
@@ -48689,6 +49079,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Mort Shauerman CUNY condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush thank Mort Shauerman of the City University of New York for his handwritten sympathy message."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Book 2 diplomatic condolence reply to Yitzhak Rabin",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48700,6 +49105,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks Israeli Prime Minister Yitzhak Rabin for his condolence message and adds a handwritten personal note."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Chaplain William L. Perry Naval District Washington condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush acknowledge Chaplain William L. Perry's Navy letter of sympathy after Dorothy Walker Bush's death."
     },
     {
       "date": "1992-11-30",
@@ -48719,6 +49139,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "William W. Koeppel condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush send a sympathy acknowledgment to William W. Koeppel, with Koeppel's November 20 condolence letter attached."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Book 2 diplomatic condolence reply to Teddy Kollek",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48730,6 +49165,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks Jerusalem Mayor Teddy Kollek for his kind words of sympathy after Dorothy Walker Bush's death."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Katherine E. Boyd condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush reply to Katherine E. Boyd after her handwritten condolence card or note about Dorothy Walker Bush."
     },
     {
       "date": "1992-11-30",
@@ -48749,6 +49199,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Tim Goeglein and Dan Coats office condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush acknowledge Tim Goeglein's condolence letter on Senator Dan Coats stationery."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Book 2 diplomatic condolence reply to Roh Tae Woo",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48760,6 +49225,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks President Roh Tae Woo and Mrs. Roh for their thoughts and prayers after Dorothy Walker Bush's death."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Nikki Richnow condolence card correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Card",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush thank Nikki Richnow for her sympathy, with the incoming prayer or condolence card pages attached."
     },
     {
       "date": "1992-11-30",
@@ -48779,6 +49259,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Thomas W. Moseley condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush answer Thomas W. Moseley's handwritten condolence note."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Book 2 diplomatic condolence reply to H. Kamuzu Banda",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48790,6 +49285,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks Malawi Life President H. Kamuzu Banda for kind words of condolence."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Major General William F. Streeter condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush acknowledge Major General William F. Streeter's U.S. Army Military District of Washington condolence letter."
     },
     {
       "date": "1992-11-30",
@@ -48809,6 +49319,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Margaret Martin Brock condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush thank Margaret Martin Brock for her November 20 condolence letter."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Book 2 diplomatic condolence reply to Sir Anerood Jugnauth",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48820,6 +49345,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush tells Mauritius Prime Minister Sir Anerood Jugnauth that the warmth of his condolence message was deeply touching."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Sean O'Keefe condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush acknowledge Secretary of the Navy Sean O'Keefe's November 23 condolence letter."
     },
     {
       "date": "1992-11-30",
@@ -48839,6 +49379,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Michael Kramer Time condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush thank Michael Kramer of Time for his November 20 sympathy letter."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Book 2 diplomatic condolence reply to Sultan Qaboos bin Said",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48850,6 +49405,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks Sultan Qaboos bin Said of Oman for kind words of condolence."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "J. Maxwell Moore condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush answer J. Maxwell Moore of Nags Head after Moore's handwritten sympathy note about Dorothy Walker Bush."
     },
     {
       "date": "1992-11-30",
@@ -48869,6 +49439,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Captain and Mrs. Jeffrey White condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush send a sympathy acknowledgment to Captain and Mrs. Jeffrey White, with their handwritten incoming note attached."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Book 2 diplomatic condolence reply to Shaikh Khalifa bin Hamad Al-Thani",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48880,6 +49465,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks the Amir of Qatar for kind words of condolence on Dorothy Walker Bush's death."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Eileen Hewgley condolence and election correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush replies to Eileen Hewgley after her handwritten note about Dorothy Walker Bush, the election, and the Bush family's future."
     },
     {
       "date": "1992-11-30",
@@ -48899,6 +49499,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "Peter LeBlond Chiquita Brands condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush thank Peter LeBlond of Chiquita Brands for his handwritten sympathy letter."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Book 2 diplomatic condolence reply to Hafiz al-Assad",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48910,6 +49525,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks Syrian President Hafiz al-Assad for his condolence message after Dorothy Walker Bush's death."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Florence Melton and Gordon Mosley correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence Packet",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush replies to Florence Melton about Gordy, with Melton's handwritten note and a retained From the desk of George Bush page attached."
     },
     {
       "date": "1992-11-30",
@@ -48929,6 +49559,21 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
+      "title": "William H. Seay transition correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush answers William H. Seay after Seay's November 17 post-election letter about friendship and public service."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
       "title": "Book 2 diplomatic condolence reply to Queen Elizabeth II",
       "parentPacketId": "nara-470418213-direct-scan",
       "naId": "470418213",
@@ -48940,6 +49585,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "President Bush thanks Queen Elizabeth II and Prince Philip for their thoughts and prayers after Dorothy Walker Bush's death."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Charles A. Ballard responsible fatherhood condolence card packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Card Packet",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush answer Charles A. Ballard of the National Institute for Responsible Fatherhood and Family Development, with accountable-mail and card pages attached."
     },
     {
       "date": "1992-11-30",
@@ -48958,6 +49618,21 @@
     },
     {
       "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Richard W. Hightower Cullen Bank correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush replies to Richard W. Hightower after Hightower's Cullen Bank letter offering banking help during the transition to Houston."
+    },
+    {
+      "date": "1992-11-30",
       "documentDate": "1992-11-20",
       "title": "Book 2 incoming condolence message from Timothy Baswell Donaldson",
       "parentPacketId": "nara-470418213-direct-scan",
@@ -48970,6 +49645,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "Bahamas Ambassador Timothy Baswell Donaldson expresses sympathy on behalf of the Government and people of the Commonwealth of the Bahamas."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Jay Allison condolence and election correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush answers Jay Allison after Allison's handwritten note about Dorothy Walker Bush and the election."
     },
     {
       "date": "1992-11-30",
@@ -48988,6 +49678,21 @@
     },
     {
       "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "C. Harvey Bradley Jr. condolence, election, and golf correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush replies to C. Harvey Bradley Jr., known as Buck, after Bradley's handwritten note about Dorothy Walker Bush, the election, and future golf."
+    },
+    {
+      "date": "1992-11-30",
       "documentDate": "1992-11-21",
       "title": "Book 2 incoming condolence cable from Shaikh Khalifa bin Salman Al-Khalifa",
       "parentPacketId": "nara-470418213-direct-scan",
@@ -49000,6 +49705,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "Bahrain Prime Minister Shaikh Khalifa bin Salman Al-Khalifa sends condolences and prayers after the death of Dorothy Walker Bush."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Mrs. William W. Matchneer Jr. condolence correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Reply and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush and Barbara Bush send a sympathy acknowledgment to Mrs. William W. Matchneer Jr., with Sally's handwritten note pages attached."
     },
     {
       "date": "1992-11-30",
@@ -49018,6 +49738,21 @@
     },
     {
       "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Charles P. Williams election and mother correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Replies and Incoming Correspondence",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush replies to Charles P. Williams about the election and the death of Dorothy Walker Bush, with a separate sympathy acknowledgment and Williams's incoming letter attached."
+    },
+    {
+      "date": "1992-11-30",
       "documentDate": "1992-11-23",
       "title": "Book 2 incoming condolence message from Jaime Paz Zamora",
       "parentPacketId": "nara-470418213-direct-scan",
@@ -49030,6 +49765,21 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418213",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-005.pdf",
       "excerpt": "A National Security Council memorandum relays the condolence message from Bolivian President Jaime Paz Zamora."
+    },
+    {
+      "date": "1992-11-30",
+      "documentDate": "1992-11-30",
+      "title": "Stuart J. Northrop election, mother, and future-opportunities correspondence packet",
+      "parentPacketId": "nara-470418214-direct-scan",
+      "naId": "470418214",
+      "folderId": "90738-006",
+      "containerId": "90738",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
+      "type": "Presidential Replies and Incoming Correspondence Packet",
+      "catalogUrl": "https://catalog.archives.gov/id/470418214",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
+      "excerpt": "President Bush answers Stuart J. Northrop's long handwritten letter about the election, Dorothy Walker Bush, and future opportunities, with a separate sympathy acknowledgment and rotated incoming pages retained."
     },
     {
       "date": "1992-11-30",
@@ -49498,21 +50248,6 @@
     },
     {
       "date": "1992-11-30",
-      "documentDate": "1992-11-30",
-      "title": "Letter: Dear George",
-      "parentPacketId": "nara-470418214-direct-scan",
-      "naId": "470418214",
-      "folderId": "90738-006",
-      "containerId": "90738",
-      "category": "letter-item",
-      "disposition": "itemized-correspondence-letter",
-      "type": "Letter",
-      "catalogUrl": "https://catalog.archives.gov/id/470418214",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
-      "excerpt": "pear George Its a great privilege to be a Senate spouse - but to have a son as President IS every Mother's dream. you fulfilled that dream for your mother- - and it may well have been the proudest moment of her life time. and 10y to her and to you brought honor NOT PRINTED AT GOVERNMENT EXPENSE your whole family. Having lost my Dad his year - d know nomething of he pain you are feeling. Some one suggested d tabe he best picture of my Dad - and put it on my desh. d did and it helps."
-    },
-    {
-      "date": "1992-11-30",
       "documentDate": "1992-11-20",
       "title": "Letter: Dear President Bush",
       "parentPacketId": "nara-470418215-direct-scan",
@@ -49529,21 +50264,6 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
-      "title": "Letter: Dear Mr President",
-      "parentPacketId": "nara-470418214-direct-scan",
-      "naId": "470418214",
-      "folderId": "90738-006",
-      "containerId": "90738",
-      "category": "letter-item",
-      "disposition": "itemized-correspondence-letter",
-      "type": "Letter",
-      "catalogUrl": "https://catalog.archives.gov/id/470418214",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
-      "excerpt": "Dear Mr President, Just want to express my wf Betsis and my admination for you and your wonderful family during this difficult person We were sorry to lean of the douth of you and we are very sorry you will not be our President during the next for years. Thank you for all your good service to an makin. March love, Chrotops (+Bebi) Daily 11-30-92"
-    },
-    {
-      "date": "1992-11-30",
-      "documentDate": "1992-11-30",
       "title": "Letter: Dear George",
       "parentPacketId": "nara-470418215-direct-scan",
       "naId": "470418215",
@@ -49555,21 +50275,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418215",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-007.pdf",
       "excerpt": "Dear George, When my did died in 1981, the most was It did much to solidity the duy affection and moving and meaning ful note I got yours- turn and your slem able to acciprote respect for that I feel. alis, it is now ade- my quatity. Suffice it to say that much you mix in all The Bust family are very the thoughts and prayers of Jenicr had me. CON UN FUERTE ABRAZO, 10mg Daily"
-    },
-    {
-      "date": "1992-11-30",
-      "documentDate": "1992-11-30",
-      "title": "Letter: Dear IKC-",
-      "parentPacketId": "nara-470418214-direct-scan",
-      "naId": "470418214",
-      "folderId": "90738-006",
-      "containerId": "90738",
-      "category": "letter-item",
-      "disposition": "itemized-correspondence-letter",
-      "type": "Letter",
-      "catalogUrl": "https://catalog.archives.gov/id/470418214",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
-      "excerpt": "Dear IKC- So many thusher CyB, Thank you so much for your warm expression of sympathy, Your thoughts and prayers mean a lot to the entire Bush family. Dorothy Walker Bush was a caring and kind person and a loving mother, and we will miss her. ay Bush Barbara Bush THE WHITE HOUSE WASHINGTON The Honorable Ike Skelton House of Representatives Washington, D.C. 20510 cc5 HOUSE OF REPRESENTATIVES WASHINGTON, D. C. 20515 IKE SKELTON 4TH DISTRICT, MISSOURI November 24, 1992"
     },
     {
       "date": "1992-11-30",
@@ -49589,21 +50294,6 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
-      "title": "Letter: Dear hu. President",
-      "parentPacketId": "nara-470418214-direct-scan",
-      "naId": "470418214",
-      "folderId": "90738-006",
-      "containerId": "90738",
-      "category": "letter-item",
-      "disposition": "itemized-correspondence-letter",
-      "type": "Letter",
-      "catalogUrl": "https://catalog.archives.gov/id/470418214",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
-      "excerpt": "Dear hu. President. ny deepest supportly in the loss of your Mother- she must have been a truly extraordinary woman. & the words of Thounton hilder \" the highest trilute to those he have loved and lost is not grief but gratitude.\" hards are of Amall comfort, but know that your many, many friends are recping you in one the shts and prayers- birth my admirating I homest wishes to you I Banbara always- hancy Darly 11-30-92 THE WHITE HOUSE WASHINGTON Mr. and Mrs. Murray Dwight 207 Hardenburgh Avenue Demarest, New Je..."
-    },
-    {
-      "date": "1992-11-30",
-      "documentDate": "1992-11-30",
       "title": "Letter: Dear Mr. President",
       "parentPacketId": "nara-470418215-direct-scan",
       "naId": "470418215",
@@ -49615,21 +50305,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418215",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-007.pdf",
       "excerpt": "Dear Mr. President, Holly and l were deeply saddened to learn of The death of your mother. Our Thoughts and prayers are with you an d your family. Our warmest personal regards, Barry 11-20-92 Darly"
-    },
-    {
-      "date": "1992-11-30",
-      "documentDate": "1992-11-30",
-      "title": "Letter: Dear asags and bar-",
-      "parentPacketId": "nara-470418214-direct-scan",
-      "naId": "470418214",
-      "folderId": "90738-006",
-      "containerId": "90738",
-      "category": "letter-item",
-      "disposition": "itemized-correspondence-letter",
-      "type": "Letter",
-      "catalogUrl": "https://catalog.archives.gov/id/470418214",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
-      "excerpt": "Dear asags and bar- what a Vsry sad tims for you, and what a release for hs/. all your family, so loss your Moths/-but your Mother was one of The most gracines, qenstrus and chaiming ladies W2 have EVES msV. Sunday lunches on her parch WER special - and she was dalling ToJodis, and Jodis adard hs. JCNV know That WE ar Thinking about you and send you our lar! We list all miss hsr. Turray and dans Narmber The twenty-fouth H. Mrt Mrs Dwight Murray 207 Hardenburgh Ave Demarest, NJ 07627 Daily 11-30-92 THE WHITE HOUS..."
     },
     {
       "date": "1992-11-30",
@@ -49649,21 +50324,6 @@
     {
       "date": "1992-11-30",
       "documentDate": "1992-11-30",
-      "title": "Letter: Dear Mae-",
-      "parentPacketId": "nara-470418214-direct-scan",
-      "naId": "470418214",
-      "folderId": "90738-006",
-      "containerId": "90738",
-      "category": "letter-item",
-      "disposition": "itemized-correspondence-letter",
-      "type": "Letter",
-      "catalogUrl": "https://catalog.archives.gov/id/470418214",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
-      "excerpt": "Dear Mae- Thanks, dear friend far you message about up beloved Mother Love- Cytbal Thank you so much for your warm expression of sympathy. Your thoughts and prayers mean a lot to the entire Bush family. Dorothy Walker Bush was a caring and kind person and a loving mother, and we will miss her. ay Bush Barbara Bush THE WHITE HOUSE WASHINGTON Mrs. Mae Falgout 6902 Williams Galveston, Texas 77551 8 MAE FALGOUT CC4 6902 WILLIAMS WESTERN GALVESTON TX 77551 23AM R UNION MAILGRAM UNITED STATES DWB POSTAL SERVICE 1-0019..."
-    },
-    {
-      "date": "1992-11-30",
-      "documentDate": "1992-11-30",
       "title": "Letter: Dear mr. President I Bac fara",
       "parentPacketId": "nara-470418215-direct-scan",
       "naId": "470418215",
@@ -49675,21 +50335,6 @@
       "catalogUrl": "https://catalog.archives.gov/id/470418215",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-007.pdf",
       "excerpt": "Dear mr. President I Bac fara: Faye and 4 en tend our deepert and mostsincese sympathy for the loss of your mather, you have been our thingts and prayers because we thank the world of you. may God bless your for and all you have done for this country the world. To receive your invetation to visit We were re really honored you at Camp David, but the Timing was not right because of my 60mt ball giames, The weekend of hour 21 and 38 we have home game which A attend Un failingly Unfortunately we could not make the t..."
-    },
-    {
-      "date": "1992-11-30",
-      "documentDate": "1992-11-30",
-      "title": "Letter: Dear Robert -",
-      "parentPacketId": "nara-470418214-direct-scan",
-      "naId": "470418214",
-      "folderId": "90738-006",
-      "containerId": "90738",
-      "category": "letter-item",
-      "disposition": "itemized-correspondence-letter",
-      "type": "Letter",
-      "catalogUrl": "https://catalog.archives.gov/id/470418214",
-      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/Pres_Daily_Files_595141/1992/41-bpr-ootp-daily_files-90738-006.pdf",
-      "excerpt": "Dear Robert - Thanks for you / message about my Mother. My love to Erma. Thank you so much for your warm expression a of sympathy. Your thoughts and prayers mean a lot to the entire Bush family. Dorothy Walker Bush was a caring and kind person and a loving mother, and we will miss her. ay Bush Barbara Bush THE WHITE HOUSE WASHINGTON The Honorable Robert C. Byrd United States Senate Washington, D.C. 20510 CC: (IN & OUT) Rose Zamaria (2cc) of each ROBERT C. BYRD. WEST VIRGINIA, CHAIRMAN DANIEL K. INOUYE. HAWAII MA..."
     },
     {
       "date": "1992-11-30",
