@@ -33408,6 +33408,814 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 109-111 of the NARA direct folder scan using the presidential reply, Chief of Naval Operations letterhead pages, OCR, and rendered-page review.",
     },
   ],
+  470418193: [
+    {
+      slug: "mike-mathews-telecap-honorary-membership-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mike Mathews TELECAP honorary-membership correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Mike Mathews invites President Bush to become an honorary member of the TELECAP golf handicap service, and Bush replies that he is not accepting memberships.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the presidential reply, Computer Golf Management incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "barbara-tiberio-boca-grande-card-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Barbara Tiberio Boca Grande card correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Barbara Tiberio sends a thoughtful card after the Bushes' Boca Grande stay, and President Bush replies with thanks for the kind note.",
+      evidence:
+        "Itemized from pages 4-5 of the NARA direct folder scan using the presidential reply, card page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "carl-mundy-marine-corps-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "General Carl E. Mundy Jr. Marine Corps correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "General Carl E. Mundy Jr. writes after the election about Bush's leadership as Commander in Chief, and Bush replies with thanks to Mundy and the Marine Corps.",
+      evidence:
+        "Itemized from pages 6-7 of the NARA direct folder scan using the presidential reply, Commandant's letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-evans-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Thomas B. Evans Jr. post-election correspondence packet",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Thomas B. Evans Jr. writes about Bush's graciousness after the election and the administration's international record; the packet includes White House address and routing material.",
+      evidence:
+        "Itemized from pages 8-9 of the NARA direct folder scan using the White House address page, Evans letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-caulkins-rio-verde-correspondence-photographs",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John E. Caulkins Rio Verde correspondence and photograph packet",
+      documentDate: "1992-11-19",
+      pages: 4,
+      excerpt:
+        "John E. Caulkins sends President Bush a handwritten post-election note with photograph material, and Bush replies with thanks and personal comments.",
+      evidence:
+        "Itemized from pages 10-13 of the NARA direct folder scan using the presidential reply, handwritten pages, photograph page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jack-guy-ag-51-white-house-reception-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jack O. Guy AG-51 White House reception correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Jack O. Guy suggests a White House reception for old AG-51 friends, and President Bush replies with a handwritten note about the idea.",
+      evidence:
+        "Itemized from pages 14-15 of the NARA direct folder scan using the presidential reply, Guy letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "condoleezza-rice-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Condoleezza Rice post-election correspondence and presidential handwritten reply",
+      documentDate: "1992-11-19",
+      pages: 4,
+      excerpt:
+        "Condoleezza Rice writes President Bush about his leadership and foreign-policy legacy after the election, and Bush replies in a handwritten letter.",
+      evidence:
+        "Itemized from pages 16-19 of the NARA direct folder scan using the handwritten presidential reply, Rice letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-klein-national-jewish-coalition-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "George Klein National Jewish Coalition correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 3,
+      excerpt:
+        "George Klein writes about Bush's achievements for world peace and Jewish-community politics after the election, and Bush replies with appreciation.",
+      evidence:
+        "Itemized from pages 20-22 of the NARA direct folder scan using the presidential reply, two-page Klein letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "will-sarah-boca-grande-thank-you-letter-copies",
+      documentType: "Presidential Letter Copies",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Will and Sarah Boca Grande thank-you letter copies",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Two copies of President Bush's letter to Will and Sarah thank them for arranging Boca Grande, refer to Bayard and Mary, and mention sending pictures.",
+      evidence:
+        "Itemized from pages 23-24 of the NARA direct folder scan using the signed letter copy, Bush Library photocopy page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "donald-gregg-south-korea-article-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Donald Gregg South Korea article correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 4,
+      excerpt:
+        "President Bush thanks Donald Gregg for a note and Asian Wall Street Journal article on Gregg's role as U.S. envoy to Seoul.",
+      evidence:
+        "Itemized from pages 25-28 of the NARA direct folder scan using the presidential reply, Embassy of the United States in Seoul page, article clipping, OCR, and rendered-page review.",
+    },
+    {
+      slug: "judson-bemis-appreciated-property-tax-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Judson Bemis appreciated-property tax legislation correspondence and White House reply",
+      documentDate: "1992-11-19",
+      pages: 3,
+      excerpt:
+        "Judson Bemis urges action on charitable contributions of appreciated property; White House replies discuss H.R. 11 and the President's disapproval of the Revenue Act of 1992.",
+      evidence:
+        "Itemized from pages 29-31 of the NARA direct folder scan using the presidential reply, Bemis letter, Roger Porter response, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-schreyer-election-media-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William A. Schreyer election-media correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "William A. Schreyer writes about the election and network coverage, and President Bush replies that the networks were part of a tough campaign.",
+      evidence:
+        "Itemized from pages 32-33 of the NARA direct folder scan using the presidential reply, Merrill Lynch incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "athiyyah-muhammad-mailgram-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Athiyyah Muhammad mailgram and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Athiyyah Muhammad sends a mailgram thanking President Bush for his leadership and Judge Clarence Thomas's selection, and Bush replies with thanks.",
+      evidence:
+        "Itemized from pages 34-35 of the NARA direct folder scan using the presidential reply, Western Union mailgram, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ida-lupino-telegram-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ida Lupino telegram and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Ida Lupino sends President Bush a telegram expressing confidence after the election, and Bush replies with appreciation.",
+      evidence:
+        "Itemized from pages 36-37 of the NARA direct folder scan using the presidential reply, telegram page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-christine-howes-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robert and Christine Howes post-election correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Robert and Christine Howes write from South Congregational Church in Kennebunkport after the election, and Bush replies with thanks for friendship and support.",
+      evidence:
+        "Itemized from pages 38-39 of the NARA direct folder scan using the presidential reply, South Congregational Church letterhead, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ac-lyles-pat-boone-prayer-campaign-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "A. C. Lyles and Pat Boone prayer-campaign correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 4,
+      excerpt:
+        "A. C. Lyles forwards Pat Boone material about support and a prayer effort during the campaign, and President Bush replies with thanks.",
+      evidence:
+        "Itemized from pages 40-43 of the NARA direct folder scan using the presidential reply, Lyles letter, Boone fax/note pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cynthia-colt-condolence-card-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Cynthia Colt condolence-card correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Cynthia Colt sends a family acknowledgment card during a difficult time, and President Bush replies with thanks and support.",
+      evidence:
+        "Itemized from pages 44-45 of the NARA direct folder scan using the presidential reply, acknowledgement card page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ruth-bob-voruda-truffles-gift-correspondence",
+      documentType: "Gift Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ruth and Bob Voruda truffles gift correspondence and presidential reply",
+      documentDate: "1992-11-18",
+      pages: 2,
+      excerpt:
+        "Ruth and Bob Voruda of Sweet Things Ice Cream and Yogurt Parlor send truffles, and President Bush thanks them after the Boca Grande stay.",
+      evidence:
+        "Itemized from pages 46-47 of the NARA direct folder scan using the presidential gift reply, Sweet Things page, gift-unit note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tip-oneill-retirement-note-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Thomas P. O'Neill Jr. retirement-note correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Thomas P. O'Neill Jr. sends a note about retirement, and President Bush replies with best wishes to Tip and Millie.",
+      evidence:
+        "Itemized from pages 48-49 of the NARA direct folder scan using the presidential reply, O'Neill stationery page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ernest-guy-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ernest T. Guy post-election correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Ernest T. Guy sends a post-election note, and President Bush replies that he has no rancor and appreciates loyal friends who never gave up the battle.",
+      evidence:
+        "Itemized from pages 50-51 of the NARA direct folder scan using the presidential reply, incoming note page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mary-louise-smith-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Mary Louise Smith post-election correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Mary Louise Smith writes after the election, and President Bush replies with thanks for loyal friendship and support.",
+      evidence:
+        "Itemized from pages 52-53 of the NARA direct folder scan using the presidential reply, incoming handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-weymouth-eisenhower-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Charles Weymouth Eisenhower-reference correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Charles Weymouth writes with a reference to Eisenhower and the election, and President Bush replies that the campaign was tough but they gave it their best shot.",
+      evidence:
+        "Itemized from pages 54-55 of the NARA direct folder scan using the presidential reply, Weymouth Architects page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "christopher-buckley-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Christopher Buckley post-election correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 4,
+      excerpt:
+        "Christopher Buckley sends a personal post-election letter and note, and President Bush replies to Chris and Lucy with gratitude for true friends.",
+      evidence:
+        "Itemized from pages 56-59 of the NARA direct folder scan using the presidential reply, handwritten note, Buckley letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bart-cherry-starr-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Bart and Cherry Starr post-election correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Bart and Cherry Starr write that President Bush remains a hero to many Americans, and Bush replies with warm best wishes.",
+      evidence:
+        "Itemized from pages 60-61 of the NARA direct folder scan using the presidential reply, Starr Sanders Properties letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sonia-gandhi-rajiv-book-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sonia Gandhi Rajiv book correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 3,
+      excerpt:
+        "Sonia Gandhi sends President Bush a copy of her book Rajiv through the Embassy of India, and Bush replies with thanks for the remembrance of Rajiv Gandhi.",
+      evidence:
+        "Itemized from pages 62-64 of the NARA direct folder scan using the presidential reply, Embassy of India forwarding letter, Sonia Gandhi note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sally-novetz-malta-letters-siege-bell-material",
+      documentType: "Correspondence and Enclosure Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sally Novetz Malta letters and Siege Bell material with presidential reply",
+      documentDate: "1992-11-19",
+      pages: 8,
+      excerpt:
+        "President Bush replies to Ambassador Sally Novetz about supportive letters from Malta, with embassy memoranda, handwritten correspondence, and Siege Bell clipping material in the packet.",
+      evidence:
+        "Itemized from pages 65-72 of the NARA direct folder scan using the presidential reply, Ambassador's Office memo pages, Malta correspondence, clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "boca-grande-child-care-center-cards-photographs",
+      documentType: "Correspondence and Photograph Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Boca Grande Child Care Center cards, photographs, and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 6,
+      excerpt:
+        "Children at the Boca Grande Child Care Center send cards and photograph material to President Bush and Mrs. Bush, and Bush replies to the young friends.",
+      evidence:
+        "Itemized from pages 73-78 of the NARA direct folder scan using photograph pages, children's card pages, the presidential reply, OCR, and rendered-page review.",
+    },
+    {
+      slug: "timothy-russert-nbc-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Timothy J. Russert NBC correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 3,
+      excerpt:
+        "Tim Russert writes about covering the Bush administration as NBC Washington bureau chief, and Bush replies about returning to Houston and private life.",
+      evidence:
+        "Itemized from pages 79-81 of the NARA direct folder scan using the presidential reply, draft note page, NBC incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kris-dee-white-house-staff-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Kris Dee White House staff correspondence and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "Kris Dee thanks President Bush for the example of leadership she witnessed while working at the White House, and Bush replies with thanks for her support.",
+      evidence:
+        "Itemized from pages 82-83 of the NARA direct folder scan using the presidential reply, White House staff letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bayard-mary-sharp-boca-grande-photographs-letters",
+      documentType: "Correspondence and Photograph Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Bayard and Mary Sharp Boca Grande photographs and presidential letters",
+      documentDate: "1992-11-19",
+      pages: 8,
+      excerpt:
+        "President Bush writes Bayard and Mary Sharp about the Bushes' Boca Grande stay, with letter copies, photograph pages, and a White House address page.",
+      evidence:
+        "Itemized from pages 84-91 of the NARA direct folder scan using presidential letter copies, photograph pages, address page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "elizabeth-daughtrey-letter-card-photograph-reply",
+      documentType: "Correspondence, Card, and Photograph Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Elizabeth Daughtrey letter, card, photograph, and presidential reply",
+      documentDate: "1992-11-19",
+      pages: 6,
+      excerpt:
+        "Elizabeth Daughtrey writes President Bush after the election, sends a handmade card, and receives a presidential reply and signed Ranger photograph.",
+      evidence:
+        "Itemized from pages 92-97 of the NARA direct folder scan using the presidential reply, signed photograph, card pages, incoming letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "curtis-barnette-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Curtis H. Barnette file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Curtis H. Barnette of Bethlehem Steel thanking him for his expression of confidence after the campaign.",
+      evidence:
+        "Itemized from page 98 of the NARA direct folder scan using the outgoing letter copy with hole punches and rendered-page review.",
+    },
+    {
+      slug: "judson-bemis-revenue-act-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Judson Bemis Revenue Act file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Judson Bemis on appreciated-property charitable contributions and the President's disapproval of the Revenue Act of 1992.",
+      evidence:
+        "Itemized from page 99 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "christopher-buckley-file-copy-presidential-reply-note",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Christopher Buckley file-copy presidential reply with handwritten note",
+      documentDate: "1992-11-19",
+      pages: 2,
+      excerpt:
+        "File-copy outgoing reply to Christopher Buckley, with a handwritten continuation emphasizing Bush's friendship and thanks for loyal support.",
+      evidence:
+        "Itemized from pages 100-101 of the NARA direct folder scan using the outgoing letter copy, handwritten page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jack-buechner-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Jack Buechner file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Jack Buechner thanking him for his expression of confidence after the election.",
+      evidence:
+        "Itemized from page 102 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-caulkins-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "John E. Caulkins file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing handwritten reply to John E. Caulkins, with address and routing marks.",
+      evidence:
+        "Itemized from page 103 of the NARA direct folder scan using the outgoing handwritten reply copy and rendered-page review.",
+    },
+    {
+      slug: "cynthia-colt-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Cynthia Colt file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Cynthia Colt thanking her for thinking of the Bushes during a difficult time for her family.",
+      evidence:
+        "Itemized from page 104 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-deukmejian-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "George Deukmejian file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to George and Gloria Deukmejian thanking them for their expression of confidence.",
+      evidence:
+        "Itemized from page 105 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "arthur-dubow-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Arthur M. Dubow file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Arthur M. Dubow thanking him for his expression of confidence and sending best wishes to him and Barbara.",
+      evidence:
+        "Itemized from page 106 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "murray-dwight-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Murray P. Dwight file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Murray P. Dwight about a pre-election note, Larry King Live, and news about Nancy.",
+      evidence:
+        "Itemized from page 107 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "thomas-evans-handwritten-reply-copy",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Thomas B. Evans Jr. handwritten presidential reply copy",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing handwritten reply to Thomas B. Evans Jr. thanking him for words of good cheer after the election.",
+      evidence:
+        "Itemized from page 108 of the NARA direct folder scan using the outgoing handwritten reply copy and rendered-page review.",
+    },
+    {
+      slug: "donald-gregg-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Donald Gregg file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Donald Gregg thanking him for kind words and the Asian Wall Street Journal piece.",
+      evidence:
+        "Itemized from page 109 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ernest-guy-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Ernest T. Guy file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Ernest T. Guy saying Bush has no rancor and appreciates true friends who never gave up the battle.",
+      evidence:
+        "Itemized from page 110 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jack-guy-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Jack O. Guy file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply page to Jack O. Guy at F & G Institutional Trading, with White House address and routing marks.",
+      evidence:
+        "Itemized from page 111 of the NARA direct folder scan using the outgoing reply/address copy and rendered-page review.",
+    },
+    {
+      slug: "robert-howes-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Robert M. Howes file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Robert and Christine Howes thanking them for their message after the election and for kind words about the visit with Elmore and Edna Drown.",
+      evidence:
+        "Itemized from page 112 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "henry-kravis-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Henry R. Kravis file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Henry R. Kravis thanking him for his post-election message and work as National Finance Co-Chairman of Bush/Quayle '92.",
+      evidence:
+        "Itemized from page 113 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "edward-lujan-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Edward L. Lujan file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Edward L. Lujan thanking him for his letter after the election and noting Manuel's administration service.",
+      evidence:
+        "Itemized from page 114 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ac-lyles-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "A. C. Lyles file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to A. C. Lyles thanking him for his election message, support efforts, and information about Pat Boone.",
+      evidence:
+        "Itemized from page 115 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "nancy-brunson-mckinley-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Nancy and Brunson McKinley file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Nancy and Brunson McKinley recalling the Bushes' years in China and thanking them for their post-election message.",
+      evidence:
+        "Itemized from page 116 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ron-masak-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Ron Masak file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Ron Masak thanking him for his expression of confidence and sending best wishes to him and Kay.",
+      evidence:
+        "Itemized from page 117 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "otis-maxfield-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Otis A. Maxfield file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Otis A. Maxfield thanking him for a thoughtful post-election message and mentioning his trip to Europe.",
+      evidence:
+        "Itemized from page 118 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "barbara-melcher-yellow-roses-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Barbara Melcher yellow-roses file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Barbara Melcher thanking her for yellow roses that reminded the Bushes of Texas.",
+      evidence:
+        "Itemized from page 119 of the NARA direct folder scan using the outgoing letter copy, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "minor-buck-mickel-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Minor and Buck Mickel file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Minor and Buck Mickel thanking them for their expression of confidence after the election.",
+      evidence:
+        "Itemized from page 120 of the NARA direct folder scan using the outgoing letter copy, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "carl-mundy-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "General Carl E. Mundy Jr. file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to General Carl E. Mundy Jr. thanking him and the Marine Corps for loyal service.",
+      evidence:
+        "Itemized from page 121 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tip-oneill-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Thomas P. O'Neill Jr. file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Thomas P. O'Neill Jr. thanking him for his retirement note and sending best wishes to Tip and Millie.",
+      evidence:
+        "Itemized from page 122 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "barbara-patton-texas-delegation-necktie-file-copy-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Barbara Patton Texas Delegation necktie file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to Barbara Patton thanking her for the Texas Delegation necktie and for the delegation's loyal support.",
+      evidence:
+        "Itemized from page 123 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "davis-robinson-handwritten-presidential-reply-page",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Mrs. Davis Robinson handwritten presidential reply page",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing handwritten reply addressed to Susie at Mrs. Davis Robinson's Washington address, thanking her as a loyal friend and cousin.",
+      evidence:
+        "Itemized from page 124 of the NARA direct folder scan using the outgoing handwritten reply copy and rendered-page review.",
+    },
+    {
+      slug: "william-schreyer-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "William A. Schreyer file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to William A. Schreyer thanking him for his message about the election and network coverage.",
+      evidence:
+        "Itemized from page 125 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "michael-sotirhos-get-well-file-copy-presidential-letter",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Michael G. Sotirhos get-well presidential letter copy",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing get-well letter to Michael G. Sotirhos praising his service as ambassador in Athens and sending prayers for recovery.",
+      evidence:
+        "Itemized from page 126 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "craig-stapleton-handwritten-presidential-reply-page",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Craig R. Stapleton handwritten presidential reply page",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing handwritten reply to Craig R. Stapleton saying that things are clearer and his letter helped.",
+      evidence:
+        "Itemized from page 127 of the NARA direct folder scan using the outgoing handwritten reply copy and rendered-page review.",
+    },
+    {
+      slug: "alibi-club-file-copy-presidential-reply",
+      documentType: "Outgoing Presidential Letter Copy",
+      category: "outgoing-correspondence-copy",
+      disposition: "itemized-outgoing-correspondence-copy",
+      title: "Alibi Club file-copy presidential reply",
+      documentDate: "1992-11-19",
+      pages: 1,
+      excerpt:
+        "File-copy outgoing reply to the members of the Alibi Club, care of James W. Symington, thanking them for friendship and courtesies.",
+      evidence:
+        "Itemized from page 128 of the NARA direct folder scan using the outgoing letter copy, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rnc-daily-news-summary-november-19-1992",
+      documentType: "Daily News Summary",
+      category: "daily-news-summary",
+      disposition: "itemized-news-summary",
+      title: "Republican National Committee Daily News Summary: Thursday, November 19, 1992",
+      documentDate: "1992-11-19",
+      pages: 48,
+      excerpt:
+        "The Republican National Committee Daily News Summary compiles post-election coverage on Vietnam policy, the Bush-Clinton transition, the GOP's future, Clinton advisers, FEMA, Mideast peace talks, and political commentary.",
+      evidence:
+        "Itemized from pages 129-176 of the NARA direct folder scan using the RNC Daily News Summary cover, Washington Times, Washington Post, New York Times, Wall Street Journal, and other clipping pages, OCR, and rendered-page review.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -33840,6 +34648,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418174",
   "470418180",
   "470418185",
+  "470418193",
   "646482525",
   "646482521",
   "646482523",
