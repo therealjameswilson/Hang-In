@@ -35234,6 +35234,491 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from page 104 of the NARA direct folder scan using the outgoing handwritten reply copy, highlighted address block, and rendered-page review.",
     },
   ],
+  470418202: [
+    {
+      slug: "new-hampshire-honorary-deer-license-george-bush",
+      documentType: "Honorary License Material",
+      category: "license-and-gift-material",
+      disposition: "itemized-administrative-material",
+      title: "New Hampshire honorary deer license and deer tag for George Bush",
+      documentDate: "1992-11-24",
+      pages: 1,
+      excerpt:
+        "A New Hampshire honorary license page includes a deer tag and license issued to George Bush, retained with Bush Library photocopy notation for George Bush handwriting.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the color license page, Bush Library photocopy notation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "will-farish-white-house-overnight-presidential-note",
+      documentType: "Presidential Note",
+      category: "presidential-note",
+      disposition: "itemized-presidential-note",
+      title: "President Bush note on Will Farish's White House overnight",
+      documentDate: "1992-11-24",
+      pages: 2,
+      excerpt:
+        "President Bush writes to Barbara Bush, Gary Walters, Rose Zamaria, and Patty Presock that Will Farish will spend the night of December 10 at the White House after a reception.",
+      evidence:
+        "Itemized from pages 3-4 of the NARA direct folder scan using the desk-of-George-Bush attachment page, presidential note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fordice-disaster-request-vicksburg-corps-note",
+      documentType: "Presidential Call Note",
+      category: "presidential-note",
+      disposition: "itemized-presidential-note",
+      title:
+        "President Bush note to Bob Zoellick on Governor Fordice's disaster request and Vicksburg Corps of Engineers issue",
+      documentDate: "1992-11-24",
+      pages: 3,
+      excerpt:
+        "President Bush reports Governor Kirk Fordice's call about a disaster request, the Vicksburg Corps of Engineers, and a planned call to Nancy Dorn.",
+      evidence:
+        "Itemized from pages 5-7 of the NARA direct folder scan using the White House note to Bob Zoellick, rotated handwritten continuation, Bush handwriting page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "ariel-houston-transition-employment-offer-note",
+      documentType: "Transition Employment Note",
+      category: "transition-note",
+      disposition: "itemized-administrative-material",
+      title: "Ariel Houston transition employment offer note",
+      documentDate: "1992-11-24",
+      pages: 1,
+      excerpt:
+        "A note asks whether President and Mrs. Bush are interested in Ariel coming to Houston with them for an annual salary between $38,000 and $40,000.",
+      evidence:
+        "Itemized from page 8 of the NARA direct folder scan using the From the President note page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-to-president-november-24-1992",
+      documentType: "Materials Forwarded List",
+      category: "materials-forwarded-to-president",
+      disposition: "itemized-materials-forwarded",
+      title: "Materials forwarded to the President, November 24, 1992",
+      documentDate: "1992-11-24",
+      pages: 1,
+      excerpt:
+        "The list records action, classified, information, remarks, and schedule materials forwarded to President Bush on November 24, including Queen Elizabeth correspondence and NSD material.",
+      evidence:
+        "Itemized from page 9 of the NARA direct folder scan using the Materials Forwarded to the President heading, list categories, OCR, and rendered-page review.",
+    },
+    {
+      slug: "arnold-schwarzenegger-phone-note",
+      documentType: "Presidential Phone Call Note",
+      category: "presidential-phone-call-note",
+      disposition: "itemized-presidential-phone-call-note",
+      title: "Arnold Schwarzenegger phone-call note",
+      documentDate: "1992-11-24",
+      pages: 1,
+      excerpt:
+        "A handwritten phone note for Arnold Schwarzenegger records condolences, regret over the election result, and a willingness to help any way he can.",
+      evidence:
+        "Itemized from page 10 of the NARA direct folder scan using the rotated Bush Library photocopy page, phone-call notation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "governor-fordice-phone-message-presidential-handwriting",
+      documentType: "Phone Message with President Bush Handwriting",
+      category: "presidential-phone-call-note",
+      disposition: "itemized-presidential-phone-call-note",
+      title: "Governor Kirk Fordice phone message with President Bush handwriting",
+      documentDate: "1992-11-24",
+      pages: 1,
+      excerpt:
+        "A message reports that Governor Kirk Fordice of Mississippi wants President Bush to call him, with notes about Steve Rhodes and Bush handwriting on possible follow-up.",
+      evidence:
+        "Itemized from page 11 of the NARA direct folder scan using the phone-message page, Bush handwriting notation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "press-secretary-statement-foreign-flag-vessels-port-access",
+      documentType: "Press Statement",
+      category: "press-secretary-statement",
+      disposition: "itemized-press-release",
+      title:
+        "Statement by the Press Secretary on foreign-flag vessel access to U.S. ports",
+      documentDate: "1992-11-24",
+      pages: 1,
+      excerpt:
+        "The Press Secretary statement announces that certain foreign-flag vessels owned or controlled by former Warsaw Pact nations may enter U.S. ports without special approval.",
+      evidence:
+        "Itemized from page 12 of the NARA direct folder scan using the statement heading, release text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-966-vernon-shive",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light-release",
+      disposition: "itemized-press-release",
+      title: "Daily Point of Light 966: Vernon Shive",
+      documentDate: "1992-11-24",
+      pages: 1,
+      excerpt:
+        "Daily Point of Light release 966 recognizes Vernon Shive of Philadelphia for volunteer work with Operation Hope and other community efforts.",
+      evidence:
+        "Itemized from page 13 of the NARA direct folder scan using the Daily Point of Light release number, subject name, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-965-jacquelyn-meadors",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light-release",
+      disposition: "itemized-press-release",
+      title: "Daily Point of Light 965: Jacquelyn Meadors",
+      documentDate: "1992-11-24",
+      pages: 1,
+      excerpt:
+        "Daily Point of Light release 965 recognizes Jacquelyn Meadors for volunteer service involving anti-drug and youth programs.",
+      evidence:
+        "Itemized from page 14 of the NARA direct folder scan using the Daily Point of Light release number, subject name, OCR, and rendered-page review.",
+    },
+    {
+      slug: "daily-point-of-light-964-service-guild-early-intervention-program",
+      documentType: "Daily Point of Light Release",
+      category: "daily-point-of-light-release",
+      disposition: "itemized-press-release",
+      title: "Daily Point of Light 964: Service Guild Early Intervention Program",
+      documentDate: "1992-11-24",
+      pages: 1,
+      excerpt:
+        "Daily Point of Light release 964 recognizes the Service Guild Early Intervention Program for volunteer support to infants and children with special needs.",
+      evidence:
+        "Itemized from page 15 of the NARA direct folder scan using the Daily Point of Light release number, program name, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-office-daily-press-clippings-november-24-1992",
+      documentType: "First Lady Daily Press Clippings",
+      category: "first-lady-press-clippings",
+      disposition: "itemized-first-lady-press-clippings",
+      title: "Mrs. Bush Press Office Daily Press Clippings: November 24, 1992",
+      documentDate: "1992-11-24",
+      pages: 13,
+      excerpt:
+        "The First Lady press packet compiles coverage of Dorothy Walker Bush's funeral, the transition from Barbara Bush to Hillary Clinton, S&L audit coverage, education, and elder-abuse guidelines.",
+      evidence:
+        "Itemized from pages 16-28 of the NARA direct folder scan using the Mrs. Bush Press Office cover sheet, clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rumson-country-day-school-gift-correspondence",
+      documentType: "Gift Correspondence Packet",
+      category: "gift-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Rumson Country Day School gift correspondence",
+      documentDate: "1992-11-24",
+      pages: 4,
+      excerpt:
+        "President Bush thanks Jane Denny and Brandon Kovacs for a baseball cap, plaque, and White House tour memories from Rumson Country Day School.",
+      evidence:
+        "Itemized from pages 29-32 of the NARA direct folder scan using the presidential replies, Tracy Presock gift-unit notes, address blocks, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pamela-wear-ahima-cpri-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Pamela K. Wear AHIMA/CPRI presidency offer correspondence",
+      documentDate: "1992-11-24",
+      pages: 3,
+      excerpt:
+        "Pamela K. Wear of the American Health Information Management Association invites President Bush to serve as CPRI president, and Bush replies that he cannot accept.",
+      evidence:
+        "Itemized from pages 33-35 of the NARA direct folder scan using the presidential reply, AHIMA letter, routing stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "tm-alexander-beyond-the-timberline-garnishment-packet",
+      documentType: "Correspondence and Attachment Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "T.M. Alexander correspondence with Beyond the Timberline and garnishment attachments",
+      documentDate: "1992-11-24",
+      pages: 9,
+      excerpt:
+        "T.M. Alexander writes President Bush after the election, attaching Beyond the Timberline material, garnishment papers, and White House contact-data pages; Bush replies with thanks for support.",
+      evidence:
+        "Itemized from pages 36-44 of the NARA direct folder scan using the presidential reply, incoming letter, press-release pages, garnishment forms, contact-data printout, OCR, and rendered-page review.",
+    },
+    {
+      slug: "banzhaf-bumper-sticker-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Gretalee and Parker Banzhaf bumper-sticker correspondence",
+      documentDate: "1992-11-24",
+      pages: 2,
+      excerpt:
+        "Mrs. Parker C. Banzhaf writes after the election and sends bumper stickers to the Gasparilla Inn; President Bush thanks Gretalee Banzhaf for the stickers and support.",
+      evidence:
+        "Itemized from pages 45-46 of the NARA direct folder scan using the presidential reply, incoming Banzhaf letter, address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lucy-nance-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Lucy Nance post-election correspondence and presidential reply",
+      documentDate: "1992-11-24",
+      pages: 3,
+      excerpt:
+        "Lucy Nance writes after the election and about David Nance's administration service, and President Bush replies with thanks for support and warm wishes.",
+      evidence:
+        "Itemized from pages 47-49 of the NARA direct folder scan using the presidential reply, handwritten incoming note, Lucy Nance signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jane-jack-sloat-arts-humanities-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jane and Jack Sloat arts-and-humanities correspondence",
+      documentDate: "1992-11-24",
+      pages: 3,
+      excerpt:
+        "Jane and Jack Sloat write after the election and about a junior medal of arts idea, and President Bush replies with thanks for their friendship and arts-and-humanities work.",
+      evidence:
+        "Itemized from pages 50-52 of the NARA direct folder scan using the presidential reply, Sloat incoming letter page, White House contact-data page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "cliff-charlene-willburn-correspondence-kathy-super-memo",
+      documentType: "Correspondence and Scheduling Memo Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Cliff and Charlene Willburn correspondence with Kathy Super scheduling memo",
+      documentDate: "1992-11-24",
+      pages: 12,
+      excerpt:
+        "Kathy Super forwards a Fairfield, Texas letter from Cliff and Charlene Willburn; President Bush replies to the Willburns about their encouragement, family service, and the missed dinner invitation.",
+      evidence:
+        "Itemized from pages 53-64 of the NARA direct folder scan using the presidential reply, Kathy Super memo, Willburn handwritten pages, son Mike excerpts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-carina-frost-condolence-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "David and Carina Frost condolence correspondence and presidential reply",
+      documentDate: "1992-11-24",
+      pages: 3,
+      excerpt:
+        "David and Carina Frost send condolences after Dorothy Walker Bush's death, and President Bush replies that their note about his mother helped.",
+      evidence:
+        "Itemized from pages 65-67 of the NARA direct folder scan using the presidential reply, David Frost stationery pages, President Has Seen stamp, OCR, and rendered-page review.",
+    },
+    {
+      slug: "william-sessions-fbi-condolence-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "William S. Sessions FBI condolence correspondence and presidential reply",
+      documentDate: "1992-11-24",
+      pages: 2,
+      excerpt:
+        "FBI Director William S. Sessions sends condolences on Dorothy Walker Bush's death, and President Bush replies that the expression of sympathy from the FBI meant much to him.",
+      evidence:
+        "Itemized from pages 68-69 of the NARA direct folder scan using the presidential reply, FBI letterhead page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "barbara-franklin-condolence-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Barbara H. Franklin condolence correspondence and presidential reply",
+      documentDate: "1992-11-24",
+      pages: 2,
+      excerpt:
+        "Barbara H. Franklin sends a handwritten condolence note about Dorothy Walker Bush, and President Bush replies with thanks for her and Wally's kindness.",
+      evidence:
+        "Itemized from pages 70-71 of the NARA direct folder scan using the presidential reply, Commerce Secretary note page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dane-timothy-towell-condolence-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Dane and Timothy Towell condolence correspondence and presidential reply",
+      documentDate: "1992-11-24",
+      pages: 5,
+      excerpt:
+        "Dane Nichols Towell and Timothy Lathrop Towell send condolence notes after Dorothy Walker Bush's death, and President Bush replies to Dane and Tim.",
+      evidence:
+        "Itemized from pages 72-76 of the NARA direct folder scan using the presidential reply, Dane Nichols Towell note, Timothy Lathrop Towell and Peace Corps stationery pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-bartlett-condolence-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Charles L. Bartlett condolence correspondence and presidential reply",
+      documentDate: "1992-11-24",
+      pages: 2,
+      excerpt:
+        "Charles L. Bartlett writes from Washington before Thanksgiving about Dorothy Walker Bush's death, and President Bush replies that the fax meant much to him.",
+      evidence:
+        "Itemized from pages 77-78 of the NARA direct folder scan using the presidential reply, Charles L. Bartlett memo, OCR, and rendered-page review.",
+    },
+    {
+      slug: "judith-james-rose-condolence-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Judith and James A. Rose Jr. condolence correspondence and presidential reply",
+      documentDate: "1992-11-24",
+      pages: 4,
+      excerpt:
+        "Judith and James A. Rose Jr. write about Dorothy Walker Bush and the election, and President Bush replies that their kindness and prayers helped.",
+      evidence:
+        "Itemized from pages 79-82 of the NARA direct folder scan using the presidential reply, Rose Associates handwritten pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "verta-hardegree-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Verta Hardegree post-election correspondence and presidential reply",
+      documentDate: "1992-11-24",
+      pages: 4,
+      excerpt:
+        "Verta Hardegree writes after the election about the Bushes, Texas, and friendship, and President Bush replies with thanks for her personal letter and loyal support.",
+      evidence:
+        "Itemized from pages 83-86 of the NARA direct folder scan using the presidential reply, three handwritten incoming pages, Verta signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-hommell-world-wide-sportsman-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "George Hommell Jr. World Wide Sportsman election correspondence and presidential reply",
+      documentDate: "1992-11-24",
+      pages: 2,
+      excerpt:
+        "George Hommell Jr. of World Wide Sportsman writes after the election, and President Bush replies with thanks for fishing adventures, hospitality, and friendship.",
+      evidence:
+        "Itemized from pages 87-88 of the NARA direct folder scan using the presidential reply, World Wide Sportsman stationery page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gail-chuck-alling-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Gail and Chuck Alling post-election correspondence and presidential reply",
+      documentDate: "1992-11-24",
+      pages: 5,
+      excerpt:
+        "Gail and Chuck Alling send a handwritten post-election note to George and Bar, and President Bush replies with thanks for longtime friendship.",
+      evidence:
+        "Itemized from pages 89-93 of the NARA direct folder scan using the presidential reply to Gail, handwritten incoming note pages, Gail Alling signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wally-kleine-texas-tech-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Wally Kleine Texas Tech post-election correspondence and presidential reply",
+      documentDate: "1992-11-24",
+      pages: 4,
+      excerpt:
+        "Wally Kleine writes on Texas Tech University Department of Intercollegiate Athletics stationery after the election, and President Bush replies with thanks for loyal friendship.",
+      evidence:
+        "Itemized from pages 94-97 of the NARA direct folder scan using the presidential reply, Texas Tech handwritten letter pages, Wally signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-oneil-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "George P. O'Neil post-election correspondence and presidential reply",
+      documentDate: "1992-11-24",
+      pages: 3,
+      excerpt:
+        "George P. O'Neil writes after the election from Sewickley, Pennsylvania, and President Bush replies with thanks for his expression of confidence.",
+      evidence:
+        "Itemized from pages 98-100 of the NARA direct folder scan using the presidential reply, George P. O'Neil stationery pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "allan-bromley-condolence-presidential-handwritten-reply",
+      documentType: "Handwritten Presidential Reply",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "D. Allan Bromley condolence presidential handwritten reply",
+      documentDate: "1992-11-24",
+      pages: 2,
+      excerpt:
+        "President Bush writes a handwritten reply to D. Allan Bromley, thanking him for a letter about Dorothy Walker Bush and noting their work together.",
+      evidence:
+        "Itemized from pages 101-102 of the NARA direct folder scan using the handwritten presidential reply, Bromley address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-broder-condolence-letter",
+      documentType: "Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "David Broder condolence letter",
+      documentDate: "1992-11-23",
+      pages: 2,
+      excerpt:
+        "David Broder sends President Bush sympathy after Dorothy Walker Bush's death and says he regrets not conveying the remarkable presence of the administration better.",
+      evidence:
+        "Itemized from pages 103-104 of the NARA direct folder scan using the White House stationery pages, David Broder signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dave-nagle-post-election-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Dave Nagle post-election correspondence and presidential reply",
+      documentDate: "1992-11-24",
+      pages: 3,
+      excerpt:
+        "Representative Dave Nagle writes after the 1992 election, and President Bush replies with gratitude for Nagle's gracious letter.",
+      evidence:
+        "Itemized from pages 105-107 of the NARA direct folder scan using the presidential reply, House of Representatives letterhead pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-telephone-memoranda-signal-switchboard-november-24",
+      documentType: "Telephone Memoranda and Signal Switchboard Logs",
+      category: "telephone-log",
+      disposition: "itemized-telephone-log",
+      title: "White House telephone memoranda and Signal Switchboard logs, November 24, 1992",
+      documentDate: "1992-11-24",
+      pages: 4,
+      excerpt:
+        "White House and Signal Switchboard logs record November 24 calls involving Marvin Bush, David Valdez, Barbara Bush, William Farish, Steven Rhodes, Kirk Fordice, Arnold Schwarzenegger, George Vassiliou, Rafael Callejas, and others.",
+      evidence:
+        "Itemized from pages 108-111 of the NARA direct folder scan using the White House telephone memorandum sheets, Signal Switchboard log, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidential-movements-washington-dc-november-24-1992",
+      documentType: "Presidential Movements Log",
+      category: "presidential-movements",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential movements in Washington, D.C., November 24, 1992",
+      documentDate: "1992-11-24",
+      pages: 1,
+      excerpt:
+        "A Presidential Movements sheet for Washington, D.C., records President Bush's November 24 movements between the South Grounds, Oval Office, Residence, Rose Garden, dentist office, and other locations.",
+      evidence:
+        "Itemized from page 112 of the NARA direct folder scan using the Presidential Movements table, OCR, and rendered-page review.",
+    },
+    {
+      slug: "katie-couric-note-presidential-handwritten-reply",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Katie Couric note and presidential handwritten reply",
+      documentDate: "1992-11-24",
+      pages: 4,
+      excerpt:
+        "Katie Couric sends a handwritten note to President Bush, and Bush replies that he appreciates her November 10 note and will be watching her career.",
+      evidence:
+        "Itemized from pages 113-116 of the NARA direct folder scan using the handwritten presidential reply, Katie Couric address block, handwritten incoming note pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jack-stein-senator-chafee-scheduling-note",
+      documentType: "Scheduling Note",
+      category: "scheduling-note",
+      disposition: "itemized-scheduling-note",
+      title: "Rose Zamaria note on Jack Stein and Senator Chafee scheduling",
+      documentDate: "1992-11-24",
+      pages: 1,
+      excerpt:
+        "Rose Zamaria notes that Jack Stein will be in town and would like another ten minutes, and that Senator Chafee has been scheduled for the next morning.",
+      evidence:
+        "Itemized from page 117 of the NARA direct folder scan using the blue scheduling note, RZ initials, OCR, and rendered-page review.",
+    },
+  ],
   470418300: [
     {
       slug: "jake-kamin-houston-dinner-message",
@@ -35669,6 +36154,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418193",
   "470418195",
   "470418196",
+  "470418202",
   "646482525",
   "646482521",
   "646482523",
