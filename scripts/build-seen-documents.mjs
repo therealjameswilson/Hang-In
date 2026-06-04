@@ -18702,6 +18702,164 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 146-160 of the NARA direct folder scan using the VFW Convention Speech cover page, Bush Library photocopy markers, handwritten revisions, OCR, and rendered-page review.",
     },
   ],
+  470417986: [
+    {
+      slug: "elkins-stable-houstonian-invitation",
+      documentType: "Invitation and Routing Packet with President Bush Handwriting",
+      category: "event-invitation",
+      disposition: "itemized-event-invitation",
+      title: "James A. Elkins Jr. Stable cocktail-buffet invitation packet",
+      documentDate: "1992-08-12",
+      pages: 4,
+      excerpt:
+        "Kathy Super and Rose Zamaria route a private invitation from James A. Elkins Jr. for President and Mrs. Bush to attend a cocktail buffet at The Stable in Houston, with map and President Bush handwriting.",
+      evidence:
+        "Itemized from pages 2-5 of the NARA direct folder scan using the Kathy Super routing memoranda, Elkins invitation, Houstonian/Stable map, President Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "orlando-wilson-woodstock-request",
+      documentType: "Scheduling Request and PRISM Sheet",
+      category: "event-request",
+      disposition: "itemized-event-request",
+      title: "Orlando Wilson request to greet President Bush at Woodstock, Georgia",
+      documentDate: "1992-08-17",
+      pages: 2,
+      excerpt:
+        "A note asks whether Orlando Wilson should greet President Bush, attend the event, have a photo opportunity, or ride in the limo during the Woodstock, Georgia trip; the packet includes Wilson's PRISM sheet.",
+      evidence:
+        "Itemized from pages 6-7 of the NARA direct folder scan using the August 17 request note, Orlando Wilson PRISM sheet, President Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "serena-larissa-shulman-correspondence-photos",
+      documentType: "Correspondence and Photograph Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Serena and Larissa Shulman correspondence and photo packet",
+      documentDate: "1992-08-17",
+      pages: 4,
+      excerpt:
+        "President Bush sends Serena and Larissa Shulman a message of thanks and signed photos after their mother left a note at the Houstonian saying they loved and supported the President and Mrs. Bush.",
+      evidence:
+        "Itemized from pages 8-11 of the NARA direct folder scan using the presidential response, Serena and Larissa photo pages, incoming handwritten Houstonian note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "astro-arena-rally-photocopy-handwriting",
+      documentType: "Speech Draft with President Bush Handwriting",
+      category: "campaign-rally-remarks",
+      disposition: "itemized-campaign-rally-remarks",
+      title: "Astro Arena Rally speech photocopy with President Bush handwriting",
+      documentDate: "1992-08-17",
+      pages: 18,
+      excerpt:
+        "A Bush Library photocopy of the Astro Arena Rally remarks includes President Bush handwriting throughout the draft, including edits to lines about Dan Quayle, the 'Karaoke Kids,' Texas roots, the polls, and a Truman-style comeback.",
+      evidence:
+        "Itemized from pages 12-29 of the NARA direct folder scan using the Astro Arena Rally heading, Bush Library photocopy markers, handwritten revisions, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rocky-carroll-boots-correspondence",
+      documentType: "Correspondence Packet with President Bush Handwriting",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Rocky Carroll correspondence packet re Houston boots",
+      documentDate: "1992-08-17",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Rocky Carroll for boots received at the Houstonian and says it is nice to be back in Texas for the convention, with an attached Houstonian note.",
+      evidence:
+        "Itemized from pages 30-31 of the NARA direct folder scan using the presidential response, Rocky Carroll address block, Houstonian handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "charles-ballard-family-values-correspondence",
+      documentType: "Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Charles A. Ballard correspondence packet re family values and national vision",
+      documentDate: "1992-08-17",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Charles Ballard of the National Institute for Responsible Fatherhood and Family Development for support and suggestions about family values, fathers, and a domestic vision.",
+      evidence:
+        "Itemized from pages 32-34 of the NARA direct folder scan using the presidential response, National Institute letterhead, Ballard incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-september-17-1992-wires",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 6:00 p.m. wires and 5:30 p.m. news update, September 17, 1992",
+      documentDate: "1992-09-17",
+      pages: 9,
+      excerpt:
+        "The wire update covers the VFW-PAC decision not to endorse a presidential candidate, Arkansas crime arguments, Clinton and family leave, Clinton draft questions, Bosnia no-fly-zone discussions, SDI, appropriations, Perot, and southern polling.",
+      evidence:
+        "Itemized from pages 35-43 of the NARA direct folder scan using the White House News Summary headings, September 17 date line, 6:00 p.m. wires and 5:30 p.m. news update labels, OCR, and rendered-page review.",
+    },
+    {
+      slug: "august-17-newspaper-clipping-packet",
+      documentType: "Press Clipping Packet",
+      category: "press-clipping-packet",
+      disposition: "itemized-press-clipping-packet",
+      title: "Newspaper clipping packet on the Houston convention, Iraq, Bosnia, and the 1992 campaign",
+      documentDate: "1992-08-17",
+      pages: 77,
+      excerpt:
+        "The clipping packet collects August 17 coverage and commentary from The Wall Street Journal, The New York Times, The Washington Times, The Washington Post, the Los Angeles Times, and USA Today on Bush's convention positioning, Reagan, Iraq, Bosnia, NAFTA, family values, Quayle, polling, and campaign strategy.",
+      evidence:
+        "Itemized from pages 44-120 of the NARA direct folder scan using newspaper mastheads, August 17 date lines, clipping headlines, OCR, and rendered-page review.",
+    },
+    {
+      slug: "george-pfau-flanagan-thanks-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to George H. Pfau Jr. re Daniel Flanagan analysis",
+      documentDate: "1992-08-17",
+      pages: 1,
+      excerpt:
+        "President Bush thanks George H. Pfau Jr. for sharing Daniel Flanagan's July 21 memorandum and says he will keep the suggestions and analysis in mind.",
+      evidence:
+        "Itemized from page 121 of the NARA direct folder scan using the presidential letterhead, George H. Pfau Jr. address block, Daniel Flanagan memo reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "pete-domenici-setting-record-straight-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to Pete Domenici re Setting the Record Straight",
+      documentDate: "1992-08-17",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Senator Pete Domenici for sending 'Setting the Record Straight' and says it will help fight efforts to rewrite history.",
+      evidence:
+        "Itemized from page 122 of the NARA direct folder scan using the White House letterhead, Pete Domenici address block, 'Setting the Record Straight' reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "victor-hancock-good-news-letter",
+      documentType: "Presidential Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush letter to Victor Hancock re good news and Lincoln article",
+      documentDate: "1992-08-17",
+      pages: 1,
+      excerpt:
+        "President Bush tells Victor Hancock he was thrilled to hear his good news, thanks him for his enthusiasm and confidence, and mentions the article on Lincoln.",
+      evidence:
+        "Itemized from page 123 of the NARA direct folder scan using the presidential letterhead, Victor Hancock address block, Lincoln article reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "august-17-white-house-photograph-photocopies",
+      documentType: "White House Photograph Photocopy Packet",
+      category: "white-house-photographs",
+      disposition: "itemized-white-house-photographs",
+      title: "White House photograph photocopies from August 17, 1992 events and correspondence",
+      documentDate: "1992-08-17",
+      pages: 15,
+      excerpt:
+        "The packet contains photocopies of color White House photographs and metadata pages, including signed or routed images from August 17 events, convention settings, and the Friends of Dan Coats welcome for President George Bush.",
+      evidence:
+        "Itemized from pages 124-138 of the NARA direct folder scan using color photograph pages, official White House photograph metadata backs, Friends of Dan Coats sign text, OCR, and rendered-page review.",
+    },
+  ],
   470417997: [
     {
       slug: "marked-branson-rally-remarks",
@@ -24262,6 +24420,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470417978",
   "470417981",
   "470417985",
+  "470417986",
   "470418083",
 ]);
 
