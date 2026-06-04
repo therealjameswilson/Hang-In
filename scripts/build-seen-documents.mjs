@@ -28834,6 +28834,346 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from official White House photograph pages and transfer placeholders found in rendered page review of the NARA direct folder scan.",
     },
   ],
+  470418146: [
+    {
+      slug: "philip-pappas-suggestion-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Philip Pappas suggestion letter and President Bush reply",
+      documentDate: "1992-10-22",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Philip Pappas for his suggestion, comments on Georgia and its friendly people, and sends encouragement for school, with Pappas's handwritten incoming note attached.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the presidential reply, Philip Pappas handwritten note, Georgia address, OCR, and rendered-page review.",
+    },
+    {
+      slug: "sharron-shugart-true-peace-ministries-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sharron Shugart and True Peace Ministries invitation packet",
+      documentDate: "1992-10-22",
+      pages: 5,
+      excerpt:
+        "President Bush thanks Sharron Shugart for her note, prayers, and invitation to Free Chapel Worship Center, with Shugart's handwritten note and True Peace Ministries materials attached.",
+      evidence:
+        "Itemized from pages 4-8 of the NARA direct folder scan using the White House reply, Shugart note, True Peace Ministries pages, campaign flyer, OCR, and rendered-page review.",
+    },
+    {
+      slug: "steven-capps-campaign-advice-correspondence",
+      documentType: "Campaign Advice Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Steven D. Capps campaign advice letter and President Bush reply",
+      documentDate: "1992-10-22",
+      pages: 11,
+      excerpt:
+        "President Bush replies to attorney Steven D. Capps after receiving an extended campaign-advice letter on family values, taxes, foreign policy, the draft, leadership, and the Bush-Clinton contrast.",
+      evidence:
+        "Itemized from pages 9-19 of the NARA direct folder scan using the presidential reply, Steven D. Capps letterhead, multi-page advice letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kenneth-dean-christian-petition-scripture-correspondence",
+      documentType: "Religious Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Kenneth E. Dean Christian petition and scripture correspondence packet",
+      documentDate: "1992-10-22",
+      pages: 5,
+      excerpt:
+        "President Bush replies to Kenneth E. Dean, whose incoming packet includes a Christian petition-style letter and scripture excerpts on national repentance, prayer, and public morality.",
+      evidence:
+        "Itemized from pages 20-24 of the NARA direct folder scan using the presidential reply, Dean address page, letter text, scripture pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-blake-telegram-and-handwritten-note",
+      documentType: "Telegram and Note Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robert W. Blake telegram and handwritten note after the debate",
+      documentDate: "1992-10-22",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Robert W. Blake after a post-debate telegram and handwritten note praising the President's debate performance and campaign effort.",
+      evidence:
+        "Itemized from pages 25-27 of the NARA direct folder scan using the presidential reply, Lubbock telegram, handwritten Robert Blake note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "steven-richards-offensive-against-clinton-packet",
+      documentType: "Campaign Advice Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "Steven L. Richards campaign-advice packet urging an offensive against Clinton",
+      documentDate: "1992-10-22",
+      pages: 6,
+      excerpt:
+        "President Bush replies to Steven L. Richards, whose packet urges a daily offensive against Bill Clinton's Arkansas record and includes comparative campaign handouts on leadership, policy, and character.",
+      evidence:
+        "Itemized from pages 28-33 of the NARA direct folder scan using the presidential reply, Richards address page, handwritten advice sheet, comparison handouts, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jim-corinne-quayle-telegram-reply",
+      documentType: "Telegram and Presidential Reply",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Jim and Corinne Quayle telegram and President Bush reply",
+      documentDate: "1992-10-22",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Vice President Quayle's parents, Jim and Corinne Quayle, for a telegram saying he won the debate and offering admiration and support.",
+      evidence:
+        "Itemized from pages 34-35 of the NARA direct folder scan using the presidential reply, incoming telegram label, Quayle names, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-macomber-debate-note-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "John D. Macomber debate note and President Bush reply",
+      documentDate: "1992-10-22",
+      pages: 2,
+      excerpt:
+        "President Bush replies to John D. Macomber after Macomber praises the President's debate performance and political message, while asking that the note not be acknowledged.",
+      evidence:
+        "Itemized from pages 36-37 of the NARA direct folder scan using the presidential reply, Export-Import Bank address block, Macomber incoming note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "henry-catto-debate-note-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Henry E. Catto Jr. debate note and President Bush reply",
+      documentDate: "1992-10-22",
+      pages: 2,
+      excerpt:
+        "President Bush thanks Henry E. Catto Jr. for his October 20 note, prayers, and support, with Catto's handwritten USIA note about the debate attached.",
+      evidence:
+        "Itemized from pages 38-39 of the NARA direct folder scan using the presidential reply, USIA letterhead, Henry Catto handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "fitzgerald-bemiss-debate-encouragement-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "FitzGerald Bemiss debate encouragement correspondence",
+      documentDate: "1992-10-22",
+      pages: 2,
+      excerpt:
+        "President Bush thanks FitzGerald Bemiss for his warm October 16 letter and encouragement, with Bemiss's handwritten note praising the debate and Barbara Bush attached.",
+      evidence:
+        "Itemized from pages 40-41 of the NARA direct folder scan using the presidential reply, FitzGerald Bemiss letterhead, handwritten incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "kaye-walters-character-issue-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Kaye Lani Pflepsen Walters character-issue letter and President Bush reply",
+      documentDate: "1992-10-22",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Kaye Lani Pflepsen Walters after she writes about the campaign's character issue, debate questions, citizen participation, and support for the President.",
+      evidence:
+        "Itemized from pages 42-43 of the NARA direct folder scan using the presidential reply, Walters incoming letter, October 19 date, OCR, and rendered-page review.",
+    },
+    {
+      slug: "john-habib-clinton-soviet-trip-fax-correspondence",
+      documentType: "Faxed Correspondence Packet",
+      category: "campaign-correspondence",
+      disposition: "itemized-campaign-correspondence",
+      title: "John S. Habib fax on Clinton's Soviet Union trip and President Bush reply",
+      documentDate: "1992-10-22",
+      pages: 3,
+      excerpt:
+        "President Bush replies to John S. Habib's fax arguing that Bill Clinton's 1960s Soviet Union trip and security-clearance questions remained relevant campaign issues.",
+      evidence:
+        "Itemized from pages 44-46 of the NARA direct folder scan using the presidential reply, White House address sheet, Executive Office fax cover, Habib fax, OCR, and rendered-page review.",
+    },
+    {
+      slug: "october-22-telephone-memoranda",
+      documentType: "Telephone Memoranda",
+      category: "telephone-log-item",
+      disposition: "itemized-telephone-log",
+      title: "White House telephone memoranda and Signal Switchboard logs: October 22, 1992",
+      documentDate: "1992-10-22",
+      pages: 3,
+      excerpt:
+        "The telephone memoranda record October 22 calls involving Marvin Bush, J. Hugh Liedtke, Patricia Presock, John Paul Hammerschmidt, Brian Mulroney, James Baker, Carla Hills, Barbara Bush, James Watkins, and others.",
+      evidence:
+        "Itemized from pages 47-49 of the NARA direct folder scan using the President Bush telephone memorandum, Signal Switchboard logs, call entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "october-22-presidential-movements",
+      documentType: "Presidential Movements",
+      category: "presidential-movements-item",
+      disposition: "itemized-presidential-movements",
+      title: "Presidential Movements: North Carolina, New Jersey, and Washington, October 22, 1992",
+      documentDate: "1992-10-22",
+      pages: 2,
+      excerpt:
+        "The movements pages track President Bush from Raleigh through Atlantic City, Vineland, Robbinsville, Ridgewood, Secaucus, Newark, and Washington.",
+      evidence:
+        "Itemized from pages 50-51 of the NARA direct folder scan using the Presidential Movements headings, location list, time entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jab-note-for-brent-scowcroft-martinez-report",
+      documentType: "White House Note",
+      category: "national-security-council-memorandum",
+      disposition: "itemized-national-security-memorandum",
+      title: "JAB note for Brent Scowcroft re Martinez report and drug strategy",
+      documentDate: "1992-10-22",
+      pages: 1,
+      excerpt:
+        "A note for Brent Scowcroft from JAB asks for views on an option outlined in a Dennis Ross note regarding the Martinez report, with presidential handwriting and a Chief of Staff routing note.",
+      evidence:
+        "Itemized from page 52 of the NARA direct folder scan using the Note for Brent Scowcroft heading, JAB signature, highlighted cc to the President, handwriting, OCR, and rendered-page review.",
+    },
+    {
+      slug: "dennis-ross-drug-strategy-options-memorandum",
+      documentType: "Policy Memorandum Packet",
+      category: "policy-memorandum",
+      disposition: "itemized-policy-memorandum",
+      title: "Dennis B. Ross memorandum re drug strategy options and President Bush September 8 note",
+      documentDate: "1992-10-21",
+      pages: 2,
+      excerpt:
+        "Dennis Ross sends James Baker drug strategy options after meetings with Governor Martinez and Jim Burke, with President Bush's September 8 note on the Martinez report and prevention/interdiction attached.",
+      evidence:
+        "Itemized from pages 53-54 of the NARA direct folder scan using the Dennis B. Ross memorandum, Drug Strategy Options subject line, presidential note page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "victor-hancock-debate-encouragement-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Victor J. Hancock debate encouragement letter and President Bush reply",
+      documentDate: "1992-10-22",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Victor J. Hancock's October 15 letter praising the debate, encouraging the President, and sending support from Hancock and Jo Ann.",
+      evidence:
+        "Itemized from pages 55-57 of the NARA direct folder scan using the White House reply, Hancock incoming letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mrs-bush-press-clippings-october-22-1992",
+      documentType: "Daily Press Clippings",
+      category: "daily-press-clippings",
+      disposition: "itemized-daily-press-clippings",
+      title: "Mrs. Bush's Press Office Daily Press Clippings: Thursday, October 22, 1992",
+      documentDate: "1992-10-22",
+      pages: 16,
+      excerpt:
+        "Mrs. Bush's Press Office clipping packet includes Barbara Bush campaign appearances, First Lady press coverage, women candidates, Prescott Bush items, and related campaign-family stories.",
+      evidence:
+        "Itemized from pages 58-73 of the NARA direct folder scan using the Mrs. Bush's Press Office Daily Press Clippings cover page, clipping mastheads, OCR, and rendered-page review.",
+    },
+    {
+      slug: "prescott-bush-note-and-campaign-economy-clippings",
+      documentType: "Note and Clippings Packet",
+      category: "campaign-press-clippings",
+      disposition: "itemized-campaign-press-clippings",
+      title: "Prescott Sheldon Bush Jr. note and attached Bush campaign economy clippings",
+      documentDate: "1992-10-22",
+      pages: 3,
+      excerpt:
+        "Prescott Sheldon Bush Jr. sends the President campaign ammunition with a handwritten note, a Robert L. Dilenschneider article on a path for Bush to win, and an Alan Reynolds column on Clinton's economic claims.",
+      evidence:
+        "Itemized from pages 74-76 of the NARA direct folder scan using the Prescott Sheldon Bush Jr. note, attached campaign/economy clipping pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "new-york-times-october-22-campaign-auto-drugs-iraq-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "New York Times campaign, auto policy, drugs, Iraq, and foreign-policy clippings: October 22, 1992",
+      documentDate: "1992-10-22",
+      pages: 9,
+      excerpt:
+        "New York Times clippings cover Bush catching fire as a campaigner, Clinton and Bush on autos and drugs, Iraq and foreign policy, and related campaign analysis.",
+      evidence:
+        "Itemized from pages 77-85 of the NARA direct folder scan using New York Times mastheads, October 22 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "los-angeles-times-october-22-campaign-foreign-policy-youth-vietnam-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Los Angeles Times campaign, foreign-policy, youth-vote, and Vietnam clippings: October 22, 1992",
+      documentDate: "1992-10-22",
+      pages: 14,
+      excerpt:
+        "Los Angeles Times clippings cover Bush campaign stops, foreign policy, Iraq, Perot, the youth vote, Vietnam normalization, trial-lawyer commentary, and Clinton campaign analysis.",
+      evidence:
+        "Itemized from pages 86-99 of the NARA direct folder scan using Los Angeles Times mastheads, October 22 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "usa-today-october-22-economy-cuba-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "USA Today economy and Cuba opinion clippings: October 22, 1992",
+      documentDate: "1992-10-22",
+      pages: 2,
+      excerpt:
+        "USA Today clippings include opinion pieces on taxing business and wealthy Americans, deficit fairness, and whether the United States should ease or tighten the Cuba embargo.",
+      evidence:
+        "Itemized from pages 100-101 of the NARA direct folder scan using USA Today mastheads, October 22 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-post-october-22-clinton-bush-iran-contra-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Washington Post Clinton, Bush, Iran-Contra, Perot, and campaign clippings: October 22, 1992",
+      documentDate: "1992-10-22",
+      pages: 12,
+      excerpt:
+        "Washington Post clippings cover Bill Clinton's ancestry and mother-file search, Iran-Contra disclosures, Bush at a Waffle House, Perot, education and federal spending, and George Will commentary.",
+      evidence:
+        "Itemized from pages 102-113 of the NARA direct folder scan using Washington Post mastheads, October 22 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "washington-times-october-22-campaign-commentary-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Washington Times Arkansas, campaign, Cal Thomas, and Mona Charen clippings: October 22, 1992",
+      documentDate: "1992-10-22",
+      pages: 4,
+      excerpt:
+        "Washington Times clippings cover Arkansas growth claims, campaign commentary, Cal Thomas on Bush's debate performance, and Mona Charen on the sound of defeat.",
+      evidence:
+        "Itemized from pages 114-117 of the NARA direct folder scan using Washington Times mastheads, October 22 dates, column headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "wall-street-journal-october-22-campaign-infomercial-foreign-policy-clippings",
+      documentType: "Press Clippings Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clippings",
+      title: "Wall Street Journal campaign, infomercial, economy, and foreign-policy clippings: October 22, 1992",
+      documentDate: "1992-10-22",
+      pages: 6,
+      excerpt:
+        "Wall Street Journal clippings cover Clintonomics, campaign infomercials, Clinton and Bush in GOP country, the foreign-policy debate after the Cold War, and related election analysis.",
+      evidence:
+        "Itemized from pages 118-123 of the NARA direct folder scan using Wall Street Journal mastheads, October 22 dates, article headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "official-white-house-photographs-new-jersey-cbs-morning-show",
+      documentType: "Official White House Photograph Packet",
+      category: "transferred-photograph",
+      disposition: "itemized-transferred-photograph",
+      title: "Official White House photographs from Vineland, Robbinsville, CBS Morning Show, and campaign events",
+      documentDate: "1992-10-22",
+      pages: 9,
+      excerpt:
+        "The photograph packet includes color official White House photographs and backing sheets labeled Vineland, Robbinsville, CBS Morning Show, and related campaign appearances.",
+      evidence:
+        "Itemized from pages 124-132 of the NARA direct folder scan using color photograph pages, official White House photo backing pages, handwritten labels, low-confidence OCR, and rendered-page review.",
+    },
+  ],
   470418164: [
     {
       slug: "manor-house-reception-acceptances",
@@ -29700,6 +30040,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418141",
   "470418143",
   "470418144",
+  "470418146",
   "646482525",
   "646482521",
   "646482523",
