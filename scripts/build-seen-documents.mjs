@@ -20991,6 +20991,45 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470418030: [
     {
+      slug: "mary-lou-retton-olympic-delegation-thank-you-note",
+      documentType: "Incoming Letter with President Bush Handwriting",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Mary Lou Retton Olympic delegation thank-you note with Bush routing",
+      documentDate: "1992-09-03",
+      pages: 2,
+      excerpt:
+        "Mary Lou Retton thanks President Bush for the honor of representing him at the Barcelona Olympics and mentions Marvin, Margaret, and the rest of the delegation, with Bush routing to Marvin and Margaret Bush.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the George Bush desk-note attachment marker, Mary Lou Retton handwritten note, Marvin/Margaret Bush copy routing, OCR, and rendered-page review.",
+    },
+    {
+      slug: "atlee-wampler-homestead-hospital-hurricane-andrew-correspondence",
+      documentType: "Presidential Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Atlee W. Wampler III Homestead Hospital Hurricane Andrew correspondence packet",
+      documentDate: "1992-09-03",
+      pages: 4,
+      excerpt:
+        "President Bush replies to Atlee W. Wampler III that Jeb sent him the positive story about Homestead Hospital and that he will find ways to use the example, with Jeb Bush fax material and Wampler's September 1 letter attached.",
+      evidence:
+        "Itemized from pages 4-7 of the NARA direct folder scan using the President's handwritten outgoing note, White House address page, Jeb Bush fax page, Wampler Buchanan & Breen facsimile pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alec-courtelis-hurricane-andrew-visit-thank-you-letter",
+      documentType: "Incoming Letter with President Bush Handwriting",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Alec P. Courtelis Hurricane Andrew visit thank-you letter",
+      documentDate: "1992-09-01",
+      pages: 1,
+      excerpt:
+        "Alec P. Courtelis thanks President Bush and Barbara Bush for visiting Florida after Hurricane Andrew and reports on Homestead-area devastation, military response, Alvah Chapman, Alex Muxo, and offers of assistance.",
+      evidence:
+        "Itemized from page 8 of the NARA direct folder scan using the Alec P. Courtelis letterhead, President Has Seen stamp, Bush handwriting, OCR, and rendered-page review.",
+    },
+    {
       slug: "nicholas-brady-ashmun-vigilante-case-for-bush-packet",
       documentType: "Article Routing Packet with President Bush Handwriting",
       category: "campaign-press-article",
@@ -25710,6 +25749,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418010",
   "470418024",
   "470418028",
+  "470418030",
   "470418083",
   "646482521",
   "646482523",
