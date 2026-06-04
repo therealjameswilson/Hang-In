@@ -18875,6 +18875,22 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from the one-page NARA direct folder scan using Pat Boone Enterprises letterhead, fax date line, signature, OCR, PDF page count, and rendered-page review.",
     },
   ],
+  646482523: [
+    {
+      slug: "chuck-norris-hamilton-middle-school-foundation-letter",
+      documentType: "Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title:
+        "Chuck Norris letter thanking President Bush for visiting the Kick Drugs Out of America Foundation at Hamilton Middle School",
+      documentDate: "1992-08-25",
+      pages: 1,
+      excerpt:
+        "Chuck Norris thanks President Bush for visiting the Kick Drugs Out of America Foundation at Hamilton Middle School, saying the visit boosted inner-city youngsters and their families and expressing confidence that Americans will vote for the man they can trust.",
+      evidence:
+        "Itemized from the one-page NARA direct folder scan using Kick Drugs Out of America letterhead, the President Has Seen stamp, August 25 date line, Chuck Norris signature, PDF page count, OCR, and rendered-page review.",
+    },
+  ],
   470417989: [
     {
       slug: "pool-report-3-first-copy",
@@ -25626,6 +25642,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418010",
   "470418083",
   "646482521",
+  "646482523",
 ]);
 
 function buildDirectSupplementalItemDocuments(folder, packetDoc) {

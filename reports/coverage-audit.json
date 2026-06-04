@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T02:45:08.986Z",
+  "generatedAt": "2026-06-04T02:48:52.910Z",
   "dateRange": "1991-02-28/1993-01-20",
   "summary": {
     "folderCount": 1028,
@@ -55,7 +55,7 @@
     "itemized-legislative-issues-update": 3,
     "itemized-aids-policy-memo": 1,
     "itemized-press-clipping": 4,
-    "itemized-presidential-correspondence": 310,
+    "itemized-presidential-correspondence": 311,
     "itemized-capital-gains-press-article": 1,
     "itemized-title-x-pregnancy-counseling": 5,
     "itemized-title-x-pregnancy-counseling-press": 6,
@@ -343,10 +343,10 @@
     "itemized-campaign-strategy-memorandum": 4,
     "itemized-nuclear-waste-response-packet": 1,
     "itemized-health-care-correspondence": 1,
-    "itemized-correspondence-letter": 192,
     "itemized-briefing-binder": 1,
     "itemized-campaign-press-article": 7,
     "itemized-hurricane-andrew-clippings": 1,
+    "itemized-correspondence-letter": 191,
     "itemized-media-briefing": 1,
     "itemized-economic-briefing": 2,
     "itemized-campaign-news-digest": 3,
@@ -30245,17 +30245,17 @@
     {
       "date": "1992-08-30",
       "documentDate": "1992-08-25",
-      "title": "Letter: Dear Mr. President",
+      "title": "Chuck Norris letter thanking President Bush for visiting the Kick Drugs Out of America Foundation at Hamilton Middle School",
       "parentPacketId": "nara-646482523-direct-scan",
       "naId": "646482523",
       "folderId": "90712-003",
       "containerId": "90712",
-      "category": "letter-item",
-      "disposition": "itemized-correspondence-letter",
+      "category": "presidential-correspondence",
+      "disposition": "itemized-presidential-correspondence",
       "type": "Letter",
       "catalogUrl": "https://catalog.archives.gov/id/646482523",
       "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbpp/a250-batch002/41-bpr-daily_files-90712-003_Chuck_Norris.pdf",
-      "excerpt": "The White House Jim \"Mack\" McIngvale Linda McIngvale Washington, D.C. 20500 Robert L. Moody, Sr. Dear Mr. President, I am not sure what words could possibly express the appreciation I feel on behalf of all of our kids and our Foundation that you visited with us at Hamilton Middle School last week. Your visit was an unbelievable boost to the hundreds of inner city youngsters and their families who attended. Your support of our effort means a great deal to me personally and I hope you will not hesitate to let me k..."
+      "excerpt": "Chuck Norris thanks President Bush for visiting the Kick Drugs Out of America Foundation at Hamilton Middle School, saying the visit boosted inner-city youngsters and their families and expressing confidence that Americans will vote for the man they can trust."
     },
     {
       "date": "1992-09-01",
