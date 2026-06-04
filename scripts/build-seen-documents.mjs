@@ -25663,6 +25663,19 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
   ],
   470418122: [
     {
+      slug: "welcome-st-louis-presidential-debate-cover-map",
+      documentType: "Debate Site Cover and Map",
+      category: "st-louis-trip-map",
+      disposition: "itemized-st-louis-trip-map",
+      title: "Welcome to St. Louis presidential debate cover and annotated vicinity map",
+      documentDate: "1992-10-11",
+      pages: 2,
+      excerpt:
+        "The opening St. Louis debate packet pages include a presidential-seal welcome cover and an annotated St. Louis vicinity map marking the airport, debate site, rally site, and Drury Inn.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the debate cover page, annotated St. Louis map, OCR, and rendered-page review.",
+    },
+    {
       slug: "st-louis-railroad-ymca-history",
       documentType: "Historical Background",
       category: "st-louis-debate-background",
@@ -25674,6 +25687,33 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Historical background on the St. Louis Railroad YMCA building, later the Drury Inn Union Station, included in the St. Louis debate packet.",
       evidence:
         "Itemized from the historical-perspective heading found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "nytimes-book-review-letter-defense-brother",
+      documentType: "Letter to the Editor Clipping",
+      category: "campaign-press-article",
+      disposition: "itemized-campaign-press-article",
+      title: "New York Times Book Review letter to the editor: In Defense of His Brother",
+      documentDate: "1992-10-11",
+      pages: 1,
+      excerpt:
+        "A New York Times Book Review letters clipping, marked daily 10/11, defends President Bush against criticism in a review of Marching in Place.",
+      evidence:
+        "Itemized from page 5 of the NARA direct folder scan using the clipped Letters heading, daily 10/11 annotation, OCR, and rendered-page review.",
+    },
+    {
+      slug: "opening-debate-handwriting-crisis-trust-economy-foreign-policy",
+      documentType: "Handwritten Debate Notes",
+      category: "debate-prep-notes",
+      disposition: "itemized-debate-prep-notes",
+      title:
+        "President Bush handwritten debate notes on crisis, trust, drugs, welfare, the economy, and foreign policy",
+      documentDate: "1992-10-11",
+      pages: 11,
+      excerpt:
+        "A photocopied run of President Bush handwriting works through October 11 debate themes including crisis, philosophical underpinning, family values, drugs, welfare, recession, separation of powers, Clinton, and the global economy.",
+      evidence:
+        "Itemized from pages 6-16 of the NARA direct folder scan using the President's dated handwritten notes, Bush Library photocopy footers, OCR, and rendered-page review.",
     },
     {
       slug: "clinton-vietnam-war-years-article",
@@ -26222,6 +26262,20 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from a Pool Report #2 heading found in full-PDF OCR of the NARA direct folder scan.",
     },
     {
+      slug: "statistics-roger-debate-notes-president",
+      documentType: "Handwritten Debate Notes and Routing Note",
+      category: "debate-prep-notes",
+      disposition: "itemized-debate-prep-notes",
+      title:
+        "Handwritten debate statistics notes and Roger note to the President",
+      documentDate: "1992-10-11",
+      pages: 3,
+      excerpt:
+        "Handwritten pages preceding the President's save-note include Clinton statistics, a short handwritten note, and a White House note signed Roger forwarding additional debate lines to the President.",
+      evidence:
+        "Itemized from pages 125-127 of the NARA direct folder scan using Bush Library photocopy pages, the White House note to the President, OCR, and rendered-page review.",
+    },
+    {
       slug: "president-to-rz-debate-prep-saved",
       documentType: "President's Note",
       category: "debate-prep-notes",
@@ -26332,11 +26386,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-debate-rehearsal-material",
       title: "Second debate rehearsal questions packet for President Bush, Mr. Perot, and Governor Clinton",
       documentDate: "",
-      pages: 4,
+      pages: 5,
       excerpt:
         "A second packet of RGD rehearsal questions covers initial-response questions for President Bush, Ross Perot, and Governor Clinton.",
       evidence:
-        "Itemized from a later run of RGD rehearsal-question headings found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from pages 139-143 of the NARA direct folder scan using the later run of RGD rehearsal-question headings, OCR, and rendered-page review.",
     },
     {
       slug: "clinton-tax-increase-economic-issues",
@@ -26469,17 +26523,17 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from an Iran-Contra update heading found in full-PDF OCR of the NARA direct folder scan.",
     },
     {
-      slug: "more-handwritten-one-liners",
-      documentType: "Handwritten Debate Notes",
+      slug: "typed-and-handwritten-one-liners-vietnam-truthfulness",
+      documentType: "Typed and Handwritten Debate One-Liners",
       category: "debate-prep-one-liners",
       disposition: "itemized-debate-prep-one-liners",
-      title: "Handwritten debate one-liners on Vietnam and truthfulness",
-      documentDate: "",
-      pages: 1,
+      title: "Typed and handwritten debate one-liners on Vietnam, truthfulness, and Clinton attacks",
+      documentDate: "1992-10-09",
+      pages: 2,
       excerpt:
-        "A handwritten debate-prep page collects one-liners about Vietnam War truthfulness themes.",
+        "A typed draft one-liners page marked finished 10/9/92 and an attached handwritten page cover Vietnam, truthfulness, Clinton attacks, and debate rejoinders.",
       evidence:
-        "Itemized from a Bush Library photocopy handwritten one-liners page found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from pages 167-168 of the NARA direct folder scan using the typed draft, President Bush handwriting, OCR, and rendered-page review.",
     },
     {
       slug: "provost-siller-more-one-liners",
@@ -26506,6 +26560,20 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "A fax to Christina Martin includes continued debate one-liners and promises talking-point material.",
       evidence:
         "Itemized from fax and Debate Cont'd headings found in full-PDF OCR of the NARA direct folder scan.",
+    },
+    {
+      slug: "handwritten-one-liners-post-debate-rejoinders",
+      documentType: "Handwritten Debate One-Liners",
+      category: "debate-prep-one-liners",
+      disposition: "itemized-debate-prep-one-liners",
+      title:
+        "Handwritten One Liners notes on post-debate rejoinders and Clinton attacks",
+      documentDate: "1992-10-11",
+      pages: 3,
+      excerpt:
+        "The closing handwritten one-liners pages set out numbered replies to expected Clinton attacks, including patriotism, promises, Ross Perot, Hollywood, and Murphy Brown themes.",
+      evidence:
+        "Itemized from pages 173-175 of the NARA direct folder scan using the handwritten One Liners heading, low-confidence OCR, and rendered-page review.",
     },
   ],
   470418144: [
@@ -27706,6 +27774,7 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418094",
   "470418117",
   "470418120",
+  "470418122",
   "646482521",
   "646482523",
 ]);
