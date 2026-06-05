@@ -40720,7 +40720,634 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
         "Itemized from pages 113-116 of the NARA direct folder scan using the outgoing sympathy acknowledgment, Mrs. James M. Collins address block, incoming card pages, OCR, and rendered-page review.",
     },
   ],
+  470418271: [
+    {
+      slug: "courtney-ross-steven-ross-condolence-correspondence",
+      documentType: "Presidential Condolence Letter and Staff Request Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Courtney Ross condolence correspondence re Steven Ross",
+      documentDate: "1992-12-28",
+      pages: 2,
+      excerpt:
+        "President Bush and Barbara Bush send condolences to Courtney Ross after Steven Ross's death, with Kathy Super's staff request note for the condolence letter attached.",
+      evidence:
+        "Itemized from pages 2-3 of the NARA direct folder scan using the outgoing presidential condolence letter, Kathy Super request note, Courtney S. Ross address and funeral timing, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-december-28-1992",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 5:00 a.m. CST/6:00 a.m. EST edition, December 28, 1992",
+      documentDate: "1992-12-28",
+      pages: 28,
+      excerpt:
+        "The News Summary covers the Iraq no-fly-zone shootdown, Iran-Contra pardons, START talks, Serbia and Bosnia, Somalia, Haiti, jobless claims, Bush's historical legacy, and Sunday talk-show transcripts.",
+      evidence:
+        "Itemized from pages 4-31 of the NARA direct folder scan using the News Summary cover, continuation pages, topic headings, talk-show transcript headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "houston-beeville-trip-schedule-fax-packet",
+      documentType: "Presidential Advance Cover Page and Trip Schedule",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title: "Houston and Beeville trip schedule fax packet",
+      documentDate: "1992-12-28",
+      pages: 4,
+      excerpt:
+        "A Presidential Advance cover page and schedule fax provide guest and staff instructions for President Bush's Houston and Beeville, Texas trip and return to Washington.",
+      evidence:
+        "Itemized from pages 32-35 of the NARA direct folder scan using the Office of Presidential Advance cover page, guest and staff instructions, Houston/Beeville itinerary pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-president-december-28-1992",
+      documentType: "Materials Forwarded List",
+      category: "materials-forwarded-list",
+      disposition: "itemized-materials-forwarded-list",
+      title: "Materials Forwarded to the President: December 28, 1992",
+      documentDate: "1992-12-28",
+      pages: 1,
+      excerpt:
+        "The forwarding list inventories personnel selections, emergency appropriations material, ambassador service letters, the Hickel wetlands-rule draft, and classified Somalia and diplomatic-recognition items.",
+      evidence:
+        "Itemized from page 36 of the NARA direct folder scan using the Materials Forwarded to the President heading, December 28 date, action/classified entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "december-28-presidential-phone-calls-notes",
+      documentType: "Presidential Phone Call Notes Packet",
+      category: "telephone-note-item",
+      disposition: "itemized-phone-call-slip",
+      title: "Presidential phone-call notes for December 28, 1992",
+      documentDate: "1992-12-28",
+      pages: 3,
+      excerpt:
+        "Handwritten Presidential Phone Calls forms and a President-has-seen note page preserve follow-up notes from December 28.",
+      evidence:
+        "Itemized from pages 37-39 of the NARA direct folder scan using the Presidential Phone Calls forms, President Has Seen note page, handwritten follow-up text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "zoellick-hickel-one-percent-wetlands-rule-packet",
+      documentType: "Situation Room Cover Sheet, Staff Memorandum, and Draft Letter Packet",
+      category: "staff-memorandum",
+      disposition: "itemized-staff-memorandum",
+      title: "Robert Zoellick memorandum and draft letter to Governor Walter Hickel re one-percent wetlands rule",
+      documentDate: "1992-12-28",
+      pages: 4,
+      excerpt:
+        "A Situation Room cover sheet forwards Robert Zoellick's memorandum and draft presidential reply to Governor Walter Hickel on timing for the one-percent wetlands rule.",
+      evidence:
+        "Itemized from pages 40-43 of the NARA direct folder scan using the Situation Room cover sheet, Zoellick memorandum, draft letter to Governor Hickel, handwritten note page, OCR, and rendered-page review.",
+    },
+    {
+      slug: "december-28-telephone-memoranda-presidential-movements",
+      documentType: "Telephone Memoranda and Presidential Movements Packet",
+      category: "presidential-daily-file-log",
+      disposition: "itemized-daily-file-log",
+      title: "White House telephone memoranda and presidential movements for December 28, 1992",
+      documentDate: "1992-12-28",
+      pages: 3,
+      excerpt:
+        "White House telephone memorandum sheets and a Presidential Movements sheet record President Bush's December 28 calls and Beeville, Texas movement log.",
+      evidence:
+        "Itemized from pages 44-46 of the NARA direct folder scan using the telephone memorandum sheets, Signal Switchboard entries, Presidential Movements sheet, OCR, and rendered-page review.",
+    },
+    {
+      slug: "simon-estes-somalia-benefit-concert-correspondence",
+      documentType: "NSC Note, Staff Note, and Contact Record Packet",
+      category: "national-security-correspondence",
+      disposition: "itemized-national-security-correspondence",
+      title: "Simon Estes Somalia benefit concert correspondence packet",
+      documentDate: "1992-12-28",
+      pages: 4,
+      excerpt:
+        "John Ordway reports that Simon Estes is planning international benefit concerts for Somalia and hopes President Bush might appear, with Rose Zamaria routing material and an Estes contact record attached.",
+      evidence:
+        "Itemized from pages 47-50 of the NARA direct folder scan using the NSC note to General Scowcroft, Rose Zamaria note, rotated handwritten/fax material, Simon Estes contact record, OCR, and rendered-page review.",
+    },
+  ],
+  646482527: [
+    {
+      slug: "chuck-norris-kick-drugs-foundation-presidential-reply",
+      documentType: "Presidential Reply",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "President Bush reply to Chuck Norris re the Kick Drugs Out of America Foundation",
+      documentDate: "1992-12-29",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Chuck Norris for his December 22 letter, mentions returning to Houston and the Texas A&M library, and declines to commit to a future role with the foundation.",
+      evidence:
+        "Itemized from page 1 of the NARA direct folder scan using the presidential reply, Chuck Norris address block, OCR, and rendered-page review.",
+    },
+    {
+      slug: "chuck-norris-foundation-christmas-ranch-invitation-letter",
+      documentType: "Incoming Letter",
+      category: "incoming-correspondence",
+      disposition: "itemized-incoming-correspondence",
+      title: "Chuck Norris letter re Christmas wishes, Navasota ranch, and foundation work",
+      documentDate: "1992-12-22",
+      pages: 1,
+      excerpt:
+        "Chuck Norris writes President and Mrs. Bush after returning from Israel, offers use of his Navasota ranch, and asks whether they might help introduce his foundation to Houston business leaders.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the Kick Drugs Out of America letterhead, December 22 date, foundation discussion, OCR, and rendered-page review.",
+    },
+  ],
+  646482529: [
+    {
+      slug: "dana-carvey-paula-zwagerman-president-has-seen-marker",
+      documentType: "President Has Seen Marker",
+      category: "staff-routing-note",
+      disposition: "itemized-staff-routing-note",
+      title: "President-has-seen marker for Dana Carvey and Paula Zwagerman material",
+      documentDate: "1993-01-03",
+      pages: 1,
+      excerpt:
+        "A President Has Seen page records the Dana Carvey and Paula Zwagerman item, with handwritten routing marks but little surviving OCR text.",
+      evidence:
+        "Itemized from page 1 of the NARA direct folder scan using the President Has Seen stamp, Dana Carvey and Paula Zwagerman names, OCR, and rendered-page review.",
+    },
+  ],
+  470418282: [
+    {
+      slug: "sir-john-grandy-american-air-museum-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Sir John Grandy American Air Museum in Britain correspondence packet",
+      documentDate: "1993-01-04",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Marshal of the Royal Air Force Sir John Grandy about the American Air Museum in Britain campaign and the museum's fundraising progress.",
+      evidence:
+        "Itemized from pages 2-4 of the NARA direct folder scan using the presidential reply, American Air Museum in Britain letterhead, Sir John Grandy signature, OCR, and rendered-page review.",
+    },
+    {
+      slug: "della-newman-moonlight-lodge-new-zealand-packet",
+      documentType: "Presidential Reply, Fax, and Travel Material Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Della Newman Moonlight Lodge and New Zealand fishing-material packet",
+      documentDate: "1993-01-04",
+      pages: 13,
+      excerpt:
+        "A presidential reply to Ambassador Della Newman is filed with Moonlight Lodge brochures, rate sheets, fishing material, a handwritten note, and related New Zealand travel enclosures.",
+      evidence:
+        "Itemized from pages 5-17 of the NARA direct folder scan using the presidential reply, Della Newman fax page, Moonlight Lodge headings, Taupo fishing material, OCR, and rendered-page review.",
+    },
+    {
+      slug: "alan-walker-program-corporation-of-america-lecture-packet",
+      documentType: "Presidential Reply and Lecture Background Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Alan Walker Program Corporation of America lecture-material packet",
+      documentDate: "1993-01-04",
+      pages: 12,
+      excerpt:
+        "President Bush replies to Alan Walker, with Program Corporation of America lecture-agency material, recommendation letters, and press clippings retained.",
+      evidence:
+        "Itemized from pages 18-29 of the NARA direct folder scan using the presidential reply, Program Corporation of America letterhead, lecture clippings, recommendation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "willard-scott-virginia-communications-hall-of-fame-packet",
+      documentType: "Presidential Endorsement Letter and Nomination Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Willard Scott Virginia Communications Hall of Fame endorsement packet",
+      documentDate: "1993-01-04",
+      pages: 7,
+      excerpt:
+        "President Bush endorses Willard Scott for the Virginia Communications Hall of Fame, with the draft, Shirley Green note, Virginia Association of Broadcasters letter, nomination form, and NBC biography attached.",
+      evidence:
+        "Itemized from pages 30-36 of the NARA direct folder scan using the Bush endorsement letter to Peter Easter, draft page, Shirley Green note, VAB letter, Willard Scott biography, OCR, and rendered-page review.",
+    },
+    {
+      slug: "paul-coverdell-leslie-southwick-judicial-recommendation",
+      documentType: "Presidential Reply and Incoming Note",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Paul Coverdell recommendation of Leslie H. Southwick for the Fifth Circuit",
+      documentDate: "1993-01-04",
+      pages: 2,
+      excerpt:
+        "President Bush replies to Senator-elect Paul Coverdell that he is making no recess appointments to the courts, after Coverdell recommends Leslie H. Southwick.",
+      evidence:
+        "Itemized from pages 37-38 of the NARA direct folder scan using the presidential reply, Paul Coverdell Senate stationery, Southwick reference, OCR, and rendered-page review.",
+    },
+    {
+      slug: "timothy-volk-treleaven-scrapbook-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Timothy Volk and Montauk Disposal correspondence re Treleaven scrapbook",
+      documentDate: "1993-01-04",
+      pages: 6,
+      excerpt:
+        "President Bush thanks Timothy E. Volk for returning a scrapbook from his first congressional race, with handwritten notes, envelope material, and Von's Montauk Disposal correspondence attached.",
+      evidence:
+        "Itemized from pages 39-44 of the NARA direct folder scan using the presidential reply to Timothy Volk, handwritten drafts or notes, Von's Montauk Disposal letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rnc-daily-news-summary-january-4-1993",
+      documentType: "Daily News Summary",
+      category: "daily-news-summary",
+      disposition: "itemized-daily-news-summary",
+      title: "Republican National Committee Daily News Summary: Monday, January 4, 1993",
+      documentDate: "1993-01-04",
+      pages: 23,
+      excerpt:
+        "The RNC Daily News Summary compiles January 4 coverage on Bush-Yeltsin, Bosnia, the Clinton transition, congressional firsts, Packwood, Wall Street Journal news, and Republican commentary.",
+      evidence:
+        "Itemized from pages 45-67 of the NARA direct folder scan using the Daily News Summary cover, article mastheads, January 4 dates, OCR, and rendered-page review.",
+    },
+    {
+      slug: "press-clippings-of-interest-january-4-1993",
+      documentType: "Press Clippings of Interest Packet",
+      category: "press-clippings",
+      disposition: "itemized-press-clipping-packet",
+      title: "Office of the Press Secretary Press Clippings of Interest: January 4, 1993",
+      documentDate: "1993-01-04",
+      pages: 37,
+      excerpt:
+        "The Press Clippings of Interest packet compiles January 4 coverage on Clinton transition work, START II, Somalia, Bosnia, opinion columns, White House staff, and political commentary.",
+      evidence:
+        "Itemized from pages 68-104 of the NARA direct folder scan using the Office of the Press Secretary cover, newspaper mastheads, January 4 dates, OCR, and rendered-page review.",
+    },
+    {
+      slug: "lamar-alexander-america-2000-education-agenda-packet",
+      documentType: "Staff Memorandum and Education Essay Packet",
+      category: "education-policy-material",
+      disposition: "itemized-education-policy-material",
+      title: "Lamar Alexander America 2000 education agenda packet",
+      documentDate: "1992-12-29",
+      pages: 28,
+      excerpt:
+        "Ede Holiday forwards Secretary Lamar Alexander's education material, including the essay 'What We Were Doing When We Were Interrupted' on AMERICA 2000, national standards, school choice, and the Bush education agenda.",
+      evidence:
+        "Itemized from pages 105-132 of the NARA direct folder scan using the President's note to Rose Zamaria, Ede Holiday memorandum, Lamar Alexander essay title, page-numbered continuation pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "jim-baker-strom-thurmond-and-treasury-photo-op-notes",
+      documentType: "Presidential Handwriting and Staff Note Packet",
+      category: "presidential-handwriting",
+      disposition: "itemized-presidential-handwriting",
+      title: "Jim Baker-Strom Thurmond and Treasury photo-op notes",
+      documentDate: "1993-01-04",
+      pages: 2,
+      excerpt:
+        "Two Bush Library photocopy pages preserve presidential and staff notes about a Jim Baker call from Strom Thurmond and a photo opportunity for two Treasury officials.",
+      evidence:
+        "Itemized from pages 133-134 of the NARA direct folder scan using the Bush Library photocopy markings, JAB reminder, Treasury photo-op note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "coerte-felske-friendship-correspondence",
+      documentType: "Presidential Handwritten Reply and Incoming Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Coerte Felske friendship correspondence",
+      documentDate: "1993-01-04",
+      pages: 2,
+      excerpt:
+        "President Bush writes by hand to Coerte Felske about real friendship and being glad he was there, with Felske's December 21 letter attached.",
+      evidence:
+        "Itemized from pages 135-136 of the NARA direct folder scan using the presidential handwritten reply, Coerte Felske address block, incoming letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "griffin-bell-foundation-compensation-correspondence",
+      documentType: "Presidential Handwritten Reply and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Griffin Bell correspondence re foundation compensation and post-presidential life",
+      documentDate: "1993-01-04",
+      pages: 3,
+      excerpt:
+        "President Bush replies by hand to Griffin Bell about his advice on foundation compensation and post-presidential activities, with Bell's letter and board-compensation table attached.",
+      evidence:
+        "Itemized from pages 137-139 of the NARA direct folder scan using the handwritten presidential reply, Griffin B. Bell letterhead, foundation compensation attachment, OCR, and rendered-page review.",
+    },
+    {
+      slug: "david-fay-golf-balls-and-articles-packet",
+      documentType: "Presidential Note, Card, and Article Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "David Fay golf balls, Christmas card, and golf articles packet",
+      documentDate: "1993-01-04",
+      pages: 4,
+      excerpt:
+        "A White House routing page asks that six golf balls, a Christmas card, and golf articles be sent to David Fay, with President Bush's handwritten card note and two golf articles attached.",
+      evidence:
+        "Itemized from pages 140-143 of the NARA direct folder scan using the David Fay address page, presidential Christmas-card note, Dan Jenkins and Augusta/Olympic golf articles, OCR, and rendered-page review.",
+    },
+  ],
+  470418294: [
+    {
+      slug: "kim-poster-presidential-note",
+      documentType: "Presidential Handwritten Note",
+      category: "presidential-handwriting",
+      disposition: "itemized-presidential-handwriting",
+      title: "Presidential note to Kim re admired poster",
+      documentDate: "1993-01-11",
+      pages: 1,
+      excerpt:
+        "President Bush signs and sends a poster to Kim after she admired it, with a short handwritten note attached to the image.",
+      evidence:
+        "Itemized from page 2 of the NARA direct folder scan using the presidential handwritten note, poster image, OCR, and rendered-page review.",
+    },
+    {
+      slug: "international-looking-ahead-calendar-january-11-24-1993",
+      documentType: "International Events Calendar",
+      category: "briefing-material",
+      disposition: "itemized-briefing-material",
+      title: "Looking Ahead international events calendar: January 11-24, 1993",
+      documentDate: "1993-01-11",
+      pages: 1,
+      excerpt:
+        "A color Looking Ahead calendar tracks major international events, visits to the United States, and visits abroad for January 11-24.",
+      evidence:
+        "Itemized from page 3 of the NARA direct folder scan using the Looking Ahead heading, January 11-24 grid, international-event labels, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-news-summary-january-11-1993",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: 6:00 a.m. EST edition, January 11, 1993",
+      documentDate: "1993-01-11",
+      pages: 15,
+      excerpt:
+        "The News Summary covers Iraqi seizures in Kuwait, Somalia, Bosnia, Iran-Contra commentary, the RNC chairmanship fight, network news, and Sunday talk-show transcripts.",
+      evidence:
+        "Itemized from pages 4-18 of the NARA direct folder scan using the News Summary cover, A-section and B-section pages, talk-show headings, OCR, and rendered-page review.",
+    },
+    {
+      slug: "presidents-council-physical-fitness-sports-briefing",
+      documentType: "Meeting Briefing Packet",
+      category: "event-briefing",
+      disposition: "itemized-event-briefing",
+      title: "Meeting with President's Council on Physical Fitness and Sports briefing",
+      documentDate: "1993-01-11",
+      pages: 5,
+      excerpt:
+        "Ede Holiday's briefing packet sets the purpose, participants, seating chart, and talking points for President Bush's January 11 Roosevelt Room meeting with the President's Council on Physical Fitness and Sports.",
+      evidence:
+        "Itemized from pages 19-23 of the NARA direct folder scan using the meeting briefing heading, participant lists, seating chart, OCR, and rendered-page review.",
+    },
+    {
+      slug: "gregg-petersmeyer-points-of-light-ceremony-memo",
+      documentType: "Staff Memorandum",
+      category: "points-of-light-material",
+      disposition: "itemized-points-of-light-material",
+      title: "Gregg Petersmeyer memorandum re January 14 Points of Light ceremony",
+      documentDate: "1993-01-07",
+      pages: 1,
+      excerpt:
+        "Gregg Petersmeyer reports that Daily Point of Light representatives from nearly every state have confirmed for the January 14 East Room ceremony.",
+      evidence:
+        "Itemized from page 24 of the NARA direct folder scan using the Gregg Petersmeyer memorandum heading, Point of Light Ceremony subject, handwritten presidential note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "military-outstanding-volunteer-service-medal-executive-order-packet",
+      documentType: "Executive Order Signature Packet",
+      category: "executive-order",
+      disposition: "itemized-executive-order",
+      title: "Executive order packet establishing the Military Outstanding Volunteer Service Medal",
+      documentDate: "1993-01-11",
+      pages: 2,
+      excerpt:
+        "Phillip Brady and Richard Darman forward the proposed executive order establishing the Military Outstanding Volunteer Service Medal for the President's signature.",
+      evidence:
+        "Itemized from pages 25-26 of the NARA direct folder scan using the signature memorandum, OMB memorandum, executive-order title, OCR, and rendered-page review.",
+    },
+    {
+      slug: "january-11-presidential-schedule-and-event-tabs",
+      documentType: "Presidential Schedule and Event Briefing Tabs",
+      category: "presidential-schedule",
+      disposition: "itemized-presidential-schedule",
+      title: "January 11 presidential schedule and event briefing tabs",
+      documentDate: "1993-01-11",
+      pages: 8,
+      excerpt:
+        "The schedule packet lists the January 11 presidential day and includes briefing tabs for the physical fitness council meeting, Alixe Glen meeting, and Legislative Affairs departure photos.",
+      evidence:
+        "Itemized from pages 27-34 of the NARA direct folder scan using the Schedule of the President page, tab labels, event memoranda, participant lists, OCR, and rendered-page review.",
+    },
+    {
+      slug: "congressional-monitor-january-11-1993",
+      documentType: "Congressional Monitor",
+      category: "congressional-monitor",
+      disposition: "itemized-congressional-monitor",
+      title: "Congressional Monitor: January 11, 1993",
+      documentDate: "1993-01-11",
+      pages: 11,
+      excerpt:
+        "Congressional Monitor summarizes the last week in Congress, Senate and House committee assignments, future listings, House and Senate floor action, and congressional events.",
+      evidence:
+        "Itemized from pages 35-45 of the NARA direct folder scan using the Congressional Monitor masthead, committee listings, floor-action pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "materials-forwarded-president-january-11-1993",
+      documentType: "Materials Forwarded List",
+      category: "materials-forwarded-list",
+      disposition: "itemized-materials-forwarded-list",
+      title: "Materials Forwarded to the President: January 11, 1993",
+      documentDate: "1993-01-11",
+      pages: 1,
+      excerpt:
+        "The forwarding list inventories ambassador speeches, White House Office retirements, a Harmony Foundation report, an embassy visit request, and miscellaneous action items.",
+      evidence:
+        "Itemized from page 46 of the NARA direct folder scan using the Materials Forwarded to the President heading, January 11 date, action and memo entries, OCR, and rendered-page review.",
+    },
+    {
+      slug: "january-11-telephone-memoranda-and-presidential-movements",
+      documentType: "Telephone Memoranda and Presidential Movements Packet",
+      category: "presidential-daily-file-log",
+      disposition: "itemized-daily-file-log",
+      title: "White House telephone memoranda and presidential movements for January 11, 1993",
+      documentDate: "1993-01-11",
+      pages: 6,
+      excerpt:
+        "Telephone memorandum sheets, Signal Switchboard records, and a Presidential Movements sheet record President Bush's January 11 calls and movements in Washington.",
+      evidence:
+        "Itemized from pages 47-52 of the NARA direct folder scan using telephone memorandum sheets, Signal Switchboard page, Presidential Movements sheet, OCR, and rendered-page review.",
+    },
+    {
+      slug: "white-house-press-releases-january-11-1993",
+      documentType: "Press Release Packet",
+      category: "press-release",
+      disposition: "itemized-press-release",
+      title: "White House press releases and proclamations: January 11, 1993",
+      documentDate: "1993-01-11",
+      pages: 10,
+      excerpt:
+        "The press packet includes appointment announcements, transmittal letters, the Martin Luther King Jr. Federal Holiday proclamation, the Military Outstanding Volunteer Service Medal executive order, and Daily Point of Light releases.",
+      evidence:
+        "Itemized from pages 53-62 of the NARA direct folder scan using Office of the Press Secretary headings, January 11 dates, release titles, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-creamer-baseball-in-41-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robert W. Creamer Baseball in '41 correspondence packet",
+      documentDate: "1993-01-11",
+      pages: 3,
+      excerpt:
+        "President Bush thanks Robert W. Creamer for Babe, The Legend Comes to Life and for the Baseball in '41 inscription, with Creamer's letter and note attached.",
+      evidence:
+        "Itemized from pages 63-65 of the NARA direct folder scan using the presidential reply, Robert W. Creamer letterhead, handwritten note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "bill-cafer-kodak-photograph-correspondence",
+      documentType: "Presidential Reply, Business Card, and Incoming Letter Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Bill Cafer Kodak photograph correspondence packet",
+      documentDate: "1993-01-11",
+      pages: 5,
+      excerpt:
+        "President Bush replies to Bill Cafer of Eastman Kodak, with Cafer's business card and three-page handwritten letter about photographs and the Bush presidency attached.",
+      evidence:
+        "Itemized from pages 66-70 of the NARA direct folder scan using the presidential reply to Bill Cafer, Kodak business card, handwritten incoming letter pages, OCR, and rendered-page review.",
+    },
+    {
+      slug: "mikhail-gorbachev-holiday-start-ii-reply",
+      documentType: "Presidential Letter",
+      category: "diplomatic-correspondence",
+      disposition: "itemized-diplomatic-correspondence",
+      title: "Presidential reply to Mikhail Gorbachev re holiday wishes and START II",
+      documentDate: "1993-01-11",
+      pages: 1,
+      excerpt:
+        "President Bush thanks Mikhail Gorbachev for holiday wishes and reflects on the Moscow meeting with President Yeltsin and the START II treaty.",
+      evidence:
+        "Itemized from page 71 of the NARA direct folder scan using the White House letter, Mikhail and Raisa references, START II text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "foreign-leader-farewell-letter-packet-january-1993",
+      documentType: "Diplomatic Farewell Letter Packet",
+      category: "diplomatic-correspondence",
+      disposition: "itemized-diplomatic-correspondence",
+      title: "Foreign leader farewell letter packet: January 1993",
+      documentDate: "1993-01-13",
+      pages: 92,
+      excerpt:
+        "A large outgoing diplomatic letter packet carries President Bush's farewell messages to presidents, prime ministers, monarchs, and other foreign leaders as he prepared to leave office.",
+      evidence:
+        "Itemized from pages 72-163 of the NARA direct folder scan using the repeated White House letter format, leader salutations and address blocks, January 13 dates, OCR, and rendered-page review.",
+    },
+  ],
+  470418295: [
+    {
+      slug: "orlando-recommendation-and-st-johns-service-notes",
+      documentType: "Presidential Note Packet",
+      category: "staff-routing-note",
+      disposition: "itemized-staff-routing-note",
+      title: "Orlando recommendation and St. John's church-service notes",
+      documentDate: "1993-01-11",
+      pages: 3,
+      excerpt:
+        "Staff notes ask about an Orlando letter of recommendation, John Harper's St. John's service proposal, and whether President Bush still wants an early morning church service on January 19.",
+      evidence:
+        "Itemized from pages 2-4 of the NARA direct folder scan using the From the President note pages, John Harper and St. John's references, December 11 phone-call note, OCR, and rendered-page review.",
+    },
+    {
+      slug: "robert-salvatore-mexico-chamber-speaking-invitation",
+      documentType: "Presidential Reply, Fax, and Incoming Letter Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Robert Salvatore Mexico American Chamber of Commerce speaking invitation packet",
+      documentDate: "1993-01-11",
+      pages: 3,
+      excerpt:
+        "President Bush declines Robert A. Salvatore's invitation to address the American Chamber of Commerce of Mexico, with Prescott Bush Jr.'s fax and Salvatore's incoming letter attached.",
+      evidence:
+        "Itemized from pages 5-7 of the NARA direct folder scan using the presidential reply, Prescott Bush Resources fax, Xerox Mexicana letterhead, Mexico chamber invitation text, OCR, and rendered-page review.",
+    },
+    {
+      slug: "karen-hosler-alan-friedman-lighthouse-print-correspondence",
+      documentType: "Presidential Reply and Gift Correspondence Packet",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Karen Hosler and Alan Friedman Thomas Point lighthouse print correspondence packet",
+      documentDate: "1993-01-11",
+      pages: 4,
+      excerpt:
+        "President Bush thanks Karen Hosler and Alan Friedman for a framed print of the Thomas Point lighthouse, with card, contact-record, and image/envelope material retained.",
+      evidence:
+        "Itemized from pages 8-11 of the NARA direct folder scan using the presidential reply, Karen Hosler and Alan Friedman address block, White House Correspondents' Association reference, contact record, and rendered-page review.",
+    },
+    {
+      slug: "ray-hunt-murphys-law-calendar-correspondence",
+      documentType: "Presidential Reply and Incoming Correspondence",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Ray L. Hunt Murphy's Law calendar correspondence",
+      documentDate: "1993-01-11",
+      pages: 3,
+      excerpt:
+        "President Bush replies to Ray Hunt about friendship and gratitude after Hunt sends a Murphy's Law calendar for 1993.",
+      evidence:
+        "Itemized from pages 12-14 of the NARA direct folder scan using the Ray L. Hunt address page, presidential handwritten reply, incoming Hunt letter, OCR, and rendered-page review.",
+    },
+    {
+      slug: "rnc-daily-news-summary-january-11-1993",
+      documentType: "Daily News Summary",
+      category: "daily-news-summary",
+      disposition: "itemized-daily-news-summary",
+      title: "Republican National Committee Daily News Summary: Monday, January 11, 1993",
+      documentDate: "1993-01-11",
+      pages: 41,
+      excerpt:
+        "The RNC Daily News Summary compiles January 11 coverage on President Bush's remaining days, the Clinton transition, Republican leadership, Walsh and Iran-Contra, congressional committee fights, Perot, commentary, and Wall Street Journal news.",
+      evidence:
+        "Itemized from pages 15-55 of the NARA direct folder scan using the Daily News Summary cover, Washington Post, New York Times, Washington Times, Wall Street Journal, and other clipping pages, OCR, and rendered-page review.",
+    },
+  ],
+  646482531: [
+    {
+      slug: "lady-bird-johnson-presidential-library-transition-letter",
+      documentType: "Incoming Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Lady Bird Johnson letter re presidential libraries and leaving the White House",
+      documentDate: "1993-01-07",
+      pages: 1,
+      excerpt:
+        "Lady Bird Johnson recalls George Bush's presence at Andrew's after Lyndon Johnson left office and offers to help with information about presidential libraries.",
+      evidence:
+        "Itemized from page 1 of the NARA direct folder scan using Lady Bird Johnson's January 7 letter, presidential library discussion, OCR, and rendered-page review.",
+    },
+  ],
+  646482533: [
+    {
+      slug: "richard-nixon-handwritten-congratulations-trip-somalia-note",
+      documentType: "Incoming Handwritten Letter",
+      category: "presidential-correspondence",
+      disposition: "itemized-presidential-correspondence",
+      title: "Richard Nixon handwritten note congratulating Bush on his trip and Somalia decision",
+      documentDate: "1993-01-08",
+      pages: 1,
+      excerpt:
+        "Former President Richard Nixon writes by hand to President Bush, congratulating him on the successful trip and praising his decision to send forces to Somalia.",
+      evidence:
+        "Itemized from page 1 of the NARA direct folder scan using the Bush Library photocopy, Richard Nixon letterhead, January 8 handwritten date, and rendered-page review.",
+    },
+  ],
   470418300: [
+    {
+      slug: "white-house-news-summary-january-14-1993",
+      documentType: "White House News Summary",
+      category: "white-house-news-summary",
+      disposition: "itemized-white-house-news-summary",
+      title: "White House News Summary: January 14, 1993",
+      documentDate: "1993-01-14",
+      pages: 19,
+      excerpt:
+        "The News Summary covers the allied air strike on Iraq, October Surprise findings, trade talks, Bosnia, Bush's final economic report, Barbara Bush, and network-news coverage.",
+      evidence:
+        "Itemized from pages 2-20 of the NARA direct folder scan using the News Summary cover, International/National/Network News sections, page headings, OCR, and rendered-page review.",
+    },
     {
       slug: "jake-kamin-houston-dinner-message",
       documentType: "Correspondence and Note Packet",
@@ -40728,24 +41355,24 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-presidential-correspondence",
       title: "Jake Kamin dinner message correspondence and presidential note",
       documentDate: "1993-01-14",
-      pages: 3,
+      pages: 4,
       excerpt:
-        "A White House letter honors Jake Kamin for his Houston civic contributions, with the Sugar Creek National Bank request and a Bush Library photocopy of the President's handwritten proposed message.",
+        "A White House letter honors Jake Kamin for his Houston civic contributions, with the Sugar Creek National Bank request, the President's handwritten proposed message, and routing material attached.",
       evidence:
-        "Itemized from White House letter, request letter, and Bush handwriting pages found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from pages 21-24 of the NARA direct folder scan using the White House letter, Sugar Creek National Bank request, Bush handwriting page, routing memorandum, OCR, and rendered-page review.",
     },
     {
       slug: "points-of-light-celebration-briefing",
-      documentType: "Staffing Memorandum and Briefing",
+      documentType: "Staffing Memorandum",
       category: "points-of-light-material",
       disposition: "itemized-points-of-light-material",
       title: "Staffing memorandum and Jennifer Grossman briefing re Points of Light Celebration",
       documentDate: "1993-01-12",
-      pages: 2,
+      pages: 1,
       excerpt:
         "A Staff Secretary routing memorandum forwards Jennifer Grossman's briefing for the President on the January 14 Points of Light Celebration.",
       evidence:
-        "Itemized from Staff Secretary routing and Jennifer Grossman memorandum headings found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from page 25 of the NARA direct folder scan using the Staff Secretary routing memorandum, Jennifer Grossman briefing reference, OCR, and rendered-page review.",
     },
     {
       slug: "points-of-light-celebration-remarks-draft",
@@ -40758,7 +41385,20 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       excerpt:
         "Draft One of the President's remarks for the Points of Light Celebration lays out a closing tribute to service and volunteerism.",
       evidence:
-        "Itemized from the Draft One remarks heading and continuation pages found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from pages 26-30 of the NARA direct folder scan using the Draft One remarks heading, continuation pages, page numbers, OCR, and rendered-page review.",
+    },
+    {
+      slug: "administration-of-president-george-bush-transition-cover",
+      documentType: "Transition Cover Page",
+      category: "transition-material",
+      disposition: "itemized-transition-material",
+      title: "The Administration of President George Bush transition cover page",
+      documentDate: "1993-01-14",
+      pages: 1,
+      excerpt:
+        "A standalone cover page titles the Administration of President George Bush, January 20, 1989-January 20, 1993.",
+      evidence:
+        "Itemized from page 31 of the NARA direct folder scan using the transition-cover title, presidential term dates, OCR, and rendered-page review.",
     },
     {
       slug: "louise-mead-walker-correspondence",
@@ -40832,11 +41472,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-presidential-correspondence",
       title: "Frederick E. Cooper correspondence re January 4 letter and loyal support",
       documentDate: "1993-01-14",
-      pages: 2,
+      pages: 4,
       excerpt:
-        "The President thanks Frederick E. Cooper for his January 4 letter and loyal support, with Cooper's incoming letter attached.",
+        "The President thanks Frederick E. Cooper for his January 4 letter and loyal support, with Cooper's multi-page incoming letter attached.",
       evidence:
-        "Itemized from presidential letter and attached Frederick E. Cooper incoming page found in full-PDF OCR of the NARA direct folder scan.",
+        "Itemized from pages 47-50 of the NARA direct folder scan using the presidential reply, Frederick E. Cooper letterhead, incoming handwritten pages, OCR, and rendered-page review.",
     },
     {
       slug: "donald-hall-arts-humanities-correspondence",
@@ -41001,11 +41641,11 @@ const DIRECT_SCAN_SUPPLEMENTAL_ITEMS = {
       disposition: "itemized-presidential-correspondence",
       title: "Mrs. Charles H. Price III correspondence",
       documentDate: "",
-      pages: 2,
+      pages: 3,
       excerpt:
-        "A correspondence packet addressed to Mrs. Charles H. Price III is filed with an attached low-confidence note or incoming page.",
+        "A correspondence packet addressed to Mrs. Charles H. Price III is filed with attached low-confidence incoming note pages.",
       evidence:
-        "Itemized from address page and attached low-confidence OCR page found in the NARA direct folder scan.",
+        "Itemized from pages 88-90 of the NARA direct folder scan using the presidential reply/address page, attached handwritten incoming pages, OCR, and rendered-page review.",
     },
     {
       slug: "mee-lee-north-china-restaurant-correspondence",
@@ -41165,6 +41805,15 @@ const DIRECT_SCAN_FULL_MANUAL_ITEMIZATION_NAIDS = new Set([
   "470418243",
   "470418248",
   "470418251",
+  "470418271",
+  "646482527",
+  "646482529",
+  "470418282",
+  "470418294",
+  "470418295",
+  "646482533",
+  "646482531",
+  "470418300",
   "646482525",
   "646482521",
   "646482523",
