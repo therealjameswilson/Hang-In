@@ -24,13 +24,16 @@ URL, and citation. Records have an evidence status:
 
 - `redaction-sheet-listed`: a numbered document row parsed from a NARA
   withdrawal/redaction sheet.
-- `direct-folder-scan`: source material appears directly in the folder OCR, but
-  no numbered withdrawal/redaction-sheet rows were parsed. These records keep
-  the material visible and citable, but they still need page-by-page itemization
-  before the project can claim exhaustive document-by-document coverage.
+- `direct-folder-scan`: parent packet/source records for folders whose OCR did
+  not yield numbered withdrawal/redaction-sheet rows. These parents remain in
+  the data so the underlying scan stays visible and auditable.
 - `direct-scan-itemized`: a high-confidence child record itemized from direct
   folder-scan OCR markers, cover-memo attachment lists, or full-PDF OCR checks.
   The parent packet remains in the data so residual pages can still be audited.
+
+As of the current audit, all 127 direct packet scans that require itemization
+have page-backed `direct-scan-itemized` child records, and no folders in the
+document index are unrepresented.
 
 ## Update The Daily File Index
 
@@ -54,9 +57,13 @@ rows, adds direct-scan representative records for folders with OCR but no
 numbered rows, and writes `assets/data/seen-documents.js`. Catalog responses are
 cached under `.cache/catalog-records/`, which is ignored by Git.
 
-The parser is intentionally conservative. This is evidence of strong
-folder-level coverage and partial document-level coverage, not a final claim
-that every scanned page has been itemized.
+The parser is intentionally conservative. After rebuilding the document index,
+rerun the coverage audit and check that `foldersStillUnrepresented` remains `0`
+and `directItemizedFolderCount` matches `directPacketScanCount`.
+
+Note: the public Bush Library Digital Research Room search can drift or omit
+records in a fresh folder-index rebuild. Treat large `daily-files.js` count
+changes as a review item before publishing them.
 
 ## Update The Coverage Audit
 
